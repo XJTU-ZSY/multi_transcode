@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="HNTV1" epg_code="HNTV1" date="2019-06-18">
+<event id="1135251054">
+<start_time>00:38</start_time>
+<end_time>01:36</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1135251057">
+<start_time>01:36</start_time>
+<end_time>01:47</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135251060">
+<start_time>01:47</start_time>
+<end_time>02:29</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1135251063">
+<start_time>02:29</start_time>
+<end_time>03:18</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1135251066">
+<start_time>03:18</start_time>
+<end_time>03:58</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1135251069">
+<start_time>03:58</start_time>
+<end_time>04:45</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1135251072">
+<start_time>04:45</start_time>
+<end_time>04:56</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135251075">
+<start_time>04:56</start_time>
+<end_time>05:46</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1135251078">
+<start_time>05:46</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135251081">
+<start_time>06:00</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[新闻60分]]></title>
+</event>
+<event id="1135251084">
+<start_time>07:00</start_time>
+<end_time>07:06</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135251087">
+<start_time>07:06</start_time>
+<end_time>07:38</end_time>
+<title><![CDATA[闻达天下]]></title>
+</event>
+<event id="1135251090">
+<start_time>07:38</start_time>
+<end_time>08:06</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1135251093">
+<start_time>08:06</start_time>
+<end_time>08:58</end_time>
+<title><![CDATA[梨园春天天看]]></title>
+</event>
+<event id="1135203435">
+<start_time>08:58</start_time>
+<end_time>10:05</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(22)]]></title>
+</event>
+<event id="1135239018">
+<start_time>10:05</start_time>
+<end_time>11:09</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(23)]]></title>
+</event>
+<event id="1135243149">
+<start_time>11:09</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(24)]]></title>
+</event>
+<event id="1135248984">
+<start_time>12:05</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[午间天气预报]]></title>
+</event>
+<event id="1135249782">
+<start_time>12:14</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[阳光剧场:反恐特战队之猎影(44)]]></title>
+</event>
+<event id="1135250703">
+<start_time>13:04</start_time>
+<end_time>13:56</end_time>
+<title><![CDATA[阳光剧场:反恐特战队之猎影(45)]]></title>
+</event>
+<event id="1135261578">
+<start_time>13:56</start_time>
+<end_time>14:42</end_time>
+<title><![CDATA[阳光剧场:反恐特战队之猎影(46)]]></title>
+</event>
+<event id="1135261581">
+<start_time>14:42</start_time>
+<end_time>15:37</end_time>
+<title><![CDATA[阳光剧场:反恐特战队之猎影(47)]]></title>
+</event>
+<event id="1134975357">
+<start_time>15:37</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[阳光剧场:反恐特战队之猎影(48)]]></title>
+</event>
+<event id="1134975360">
+<start_time>16:33</start_time>
+<end_time>17:19</end_time>
+<title><![CDATA[阳光剧场:反恐特战队之猎影(49)]]></title>
+</event>
+<event id="1132846467">
+<start_time>17:19</start_time>
+<end_time>17:22</end_time>
+<title><![CDATA[卡咖主播秀]]></title>
+</event>
+<event id="1134476007">
+<start_time>17:22</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[动画片剧场:猪猪侠]]></title>
+</event>
+<event id="1132846473">
+<start_time>17:55</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[聚焦中原]]></title>
+</event>
+<event id="1132846476">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1132846479">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1132846482">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1132846485">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134975363">
+<start_time>19:35</start_time>
+<end_time>20:26</end_time>
+<title><![CDATA[星光剧场:爱国者(35)]]></title>
+</event>
+<event id="1134975366">
+<start_time>20:26</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[星光剧场:爱国者(36)]]></title>
+</event>
+<event id="1135218561">
+<start_time>21:15</start_time>
+<end_time>22:12</end_time>
+<title><![CDATA[童声咏经典(1)]]></title>
+</event>
+<event id="1135203453">
+<start_time>22:12</start_time>
+<end_time>22:20</end_time>
+<title><![CDATA[作品展播]]></title>
+</event>
+<event id="1135203456">
+<start_time>22:20</start_time>
+<end_time>23:11</end_time>
+<title><![CDATA[剧说你要来:保家联盟(12)]]></title>
+</event>
+<event id="1135203459">
+<start_time>23:11</start_time>
+<end_time>23:53</end_time>
+<title><![CDATA[月光剧场:战地枪王(37)]]></title>
+</event>
+<event id="1135203462">
+<start_time>23:53</start_time>
+<end_time>00:34</end_time>
+<title><![CDATA[月光剧场:战地枪王(38)]]></title>
+</event>
+</schedule>
+<schedule channel_id="HNTV1" epg_code="HNTV1" date="2019-06-19">
+<event id="1133106921">
+<start_time>00:34</start_time>
+<end_time>01:48</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1133106924">
+<start_time>01:48</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1133106927">
+<start_time>02:30</start_time>
+<end_time>03:17</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1133106930">
+<start_time>03:17</start_time>
+<end_time>03:57</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1133106933">
+<start_time>03:57</start_time>
+<end_time>04:56</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1133106936">
+<start_time>04:56</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1133106939">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133106942">
+<start_time>06:30</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[新闻60分]]></title>
+</event>
+<event id="1133106945">
+<start_time>07:33</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1133106948">
+<start_time>07:59</start_time>
+<end_time>08:57</end_time>
+<title><![CDATA[梨园春天天看]]></title>
+</event>
+<event id="1135261674">
+<start_time>08:57</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(25)]]></title>
+</event>
+<event id="1135261677">
+<start_time>09:35</start_time>
+<end_time>10:31</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(26)]]></title>
+</event>
+<event id="1135261680">
+<start_time>10:31</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(27)]]></title>
+</event>
+<event id="1135261683">
+<start_time>11:15</start_time>
+<end_time>12:04</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(28)]]></title>
+</event>
+<event id="1133106963">
+<start_time>12:04</start_time>
+<end_time>12:12</end_time>
+<title><![CDATA[午间天气预报]]></title>
+</event>
+<event id="1133106966">
+<start_time>12:12</start_time>
+<end_time>13:02</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133106969">
+<start_time>13:02</start_time>
+<end_time>13:54</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133106972">
+<start_time>13:54</start_time>
+<end_time>14:39</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133106975">
+<start_time>14:39</start_time>
+<end_time>15:37</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133106978">
+<start_time>15:37</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133106981">
+<start_time>16:33</start_time>
+<end_time>17:19</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133106984">
+<start_time>17:19</start_time>
+<end_time>17:22</end_time>
+<title><![CDATA[卡咖主播秀]]></title>
+</event>
+<event id="1134476010">
+<start_time>17:22</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[动画片剧场:猪猪侠]]></title>
+</event>
+<event id="1133106990">
+<start_time>17:55</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[聚焦中原]]></title>
+</event>
+<event id="1133106993">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1133106996">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1133106999">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1133107002">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134975372">
+<start_time>19:34</start_time>
+<end_time>20:26</end_time>
+<title><![CDATA[星光剧场:爱国者(37)]]></title>
+</event>
+<event id="1134975375">
+<start_time>20:26</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[星光剧场:爱国者(38)]]></title>
+</event>
+<event id="1133107011">
+<start_time>21:15</start_time>
+<end_time>22:52</end_time>
+<title><![CDATA[武林笼中对]]></title>
+</event>
+<event id="1135261686">
+<start_time>22:52</start_time>
+<end_time>23:38</end_time>
+<title><![CDATA[月光剧场:战地枪王(39)]]></title>
+</event>
+<event id="1135261689">
+<start_time>23:38</start_time>
+<end_time>00:39</end_time>
+<title><![CDATA[月光剧场:战地枪王(40)]]></title>
+</event>
+</schedule>
+<schedule channel_id="HNTV1" epg_code="HNTV1" date="2019-06-20">
+<event id="1133341725">
+<start_time>00:39</start_time>
+<end_time>01:51</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1133341728">
+<start_time>01:51</start_time>
+<end_time>02:31</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1133341731">
+<start_time>02:31</start_time>
+<end_time>03:18</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1133341734">
+<start_time>03:18</start_time>
+<end_time>03:58</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1133341737">
+<start_time>03:58</start_time>
+<end_time>04:56</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1133341740">
+<start_time>04:56</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1133341743">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133341746">
+<start_time>06:30</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[新闻60分]]></title>
+</event>
+<event id="1133341749">
+<start_time>07:33</start_time>
+<end_time>08:57</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1135261692">
+<start_time>08:57</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(29)]]></title>
+</event>
+<event id="1135261695">
+<start_time>09:35</start_time>
+<end_time>10:31</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(30)]]></title>
+</event>
+<event id="1135261698">
+<start_time>10:31</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(31)]]></title>
+</event>
+<event id="1135261701">
+<start_time>11:15</start_time>
+<end_time>12:04</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(32)]]></title>
+</event>
+<event id="1133341764">
+<start_time>12:04</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[午间天气预报]]></title>
+</event>
+<event id="1133341767">
+<start_time>12:10</start_time>
+<end_time>13:03</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133341770">
+<start_time>13:03</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133341773">
+<start_time>14:00</start_time>
+<end_time>14:52</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133341776">
+<start_time>14:52</start_time>
+<end_time>15:57</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133341779">
+<start_time>15:57</start_time>
+<end_time>16:39</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133341782">
+<start_time>16:39</start_time>
+<end_time>17:21</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133341785">
+<start_time>17:21</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[创业启示录]]></title>
+</event>
+<event id="1133341788">
+<start_time>17:55</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[聚焦中原]]></title>
+</event>
+<event id="1133341791">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1133341794">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1133341797">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1133341800">
+<start_time>19:00</start_time>
+<end_time>19:37</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134975384">
+<start_time>19:37</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[星光剧场:爱国者(39)]]></title>
+</event>
+<event id="1134975387">
+<start_time>20:27</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[星光剧场:爱国者(40)]]></title>
+</event>
+<event id="1133341809">
+<start_time>21:15</start_time>
+<end_time>22:17</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1135261704">
+<start_time>22:17</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[月光剧场]]></title>
+</event>
+<event id="1134975393">
+<start_time>23:02</start_time>
+<end_time>23:44</end_time>
+<title><![CDATA[月光剧场]]></title>
+</event>
+<event id="1134975396">
+<start_time>23:44</start_time>
+<end_time>00:34</end_time>
+<title><![CDATA[月光剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="HNTV1" epg_code="HNTV1" date="2019-06-21">
+<event id="1133628033">
+<start_time>00:34</start_time>
+<end_time>01:48</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1133628036">
+<start_time>01:48</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1133628039">
+<start_time>02:30</start_time>
+<end_time>03:17</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1133628042">
+<start_time>03:17</start_time>
+<end_time>03:57</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1133628045">
+<start_time>03:57</start_time>
+<end_time>04:56</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1133628048">
+<start_time>04:56</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1133628051">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133628054">
+<start_time>06:30</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[新闻60分]]></title>
+</event>
+<event id="1133628057">
+<start_time>07:33</start_time>
+<end_time>07:58</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1133628060">
+<start_time>07:58</start_time>
+<end_time>08:57</end_time>
+<title><![CDATA[梨园春天天看]]></title>
+</event>
+<event id="1135261707">
+<start_time>08:57</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(33)]]></title>
+</event>
+<event id="1135261710">
+<start_time>09:35</start_time>
+<end_time>10:31</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(34)]]></title>
+</event>
+<event id="1135261713">
+<start_time>10:31</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(35)]]></title>
+</event>
+<event id="1135261716">
+<start_time>11:15</start_time>
+<end_time>12:04</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(36)]]></title>
+</event>
+<event id="1133628075">
+<start_time>12:04</start_time>
+<end_time>12:12</end_time>
+<title><![CDATA[午间天气预报]]></title>
+</event>
+<event id="1133628078">
+<start_time>12:12</start_time>
+<end_time>13:05</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133628081">
+<start_time>13:05</start_time>
+<end_time>13:52</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133628084">
+<start_time>13:52</start_time>
+<end_time>14:35</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133628087">
+<start_time>14:35</start_time>
+<end_time>15:35</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133628090">
+<start_time>15:35</start_time>
+<end_time>16:29</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133628093">
+<start_time>16:29</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134476013">
+<start_time>17:15</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[动画片剧场:猪猪侠]]></title>
+</event>
+<event id="1133628099">
+<start_time>17:55</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[聚焦中原]]></title>
+</event>
+<event id="1133628102">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1133628105">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1133628108">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1133628111">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134975399">
+<start_time>19:34</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[星光剧场:爱国者(41)]]></title>
+</event>
+<event id="1134975402">
+<start_time>20:27</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[星光剧场:爱国者(42)]]></title>
+</event>
+<event id="1133628120">
+<start_time>21:15</start_time>
+<end_time>22:07</end_time>
+<title><![CDATA[老家的味道5]]></title>
+</event>
+<event id="1133628123">
+<start_time>22:07</start_time>
+<end_time>23:29</end_time>
+<title><![CDATA[武林笼中对]]></title>
+</event>
+<event id="1133960685">
+<start_time>23:29</start_time>
+<end_time>00:25</end_time>
+<title><![CDATA[月光剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="HNTV1" epg_code="HNTV1" date="2019-06-22">
+<event id="1133904207">
+<start_time>00:25</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1133904210">
+<start_time>01:40</start_time>
+<end_time>02:22</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1133904213">
+<start_time>02:22</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1133904216">
+<start_time>03:15</start_time>
+<end_time>03:57</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1133904219">
+<start_time>03:57</start_time>
+<end_time>04:56</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1133904222">
+<start_time>04:56</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1133904225">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133904228">
+<start_time>06:30</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[新闻60分]]></title>
+</event>
+<event id="1133904231">
+<start_time>07:33</start_time>
+<end_time>07:58</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1133904234">
+<start_time>07:58</start_time>
+<end_time>08:57</end_time>
+<title><![CDATA[梨园春天天看]]></title>
+</event>
+<event id="1135261719">
+<start_time>08:57</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(37)]]></title>
+</event>
+<event id="1135261722">
+<start_time>09:35</start_time>
+<end_time>10:31</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(38)]]></title>
+</event>
+<event id="1135261725">
+<start_time>10:31</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(39)]]></title>
+</event>
+<event id="1135261728">
+<start_time>11:15</start_time>
+<end_time>12:04</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(40)]]></title>
+</event>
+<event id="1133904249">
+<start_time>12:04</start_time>
+<end_time>12:12</end_time>
+<title><![CDATA[午间天气预报]]></title>
+</event>
+<event id="1133904252">
+<start_time>12:12</start_time>
+<end_time>13:05</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133904255">
+<start_time>13:05</start_time>
+<end_time>13:52</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133904258">
+<start_time>13:52</start_time>
+<end_time>14:35</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133904261">
+<start_time>14:35</start_time>
+<end_time>15:35</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133904264">
+<start_time>15:35</start_time>
+<end_time>16:29</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133904267">
+<start_time>16:29</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134476016">
+<start_time>17:15</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[动画片剧场:猪猪侠]]></title>
+</event>
+<event id="1133904273">
+<start_time>17:55</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[聚焦中原]]></title>
+</event>
+<event id="1133904276">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1133904279">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1133904282">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1133904285">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134975405">
+<start_time>19:35</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[星光剧场:爱国者(43)]]></title>
+</event>
+<event id="1134975408">
+<start_time>20:27</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[星光剧场:爱国者(44)]]></title>
+</event>
+<event id="1133904294">
+<start_time>21:15</start_time>
+<end_time>22:54</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1134227679">
+<start_time>22:54</start_time>
+<end_time>00:39</end_time>
+<title><![CDATA[重播:武林风]]></title>
+</event>
+</schedule>
+<schedule channel_id="HNTV1" epg_code="HNTV1" date="2019-06-23">
+<event id="1134175944">
+<start_time>00:39</start_time>
+<end_time>01:49</end_time>
+<title><![CDATA[武林风精编版]]></title>
+</event>
+<event id="1134175947">
+<start_time>01:49</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[华豫之门精编版]]></title>
+</event>
+<event id="1134175950">
+<start_time>02:40</start_time>
+<end_time>03:14</end_time>
+<title><![CDATA[梨园春精编版]]></title>
+</event>
+<event id="1134175953">
+<start_time>03:14</start_time>
+<end_time>03:43</end_time>
+<title><![CDATA[中国梦主题歌曲]]></title>
+</event>
+<event id="1134175956">
+<start_time>03:43</start_time>
+<end_time>04:36</end_time>
+<title><![CDATA[华豫之门精编版]]></title>
+</event>
+<event id="1134175959">
+<start_time>04:36</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[武林风精编版]]></title>
+</event>
+<event id="1134175962">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134175965">
+<start_time>06:30</start_time>
+<end_time>07:34</end_time>
+<title><![CDATA[新闻60分]]></title>
+</event>
+<event id="1134175968">
+<start_time>07:34</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1134175971">
+<start_time>08:04</start_time>
+<end_time>08:59</end_time>
+<title><![CDATA[梨园春天天看]]></title>
+</event>
+<event id="1134175974">
+<start_time>08:59</start_time>
+<end_time>09:49</end_time>
+<title><![CDATA[金色梦舞台]]></title>
+</event>
+<event id="1134175977">
+<start_time>09:49</start_time>
+<end_time>10:13</end_time>
+<title><![CDATA[中原国防]]></title>
+</event>
+<event id="1135261731">
+<start_time>10:13</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(41)]]></title>
+</event>
+<event id="1135261734">
+<start_time>11:10</start_time>
+<end_time>12:04</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(42)]]></title>
+</event>
+<event id="1134175986">
+<start_time>12:04</start_time>
+<end_time>12:12</end_time>
+<title><![CDATA[午间天气预报]]></title>
+</event>
+<event id="1134175989">
+<start_time>12:12</start_time>
+<end_time>13:05</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134175992">
+<start_time>13:05</start_time>
+<end_time>13:52</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134175995">
+<start_time>13:52</start_time>
+<end_time>14:35</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134175998">
+<start_time>14:35</start_time>
+<end_time>15:35</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134176001">
+<start_time>15:35</start_time>
+<end_time>16:29</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134176004">
+<start_time>16:29</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134476019">
+<start_time>17:15</start_time>
+<end_time>17:41</end_time>
+<title><![CDATA[动画片剧场:猪猪侠]]></title>
+</event>
+<event id="1134176010">
+<start_time>17:41</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[对话中原]]></title>
+</event>
+<event id="1134176013">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1134176016">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1134176019">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1134176022">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134176025">
+<start_time>19:33</start_time>
+<end_time>21:02</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1134975411">
+<start_time>21:02</start_time>
+<end_time>21:57</end_time>
+<title><![CDATA[星光剧场:爱国者(45)]]></title>
+</event>
+<event id="1134975414">
+<start_time>21:57</start_time>
+<end_time>22:50</end_time>
+<title><![CDATA[星光剧场:爱国者(46)]]></title>
+</event>
+<event id="1134176034">
+<start_time>22:50</start_time>
+<end_time>23:35</end_time>
+<title><![CDATA[月光剧场]]></title>
+</event>
+<event id="1134515496">
+<start_time>23:35</start_time>
+<end_time>00:37</end_time>
+<title><![CDATA[月光剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="HNTV1" epg_code="HNTV1" date="2019-06-24">
+<event id="1134476022">
+<start_time>00:37</start_time>
+<end_time>01:46</end_time>
+<title><![CDATA[武林风精编版]]></title>
+</event>
+<event id="1134476025">
+<start_time>01:46</start_time>
+<end_time>02:48</end_time>
+<title><![CDATA[华豫之门精编版]]></title>
+</event>
+<event id="1134476028">
+<start_time>02:48</start_time>
+<end_time>03:53</end_time>
+<title><![CDATA[梨园春精编版]]></title>
+</event>
+<event id="1134476031">
+<start_time>03:53</start_time>
+<end_time>04:55</end_time>
+<title><![CDATA[华豫之门精编版]]></title>
+</event>
+<event id="1134476034">
+<start_time>04:55</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[武林风精编版]]></title>
+</event>
+<event id="1134476037">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134476040">
+<start_time>06:30</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[新闻60分]]></title>
+</event>
+<event id="1134476043">
+<start_time>07:33</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1134476046">
+<start_time>08:00</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[梨园春天天看]]></title>
+</event>
+<event id="1134476049">
+<start_time>08:55</start_time>
+<end_time>09:18</end_time>
+<title><![CDATA[中原国防]]></title>
+</event>
+<event id="1135261737">
+<start_time>09:18</start_time>
+<end_time>10:07</end_time>
+<title><![CDATA[晨光剧场:雪地娘子军(43)]]></title>
+</event>
+<event id="1134476055">
+<start_time>10:07</start_time>
+<end_time>11:11</end_time>
+<title><![CDATA[晨光剧场]]></title>
+</event>
+<event id="1134476058">
+<start_time>11:11</start_time>
+<end_time>12:04</end_time>
+<title><![CDATA[晨光剧场]]></title>
+</event>
+<event id="1134476061">
+<start_time>12:04</start_time>
+<end_time>12:12</end_time>
+<title><![CDATA[午间天气预报]]></title>
+</event>
+<event id="1134476064">
+<start_time>12:12</start_time>
+<end_time>13:02</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134476067">
+<start_time>13:02</start_time>
+<end_time>13:54</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134476070">
+<start_time>13:54</start_time>
+<end_time>14:39</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134476073">
+<start_time>14:39</start_time>
+<end_time>15:37</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134476076">
+<start_time>15:37</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134476079">
+<start_time>16:33</start_time>
+<end_time>17:19</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134476082">
+<start_time>17:19</start_time>
+<end_time>17:22</end_time>
+<title><![CDATA[卡咖主播秀]]></title>
+</event>
+<event id="1134476085">
+<start_time>17:22</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[动画片剧场:猪猪侠]]></title>
+</event>
+<event id="1134476088">
+<start_time>17:55</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[聚焦中原]]></title>
+</event>
+<event id="1134476091">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1134476094">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1134476097">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1134476100">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134975417">
+<start_time>19:34</start_time>
+<end_time>20:26</end_time>
+<title><![CDATA[星光剧场:爱国者(47)]]></title>
+</event>
+<event id="1134975420">
+<start_time>20:26</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[星光剧场:爱国者(48)]]></title>
+</event>
+<event id="1134476109">
+<start_time>21:15</start_time>
+<end_time>22:08</end_time>
+<title><![CDATA[危机大调查]]></title>
+</event>
+<event id="1134476112">
+<start_time>22:08</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[剧说你要来]]></title>
+</event>
+<event id="1135093755">
+<start_time>23:02</start_time>
+<end_time>00:34</end_time>
+<title><![CDATA[月光剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="HNTV1" epg_code="HNTV1" date="2019-06-25">
+<event id="1135038879">
+<start_time>00:34</start_time>
+<end_time>01:48</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1135038882">
+<start_time>01:48</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1135038885">
+<start_time>02:30</start_time>
+<end_time>03:17</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1135038888">
+<start_time>03:17</start_time>
+<end_time>03:57</end_time>
+<title><![CDATA[华豫之门]]></title>
+</event>
+<event id="1135038891">
+<start_time>03:57</start_time>
+<end_time>04:56</end_time>
+<title><![CDATA[梨园春]]></title>
+</event>
+<event id="1135038894">
+<start_time>04:56</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[武林风]]></title>
+</event>
+<event id="1135038897">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1135038900">
+<start_time>06:30</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[新闻60分]]></title>
+</event>
+<event id="1135038903">
+<start_time>07:33</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1135038906">
+<start_time>07:59</start_time>
+<end_time>08:57</end_time>
+<title><![CDATA[梨园春天天看]]></title>
+</event>
+<event id="1135038909">
+<start_time>08:57</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[晨光剧场]]></title>
+</event>
+<event id="1135038912">
+<start_time>09:35</start_time>
+<end_time>10:31</end_time>
+<title><![CDATA[晨光剧场]]></title>
+</event>
+<event id="1135038915">
+<start_time>10:31</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[晨光剧场]]></title>
+</event>
+<event id="1135038918">
+<start_time>11:15</start_time>
+<end_time>12:04</end_time>
+<title><![CDATA[晨光剧场]]></title>
+</event>
+<event id="1135038921">
+<start_time>12:04</start_time>
+<end_time>12:12</end_time>
+<title><![CDATA[午间天气预报]]></title>
+</event>
+<event id="1135038924">
+<start_time>12:12</start_time>
+<end_time>13:02</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135038927">
+<start_time>13:02</start_time>
+<end_time>13:54</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135038930">
+<start_time>13:54</start_time>
+<end_time>14:39</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135038933">
+<start_time>14:39</start_time>
+<end_time>15:37</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135038936">
+<start_time>15:37</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135038939">
+<start_time>16:33</start_time>
+<end_time>17:19</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135038942">
+<start_time>17:19</start_time>
+<end_time>17:22</end_time>
+<title><![CDATA[卡咖主播秀]]></title>
+</event>
+<event id="1135038945">
+<start_time>17:22</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[动画片剧场:猪猪侠]]></title>
+</event>
+<event id="1135038948">
+<start_time>17:55</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[聚焦中原]]></title>
+</event>
+<event id="1135038951">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1135038954">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[河南新闻联播]]></title>
+</event>
+<event id="1135038957">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河南天气预报]]></title>
+</event>
+<event id="1135038960">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1135038963">
+<start_time>19:35</start_time>
+<end_time>20:26</end_time>
+<title><![CDATA[星光剧场:爱国者(49)]]></title>
+</event>
+<event id="1135038966">
+<start_time>20:26</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[星光剧场:爱国者(50)]]></title>
+</event>
+<event id="1135038969">
+<start_time>21:15</start_time>
+<end_time>22:07</end_time>
+<title><![CDATA[二宝来了]]></title>
+</event>
+<event id="1135038972">
+<start_time>22:07</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[剧说你要来]]></title>
+</event>
+<event id="1135038975">
+<start_time>23:02</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[月光剧场]]></title>
+</event>
+</schedule>
+</document>

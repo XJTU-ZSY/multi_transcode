@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV11" epg_code="CCTV11" date="2019-06-18">
+<event id="1133813235">
+<start_time>00:00</start_time>
+<end_time>00:49</end_time>
+<title><![CDATA[平凡岁月(精编版)15/43]]></title>
+</event>
+<event id="1134327669">
+<start_time>00:49</start_time>
+<end_time>01:57</end_time>
+<title><![CDATA[中国京剧像音像集萃-2019-18京剧《女起解》(主演刘子微)]]></title>
+</event>
+<event id="1134327672">
+<start_time>01:57</start_time>
+<end_time>06:06</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133813241">
+<start_time>06:06</start_time>
+<end_time>07:19</end_time>
+<title><![CDATA[九州大戏台-2018-30好戏连连看 越剧《三看御妹》选场二]]></title>
+</event>
+<event id="1133813244">
+<start_time>07:19</start_time>
+<end_time>07:58</end_time>
+<title><![CDATA[名段欣赏-2019-158王静《包公传奇》第37期]]></title>
+</event>
+<event id="1133813247">
+<start_time>07:58</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[跟我学-2019-44舒桐教唱京剧《李逵下山》选段5]]></title>
+</event>
+<event id="1135239693">
+<start_time>08:46</start_time>
+<end_time>11:25</end_time>
+<title><![CDATA[中国京剧像音像集萃-2018-53京剧《大英杰烈》(主演闫巍)]]></title>
+</event>
+<event id="1135239696">
+<start_time>11:25</start_time>
+<end_time>12:16</end_time>
+<title><![CDATA[姥姥的饺子馆第28集]]></title>
+</event>
+<event id="1134946929">
+<start_time>12:16</start_time>
+<end_time>13:06</end_time>
+<title><![CDATA[姥姥的饺子馆第29集]]></title>
+</event>
+<event id="1134946932">
+<start_time>13:06</start_time>
+<end_time>14:03</end_time>
+<title><![CDATA[姥姥的饺子馆第30集]]></title>
+</event>
+<event id="1133813262">
+<start_time>14:03</start_time>
+<end_time>15:07</end_time>
+<title><![CDATA[梨园闯关我挂帅-2019-23]]></title>
+</event>
+<event id="1133813265">
+<start_time>15:07</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[九州大戏台-2018-53黄梅戏《牛郎织女》选场]]></title>
+</event>
+<event id="1133813268">
+<start_time>15:45</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[九州大戏台-2019-5豫剧电影《姜子牙走淇河》]]></title>
+</event>
+<event id="1133813271">
+<start_time>17:52</start_time>
+<end_time>19:10</end_time>
+<title><![CDATA[过把瘾-2019-32国粹童声3]]></title>
+</event>
+<event id="1133813274">
+<start_time>19:10</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[戏曲采风-2019-169]]></title>
+</event>
+<event id="1133813277">
+<start_time>19:30</start_time>
+<end_time>20:34</end_time>
+<title><![CDATA[青春戏苑-2019-25戏韵江南1]]></title>
+</event>
+<event id="1133813280">
+<start_time>20:34</start_time>
+<end_time>21:47</end_time>
+<title><![CDATA[角儿来了-2019-26李小锋(4K)]]></title>
+</event>
+<event id="1133813283">
+<start_time>21:47</start_time>
+<end_time>22:35</end_time>
+<title><![CDATA[平凡岁月(精编版)16/43]]></title>
+</event>
+<event id="1133813286">
+<start_time>22:35</start_time>
+<end_time>23:24</end_time>
+<title><![CDATA[平凡岁月(精编版)17/43]]></title>
+</event>
+<event id="1133813289">
+<start_time>23:24</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[平凡岁月(精编版)18/43]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV11" epg_code="CCTV11" date="2019-06-19">
+<event id="1134946935">
+<start_time>00:12</start_time>
+<end_time>02:26</end_time>
+<title><![CDATA[CCTV空中剧院-2017-24 京剧《三气周瑜》(包飞主演)]]></title>
+</event>
+<event id="1134946938">
+<start_time>02:26</start_time>
+<end_time>06:06</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133813295">
+<start_time>06:06</start_time>
+<end_time>07:20</end_time>
+<title><![CDATA[九州大戏台-2017-43好戏连连看 越剧欣赏(一)]]></title>
+</event>
+<event id="1133813298">
+<start_time>07:20</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[名段欣赏-2019-159王静《包公传奇》第38期]]></title>
+</event>
+<event id="1133813301">
+<start_time>07:59</start_time>
+<end_time>08:47</end_time>
+<title><![CDATA[跟我学-2019-45王晶华教唱京剧《杨门女将》选段1]]></title>
+</event>
+<event id="1133813304">
+<start_time>08:47</start_time>
+<end_time>11:35</end_time>
+<title><![CDATA[CCTV空中剧院-2018-99 京剧《杨家将》]]></title>
+</event>
+<event id="1135246563">
+<start_time>11:35</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[姥姥的饺子馆第31集]]></title>
+</event>
+<event id="1135246566">
+<start_time>12:25</start_time>
+<end_time>13:16</end_time>
+<title><![CDATA[姥姥的饺子馆第32集]]></title>
+</event>
+<event id="1135246569">
+<start_time>13:16</start_time>
+<end_time>14:12</end_time>
+<title><![CDATA[姥姥的饺子馆第33集]]></title>
+</event>
+<event id="1133813316">
+<start_time>14:12</start_time>
+<end_time>15:17</end_time>
+<title><![CDATA[过把瘾-2019-32国粹童声3]]></title>
+</event>
+<event id="1133813319">
+<start_time>15:17</start_time>
+<end_time>17:42</end_time>
+<title><![CDATA[九州大戏台-2016-35豫剧《五世请缨》王惠主演]]></title>
+</event>
+<event id="1133813322">
+<start_time>17:42</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[一鸣惊人-2019-36梦想微剧场(二十一)]]></title>
+</event>
+<event id="1133813325">
+<start_time>19:00</start_time>
+<end_time>19:20</end_time>
+<title><![CDATA[戏曲采风-2019-170]]></title>
+</event>
+<event id="1133813328">
+<start_time>19:20</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[CCTV空中剧院-2019-81 德艺珪璋-京剧折子戏专场 访谈]]></title>
+</event>
+<event id="1133813331">
+<start_time>19:30</start_time>
+<end_time>21:47</end_time>
+<title><![CDATA[CCTV空中剧院-2019-81 德艺珪璋-京剧折子戏专场]]></title>
+</event>
+<event id="1133813334">
+<start_time>21:47</start_time>
+<end_time>22:35</end_time>
+<title><![CDATA[平凡岁月(精编版)19/43]]></title>
+</event>
+<event id="1133813337">
+<start_time>22:35</start_time>
+<end_time>23:24</end_time>
+<title><![CDATA[平凡岁月(精编版)20/43]]></title>
+</event>
+<event id="1133813340">
+<start_time>23:24</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[平凡岁月(精编版)21/43]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV11" epg_code="CCTV11" date="2019-06-20">
+<event id="1135246572">
+<start_time>00:12</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[中国京剧像音像集萃-2018-22京剧《李七长亭》(主演舒桐)]]></title>
+</event>
+<event id="1135246575">
+<start_time>01:19</start_time>
+<end_time>06:06</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133813346">
+<start_time>06:06</start_time>
+<end_time>07:08</end_time>
+<title><![CDATA[九州大戏台-2018-54好戏连连看 黄梅戏《女驸马》选场]]></title>
+</event>
+<event id="1133813349">
+<start_time>07:08</start_time>
+<end_time>07:34</end_time>
+<title><![CDATA[九州大戏台-2018-44豫剧《唐知县斩诰命》片断]]></title>
+</event>
+<event id="1133813352">
+<start_time>07:34</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[名段欣赏-2019-160王静《包公传奇》第39期]]></title>
+</event>
+<event id="1133813355">
+<start_time>08:13</start_time>
+<end_time>09:01</end_time>
+<title><![CDATA[跟我学-2019-46王晶华教唱京剧《杨门女将》选段2]]></title>
+</event>
+<event id="1133813358">
+<start_time>09:01</start_time>
+<end_time>11:38</end_time>
+<title><![CDATA[中国京剧像音像集萃-2019-16京剧《大保国 探皇陵 二进宫》(主演吕洋 杨乃彭 康万生)]]></title>
+</event>
+<event id="1133813361">
+<start_time>11:38</start_time>
+<end_time>12:28</end_time>
+<title><![CDATA[姥姥的饺子馆34/40]]></title>
+</event>
+<event id="1133813364">
+<start_time>12:28</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[姥姥的饺子馆35/40]]></title>
+</event>
+<event id="1133813367">
+<start_time>13:19</start_time>
+<end_time>14:15</end_time>
+<title><![CDATA[姥姥的饺子馆36/40]]></title>
+</event>
+<event id="1133813370">
+<start_time>14:15</start_time>
+<end_time>15:20</end_time>
+<title><![CDATA[一鸣惊人-2019-36梦想微剧场(二十一)]]></title>
+</event>
+<event id="1133813373">
+<start_time>15:20</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[CCTV空中剧院-2018-119 晋剧《于成龙》]]></title>
+</event>
+<event id="1133813376">
+<start_time>17:52</start_time>
+<end_time>19:10</end_time>
+<title><![CDATA[梨园闯关我挂帅-2019-24]]></title>
+</event>
+<event id="1133813379">
+<start_time>19:10</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[戏曲采风-2019-171]]></title>
+</event>
+<event id="1133813382">
+<start_time>19:30</start_time>
+<end_time>21:52</end_time>
+<title><![CDATA[中国京剧像音像集萃-2019-30评剧《孔雀东南飞》(主演王冠丽)]]></title>
+</event>
+<event id="1133813385">
+<start_time>21:52</start_time>
+<end_time>22:41</end_time>
+<title><![CDATA[平凡岁月(精编版)22/43]]></title>
+</event>
+<event id="1133813388">
+<start_time>22:41</start_time>
+<end_time>23:29</end_time>
+<title><![CDATA[平凡岁月(精编版)23/43]]></title>
+</event>
+<event id="1134044367">
+<start_time>23:29</start_time>
+<end_time>00:18</end_time>
+<title><![CDATA[平凡岁月(精编版)24/43]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV11" epg_code="CCTV11" date="2019-06-21">
+<event id="1134044370">
+<start_time>00:18</start_time>
+<end_time>06:06</end_time>
+<title><![CDATA[CCTV空中剧院-2018-122 京剧《天道行》]]></title>
+</event>
+<event id="1134044373">
+<start_time>06:06</start_time>
+<end_time>07:18</end_time>
+<title><![CDATA[九州大戏台-2019-18好戏连连看 越剧《穆桂英挂帅》选场一]]></title>
+</event>
+<event id="1134044376">
+<start_time>07:18</start_time>
+<end_time>07:57</end_time>
+<title><![CDATA[名段欣赏-2019-161王静《包公传奇》第40期]]></title>
+</event>
+<event id="1134044379">
+<start_time>07:57</start_time>
+<end_time>08:45</end_time>
+<title><![CDATA[跟我学-2019-47王晶华教唱京剧《杨门女将》选段3]]></title>
+</event>
+<event id="1134044382">
+<start_time>08:45</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[CCTV空中剧院-2018-117 京剧《霍小玉》]]></title>
+</event>
+<event id="1134044385">
+<start_time>11:20</start_time>
+<end_time>12:11</end_time>
+<title><![CDATA[姥姥的饺子馆37/40]]></title>
+</event>
+<event id="1134044388">
+<start_time>12:11</start_time>
+<end_time>13:01</end_time>
+<title><![CDATA[姥姥的饺子馆38/40]]></title>
+</event>
+<event id="1134044391">
+<start_time>13:01</start_time>
+<end_time>13:58</end_time>
+<title><![CDATA[姥姥的饺子馆39/40]]></title>
+</event>
+<event id="1134044394">
+<start_time>13:58</start_time>
+<end_time>15:02</end_time>
+<title><![CDATA[过把瘾-2019-32国粹童声3]]></title>
+</event>
+<event id="1134044397">
+<start_time>15:02</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[中国京剧像音像集萃-2018-54京剧《穆桂英挂帅》(主演董圆圆)]]></title>
+</event>
+<event id="1134044400">
+<start_time>17:52</start_time>
+<end_time>19:10</end_time>
+<title><![CDATA[青春戏苑-2019-1戏韵芬芳1]]></title>
+</event>
+<event id="1134044403">
+<start_time>19:10</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[戏曲采风-2019-172]]></title>
+</event>
+<event id="1134044406">
+<start_time>19:30</start_time>
+<end_time>20:40</end_time>
+<title><![CDATA[一鸣惊人-2019-37梦想微剧场(二十二)]]></title>
+</event>
+<event id="1134044409">
+<start_time>20:40</start_time>
+<end_time>21:56</end_time>
+<title><![CDATA[梨园闯关我挂帅-2019-26]]></title>
+</event>
+<event id="1134044412">
+<start_time>21:56</start_time>
+<end_time>22:44</end_time>
+<title><![CDATA[平凡岁月(精编版)25/43]]></title>
+</event>
+<event id="1134044415">
+<start_time>22:44</start_time>
+<end_time>23:33</end_time>
+<title><![CDATA[平凡岁月(精编版)26/43]]></title>
+</event>
+<event id="1134292629">
+<start_time>23:33</start_time>
+<end_time>00:21</end_time>
+<title><![CDATA[平凡岁月(精编版)27/43]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV11" epg_code="CCTV11" date="2019-06-22">
+<event id="1134292632">
+<start_time>00:21</start_time>
+<end_time>06:06</end_time>
+<title><![CDATA[中国京剧像音像集萃-2018-20京剧《琼林宴》(主演凌珂)]]></title>
+</event>
+<event id="1134292635">
+<start_time>06:06</start_time>
+<end_time>07:20</end_time>
+<title><![CDATA[九州大戏台-2019-19好戏连连看 越剧《穆桂英挂帅》选场二]]></title>
+</event>
+<event id="1134292638">
+<start_time>07:20</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[名段欣赏-2019-162王静《包公传奇》第41期]]></title>
+</event>
+<event id="1134292641">
+<start_time>07:59</start_time>
+<end_time>08:47</end_time>
+<title><![CDATA[跟我学-2019-48安平教唱京剧《铡美案》选段1]]></title>
+</event>
+<event id="1134292644">
+<start_time>08:47</start_time>
+<end_time>11:28</end_time>
+<title><![CDATA[中国京剧像音像集萃-2018-47评剧《杜十娘》(主演王冠丽)]]></title>
+</event>
+<event id="1134292647">
+<start_time>11:28</start_time>
+<end_time>12:18</end_time>
+<title><![CDATA[姥姥的饺子馆40/40]]></title>
+</event>
+<event id="1134292650">
+<start_time>12:18</start_time>
+<end_time>13:09</end_time>
+<title><![CDATA[平凡岁月1/43]]></title>
+</event>
+<event id="1134292653">
+<start_time>13:09</start_time>
+<end_time>14:05</end_time>
+<title><![CDATA[平凡岁月2/43]]></title>
+</event>
+<event id="1134292656">
+<start_time>14:05</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[青春戏苑-2019-1戏韵芬芳1]]></title>
+</event>
+<event id="1134292659">
+<start_time>15:10</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[九州大戏台-2018-13越剧欣赏]]></title>
+</event>
+<event id="1134292662">
+<start_time>15:25</start_time>
+<end_time>17:42</end_time>
+<title><![CDATA[九州大戏台-2019-16湖南花鼓戏《桃花烟雨》]]></title>
+</event>
+<event id="1134292665">
+<start_time>17:42</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[角儿来了-2019-26李小锋(4K)]]></title>
+</event>
+<event id="1134292668">
+<start_time>19:00</start_time>
+<end_time>19:20</end_time>
+<title><![CDATA[戏曲采风-2019-173]]></title>
+</event>
+<event id="1134292671">
+<start_time>19:20</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[CCTV空中剧院-2019-82 粤剧《兰陵王》访谈]]></title>
+</event>
+<event id="1134292674">
+<start_time>19:30</start_time>
+<end_time>22:02</end_time>
+<title><![CDATA[CCTV空中剧院-2019-82 粤剧《兰陵王》]]></title>
+</event>
+<event id="1134292677">
+<start_time>22:02</start_time>
+<end_time>22:50</end_time>
+<title><![CDATA[平凡岁月(精编版)28/43]]></title>
+</event>
+<event id="1134292680">
+<start_time>22:50</start_time>
+<end_time>23:39</end_time>
+<title><![CDATA[平凡岁月(精编版)29/43]]></title>
+</event>
+<event id="1134421098">
+<start_time>23:39</start_time>
+<end_time>00:27</end_time>
+<title><![CDATA[平凡岁月(精编版)30/43]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV11" epg_code="CCTV11" date="2019-06-23">
+<event id="1134421101">
+<start_time>00:27</start_time>
+<end_time>06:06</end_time>
+<title><![CDATA[中国京剧像音像集萃-2018-36京剧《霸王别姬》(主演赵秀君)]]></title>
+</event>
+<event id="1134421104">
+<start_time>06:06</start_time>
+<end_time>07:08</end_time>
+<title><![CDATA[九州大戏台-2019-20好戏连连看 豫剧电影《法海禅师》]]></title>
+</event>
+<event id="1134421107">
+<start_time>07:08</start_time>
+<end_time>07:26</end_time>
+<title><![CDATA[九州大戏台-2018-59黄梅戏 《女驸马》“为救李郎离家园”选段]]></title>
+</event>
+<event id="1134421110">
+<start_time>07:26</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[名段欣赏-2019-163王静《包公传奇》第42期]]></title>
+</event>
+<event id="1134421113">
+<start_time>08:05</start_time>
+<end_time>08:53</end_time>
+<title><![CDATA[跟我学-2019-49安平教唱京剧《铡美案》选段2]]></title>
+</event>
+<event id="1134421116">
+<start_time>08:53</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[CCTV空中剧院-2018-121 越剧《桃李梅》]]></title>
+</event>
+<event id="1134421119">
+<start_time>12:00</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[平凡岁月3/43]]></title>
+</event>
+<event id="1134421122">
+<start_time>12:51</start_time>
+<end_time>13:41</end_time>
+<title><![CDATA[平凡岁月4/43]]></title>
+</event>
+<event id="1134421125">
+<start_time>13:41</start_time>
+<end_time>14:38</end_time>
+<title><![CDATA[平凡岁月5/43]]></title>
+</event>
+<event id="1134421128">
+<start_time>14:38</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[梨园闯关我挂帅-2019-25]]></title>
+</event>
+<event id="1134421131">
+<start_time>15:42</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[中国京剧像音像集萃-2017-27京剧《斩经堂》(主演裴咏杰)]]></title>
+</event>
+<event id="1134421134">
+<start_time>17:52</start_time>
+<end_time>19:10</end_time>
+<title><![CDATA[一鸣惊人-2019-37梦想微剧场(二十二)]]></title>
+</event>
+<event id="1134421137">
+<start_time>19:10</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[戏曲采风-2019-174]]></title>
+</event>
+<event id="1134421140">
+<start_time>19:30</start_time>
+<end_time>20:34</end_time>
+<title><![CDATA[过把瘾-2019-33国粹童声4]]></title>
+</event>
+<event id="1134421143">
+<start_time>20:34</start_time>
+<end_time>21:49</end_time>
+<title><![CDATA[角儿来了-2019-27奚中路(4K)]]></title>
+</event>
+<event id="1134421146">
+<start_time>21:49</start_time>
+<end_time>22:38</end_time>
+<title><![CDATA[平凡岁月(精编版)31/43]]></title>
+</event>
+<event id="1134421149">
+<start_time>22:38</start_time>
+<end_time>23:26</end_time>
+<title><![CDATA[平凡岁月(精编版)32/43]]></title>
+</event>
+<event id="1134421152">
+<start_time>23:26</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[平凡岁月(精编版)33/43]]></title>
+</event>
+</schedule>
+</document>

@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="BTV1" epg_code="BTV1" date="2019-06-18">
+<event id="1135239153">
+<start_time>00:16</start_time>
+<end_time>01:24</end_time>
+<title><![CDATA[生命缘第八季]]></title>
+</event>
+<event id="1135239156">
+<start_time>01:24</start_time>
+<end_time>01:29</end_time>
+<title><![CDATA[晚间气象服务]]></title>
+</event>
+<event id="1135239159">
+<start_time>01:29</start_time>
+<end_time>02:18</end_time>
+<title><![CDATA[光阴-我爱书画]]></title>
+</event>
+<event id="1135239162">
+<start_time>02:18</start_time>
+<end_time>03:03</end_time>
+<title><![CDATA[好梦剧场:卧虎40]]></title>
+</event>
+<event id="1135239165">
+<start_time>03:03</start_time>
+<end_time>03:49</end_time>
+<title><![CDATA[好梦剧场:湄公河大案1]]></title>
+</event>
+<event id="1135239168">
+<start_time>03:49</start_time>
+<end_time>04:34</end_time>
+<title><![CDATA[好梦剧场:湄公河大案2]]></title>
+</event>
+<event id="1135239171">
+<start_time>04:34</start_time>
+<end_time>05:25</end_time>
+<title><![CDATA[好梦剧场:湄公河大案3]]></title>
+</event>
+<event id="1135239174">
+<start_time>05:25</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1135239177">
+<start_time>06:01</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1135239180">
+<start_time>06:20</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1132865121">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1135239183">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135239186">
+<start_time>07:01</start_time>
+<end_time>09:09</end_time>
+<title><![CDATA[北京您早]]></title>
+</event>
+<event id="1135203090">
+<start_time>09:09</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[北京评书大会]]></title>
+</event>
+<event id="1135237785">
+<start_time>09:27</start_time>
+<end_time>10:18</end_time>
+<title><![CDATA[上午剧场:情满四合院(26)]]></title>
+</event>
+<event id="1135238664">
+<start_time>10:18</start_time>
+<end_time>11:09</end_time>
+<title><![CDATA[上午剧场:情满四合院(27)]]></title>
+</event>
+<event id="1135238667">
+<start_time>11:09</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:情满四合院(28)]]></title>
+</event>
+<event id="1135249755">
+<start_time>12:00</start_time>
+<end_time>12:58</end_time>
+<title><![CDATA[特别关注]]></title>
+</event>
+<event id="1135249758">
+<start_time>12:58</start_time>
+<end_time>13:09</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1135250757">
+<start_time>13:09</start_time>
+<end_time>13:58</end_time>
+<title><![CDATA[午茶剧场:破冰行动(31)]]></title>
+</event>
+<event id="1135250760">
+<start_time>13:58</start_time>
+<end_time>14:48</end_time>
+<title><![CDATA[午茶剧场:破冰行动(32)]]></title>
+</event>
+<event id="1135203567">
+<start_time>14:48</start_time>
+<end_time>15:40</end_time>
+<title><![CDATA[午茶剧场:破冰行动(33)]]></title>
+</event>
+<event id="1135203570">
+<start_time>15:40</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[午茶剧场:破冰行动(34)]]></title>
+</event>
+<event id="1135203573">
+<start_time>16:30</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[暖暖的味道精华版]]></title>
+</event>
+<event id="1132865160">
+<start_time>17:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1132865163">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[北京新闻]]></title>
+</event>
+<event id="1132865166">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[北京天气预报]]></title>
+</event>
+<event id="1132865169">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播央视新闻联播]]></title>
+</event>
+<event id="1135203576">
+<start_time>19:32</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[品质剧场:破冰行动(35)]]></title>
+</event>
+<event id="1135203579">
+<start_time>20:24</start_time>
+<end_time>21:07</end_time>
+<title><![CDATA[品质剧场:破冰行动(36)]]></title>
+</event>
+<event id="1135203582">
+<start_time>21:07</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[大戏看北京:破冰行动]]></title>
+</event>
+<event id="1135203585">
+<start_time>21:12</start_time>
+<end_time>21:57</end_time>
+<title><![CDATA[档案]]></title>
+</event>
+<event id="1135203588">
+<start_time>21:57</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[为你喝彩]]></title>
+</event>
+<event id="1132865184">
+<start_time>22:30</start_time>
+<end_time>23:03</end_time>
+<title><![CDATA[首都晚间报道]]></title>
+</event>
+<event id="1135203591">
+<start_time>23:03</start_time>
+<end_time>23:51</end_time>
+<title><![CDATA[档案]]></title>
+</event>
+<event id="1135203594">
+<start_time>23:51</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[光阴]]></title>
+</event>
+</schedule>
+<schedule channel_id="BTV1" epg_code="BTV1" date="2019-06-19">
+<event id="1133126061">
+<start_time>00:15</start_time>
+<end_time>00:52</end_time>
+<title><![CDATA[光阴]]></title>
+</event>
+<event id="1133126064">
+<start_time>00:52</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[晚间气象服务]]></title>
+</event>
+<event id="1135239189">
+<start_time>00:58</start_time>
+<end_time>01:45</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(4)]]></title>
+</event>
+<event id="1135239192">
+<start_time>01:45</start_time>
+<end_time>02:29</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(5)]]></title>
+</event>
+<event id="1135239195">
+<start_time>02:29</start_time>
+<end_time>03:13</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(6)]]></title>
+</event>
+<event id="1135239198">
+<start_time>03:13</start_time>
+<end_time>04:04</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(7)]]></title>
+</event>
+<event id="1133126079">
+<start_time>04:04</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133126082">
+<start_time>05:30</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133126085">
+<start_time>06:01</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1133126088">
+<start_time>06:20</start_time>
+<end_time>06:54</end_time>
+<title><![CDATA[养生堂精编版]]></title>
+</event>
+<event id="1133126091">
+<start_time>06:54</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1133126094">
+<start_time>07:00</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[北京您早]]></title>
+</event>
+<event id="1133126097">
+<start_time>09:06</start_time>
+<end_time>09:25</end_time>
+<title><![CDATA[北京评书大会]]></title>
+</event>
+<event id="1133126100">
+<start_time>09:25</start_time>
+<end_time>10:20</end_time>
+<title><![CDATA[音乐大师课]]></title>
+</event>
+<event id="1135239201">
+<start_time>10:20</start_time>
+<end_time>11:11</end_time>
+<title><![CDATA[上午剧场:情满四合院(29)]]></title>
+</event>
+<event id="1135239204">
+<start_time>11:11</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:情满四合院(30)]]></title>
+</event>
+<event id="1133126109">
+<start_time>12:00</start_time>
+<end_time>12:58</end_time>
+<title><![CDATA[特别关注]]></title>
+</event>
+<event id="1133126112">
+<start_time>12:58</start_time>
+<end_time>13:06</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1135239207">
+<start_time>13:06</start_time>
+<end_time>13:57</end_time>
+<title><![CDATA[午茶剧场:破冰行动(35)]]></title>
+</event>
+<event id="1135239210">
+<start_time>13:57</start_time>
+<end_time>14:49</end_time>
+<title><![CDATA[午茶剧场:破冰行动(36)]]></title>
+</event>
+<event id="1135239213">
+<start_time>14:49</start_time>
+<end_time>15:43</end_time>
+<title><![CDATA[午茶剧场:破冰行动(37)]]></title>
+</event>
+<event id="1135239216">
+<start_time>15:43</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[午茶剧场:破冰行动(38)]]></title>
+</event>
+<event id="1133126127">
+<start_time>16:35</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[暖暖的味道精华版]]></title>
+</event>
+<event id="1133126130">
+<start_time>17:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133126133">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[北京新闻]]></title>
+</event>
+<event id="1133126136">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[北京天气预报]]></title>
+</event>
+<event id="1133126139">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播央视新闻联播]]></title>
+</event>
+<event id="1134194118">
+<start_time>19:33</start_time>
+<end_time>20:22</end_time>
+<title><![CDATA[品质剧场:破冰行动(37)]]></title>
+</event>
+<event id="1134194121">
+<start_time>20:22</start_time>
+<end_time>21:03</end_time>
+<title><![CDATA[品质剧场:破冰行动(38)]]></title>
+</event>
+<event id="1133126148">
+<start_time>21:03</start_time>
+<end_time>21:18</end_time>
+<title><![CDATA[大戏看北京]]></title>
+</event>
+<event id="1133126151">
+<start_time>21:18</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[向往的星居]]></title>
+</event>
+<event id="1133126154">
+<start_time>22:30</start_time>
+<end_time>23:03</end_time>
+<title><![CDATA[首都晚间报道]]></title>
+</event>
+<event id="1133384454">
+<start_time>23:03</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[向往的星居]]></title>
+</event>
+</schedule>
+<schedule channel_id="BTV1" epg_code="BTV1" date="2019-06-20">
+<event id="1133360877">
+<start_time>00:10</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[光阴]]></title>
+</event>
+<event id="1133360880">
+<start_time>01:00</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[晚间气象服务]]></title>
+</event>
+<event id="1135239219">
+<start_time>01:05</start_time>
+<end_time>01:48</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(8)]]></title>
+</event>
+<event id="1135239222">
+<start_time>01:48</start_time>
+<end_time>02:31</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(9)]]></title>
+</event>
+<event id="1135239225">
+<start_time>02:31</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(10)]]></title>
+</event>
+<event id="1135239228">
+<start_time>03:15</start_time>
+<end_time>03:50</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(11)]]></title>
+</event>
+<event id="1135239231">
+<start_time>03:50</start_time>
+<end_time>05:07</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(12)]]></title>
+</event>
+<event id="1133360898">
+<start_time>05:07</start_time>
+<end_time>05:42</end_time>
+<title><![CDATA[养生堂精编版]]></title>
+</event>
+<event id="1133360901">
+<start_time>05:42</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1133360904">
+<start_time>06:20</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[养生堂精编版]]></title>
+</event>
+<event id="1133360907">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1133360910">
+<start_time>07:00</start_time>
+<end_time>09:03</end_time>
+<title><![CDATA[北京您早]]></title>
+</event>
+<event id="1133360913">
+<start_time>09:03</start_time>
+<end_time>09:25</end_time>
+<title><![CDATA[北京评书大会]]></title>
+</event>
+<event id="1133360916">
+<start_time>09:25</start_time>
+<end_time>10:17</end_time>
+<title><![CDATA[音乐大师课精华版]]></title>
+</event>
+<event id="1135239234">
+<start_time>10:17</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[上午剧场:情满四合院(31)]]></title>
+</event>
+<event id="1135239237">
+<start_time>11:10</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:情满四合院(32)]]></title>
+</event>
+<event id="1133360925">
+<start_time>12:00</start_time>
+<end_time>12:58</end_time>
+<title><![CDATA[特别关注]]></title>
+</event>
+<event id="1133360928">
+<start_time>12:58</start_time>
+<end_time>13:06</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1135239240">
+<start_time>13:06</start_time>
+<end_time>13:57</end_time>
+<title><![CDATA[午茶剧场:破冰行动(39)]]></title>
+</event>
+<event id="1135239243">
+<start_time>13:57</start_time>
+<end_time>14:49</end_time>
+<title><![CDATA[午茶剧场:破冰行动(40)]]></title>
+</event>
+<event id="1135239246">
+<start_time>14:49</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[午茶剧场:破冰行动(41)]]></title>
+</event>
+<event id="1135239249">
+<start_time>15:42</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[午茶剧场:破冰行动(42)]]></title>
+</event>
+<event id="1133360943">
+<start_time>16:35</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[暖暖的味道精华版]]></title>
+</event>
+<event id="1133360946">
+<start_time>17:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133360949">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[北京新闻]]></title>
+</event>
+<event id="1133360952">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[北京天气预报]]></title>
+</event>
+<event id="1133360955">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播央视新闻联播]]></title>
+</event>
+<event id="1134194124">
+<start_time>19:33</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[品质剧场:破冰行动(39)]]></title>
+</event>
+<event id="1134194127">
+<start_time>20:24</start_time>
+<end_time>21:04</end_time>
+<title><![CDATA[品质剧场:破冰行动(40)]]></title>
+</event>
+<event id="1133360964">
+<start_time>21:04</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[大戏看北京]]></title>
+</event>
+<event id="1133360967">
+<start_time>21:20</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[我是大医生]]></title>
+</event>
+<event id="1133360970">
+<start_time>22:30</start_time>
+<end_time>23:03</end_time>
+<title><![CDATA[首都晚间报道]]></title>
+</event>
+<event id="1133665464">
+<start_time>23:03</start_time>
+<end_time>00:09</end_time>
+<title><![CDATA[我是大医生]]></title>
+</event>
+</schedule>
+<schedule channel_id="BTV1" epg_code="BTV1" date="2019-06-21">
+<event id="1133646702">
+<start_time>00:09</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[晚间气象服务]]></title>
+</event>
+<event id="1133646705">
+<start_time>00:15</start_time>
+<end_time>01:42</end_time>
+<title><![CDATA[我是大医生]]></title>
+</event>
+<event id="1135239252">
+<start_time>01:42</start_time>
+<end_time>02:26</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(13)]]></title>
+</event>
+<event id="1135239255">
+<start_time>02:26</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(14)]]></title>
+</event>
+<event id="1135239258">
+<start_time>03:15</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(15)]]></title>
+</event>
+<event id="1135239261">
+<start_time>04:30</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(16)]]></title>
+</event>
+<event id="1133646720">
+<start_time>05:00</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133646723">
+<start_time>06:01</start_time>
+<end_time>06:25</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1133646726">
+<start_time>06:25</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[养生堂精编版]]></title>
+</event>
+<event id="1133646729">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1133646732">
+<start_time>07:00</start_time>
+<end_time>09:03</end_time>
+<title><![CDATA[北京您早]]></title>
+</event>
+<event id="1133646735">
+<start_time>09:03</start_time>
+<end_time>09:25</end_time>
+<title><![CDATA[北京评书大会]]></title>
+</event>
+<event id="1133646738">
+<start_time>09:25</start_time>
+<end_time>10:15</end_time>
+<title><![CDATA[音乐大师课]]></title>
+</event>
+<event id="1135239264">
+<start_time>10:15</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[上午剧场:情满四合院(33)]]></title>
+</event>
+<event id="1135239267">
+<start_time>11:10</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:情满四合院(34)]]></title>
+</event>
+<event id="1133646747">
+<start_time>12:00</start_time>
+<end_time>12:58</end_time>
+<title><![CDATA[特别关注]]></title>
+</event>
+<event id="1133646750">
+<start_time>12:58</start_time>
+<end_time>13:06</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1135239270">
+<start_time>13:06</start_time>
+<end_time>13:57</end_time>
+<title><![CDATA[午茶剧场:破冰行动(43)]]></title>
+</event>
+<event id="1135239273">
+<start_time>13:57</start_time>
+<end_time>14:49</end_time>
+<title><![CDATA[午茶剧场:破冰行动(44)]]></title>
+</event>
+<event id="1135239276">
+<start_time>14:49</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[午茶剧场:破冰行动(45)]]></title>
+</event>
+<event id="1135239279">
+<start_time>15:42</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[午茶剧场:破冰行动(46)]]></title>
+</event>
+<event id="1133646765">
+<start_time>16:35</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[暖暖的味道精华版]]></title>
+</event>
+<event id="1133646768">
+<start_time>17:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133646771">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[北京新闻]]></title>
+</event>
+<event id="1133646774">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[北京天气预报]]></title>
+</event>
+<event id="1133646777">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播央视新闻联播]]></title>
+</event>
+<event id="1134194130">
+<start_time>19:33</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[品质剧场:破冰行动(41)]]></title>
+</event>
+<event id="1134194133">
+<start_time>20:24</start_time>
+<end_time>21:13</end_time>
+<title><![CDATA[品质剧场:破冰行动(42)]]></title>
+</event>
+<event id="1133646786">
+<start_time>21:13</start_time>
+<end_time>22:24</end_time>
+<title><![CDATA[老师请回答]]></title>
+</event>
+<event id="1133646789">
+<start_time>22:24</start_time>
+<end_time>23:35</end_time>
+<title><![CDATA[花样中国]]></title>
+</event>
+<event id="1133941407">
+<start_time>23:35</start_time>
+<end_time>00:27</end_time>
+<title><![CDATA[首都晚间报道]]></title>
+</event>
+</schedule>
+<schedule channel_id="BTV1" epg_code="BTV1" date="2019-06-22">
+<event id="1133923056">
+<start_time>00:27</start_time>
+<end_time>00:35</end_time>
+<title><![CDATA[晚间气象服务]]></title>
+</event>
+<event id="1135239282">
+<start_time>00:35</start_time>
+<end_time>01:25</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(17)]]></title>
+</event>
+<event id="1135239285">
+<start_time>01:25</start_time>
+<end_time>02:15</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(18)]]></title>
+</event>
+<event id="1135239288">
+<start_time>02:15</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(19)]]></title>
+</event>
+<event id="1135239291">
+<start_time>03:00</start_time>
+<end_time>03:50</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(20)]]></title>
+</event>
+<event id="1133923071">
+<start_time>03:50</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133923074">
+<start_time>05:00</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133923077">
+<start_time>06:01</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1133923080">
+<start_time>06:20</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133923083">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1133923086">
+<start_time>07:00</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[北京您早]]></title>
+</event>
+<event id="1133923089">
+<start_time>08:35</start_time>
+<end_time>09:40</end_time>
+<title><![CDATA[音乐大师课]]></title>
+</event>
+<event id="1135239294">
+<start_time>09:40</start_time>
+<end_time>10:35</end_time>
+<title><![CDATA[上午剧场:情满四合院(35)]]></title>
+</event>
+<event id="1135239297">
+<start_time>10:35</start_time>
+<end_time>11:18</end_time>
+<title><![CDATA[上午剧场:情满四合院(36)]]></title>
+</event>
+<event id="1133923098">
+<start_time>11:18</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[爱幼星球2]]></title>
+</event>
+<event id="1133923101">
+<start_time>12:00</start_time>
+<end_time>12:58</end_time>
+<title><![CDATA[特别关注]]></title>
+</event>
+<event id="1133923104">
+<start_time>12:58</start_time>
+<end_time>13:06</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1135239300">
+<start_time>13:06</start_time>
+<end_time>13:57</end_time>
+<title><![CDATA[午茶剧场:破冰行动(47)]]></title>
+</event>
+<event id="1135239303">
+<start_time>13:57</start_time>
+<end_time>14:49</end_time>
+<title><![CDATA[午茶剧场:破冰行动(48)]]></title>
+</event>
+<event id="1133923113">
+<start_time>14:49</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1133923116">
+<start_time>15:42</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1133923119">
+<start_time>16:35</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[暖暖的味道精华版]]></title>
+</event>
+<event id="1133923122">
+<start_time>17:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1133923125">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[北京新闻]]></title>
+</event>
+<event id="1133923128">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[北京天气预报]]></title>
+</event>
+<event id="1133923131">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播央视新闻联播]]></title>
+</event>
+<event id="1134194136">
+<start_time>19:33</start_time>
+<end_time>20:26</end_time>
+<title><![CDATA[品质剧场:破冰行动(43)]]></title>
+</event>
+<event id="1133923137">
+<start_time>20:26</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[大戏看北京]]></title>
+</event>
+<event id="1133923140">
+<start_time>21:10</start_time>
+<end_time>23:05</end_time>
+<title><![CDATA[中歌会]]></title>
+</event>
+<event id="1133923143">
+<start_time>23:05</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[中歌会]]></title>
+</event>
+<event id="1134212763">
+<start_time>23:30</start_time>
+<end_time>00:30</end_time>
+<title><![CDATA[首都晚间报道]]></title>
+</event>
+</schedule>
+<schedule channel_id="BTV1" epg_code="BTV1" date="2019-06-23">
+<event id="1134194139">
+<start_time>00:30</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[明星欢乐汇]]></title>
+</event>
+<event id="1134194142">
+<start_time>01:30</start_time>
+<end_time>01:36</end_time>
+<title><![CDATA[晚间气象服务]]></title>
+</event>
+<event id="1135239306">
+<start_time>01:36</start_time>
+<end_time>02:22</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(21)]]></title>
+</event>
+<event id="1135239309">
+<start_time>02:22</start_time>
+<end_time>03:06</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(22)]]></title>
+</event>
+<event id="1135239312">
+<start_time>03:06</start_time>
+<end_time>04:01</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(23)]]></title>
+</event>
+<event id="1134194154">
+<start_time>04:01</start_time>
+<end_time>04:31</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1134194157">
+<start_time>04:31</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1134194160">
+<start_time>06:01</start_time>
+<end_time>06:25</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1134194163">
+<start_time>06:25</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[电视先锋榜]]></title>
+</event>
+<event id="1134194166">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1134194169">
+<start_time>07:00</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[北京您早]]></title>
+</event>
+<event id="1135239315">
+<start_time>08:35</start_time>
+<end_time>09:23</end_time>
+<title><![CDATA[上午剧场:情满四合院(37)]]></title>
+</event>
+<event id="1135239318">
+<start_time>09:23</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[上午剧场:情满四合院(38)]]></title>
+</event>
+<event id="1134194178">
+<start_time>10:14</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[中歌会精华版]]></title>
+</event>
+<event id="1134194181">
+<start_time>12:00</start_time>
+<end_time>12:58</end_time>
+<title><![CDATA[特别关注]]></title>
+</event>
+<event id="1134194184">
+<start_time>12:58</start_time>
+<end_time>13:07</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1134194187">
+<start_time>13:07</start_time>
+<end_time>14:02</end_time>
+<title><![CDATA[春妮的周末时光]]></title>
+</event>
+<event id="1134194190">
+<start_time>14:02</start_time>
+<end_time>14:51</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1134194193">
+<start_time>14:51</start_time>
+<end_time>15:43</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1134194196">
+<start_time>15:43</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1134194199">
+<start_time>16:35</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[暖暖的味道精华版]]></title>
+</event>
+<event id="1134194202">
+<start_time>17:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1134194205">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[北京新闻]]></title>
+</event>
+<event id="1134194208">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[北京天气预报]]></title>
+</event>
+<event id="1134194211">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播央视新闻联播]]></title>
+</event>
+<event id="1134194214">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[品质剧场:破冰行动(44)]]></title>
+</event>
+<event id="1134194217">
+<start_time>20:25</start_time>
+<end_time>21:08</end_time>
+<title><![CDATA[品质剧场:破冰行动(45)]]></title>
+</event>
+<event id="1134194220">
+<start_time>21:08</start_time>
+<end_time>22:37</end_time>
+<title><![CDATA[向前一步]]></title>
+</event>
+<event id="1134194223">
+<start_time>22:37</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[向前一步]]></title>
+</event>
+<event id="1134573087">
+<start_time>23:30</start_time>
+<end_time>00:03</end_time>
+<title><![CDATA[首都晚间报道]]></title>
+</event>
+</schedule>
+<schedule channel_id="BTV1" epg_code="BTV1" date="2019-06-24">
+<event id="1134553203">
+<start_time>00:03</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[声音的抉择]]></title>
+</event>
+<event id="1135239321">
+<start_time>01:30</start_time>
+<end_time>02:10</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(24)]]></title>
+</event>
+<event id="1135239324">
+<start_time>02:10</start_time>
+<end_time>03:02</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(25)]]></title>
+</event>
+<event id="1135239327">
+<start_time>03:02</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(26)]]></title>
+</event>
+<event id="1135239330">
+<start_time>03:45</start_time>
+<end_time>04:42</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(27)]]></title>
+</event>
+<event id="1134553218">
+<start_time>04:42</start_time>
+<end_time>05:42</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1134553221">
+<start_time>05:42</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1134553224">
+<start_time>06:01</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1134553227">
+<start_time>06:20</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[养生堂精编版]]></title>
+</event>
+<event id="1134553230">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1134553233">
+<start_time>07:00</start_time>
+<end_time>09:05</end_time>
+<title><![CDATA[北京您早]]></title>
+</event>
+<event id="1134553236">
+<start_time>09:05</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[北京评书大会]]></title>
+</event>
+<event id="1134553239">
+<start_time>09:27</start_time>
+<end_time>10:20</end_time>
+<title><![CDATA[暖暖的新家]]></title>
+</event>
+<event id="1135239333">
+<start_time>10:20</start_time>
+<end_time>11:11</end_time>
+<title><![CDATA[上午剧场:情满四合院(39)]]></title>
+</event>
+<event id="1135239336">
+<start_time>11:11</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:情满四合院(40)]]></title>
+</event>
+<event id="1134553248">
+<start_time>12:00</start_time>
+<end_time>12:58</end_time>
+<title><![CDATA[特别关注]]></title>
+</event>
+<event id="1134553251">
+<start_time>12:58</start_time>
+<end_time>13:06</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1134553254">
+<start_time>13:06</start_time>
+<end_time>13:58</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1134553257">
+<start_time>13:58</start_time>
+<end_time>14:50</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1134553260">
+<start_time>14:50</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1134553263">
+<start_time>15:45</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1134553266">
+<start_time>16:35</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[暖暖的味道精华版]]></title>
+</event>
+<event id="1134553269">
+<start_time>17:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1134553272">
+<start_time>18:30</start_time>
+<end_time>18:54</end_time>
+<title><![CDATA[北京新闻]]></title>
+</event>
+<event id="1134553275">
+<start_time>18:54</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[北京天气预报]]></title>
+</event>
+<event id="1134553278">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播央视新闻联播]]></title>
+</event>
+<event id="1134988911">
+<start_time>19:32</start_time>
+<end_time>20:18</end_time>
+<title><![CDATA[品质剧场:神探柯晨(1)]]></title>
+</event>
+<event id="1134988914">
+<start_time>20:18</start_time>
+<end_time>21:03</end_time>
+<title><![CDATA[品质剧场:神探柯晨(2)]]></title>
+</event>
+<event id="1134553287">
+<start_time>21:03</start_time>
+<end_time>21:14</end_time>
+<title><![CDATA[大戏看北京]]></title>
+</event>
+<event id="1134553290">
+<start_time>21:14</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[暖暖的新家]]></title>
+</event>
+<event id="1134553293">
+<start_time>22:30</start_time>
+<end_time>23:03</end_time>
+<title><![CDATA[首都晚间报道]]></title>
+</event>
+<event id="1134553296">
+<start_time>23:03</start_time>
+<end_time>23:51</end_time>
+<title><![CDATA[档案]]></title>
+</event>
+<event id="1135079034">
+<start_time>23:51</start_time>
+<end_time>00:08</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+</schedule>
+<schedule channel_id="BTV1" epg_code="BTV1" date="2019-06-25">
+<event id="1135057581">
+<start_time>00:08</start_time>
+<end_time>00:53</end_time>
+<title><![CDATA[光阴]]></title>
+</event>
+<event id="1135057584">
+<start_time>00:53</start_time>
+<end_time>00:59</end_time>
+<title><![CDATA[晚间气象服务]]></title>
+</event>
+<event id="1135239339">
+<start_time>00:59</start_time>
+<end_time>02:10</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(28)]]></title>
+</event>
+<event id="1135239342">
+<start_time>02:10</start_time>
+<end_time>02:56</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(29)]]></title>
+</event>
+<event id="1135239345">
+<start_time>02:56</start_time>
+<end_time>03:40</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(30)]]></title>
+</event>
+<event id="1135239348">
+<start_time>03:40</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[好梦剧场:湄公河大案(31)]]></title>
+</event>
+<event id="1135057599">
+<start_time>04:30</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1135057602">
+<start_time>05:45</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1135057605">
+<start_time>06:00</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[法治进行时]]></title>
+</event>
+<event id="1135057608">
+<start_time>06:20</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[养生堂精编版]]></title>
+</event>
+<event id="1135057611">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1135057614">
+<start_time>07:00</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[北京您早]]></title>
+</event>
+<event id="1135057617">
+<start_time>09:04</start_time>
+<end_time>09:28</end_time>
+<title><![CDATA[北京评书大会]]></title>
+</event>
+<event id="1135057620">
+<start_time>09:28</start_time>
+<end_time>10:19</end_time>
+<title><![CDATA[音乐大师课]]></title>
+</event>
+<event id="1135239351">
+<start_time>10:19</start_time>
+<end_time>11:11</end_time>
+<title><![CDATA[上午剧场:情满四合院(41)]]></title>
+</event>
+<event id="1135239354">
+<start_time>11:11</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:情满四合院(42)]]></title>
+</event>
+<event id="1135057629">
+<start_time>12:00</start_time>
+<end_time>12:58</end_time>
+<title><![CDATA[特别关注]]></title>
+</event>
+<event id="1135057632">
+<start_time>12:58</start_time>
+<end_time>13:06</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1135057635">
+<start_time>13:06</start_time>
+<end_time>13:58</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1135057638">
+<start_time>13:58</start_time>
+<end_time>14:50</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1135057641">
+<start_time>14:50</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1135057644">
+<start_time>15:42</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[午茶剧场]]></title>
+</event>
+<event id="1135057647">
+<start_time>16:35</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[暖暖的味道精华版]]></title>
+</event>
+<event id="1135057650">
+<start_time>17:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[养生堂]]></title>
+</event>
+<event id="1135057653">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[北京新闻]]></title>
+</event>
+<event id="1135057656">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[北京天气预报]]></title>
+</event>
+<event id="1135057659">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播央视新闻联播]]></title>
+</event>
+<event id="1135057662">
+<start_time>19:32</start_time>
+<end_time>20:20</end_time>
+<title><![CDATA[品质剧场:神探柯晨(3)]]></title>
+</event>
+<event id="1135057665">
+<start_time>20:20</start_time>
+<end_time>21:05</end_time>
+<title><![CDATA[品质剧场:神探柯晨(4)]]></title>
+</event>
+<event id="1135057668">
+<start_time>21:05</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[大戏看北京]]></title>
+</event>
+<event id="1135057671">
+<start_time>21:20</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[生命的礼物第二季]]></title>
+</event>
+<event id="1135057674">
+<start_time>22:30</start_time>
+<end_time>23:03</end_time>
+<title><![CDATA[首都晚间报道]]></title>
+</event>
+<event id="1135057677">
+<start_time>23:03</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[生命缘]]></title>
+</event>
+</schedule>
+</document>

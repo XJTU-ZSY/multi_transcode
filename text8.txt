@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV4" epg_code="CCTV4" date="2019-06-18">
+<event id="1135239447">
+<start_time>00:27</start_time>
+<end_time>01:12</end_time>
+<title><![CDATA[诚忠堂11]]></title>
+</event>
+<event id="1135239450">
+<start_time>01:12</start_time>
+<end_time>01:42</end_time>
+<title><![CDATA[华人世界]]></title>
+</event>
+<event id="1135239453">
+<start_time>01:42</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[国宝档案]]></title>
+</event>
+<event id="1133284065">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1135239456">
+<start_time>02:30</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[走遍中国]]></title>
+</event>
+<event id="1133284071">
+<start_time>03:00</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1135239459">
+<start_time>03:10</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[远方的家]]></title>
+</event>
+<event id="1133284077">
+<start_time>04:00</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1135239462">
+<start_time>04:30</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1135239465">
+<start_time>05:00</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[中国文艺]]></title>
+</event>
+<event id="1135239468">
+<start_time>05:30</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[国宝档案]]></title>
+</event>
+<event id="1135239471">
+<start_time>05:45</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[记住乡愁第三季片段展播]]></title>
+</event>
+<event id="1135239474">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[海峡两岸]]></title>
+</event>
+<event id="1133284098">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1133284101">
+<start_time>07:00</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133284104">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1133284107">
+<start_time>08:00</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133284110">
+<start_time>09:00</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[国家记忆-2019-55]]></title>
+</event>
+<event id="1133284113">
+<start_time>09:30</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[外国人在中国-2019-24]]></title>
+</event>
+<event id="1133284116">
+<start_time>10:00</start_time>
+<end_time>10:13</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133284119">
+<start_time>10:13</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[远方的家2019-120]]></title>
+</event>
+<event id="1133284122">
+<start_time>11:00</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133284125">
+<start_time>11:10</start_time>
+<end_time>11:30</end_time>
+<title><![CDATA[国宝档案-2019-120]]></title>
+</event>
+<event id="1133284128">
+<start_time>11:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[海峡两岸-2019-168]]></title>
+</event>
+<event id="1133284131">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1135250544">
+<start_time>13:00</start_time>
+<end_time>13:30</end_time>
+<title><![CDATA[华人世界-2019-121]]></title>
+</event>
+<event id="1135250547">
+<start_time>13:30</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[走遍中国-2019-120]]></title>
+</event>
+<event id="1134995421">
+<start_time>14:00</start_time>
+<end_time>14:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134995424">
+<start_time>14:10</start_time>
+<end_time>14:17</end_time>
+<title><![CDATA[记住乡愁第三季碎片化展播-89]]></title>
+</event>
+<event id="1134995427">
+<start_time>14:17</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[北平战与和-(四套)-7/34]]></title>
+</event>
+<event id="1134995430">
+<start_time>15:00</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[北平战与和-(四套)-8/34]]></title>
+</event>
+<event id="1134995433">
+<start_time>15:44</start_time>
+<end_time>16:27</end_time>
+<title><![CDATA[北平战与和-(四套)-9/34]]></title>
+</event>
+<event id="1134995436">
+<start_time>16:27</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[北平战与和-(四套)-10/34]]></title>
+</event>
+<event id="1133284152">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[远方的家2019-121]]></title>
+</event>
+<event id="1133284155">
+<start_time>18:00</start_time>
+<end_time>18:15</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133284158">
+<start_time>18:15</start_time>
+<end_time>18:45</end_time>
+<title><![CDATA[中国文艺-2019-121]]></title>
+</event>
+<event id="1133284161">
+<start_time>18:45</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[国宝档案-2019-121]]></title>
+</event>
+<event id="1133284164">
+<start_time>19:00</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133284167">
+<start_time>19:30</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1133284170">
+<start_time>20:00</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[国家记忆-2019-56]]></title>
+</event>
+<event id="1133284173">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[海峡两岸-2019-169]]></title>
+</event>
+<event id="1133284176">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133284179">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1133284182">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[走遍中国-2019-121]]></title>
+</event>
+<event id="1134995439">
+<start_time>22:30</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134995442">
+<start_time>23:02</start_time>
+<end_time>23:45</end_time>
+<title><![CDATA[诚忠堂第12集]]></title>
+</event>
+<event id="1134995445">
+<start_time>23:45</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[诚忠堂第13集]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV4" epg_code="CCTV4" date="2019-06-19">
+<event id="1134995448">
+<start_time>00:28</start_time>
+<end_time>01:12</end_time>
+<title><![CDATA[诚忠堂第14集]]></title>
+</event>
+<event id="1133486271">
+<start_time>01:12</start_time>
+<end_time>01:42</end_time>
+<title><![CDATA[华人世界-2019-121]]></title>
+</event>
+<event id="1133486274">
+<start_time>01:42</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[国宝档案-2019-121]]></title>
+</event>
+<event id="1133486277">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133486280">
+<start_time>02:30</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[走遍中国-2019-121]]></title>
+</event>
+<event id="1133486283">
+<start_time>03:00</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486286">
+<start_time>03:10</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[远方的家2019-121]]></title>
+</event>
+<event id="1133486289">
+<start_time>04:00</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486292">
+<start_time>04:30</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1133486295">
+<start_time>04:57</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1133486298">
+<start_time>05:00</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[中国文艺-2019-121]]></title>
+</event>
+<event id="1133486301">
+<start_time>05:30</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[国宝档案-2019-121]]></title>
+</event>
+<event id="1133486304">
+<start_time>05:45</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[记住乡愁2018片段展播-90]]></title>
+</event>
+<event id="1133486307">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[海峡两岸-2019-169]]></title>
+</event>
+<event id="1133486310">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1133486313">
+<start_time>07:00</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486316">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1133486319">
+<start_time>08:00</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486322">
+<start_time>09:00</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[国家记忆-2019-56]]></title>
+</event>
+<event id="1133486325">
+<start_time>09:30</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[中国文艺-2019-121]]></title>
+</event>
+<event id="1133486328">
+<start_time>10:00</start_time>
+<end_time>10:13</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486331">
+<start_time>10:13</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[远方的家2019-121]]></title>
+</event>
+<event id="1133486334">
+<start_time>11:00</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486337">
+<start_time>11:10</start_time>
+<end_time>11:30</end_time>
+<title><![CDATA[国宝档案-2019-121]]></title>
+</event>
+<event id="1133486340">
+<start_time>11:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[海峡两岸-2019-169]]></title>
+</event>
+<event id="1133486343">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486346">
+<start_time>13:00</start_time>
+<end_time>13:30</end_time>
+<title><![CDATA[华人世界-2019-122]]></title>
+</event>
+<event id="1133486349">
+<start_time>13:30</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[走遍中国-2019-121]]></title>
+</event>
+<event id="1133486352">
+<start_time>14:00</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486355">
+<start_time>14:13</start_time>
+<end_time>15:43</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1135246512">
+<start_time>15:43</start_time>
+<end_time>16:28</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1135246515">
+<start_time>16:28</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1133486364">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[远方的家2019-122]]></title>
+</event>
+<event id="1133486367">
+<start_time>18:00</start_time>
+<end_time>18:15</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486370">
+<start_time>18:15</start_time>
+<end_time>18:45</end_time>
+<title><![CDATA[中国文艺-2019-122]]></title>
+</event>
+<event id="1133486373">
+<start_time>18:45</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[国宝档案-2019-122]]></title>
+</event>
+<event id="1133486376">
+<start_time>19:00</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486379">
+<start_time>19:30</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1133486382">
+<start_time>20:00</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[国家记忆-2019-57]]></title>
+</event>
+<event id="1133486385">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[海峡两岸-2019-170]]></title>
+</event>
+<event id="1133486388">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133486391">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1133486394">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[走遍中国-2019-122]]></title>
+</event>
+<event id="1133486397">
+<start_time>22:30</start_time>
+<end_time>23:01</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1135246518">
+<start_time>23:01</start_time>
+<end_time>00:31</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV4" epg_code="CCTV4" date="2019-06-20">
+<event id="1135246521">
+<start_time>00:31</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1133743698">
+<start_time>01:08</start_time>
+<end_time>01:38</end_time>
+<title><![CDATA[华人世界-2019-122]]></title>
+</event>
+<event id="1133743701">
+<start_time>01:38</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[国宝档案-2019-122]]></title>
+</event>
+<event id="1133743704">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133743707">
+<start_time>02:30</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[走遍中国-2019-122]]></title>
+</event>
+<event id="1133743710">
+<start_time>03:00</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743713">
+<start_time>03:10</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[远方的家2019-122]]></title>
+</event>
+<event id="1133743716">
+<start_time>04:00</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743719">
+<start_time>04:30</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1133743722">
+<start_time>04:57</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1133743725">
+<start_time>05:00</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[中国文艺-2019-122]]></title>
+</event>
+<event id="1133743728">
+<start_time>05:30</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[国宝档案-2019-122]]></title>
+</event>
+<event id="1133743731">
+<start_time>05:45</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[记住乡愁2018片段展播-91]]></title>
+</event>
+<event id="1133743734">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[海峡两岸-2019-170]]></title>
+</event>
+<event id="1133743737">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1133743740">
+<start_time>07:00</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743743">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1133743746">
+<start_time>08:00</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743749">
+<start_time>09:00</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[国家记忆-2019-57]]></title>
+</event>
+<event id="1133743752">
+<start_time>09:30</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[中国文艺-2019-122]]></title>
+</event>
+<event id="1133743755">
+<start_time>10:00</start_time>
+<end_time>10:13</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743758">
+<start_time>10:13</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[远方的家2019-122]]></title>
+</event>
+<event id="1133743761">
+<start_time>11:00</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743764">
+<start_time>11:10</start_time>
+<end_time>11:30</end_time>
+<title><![CDATA[国宝档案-2019-122]]></title>
+</event>
+<event id="1133743767">
+<start_time>11:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[海峡两岸-2019-170]]></title>
+</event>
+<event id="1133743770">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743773">
+<start_time>13:00</start_time>
+<end_time>13:30</end_time>
+<title><![CDATA[华人世界-2019-123]]></title>
+</event>
+<event id="1133743776">
+<start_time>13:30</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[走遍中国-2019-122]]></title>
+</event>
+<event id="1133743779">
+<start_time>14:00</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743782">
+<start_time>14:13</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1133743785">
+<start_time>15:42</start_time>
+<end_time>16:26</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1133743788">
+<start_time>16:26</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1133743791">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[远方的家2019-123]]></title>
+</event>
+<event id="1133743794">
+<start_time>18:00</start_time>
+<end_time>18:15</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743797">
+<start_time>18:15</start_time>
+<end_time>18:45</end_time>
+<title><![CDATA[中国文艺-2019-123]]></title>
+</event>
+<event id="1133743800">
+<start_time>18:45</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[国宝档案-2019-123]]></title>
+</event>
+<event id="1133743803">
+<start_time>19:00</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743806">
+<start_time>19:30</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1133743809">
+<start_time>20:00</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[国家记忆-2019-58]]></title>
+</event>
+<event id="1133743812">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[海峡两岸-2019-171]]></title>
+</event>
+<event id="1133743815">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1133743818">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1133743821">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[走遍中国-2019-123]]></title>
+</event>
+<event id="1133743824">
+<start_time>22:30</start_time>
+<end_time>23:01</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134040911">
+<start_time>23:01</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV4" epg_code="CCTV4" date="2019-06-21">
+<event id="1134040914">
+<start_time>00:24</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134040917">
+<start_time>01:08</start_time>
+<end_time>01:38</end_time>
+<title><![CDATA[华人世界-2019-123]]></title>
+</event>
+<event id="1134040920">
+<start_time>01:38</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[国宝档案-2019-123]]></title>
+</event>
+<event id="1134040923">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134040926">
+<start_time>02:30</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[走遍中国-2019-123]]></title>
+</event>
+<event id="1134040929">
+<start_time>03:00</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134040932">
+<start_time>03:10</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[远方的家2019-123]]></title>
+</event>
+<event id="1134040935">
+<start_time>04:00</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134040938">
+<start_time>04:30</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1134040941">
+<start_time>04:57</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1134040944">
+<start_time>05:00</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[中国文艺-2019-123]]></title>
+</event>
+<event id="1134040947">
+<start_time>05:30</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[国宝档案-2019-123]]></title>
+</event>
+<event id="1134040950">
+<start_time>05:45</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[记住乡愁2018片段展播-92]]></title>
+</event>
+<event id="1134040953">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[海峡两岸-2019-171]]></title>
+</event>
+<event id="1134040956">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1134040959">
+<start_time>07:00</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134040962">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1134040965">
+<start_time>08:00</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134040968">
+<start_time>09:00</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[国家记忆-2019-58]]></title>
+</event>
+<event id="1134040971">
+<start_time>09:30</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[中国文艺-2019-123]]></title>
+</event>
+<event id="1134040974">
+<start_time>10:00</start_time>
+<end_time>10:13</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134040977">
+<start_time>10:13</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[远方的家2019-123]]></title>
+</event>
+<event id="1134040980">
+<start_time>11:00</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134040983">
+<start_time>11:10</start_time>
+<end_time>11:30</end_time>
+<title><![CDATA[国宝档案-2019-123]]></title>
+</event>
+<event id="1134040986">
+<start_time>11:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[海峡两岸-2019-171]]></title>
+</event>
+<event id="1134040989">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134040992">
+<start_time>13:00</start_time>
+<end_time>13:30</end_time>
+<title><![CDATA[华人世界-2019-124]]></title>
+</event>
+<event id="1134040995">
+<start_time>13:30</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[走遍中国-2019-123]]></title>
+</event>
+<event id="1134040998">
+<start_time>14:00</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134041001">
+<start_time>14:13</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134041004">
+<start_time>15:42</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134041007">
+<start_time>16:25</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134041010">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[远方的家2019-124]]></title>
+</event>
+<event id="1134041013">
+<start_time>18:00</start_time>
+<end_time>18:15</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134041016">
+<start_time>18:15</start_time>
+<end_time>18:45</end_time>
+<title><![CDATA[中国文艺-2019-124]]></title>
+</event>
+<event id="1134041019">
+<start_time>18:45</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[国宝档案-2019-124]]></title>
+</event>
+<event id="1134041022">
+<start_time>19:00</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134041025">
+<start_time>19:30</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1134041028">
+<start_time>20:00</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[国家记忆-2019-59]]></title>
+</event>
+<event id="1134041031">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[海峡两岸-2019-172]]></title>
+</event>
+<event id="1134041034">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134041037">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1134041040">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[走遍中国-2019-124]]></title>
+</event>
+<event id="1134041043">
+<start_time>22:30</start_time>
+<end_time>23:01</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134289689">
+<start_time>23:01</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV4" epg_code="CCTV4" date="2019-06-22">
+<event id="1134289692">
+<start_time>00:24</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134289695">
+<start_time>01:08</start_time>
+<end_time>01:38</end_time>
+<title><![CDATA[华人世界-2019-124]]></title>
+</event>
+<event id="1134289698">
+<start_time>01:38</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[国宝档案-2019-124]]></title>
+</event>
+<event id="1134289701">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134289704">
+<start_time>02:30</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[走遍中国-2019-124]]></title>
+</event>
+<event id="1134289707">
+<start_time>03:00</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134289710">
+<start_time>03:10</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[远方的家2019-124]]></title>
+</event>
+<event id="1134289713">
+<start_time>04:00</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134289716">
+<start_time>04:30</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1134289719">
+<start_time>04:57</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1134289722">
+<start_time>05:00</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[中国文艺-2019-124]]></title>
+</event>
+<event id="1134289725">
+<start_time>05:30</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[国宝档案-2019-124]]></title>
+</event>
+<event id="1134289728">
+<start_time>05:45</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[记住乡愁2018片段展播-93]]></title>
+</event>
+<event id="1134289731">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[海峡两岸-2019-172]]></title>
+</event>
+<event id="1134289734">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1134289737">
+<start_time>07:00</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134289740">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1134289743">
+<start_time>08:00</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134289746">
+<start_time>09:00</start_time>
+<end_time>09:29</end_time>
+<title><![CDATA[国家记忆-2019-59]]></title>
+</event>
+<event id="1134289749">
+<start_time>09:29</start_time>
+<end_time>10:29</end_time>
+<title><![CDATA[中国文艺-2019-24(周末版)]]></title>
+</event>
+<event id="1134289752">
+<start_time>10:29</start_time>
+<end_time>11:30</end_time>
+<title><![CDATA[中华情-2019-24]]></title>
+</event>
+<event id="1134289755">
+<start_time>11:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[海峡两岸-2019-172]]></title>
+</event>
+<event id="1134289758">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134289761">
+<start_time>13:00</start_time>
+<end_time>13:34</end_time>
+<title><![CDATA[外国人在中国-2019-24]]></title>
+</event>
+<event id="1134289764">
+<start_time>13:34</start_time>
+<end_time>14:16</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134289767">
+<start_time>14:16</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134289770">
+<start_time>15:00</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134289773">
+<start_time>16:25</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134289776">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[中华医药-2019-25]]></title>
+</event>
+<event id="1134289779">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[中国文艺-2019-25(周末版)]]></title>
+</event>
+<event id="1134289782">
+<start_time>19:00</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134289785">
+<start_time>19:30</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1134289788">
+<start_time>20:00</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[2019传承(第三季)-10]]></title>
+</event>
+<event id="1134289791">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[海峡两岸-2019-173]]></title>
+</event>
+<event id="1134289794">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134289797">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1134289800">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[深度国际-2019年6月-4]]></title>
+</event>
+<event id="1134289803">
+<start_time>22:30</start_time>
+<end_time>23:01</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134419073">
+<start_time>23:01</start_time>
+<end_time>00:30</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV4" epg_code="CCTV4" date="2019-06-23">
+<event id="1134419076">
+<start_time>00:30</start_time>
+<end_time>01:15</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134419079">
+<start_time>01:15</start_time>
+<end_time>01:45</end_time>
+<title><![CDATA[深度国际-2019年6月-4]]></title>
+</event>
+<event id="1134419082">
+<start_time>01:45</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[记住乡愁2018片段展播-93]]></title>
+</event>
+<event id="1134419085">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134419088">
+<start_time>02:30</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[中华医药-2019-25]]></title>
+</event>
+<event id="1134419091">
+<start_time>03:15</start_time>
+<end_time>03:43</end_time>
+<title><![CDATA[中国文艺-2019-124]]></title>
+</event>
+<event id="1134419094">
+<start_time>03:43</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[国宝档案-2019-124]]></title>
+</event>
+<event id="1134419097">
+<start_time>04:00</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134419100">
+<start_time>04:30</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1134419103">
+<start_time>04:57</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1134419106">
+<start_time>05:00</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[中国文艺-2019-25(周末版)]]></title>
+</event>
+<event id="1134419109">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[海峡两岸-2019-173]]></title>
+</event>
+<event id="1134419112">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[今日亚洲]]></title>
+</event>
+<event id="1134419115">
+<start_time>07:00</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134419118">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1134419121">
+<start_time>08:00</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134419124">
+<start_time>09:00</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[国家记忆-2019-55]]></title>
+</event>
+<event id="1134419127">
+<start_time>09:27</start_time>
+<end_time>09:59</end_time>
+<title><![CDATA[国家记忆-2019-56]]></title>
+</event>
+<event id="1134419130">
+<start_time>09:59</start_time>
+<end_time>10:26</end_time>
+<title><![CDATA[国家记忆-2019-57]]></title>
+</event>
+<event id="1134419133">
+<start_time>10:26</start_time>
+<end_time>10:57</end_time>
+<title><![CDATA[国家记忆-2019-58]]></title>
+</event>
+<event id="1134419136">
+<start_time>10:57</start_time>
+<end_time>11:30</end_time>
+<title><![CDATA[国家记忆-2019-59]]></title>
+</event>
+<event id="1134419139">
+<start_time>11:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[海峡两岸-2019-173]]></title>
+</event>
+<event id="1134419142">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134419145">
+<start_time>13:00</start_time>
+<end_time>13:33</end_time>
+<title><![CDATA[深度国际-2019年6月-4]]></title>
+</event>
+<event id="1134419148">
+<start_time>13:33</start_time>
+<end_time>14:16</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134419151">
+<start_time>14:16</start_time>
+<end_time>15:01</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134419154">
+<start_time>15:01</start_time>
+<end_time>16:27</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134419157">
+<start_time>16:27</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+<event id="1134419160">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[城市1对1-2019-25]]></title>
+</event>
+<event id="1134419163">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[中华情-2019-25]]></title>
+</event>
+<event id="1134419166">
+<start_time>19:00</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134419169">
+<start_time>19:30</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[中国舆论场-2019-24]]></title>
+</event>
+<event id="1134419172">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[海峡两岸-2019-174]]></title>
+</event>
+<event id="1134419175">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[中国新闻]]></title>
+</event>
+<event id="1134419178">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[今日关注]]></title>
+</event>
+<event id="1134419181">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[外国人在中国-2019-25]]></title>
+</event>
+<event id="1134419184">
+<start_time>22:30</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134419187">
+<start_time>23:00</start_time>
+<end_time>23:45</end_time>
+<title><![CDATA[快乐汉语-2019-25]]></title>
+</event>
+<event id="1134419190">
+<start_time>23:45</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[双语剧场-(经典)]]></title>
+</event>
+</schedule>
+</document>

@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="JSTV1" epg_code="JSTV1" date="2019-06-18">
+<event id="1135239090">
+<start_time>00:08</start_time>
+<end_time>00:44</end_time>
+<title><![CDATA[纪录片:我们一起走过18]]></title>
+</event>
+<event id="1135239093">
+<start_time>00:44</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[小镇故事]]></title>
+</event>
+<event id="1135239096">
+<start_time>01:22</start_time>
+<end_time>01:57</end_time>
+<title><![CDATA[小镇故事]]></title>
+</event>
+<event id="1135239099">
+<start_time>01:57</start_time>
+<end_time>02:33</end_time>
+<title><![CDATA[小镇故事]]></title>
+</event>
+<event id="1135239102">
+<start_time>02:33</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[小镇故事]]></title>
+</event>
+<event id="1135239105">
+<start_time>03:10</start_time>
+<end_time>03:47</end_time>
+<title><![CDATA[小镇故事]]></title>
+</event>
+<event id="1135239108">
+<start_time>03:47</start_time>
+<end_time>04:24</end_time>
+<title><![CDATA[小镇故事]]></title>
+</event>
+<event id="1135239111">
+<start_time>04:24</start_time>
+<end_time>04:48</end_time>
+<title><![CDATA[纪录片:你所不知道的中国第一季]]></title>
+</event>
+<event id="1135239114">
+<start_time>04:48</start_time>
+<end_time>05:13</end_time>
+<title><![CDATA[纪录片:你所不知道的中国第一季]]></title>
+</event>
+<event id="1135239117">
+<start_time>05:13</start_time>
+<end_time>05:36</end_time>
+<title><![CDATA[纪录片:你所不知道的中国第一季]]></title>
+</event>
+<event id="1135239120">
+<start_time>05:36</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[纪录片:你所不知道的中国第二季]]></title>
+</event>
+<event id="1135239123">
+<start_time>05:55</start_time>
+<end_time>06:24</end_time>
+<title><![CDATA[万家灯火-约见名医]]></title>
+</event>
+<event id="1135239126">
+<start_time>06:24</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:茶界中国4]]></title>
+</event>
+<event id="1135239129">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135239132">
+<start_time>07:01</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1135239135">
+<start_time>07:23</start_time>
+<end_time>08:10</end_time>
+<title><![CDATA[情感剧场一:一场遇见爱情的旅行34]]></title>
+</event>
+<event id="1135239138">
+<start_time>08:10</start_time>
+<end_time>09:12</end_time>
+<title><![CDATA[动画片:宇宙护卫队合集]]></title>
+</event>
+<event id="1135237707">
+<start_time>09:12</start_time>
+<end_time>10:11</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135238646">
+<start_time>10:11</start_time>
+<end_time>11:07</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135238649">
+<start_time>11:07</start_time>
+<end_time>13:05</end_time>
+<title><![CDATA[非诚勿扰精华版]]></title>
+</event>
+<event id="1135261329">
+<start_time>13:05</start_time>
+<end_time>14:34</end_time>
+<title><![CDATA[新相亲大会精华版]]></title>
+</event>
+<event id="1135261332">
+<start_time>14:34</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[非诚勿扰精华版]]></title>
+</event>
+<event id="1135203150">
+<start_time>17:11</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[家屋室的主人]]></title>
+</event>
+<event id="1135203153">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻眼]]></title>
+</event>
+<event id="1132851363">
+<start_time>18:30</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1132851366">
+<start_time>18:52</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[时空气象站]]></title>
+</event>
+<event id="1135217973">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135217976">
+<start_time>19:31</start_time>
+<end_time>20:23</end_time>
+<title><![CDATA[幸福剧场:我要和你在一起(58)]]></title>
+</event>
+<event id="1135217979">
+<start_time>20:23</start_time>
+<end_time>21:08</end_time>
+<title><![CDATA[幸福剧场:我要和你在一起(59)]]></title>
+</event>
+<event id="1135217982">
+<start_time>21:08</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[一站到底精华版]]></title>
+</event>
+<event id="1135217985">
+<start_time>22:05</start_time>
+<end_time>23:11</end_time>
+<title><![CDATA[大叔小馆精华版]]></title>
+</event>
+<event id="1135217988">
+<start_time>23:11</start_time>
+<end_time>23:58</end_time>
+<title><![CDATA[新相亲时代精华版]]></title>
+</event>
+<event id="1135217991">
+<start_time>23:58</start_time>
+<end_time>00:30</end_time>
+<title><![CDATA[时代问答]]></title>
+</event>
+</schedule>
+<schedule channel_id="JSTV1" epg_code="JSTV1" date="2019-06-19">
+<event id="1133112021">
+<start_time>00:30</start_time>
+<end_time>00:34</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1133112024">
+<start_time>00:34</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[阅读阅美第二季]]></title>
+</event>
+<event id="1133112027">
+<start_time>01:20</start_time>
+<end_time>01:54</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133112030">
+<start_time>01:54</start_time>
+<end_time>02:31</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133112033">
+<start_time>02:31</start_time>
+<end_time>03:09</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133112036">
+<start_time>03:09</start_time>
+<end_time>05:46</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133112039">
+<start_time>05:46</start_time>
+<end_time>05:53</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133112042">
+<start_time>05:53</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[万家灯火]]></title>
+</event>
+<event id="1133112045">
+<start_time>06:27</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:寻味顺德]]></title>
+</event>
+<event id="1133112048">
+<start_time>07:00</start_time>
+<end_time>07:22</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1135261911">
+<start_time>07:22</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[早间剧场:一场遇见爱情的旅行(31)]]></title>
+</event>
+<event id="1133112054">
+<start_time>08:00</start_time>
+<end_time>09:13</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261914">
+<start_time>09:13</start_time>
+<end_time>10:15</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261917">
+<start_time>10:15</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1133112063">
+<start_time>11:10</start_time>
+<end_time>12:40</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1133112066">
+<start_time>12:40</start_time>
+<end_time>14:45</end_time>
+<title><![CDATA[新相亲大会]]></title>
+</event>
+<event id="1135261920">
+<start_time>14:45</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(35)]]></title>
+</event>
+<event id="1135261923">
+<start_time>15:38</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(36)]]></title>
+</event>
+<event id="1135261926">
+<start_time>16:30</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(37)]]></title>
+</event>
+<event id="1133112078">
+<start_time>17:11</start_time>
+<end_time>17:59</end_time>
+<title><![CDATA[家屋室的主人]]></title>
+</event>
+<event id="1133112081">
+<start_time>17:59</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻眼]]></title>
+</event>
+<event id="1133112084">
+<start_time>18:30</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1133112087">
+<start_time>18:52</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[时空气象站]]></title>
+</event>
+<event id="1133112090">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133112093">
+<start_time>19:32</start_time>
+<end_time>20:23</end_time>
+<title><![CDATA[幸福剧场:我要和你在一起(60)]]></title>
+</event>
+<event id="1133112096">
+<start_time>20:23</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[幸福剧场:我要和你在一起(61)]]></title>
+</event>
+<event id="1133112099">
+<start_time>21:10</start_time>
+<end_time>21:50</end_time>
+<title><![CDATA[美好时代]]></title>
+</event>
+<event id="1133112102">
+<start_time>21:50</start_time>
+<end_time>23:57</end_time>
+<title><![CDATA[新相亲时代精华版]]></title>
+</event>
+<event id="1133387976">
+<start_time>23:57</start_time>
+<end_time>00:08</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+</schedule>
+<schedule channel_id="JSTV1" epg_code="JSTV1" date="2019-06-20">
+<event id="1133346732">
+<start_time>00:08</start_time>
+<end_time>00:23</end_time>
+<title><![CDATA[阅读阅美第二季]]></title>
+</event>
+<event id="1133346735">
+<start_time>00:23</start_time>
+<end_time>01:14</end_time>
+<title><![CDATA[纪录片:舌尖上的中国]]></title>
+</event>
+<event id="1133346738">
+<start_time>01:14</start_time>
+<end_time>02:06</end_time>
+<title><![CDATA[纪录片:舌尖上的中国]]></title>
+</event>
+<event id="1133346741">
+<start_time>02:06</start_time>
+<end_time>02:51</end_time>
+<title><![CDATA[纪录片:舌尖上的中国]]></title>
+</event>
+<event id="1133346744">
+<start_time>02:51</start_time>
+<end_time>04:59</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133346747">
+<start_time>04:59</start_time>
+<end_time>05:54</end_time>
+<title><![CDATA[昆仑决]]></title>
+</event>
+<event id="1133346750">
+<start_time>05:54</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[万家灯火]]></title>
+</event>
+<event id="1133346753">
+<start_time>06:27</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:老广的味道]]></title>
+</event>
+<event id="1133346756">
+<start_time>07:00</start_time>
+<end_time>07:22</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1135261929">
+<start_time>07:22</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[早间剧场:一场遇见爱情的旅行(32)]]></title>
+</event>
+<event id="1133346762">
+<start_time>08:00</start_time>
+<end_time>09:12</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261932">
+<start_time>09:12</start_time>
+<end_time>10:13</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261935">
+<start_time>10:13</start_time>
+<end_time>11:13</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1133346771">
+<start_time>11:13</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1133346774">
+<start_time>12:50</start_time>
+<end_time>14:40</end_time>
+<title><![CDATA[新相亲大会]]></title>
+</event>
+<event id="1135261938">
+<start_time>14:40</start_time>
+<end_time>15:30</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(38)]]></title>
+</event>
+<event id="1135261941">
+<start_time>15:30</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(39)]]></title>
+</event>
+<event id="1135261944">
+<start_time>16:25</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(40)]]></title>
+</event>
+<event id="1133346786">
+<start_time>17:11</start_time>
+<end_time>17:59</end_time>
+<title><![CDATA[家屋室的主人]]></title>
+</event>
+<event id="1133346789">
+<start_time>17:59</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻眼]]></title>
+</event>
+<event id="1133346792">
+<start_time>18:30</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1133346795">
+<start_time>18:52</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[时空气象站]]></title>
+</event>
+<event id="1133346798">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133346801">
+<start_time>19:32</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[幸福剧场:我要和你在一起(62)]]></title>
+</event>
+<event id="1133346804">
+<start_time>20:25</start_time>
+<end_time>21:14</end_time>
+<title><![CDATA[幸福剧场:我要和你在一起(63)]]></title>
+</event>
+<event id="1133346807">
+<start_time>21:14</start_time>
+<end_time>21:44</end_time>
+<title><![CDATA[最强大脑之燃烧吧大脑第二季]]></title>
+</event>
+<event id="1133346810">
+<start_time>21:44</start_time>
+<end_time>23:56</end_time>
+<title><![CDATA[我们仨]]></title>
+</event>
+<event id="1133666634">
+<start_time>23:56</start_time>
+<end_time>00:14</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+</schedule>
+<schedule channel_id="JSTV1" epg_code="JSTV1" date="2019-06-21">
+<event id="1133633055">
+<start_time>00:14</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[纪录片:舌尖上的中国]]></title>
+</event>
+<event id="1133633058">
+<start_time>01:00</start_time>
+<end_time>01:48</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133633061">
+<start_time>01:48</start_time>
+<end_time>02:37</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133633064">
+<start_time>02:37</start_time>
+<end_time>03:26</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133633067">
+<start_time>03:26</start_time>
+<end_time>04:16</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133633070">
+<start_time>04:16</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133633073">
+<start_time>05:05</start_time>
+<end_time>05:54</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133633076">
+<start_time>05:54</start_time>
+<end_time>06:21</end_time>
+<title><![CDATA[万家灯火]]></title>
+</event>
+<event id="1133633079">
+<start_time>06:21</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:老广的味道]]></title>
+</event>
+<event id="1133633082">
+<start_time>07:00</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1135261947">
+<start_time>07:23</start_time>
+<end_time>08:06</end_time>
+<title><![CDATA[早间剧场:一场遇见爱情的旅行(33)]]></title>
+</event>
+<event id="1133798487">
+<start_time>08:06</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261950">
+<start_time>08:55</start_time>
+<end_time>09:34</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261953">
+<start_time>09:34</start_time>
+<end_time>10:25</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261956">
+<start_time>10:25</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1133633100">
+<start_time>11:15</start_time>
+<end_time>12:42</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1133633103">
+<start_time>12:42</start_time>
+<end_time>14:28</end_time>
+<title><![CDATA[新相亲大会]]></title>
+</event>
+<event id="1133633106">
+<start_time>14:28</start_time>
+<end_time>15:53</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1133633109">
+<start_time>15:53</start_time>
+<end_time>16:06</end_time>
+<title><![CDATA[非诚勿扰精华版]]></title>
+</event>
+<event id="1133633112">
+<start_time>16:06</start_time>
+<end_time>17:59</end_time>
+<title><![CDATA[新相亲时代]]></title>
+</event>
+<event id="1133633115">
+<start_time>17:59</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻眼]]></title>
+</event>
+<event id="1133633118">
+<start_time>18:30</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1133633121">
+<start_time>18:52</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[时空气象站]]></title>
+</event>
+<event id="1133633124">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133633127">
+<start_time>19:32</start_time>
+<end_time>20:22</end_time>
+<title><![CDATA[幸福剧场:我要和你在一起(64)]]></title>
+</event>
+<event id="1133633130">
+<start_time>20:22</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[幸福剧场:我要和你在一起(65)]]></title>
+</event>
+<event id="1133633133">
+<start_time>21:12</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[最强大脑之燃烧吧大脑第二季]]></title>
+</event>
+<event id="1133633136">
+<start_time>22:00</start_time>
+<end_time>23:56</end_time>
+<title><![CDATA[大叔小馆]]></title>
+</event>
+<event id="1133945148">
+<start_time>23:56</start_time>
+<end_time>00:13</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+</schedule>
+<schedule channel_id="JSTV1" epg_code="JSTV1" date="2019-06-22">
+<event id="1133909121">
+<start_time>00:13</start_time>
+<end_time>00:46</end_time>
+<title><![CDATA[金曲捞精华版]]></title>
+</event>
+<event id="1133909124">
+<start_time>00:46</start_time>
+<end_time>01:35</end_time>
+<title><![CDATA[纪录片:你所不知道的中国]]></title>
+</event>
+<event id="1133909127">
+<start_time>01:35</start_time>
+<end_time>02:23</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133909130">
+<start_time>02:23</start_time>
+<end_time>03:12</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133909133">
+<start_time>03:12</start_time>
+<end_time>04:22</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133909136">
+<start_time>04:22</start_time>
+<end_time>05:13</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133909139">
+<start_time>05:13</start_time>
+<end_time>05:42</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133909142">
+<start_time>05:42</start_time>
+<end_time>06:19</end_time>
+<title><![CDATA[万家灯火]]></title>
+</event>
+<event id="1133909145">
+<start_time>06:19</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133909148">
+<start_time>07:00</start_time>
+<end_time>07:20</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1133909151">
+<start_time>07:20</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[看文化]]></title>
+</event>
+<event id="1133909154">
+<start_time>07:32</start_time>
+<end_time>08:27</end_time>
+<title><![CDATA[黄金时间]]></title>
+</event>
+<event id="1135261959">
+<start_time>08:27</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261962">
+<start_time>09:24</start_time>
+<end_time>10:21</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261965">
+<start_time>10:21</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1133909166">
+<start_time>11:10</start_time>
+<end_time>12:40</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1133909169">
+<start_time>12:40</start_time>
+<end_time>14:22</end_time>
+<title><![CDATA[新相亲时代]]></title>
+</event>
+<event id="1133909172">
+<start_time>14:22</start_time>
+<end_time>16:15</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1133909175">
+<start_time>16:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[新相亲时代]]></title>
+</event>
+<event id="1133909178">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻眼]]></title>
+</event>
+<event id="1133909181">
+<start_time>18:30</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1133909184">
+<start_time>18:52</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[时空气象站]]></title>
+</event>
+<event id="1133909187">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134976047">
+<start_time>19:32</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[幸福剧场:哥哥姐姐的花样年华(1)]]></title>
+</event>
+<event id="1133909193">
+<start_time>20:27</start_time>
+<end_time>21:56</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1133909196">
+<start_time>21:56</start_time>
+<end_time>23:06</end_time>
+<title><![CDATA[新相亲大会]]></title>
+</event>
+<event id="1134213690">
+<start_time>23:06</start_time>
+<end_time>00:30</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+</schedule>
+<schedule channel_id="JSTV1" epg_code="JSTV1" date="2019-06-23">
+<event id="1134180801">
+<start_time>00:30</start_time>
+<end_time>00:50</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134180804">
+<start_time>00:50</start_time>
+<end_time>01:39</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134180807">
+<start_time>01:39</start_time>
+<end_time>02:28</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134180810">
+<start_time>02:28</start_time>
+<end_time>03:18</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134180813">
+<start_time>03:18</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134180816">
+<start_time>04:06</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134180819">
+<start_time>04:35</start_time>
+<end_time>05:39</end_time>
+<title><![CDATA[阅读阅美第二季]]></title>
+</event>
+<event id="1134180822">
+<start_time>05:39</start_time>
+<end_time>06:17</end_time>
+<title><![CDATA[万家灯火]]></title>
+</event>
+<event id="1134180825">
+<start_time>06:17</start_time>
+<end_time>06:48</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134180828">
+<start_time>06:48</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[看文化]]></title>
+</event>
+<event id="1134180831">
+<start_time>07:00</start_time>
+<end_time>07:21</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1134180834">
+<start_time>07:21</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[时代风范]]></title>
+</event>
+<event id="1135261968">
+<start_time>07:33</start_time>
+<end_time>08:20</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261971">
+<start_time>08:20</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261974">
+<start_time>09:06</start_time>
+<end_time>09:47</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261977">
+<start_time>09:47</start_time>
+<end_time>11:08</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1134180849">
+<start_time>11:08</start_time>
+<end_time>12:36</end_time>
+<title><![CDATA[新相亲时代]]></title>
+</event>
+<event id="1134180852">
+<start_time>12:36</start_time>
+<end_time>14:23</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1134180855">
+<start_time>14:23</start_time>
+<end_time>16:10</end_time>
+<title><![CDATA[新相亲时代]]></title>
+</event>
+<event id="1134180858">
+<start_time>16:10</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[昆仑决]]></title>
+</event>
+<event id="1134180861">
+<start_time>17:48</start_time>
+<end_time>17:59</end_time>
+<title><![CDATA[福彩演播室]]></title>
+</event>
+<event id="1134180864">
+<start_time>17:59</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[时代问答]]></title>
+</event>
+<event id="1134180867">
+<start_time>18:30</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1134180870">
+<start_time>18:52</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[时空气象站]]></title>
+</event>
+<event id="1134180873">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134976050">
+<start_time>19:32</start_time>
+<end_time>20:23</end_time>
+<title><![CDATA[幸福剧场:哥哥姐姐的花样年华(2)]]></title>
+</event>
+<event id="1134976053">
+<start_time>20:23</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[幸福剧场:哥哥姐姐的花样年华(3)]]></title>
+</event>
+<event id="1134180882">
+<start_time>21:20</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[百变达人]]></title>
+</event>
+<event id="1134499182">
+<start_time>23:00</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[百变达人]]></title>
+</event>
+</schedule>
+<schedule channel_id="JSTV1" epg_code="JSTV1" date="2019-06-24">
+<event id="1134481248">
+<start_time>00:28</start_time>
+<end_time>00:39</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134481251">
+<start_time>00:39</start_time>
+<end_time>01:43</end_time>
+<title><![CDATA[阅读阅美第二季]]></title>
+</event>
+<event id="1134481254">
+<start_time>01:43</start_time>
+<end_time>02:35</end_time>
+<title><![CDATA[纪录片:诗画江南]]></title>
+</event>
+<event id="1134481257">
+<start_time>02:35</start_time>
+<end_time>03:52</end_time>
+<title><![CDATA[纪录片:诗画江南]]></title>
+</event>
+<event id="1134481260">
+<start_time>03:52</start_time>
+<end_time>04:44</end_time>
+<title><![CDATA[纪录片:诗画江南]]></title>
+</event>
+<event id="1134481263">
+<start_time>04:44</start_time>
+<end_time>05:54</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134481266">
+<start_time>05:54</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[万家灯火]]></title>
+</event>
+<event id="1134481269">
+<start_time>06:29</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:江南文脉]]></title>
+</event>
+<event id="1134481272">
+<start_time>07:00</start_time>
+<end_time>07:22</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1135261980">
+<start_time>07:22</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[早间剧场:一场遇见爱情的旅行(34)]]></title>
+</event>
+<event id="1134481278">
+<start_time>08:00</start_time>
+<end_time>08:36</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134481281">
+<start_time>08:36</start_time>
+<end_time>09:12</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261983">
+<start_time>09:12</start_time>
+<end_time>10:13</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135261986">
+<start_time>10:13</start_time>
+<end_time>11:13</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1134481290">
+<start_time>11:13</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1134481293">
+<start_time>12:50</start_time>
+<end_time>14:38</end_time>
+<title><![CDATA[新相亲大会精华版]]></title>
+</event>
+<event id="1135261989">
+<start_time>14:38</start_time>
+<end_time>15:32</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(41)]]></title>
+</event>
+<event id="1135261992">
+<start_time>15:32</start_time>
+<end_time>16:26</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(42)]]></title>
+</event>
+<event id="1135261995">
+<start_time>16:26</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(43)]]></title>
+</event>
+<event id="1134481305">
+<start_time>17:11</start_time>
+<end_time>17:59</end_time>
+<title><![CDATA[家屋室的主人]]></title>
+</event>
+<event id="1134481308">
+<start_time>17:59</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻眼]]></title>
+</event>
+<event id="1134481311">
+<start_time>18:30</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1134481314">
+<start_time>18:52</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[时空气象站]]></title>
+</event>
+<event id="1134481317">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134976068">
+<start_time>19:32</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[幸福剧场:哥哥姐姐的花样年华(4)]]></title>
+</event>
+<event id="1134976071">
+<start_time>20:24</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[幸福剧场:哥哥姐姐的花样年华(5)]]></title>
+</event>
+<event id="1134481326">
+<start_time>21:10</start_time>
+<end_time>22:17</end_time>
+<title><![CDATA[一站到底]]></title>
+</event>
+<event id="1134481329">
+<start_time>22:17</start_time>
+<end_time>23:58</end_time>
+<title><![CDATA[对话朋友圈]]></title>
+</event>
+<event id="1135080225">
+<start_time>23:58</start_time>
+<end_time>00:14</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+</schedule>
+<schedule channel_id="JSTV1" epg_code="JSTV1" date="2019-06-25">
+<event id="1135043826">
+<start_time>00:14</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[阅读阅美第二季]]></title>
+</event>
+<event id="1135043829">
+<start_time>01:19</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[纪录片:行走山河之北纬三十度]]></title>
+</event>
+<event id="1135043832">
+<start_time>02:16</start_time>
+<end_time>03:11</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135043835">
+<start_time>03:11</start_time>
+<end_time>04:07</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135043838">
+<start_time>04:07</start_time>
+<end_time>05:21</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135043841">
+<start_time>05:21</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135043844">
+<start_time>05:55</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[万家灯火]]></title>
+</event>
+<event id="1135043847">
+<start_time>06:29</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:寻味顺德]]></title>
+</event>
+<event id="1135043850">
+<start_time>07:00</start_time>
+<end_time>07:22</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1135261998">
+<start_time>07:22</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[早间剧场:一场遇见爱情的旅行(35)]]></title>
+</event>
+<event id="1135043856">
+<start_time>08:00</start_time>
+<end_time>09:13</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135262001">
+<start_time>09:13</start_time>
+<end_time>10:13</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135262004">
+<start_time>10:13</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[上午剧场:我要和你在一起]]></title>
+</event>
+<event id="1135043865">
+<start_time>11:15</start_time>
+<end_time>12:40</end_time>
+<title><![CDATA[非诚勿扰]]></title>
+</event>
+<event id="1135043868">
+<start_time>12:40</start_time>
+<end_time>14:39</end_time>
+<title><![CDATA[新相亲大会]]></title>
+</event>
+<event id="1135262007">
+<start_time>14:39</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(44)]]></title>
+</event>
+<event id="1135262010">
+<start_time>15:34</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(45)]]></title>
+</event>
+<event id="1135262013">
+<start_time>16:25</start_time>
+<end_time>17:12</end_time>
+<title><![CDATA[情感剧场:一场遇见爱情的旅行(46)]]></title>
+</event>
+<event id="1135043880">
+<start_time>17:12</start_time>
+<end_time>17:59</end_time>
+<title><![CDATA[家屋室的主人]]></title>
+</event>
+<event id="1135043883">
+<start_time>17:59</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻眼]]></title>
+</event>
+<event id="1135043886">
+<start_time>18:30</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[江苏新时空]]></title>
+</event>
+<event id="1135043889">
+<start_time>18:52</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[时空气象站]]></title>
+</event>
+<event id="1135043892">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135043895">
+<start_time>19:32</start_time>
+<end_time>20:21</end_time>
+<title><![CDATA[幸福剧场:哥哥姐姐的花样年华(6)]]></title>
+</event>
+<event id="1135043898">
+<start_time>20:21</start_time>
+<end_time>21:11</end_time>
+<title><![CDATA[幸福剧场:哥哥姐姐的花样年华(7)]]></title>
+</event>
+<event id="1135043901">
+<start_time>21:11</start_time>
+<end_time>22:10</end_time>
+<title><![CDATA[一站到底精华版]]></title>
+</event>
+<event id="1135043904">
+<start_time>22:10</start_time>
+<end_time>23:57</end_time>
+<title><![CDATA[新相亲时代]]></title>
+</event>
+<event id="1135043907">
+<start_time>23:57</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[时代问答]]></title>
+</event>
+</schedule>
+</document>

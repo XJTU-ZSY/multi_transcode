@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV7" epg_code="CCTV7" date="2019-06-18">
+<event id="1134327615">
+<start_time>00:12</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[农广天地 2019-117(A)]]></title>
+</event>
+<event id="1133854752">
+<start_time>00:55</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1133315292">
+<start_time>06:00</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134946752">
+<start_time>06:05</start_time>
+<end_time>06:35</end_time>
+<title><![CDATA[农广天地 2019-131(B)]]></title>
+</event>
+<event id="1135157025">
+<start_time>06:35</start_time>
+<end_time>07:05</end_time>
+<title><![CDATA[聚焦三农2019-06-17]]></title>
+</event>
+<event id="1133854761">
+<start_time>07:05</start_time>
+<end_time>07:50</end_time>
+<title><![CDATA[动物世界-2017-119(45分钟)]]></title>
+</event>
+<event id="1133854764">
+<start_time>07:50</start_time>
+<end_time>08:37</end_time>
+<title><![CDATA[动物世界-2017-120(45分钟)]]></title>
+</event>
+<event id="1133854767">
+<start_time>08:37</start_time>
+<end_time>09:10</end_time>
+<title><![CDATA[动物世界-2018-174]]></title>
+</event>
+<event id="1135217808">
+<start_time>09:10</start_time>
+<end_time>09:44</end_time>
+<title><![CDATA[军事纪实-2019-95]]></title>
+</event>
+<event id="1135237839">
+<start_time>09:44</start_time>
+<end_time>10:23</end_time>
+<title><![CDATA[军旅人生-2019-118]]></title>
+</event>
+<event id="1135237842">
+<start_time>10:23</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[讲武堂-2019-24]]></title>
+</event>
+<event id="1133854779">
+<start_time>11:20</start_time>
+<end_time>12:27</end_time>
+<title><![CDATA[第一动画乐园(香港)-2018-751]]></title>
+</event>
+<event id="1135249749">
+<start_time>12:27</start_time>
+<end_time>12:57</end_time>
+<title><![CDATA[乡土2019-119]]></title>
+</event>
+<event id="1135250472">
+<start_time>12:57</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[聚焦三农2019-06-17]]></title>
+</event>
+<event id="1135250475">
+<start_time>13:22</start_time>
+<end_time>13:42</end_time>
+<title><![CDATA[每日农经2019-101]]></title>
+</event>
+<event id="1135260018">
+<start_time>13:42</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[致富经2019-106]]></title>
+</event>
+<event id="1135261596">
+<start_time>14:13</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[乡土2019-118]]></title>
+</event>
+<event id="1135262457">
+<start_time>14:43</start_time>
+<end_time>15:13</end_time>
+<title><![CDATA[农广天地 2019-119(A)]]></title>
+</event>
+<event id="1135262460">
+<start_time>15:13</start_time>
+<end_time>15:20</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1133854800">
+<start_time>15:20</start_time>
+<end_time>16:13</end_time>
+<title><![CDATA[时代楷模发布厅-2019-6]]></title>
+</event>
+<event id="1135217460">
+<start_time>16:13</start_time>
+<end_time>16:27</end_time>
+<title><![CDATA[航拍中国 第二季广东山野]]></title>
+</event>
+<event id="1133854806">
+<start_time>16:27</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[讲武堂-2019-24]]></title>
+</event>
+<event id="1133854809">
+<start_time>17:30</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[军旅人生-2019-118]]></title>
+</event>
+<event id="1134946770">
+<start_time>18:05</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[美丽中国乡村行2019-82]]></title>
+</event>
+<event id="1134946773">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[科技苑2019-88]]></title>
+</event>
+<event id="1134946776">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[农广天地 2019-133(B)]]></title>
+</event>
+<event id="1133854821">
+<start_time>19:33</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[军事报道-2019-06-18]]></title>
+</event>
+<event id="1133854824">
+<start_time>20:00</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[军事纪实-2019-96]]></title>
+</event>
+<event id="1133854827">
+<start_time>20:35</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[动物世界-2019-114]]></title>
+</event>
+<event id="1133315367">
+<start_time>21:12</start_time>
+<end_time>21:17</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134946779">
+<start_time>21:17</start_time>
+<end_time>21:47</end_time>
+<title><![CDATA[致富经2019-107]]></title>
+</event>
+<event id="1134946782">
+<start_time>21:47</start_time>
+<end_time>22:07</end_time>
+<title><![CDATA[每日农经2019-102]]></title>
+</event>
+<event id="1133854836">
+<start_time>22:07</start_time>
+<end_time>22:40</end_time>
+<title><![CDATA[聚焦三农-2019-06-18]]></title>
+</event>
+<event id="1133854839">
+<start_time>22:40</start_time>
+<end_time>23:17</end_time>
+<title><![CDATA[军旅人生-2019-119]]></title>
+</event>
+<event id="1134946785">
+<start_time>23:17</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[美丽中国乡村行2019-81]]></title>
+</event>
+<event id="1134946788">
+<start_time>23:42</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[科技苑2019-87]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV7" epg_code="CCTV7" date="2019-06-19">
+<event id="1134946791">
+<start_time>00:12</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[农广天地 2019-118(A)]]></title>
+</event>
+<event id="1133854851">
+<start_time>00:55</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1133854854">
+<start_time>06:00</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1135246470">
+<start_time>06:05</start_time>
+<end_time>06:35</end_time>
+<title><![CDATA[农广天地 2019-132(B)]]></title>
+</event>
+<event id="1133854860">
+<start_time>06:35</start_time>
+<end_time>07:05</end_time>
+<title><![CDATA[聚焦三农-2019-06-18]]></title>
+</event>
+<event id="1133854863">
+<start_time>07:05</start_time>
+<end_time>07:50</end_time>
+<title><![CDATA[动物世界-2017-121(45分钟)]]></title>
+</event>
+<event id="1133854866">
+<start_time>07:50</start_time>
+<end_time>08:37</end_time>
+<title><![CDATA[动物世界-2017-122(45分钟)]]></title>
+</event>
+<event id="1133854869">
+<start_time>08:37</start_time>
+<end_time>09:10</end_time>
+<title><![CDATA[动物世界-2018-175]]></title>
+</event>
+<event id="1133854872">
+<start_time>09:10</start_time>
+<end_time>09:40</end_time>
+<title><![CDATA[军事纪实-2019-96]]></title>
+</event>
+<event id="1133854875">
+<start_time>09:40</start_time>
+<end_time>10:18</end_time>
+<title><![CDATA[军旅人生-2019-119]]></title>
+</event>
+<event id="1133854878">
+<start_time>10:18</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[军营大舞台-2019-23]]></title>
+</event>
+<event id="1133854881">
+<start_time>11:20</start_time>
+<end_time>12:27</end_time>
+<title><![CDATA[第一动画乐园(香港)-2018-752]]></title>
+</event>
+<event id="1135246473">
+<start_time>12:27</start_time>
+<end_time>12:57</end_time>
+<title><![CDATA[乡土2019-120]]></title>
+</event>
+<event id="1133854887">
+<start_time>12:57</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[聚焦三农-2019-06-18]]></title>
+</event>
+<event id="1135246476">
+<start_time>13:22</start_time>
+<end_time>13:42</end_time>
+<title><![CDATA[每日农经2019-102]]></title>
+</event>
+<event id="1135246479">
+<start_time>13:42</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[致富经2019-107]]></title>
+</event>
+<event id="1135246482">
+<start_time>14:13</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[乡土2019-119]]></title>
+</event>
+<event id="1135246485">
+<start_time>14:43</start_time>
+<end_time>15:12</end_time>
+<title><![CDATA[农广天地 2019-120(A)]]></title>
+</event>
+<event id="1133854902">
+<start_time>15:12</start_time>
+<end_time>15:20</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1133854905">
+<start_time>15:20</start_time>
+<end_time>15:57</end_time>
+<title><![CDATA[人与自然-2019-119]]></title>
+</event>
+<event id="1133854908">
+<start_time>15:57</start_time>
+<end_time>16:27</end_time>
+<title><![CDATA[军事纪实-2019-96]]></title>
+</event>
+<event id="1133854911">
+<start_time>16:27</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[军营大舞台-2019-23]]></title>
+</event>
+<event id="1133854914">
+<start_time>17:30</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[军旅人生-2019-119]]></title>
+</event>
+<event id="1135246488">
+<start_time>18:05</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[美丽中国乡村行2019-83]]></title>
+</event>
+<event id="1135246491">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[科技苑2019-89]]></title>
+</event>
+<event id="1135246494">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[农广天地 2019-134(B)]]></title>
+</event>
+<event id="1133854926">
+<start_time>19:33</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[军事报道-2019-06-19]]></title>
+</event>
+<event id="1133854929">
+<start_time>20:00</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[军事纪实-2019-97]]></title>
+</event>
+<event id="1133854932">
+<start_time>20:35</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[动物世界-2019-115]]></title>
+</event>
+<event id="1133854935">
+<start_time>21:12</start_time>
+<end_time>21:17</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1135246497">
+<start_time>21:17</start_time>
+<end_time>21:47</end_time>
+<title><![CDATA[致富经2019-108]]></title>
+</event>
+<event id="1135246500">
+<start_time>21:47</start_time>
+<end_time>22:07</end_time>
+<title><![CDATA[每日农经2019-103]]></title>
+</event>
+<event id="1133854944">
+<start_time>22:07</start_time>
+<end_time>22:40</end_time>
+<title><![CDATA[聚焦三农-2019-06-19]]></title>
+</event>
+<event id="1133854947">
+<start_time>22:40</start_time>
+<end_time>23:17</end_time>
+<title><![CDATA[军旅人生-2019-120]]></title>
+</event>
+<event id="1135246503">
+<start_time>23:17</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[美丽中国乡村行2019-82]]></title>
+</event>
+<event id="1135246506">
+<start_time>23:42</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[科技苑2019-88]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV7" epg_code="CCTV7" date="2019-06-20">
+<event id="1135246509">
+<start_time>00:12</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[农广天地 2019-119(A)]]></title>
+</event>
+<event id="1133854959">
+<start_time>00:55</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1133854962">
+<start_time>06:00</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1133854965">
+<start_time>06:05</start_time>
+<end_time>06:35</end_time>
+<title><![CDATA[农广天地-2019-133(B)]]></title>
+</event>
+<event id="1133854968">
+<start_time>06:35</start_time>
+<end_time>07:05</end_time>
+<title><![CDATA[聚焦三农-2019-06-19]]></title>
+</event>
+<event id="1133854971">
+<start_time>07:05</start_time>
+<end_time>07:50</end_time>
+<title><![CDATA[动物世界-2017-123(45分钟)]]></title>
+</event>
+<event id="1133854974">
+<start_time>07:50</start_time>
+<end_time>08:37</end_time>
+<title><![CDATA[动物世界-2017-124(45分钟)]]></title>
+</event>
+<event id="1133854977">
+<start_time>08:37</start_time>
+<end_time>09:10</end_time>
+<title><![CDATA[动物世界-2018-176]]></title>
+</event>
+<event id="1133854980">
+<start_time>09:10</start_time>
+<end_time>09:40</end_time>
+<title><![CDATA[军事纪实-2019-97]]></title>
+</event>
+<event id="1133854983">
+<start_time>09:40</start_time>
+<end_time>10:18</end_time>
+<title><![CDATA[军旅人生-2019-120]]></title>
+</event>
+<event id="1133854986">
+<start_time>10:18</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[谁是终极英雄-2019-24]]></title>
+</event>
+<event id="1133854989">
+<start_time>11:20</start_time>
+<end_time>12:27</end_time>
+<title><![CDATA[第一动画乐园(香港)-2018-753]]></title>
+</event>
+<event id="1133854992">
+<start_time>12:27</start_time>
+<end_time>12:57</end_time>
+<title><![CDATA[乡土-2019-121]]></title>
+</event>
+<event id="1133854995">
+<start_time>12:57</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[聚焦三农-2019-06-19]]></title>
+</event>
+<event id="1133854998">
+<start_time>13:22</start_time>
+<end_time>13:42</end_time>
+<title><![CDATA[每日农经-2019-103]]></title>
+</event>
+<event id="1133855001">
+<start_time>13:42</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[致富经-2019-108]]></title>
+</event>
+<event id="1133855004">
+<start_time>14:13</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[乡土-2019-120]]></title>
+</event>
+<event id="1133855007">
+<start_time>14:43</start_time>
+<end_time>15:12</end_time>
+<title><![CDATA[农广天地-2019-121(A)]]></title>
+</event>
+<event id="1133855010">
+<start_time>15:12</start_time>
+<end_time>15:20</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1133855013">
+<start_time>15:20</start_time>
+<end_time>15:57</end_time>
+<title><![CDATA[人与自然-2019-125]]></title>
+</event>
+<event id="1133855016">
+<start_time>15:57</start_time>
+<end_time>16:27</end_time>
+<title><![CDATA[军事纪实-2019-97]]></title>
+</event>
+<event id="1133855019">
+<start_time>16:27</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[谁是终极英雄-2019-24]]></title>
+</event>
+<event id="1133855022">
+<start_time>17:30</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[军旅人生-2019-120]]></title>
+</event>
+<event id="1133855025">
+<start_time>18:05</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[美丽中国乡村行-2019-84]]></title>
+</event>
+<event id="1133855028">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[科技苑-2019-90]]></title>
+</event>
+<event id="1133855031">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[农广天地-2019-135(B)]]></title>
+</event>
+<event id="1133855034">
+<start_time>19:33</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[军事报道-2019-06-20]]></title>
+</event>
+<event id="1133855037">
+<start_time>20:00</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[军事纪实-2019-98]]></title>
+</event>
+<event id="1133855040">
+<start_time>20:35</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[动物世界-2019-116]]></title>
+</event>
+<event id="1133855043">
+<start_time>21:12</start_time>
+<end_time>21:17</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1133855046">
+<start_time>21:17</start_time>
+<end_time>21:47</end_time>
+<title><![CDATA[致富经-2019-109]]></title>
+</event>
+<event id="1133855049">
+<start_time>21:47</start_time>
+<end_time>22:07</end_time>
+<title><![CDATA[每日农经-2019-104]]></title>
+</event>
+<event id="1133855052">
+<start_time>22:07</start_time>
+<end_time>22:40</end_time>
+<title><![CDATA[聚焦三农-2019-06-20]]></title>
+</event>
+<event id="1133855055">
+<start_time>22:40</start_time>
+<end_time>23:17</end_time>
+<title><![CDATA[军旅人生-2019-121]]></title>
+</event>
+<event id="1133855058">
+<start_time>23:17</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[美丽中国乡村行-2019-83]]></title>
+</event>
+<event id="1134040656">
+<start_time>23:42</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[科技苑-2019-89]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV7" epg_code="CCTV7" date="2019-06-21">
+<event id="1134040659">
+<start_time>00:12</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[农广天地-2019-120(A)]]></title>
+</event>
+<event id="1134040662">
+<start_time>00:55</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1134040665">
+<start_time>06:00</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134040668">
+<start_time>06:05</start_time>
+<end_time>06:35</end_time>
+<title><![CDATA[农广天地-2019-134(B)]]></title>
+</event>
+<event id="1134040671">
+<start_time>06:35</start_time>
+<end_time>07:05</end_time>
+<title><![CDATA[聚焦三农-2019-06-20]]></title>
+</event>
+<event id="1134040674">
+<start_time>07:05</start_time>
+<end_time>07:50</end_time>
+<title><![CDATA[动物世界-2017-125(45分钟)]]></title>
+</event>
+<event id="1134040677">
+<start_time>07:50</start_time>
+<end_time>08:37</end_time>
+<title><![CDATA[动物世界-2017-126(45分钟)]]></title>
+</event>
+<event id="1134040680">
+<start_time>08:37</start_time>
+<end_time>09:10</end_time>
+<title><![CDATA[动物世界-2018-177]]></title>
+</event>
+<event id="1134040683">
+<start_time>09:10</start_time>
+<end_time>09:40</end_time>
+<title><![CDATA[军事纪实-2019-98]]></title>
+</event>
+<event id="1134040686">
+<start_time>09:40</start_time>
+<end_time>10:18</end_time>
+<title><![CDATA[军旅人生-2019-121]]></title>
+</event>
+<event id="1134040689">
+<start_time>10:18</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[军旅文化.大视野-2019-23]]></title>
+</event>
+<event id="1134040692">
+<start_time>11:20</start_time>
+<end_time>12:27</end_time>
+<title><![CDATA[第一动画乐园(香港)-2018-754]]></title>
+</event>
+<event id="1134040695">
+<start_time>12:27</start_time>
+<end_time>12:57</end_time>
+<title><![CDATA[乡土-2019-122]]></title>
+</event>
+<event id="1134040698">
+<start_time>12:57</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[聚焦三农-2019-06-20]]></title>
+</event>
+<event id="1134040701">
+<start_time>13:22</start_time>
+<end_time>13:42</end_time>
+<title><![CDATA[每日农经-2019-104]]></title>
+</event>
+<event id="1134040704">
+<start_time>13:42</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[致富经-2019-109]]></title>
+</event>
+<event id="1134040707">
+<start_time>14:13</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[乡土-2019-121]]></title>
+</event>
+<event id="1134040710">
+<start_time>14:43</start_time>
+<end_time>15:12</end_time>
+<title><![CDATA[农广天地-2019-122(A)]]></title>
+</event>
+<event id="1134040713">
+<start_time>15:12</start_time>
+<end_time>15:20</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134040716">
+<start_time>15:20</start_time>
+<end_time>15:57</end_time>
+<title><![CDATA[人与自然-2019-126]]></title>
+</event>
+<event id="1134040719">
+<start_time>15:57</start_time>
+<end_time>16:27</end_time>
+<title><![CDATA[军事纪实-2019-98]]></title>
+</event>
+<event id="1134040722">
+<start_time>16:27</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[军旅文化.大视野-2019-24]]></title>
+</event>
+<event id="1134040725">
+<start_time>17:30</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[军旅人生-2019-121]]></title>
+</event>
+<event id="1134040728">
+<start_time>18:05</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[乡村法制剧场-2019-22]]></title>
+</event>
+<event id="1134040731">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[农广天地-2019-136(B)]]></title>
+</event>
+<event id="1134040734">
+<start_time>19:33</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[军事报道-2019-06-21]]></title>
+</event>
+<event id="1134040737">
+<start_time>20:00</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[防务新观察-2019-73]]></title>
+</event>
+<event id="1134040740">
+<start_time>20:35</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[动物世界-2019-117]]></title>
+</event>
+<event id="1134040743">
+<start_time>21:12</start_time>
+<end_time>21:17</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134040746">
+<start_time>21:17</start_time>
+<end_time>21:47</end_time>
+<title><![CDATA[致富经-2019-110]]></title>
+</event>
+<event id="1134040749">
+<start_time>21:47</start_time>
+<end_time>22:07</end_time>
+<title><![CDATA[每日农经-2019-105]]></title>
+</event>
+<event id="1134040752">
+<start_time>22:07</start_time>
+<end_time>22:40</end_time>
+<title><![CDATA[聚焦三农-2019-06-21]]></title>
+</event>
+<event id="1134040755">
+<start_time>22:40</start_time>
+<end_time>23:17</end_time>
+<title><![CDATA[军旅人生-2019-122]]></title>
+</event>
+<event id="1134040758">
+<start_time>23:17</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[美丽中国乡村行-2019-84]]></title>
+</event>
+<event id="1134289455">
+<start_time>23:42</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[科技苑-2019-90]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV7" epg_code="CCTV7" date="2019-06-22">
+<event id="1134289458">
+<start_time>00:12</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[农广天地-2019-121(A)]]></title>
+</event>
+<event id="1134289461">
+<start_time>00:55</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1134289464">
+<start_time>06:00</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134289467">
+<start_time>06:05</start_time>
+<end_time>06:35</end_time>
+<title><![CDATA[农广天地-2019-135(B)]]></title>
+</event>
+<event id="1134289470">
+<start_time>06:35</start_time>
+<end_time>07:05</end_time>
+<title><![CDATA[聚焦三农-2019-06-21]]></title>
+</event>
+<event id="1134289473">
+<start_time>07:05</start_time>
+<end_time>07:50</end_time>
+<title><![CDATA[动物世界-2017-127(45分钟)]]></title>
+</event>
+<event id="1134289476">
+<start_time>07:50</start_time>
+<end_time>08:37</end_time>
+<title><![CDATA[动物世界-2017-128(45分钟)]]></title>
+</event>
+<event id="1134289479">
+<start_time>08:37</start_time>
+<end_time>09:10</end_time>
+<title><![CDATA[动物世界-2018-178]]></title>
+</event>
+<event id="1134289482">
+<start_time>09:10</start_time>
+<end_time>09:40</end_time>
+<title><![CDATA[防务新观察-2019-73]]></title>
+</event>
+<event id="1134289485">
+<start_time>09:40</start_time>
+<end_time>10:17</end_time>
+<title><![CDATA[军迷淘天下-2019-23]]></title>
+</event>
+<event id="1134289488">
+<start_time>10:17</start_time>
+<end_time>11:19</end_time>
+<title><![CDATA[讲武堂-2019-25]]></title>
+</event>
+<event id="1134289491">
+<start_time>11:19</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[第一动画乐园(香港)-2019-33]]></title>
+</event>
+<event id="1134289494">
+<start_time>12:05</start_time>
+<end_time>12:57</end_time>
+<title><![CDATA[第一动画乐园(香港)-2019-32]]></title>
+</event>
+<event id="1134289497">
+<start_time>12:57</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[聚焦三农-2019-06-21]]></title>
+</event>
+<event id="1134289500">
+<start_time>13:22</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[食尚大转盘-2019-22]]></title>
+</event>
+<event id="1134289503">
+<start_time>14:13</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[科技苑-2019-95]]></title>
+</event>
+<event id="1134289506">
+<start_time>14:43</start_time>
+<end_time>15:12</end_time>
+<title><![CDATA[动物世界-2019-118]]></title>
+</event>
+<event id="1134289509">
+<start_time>15:12</start_time>
+<end_time>15:20</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134289512">
+<start_time>15:20</start_time>
+<end_time>15:57</end_time>
+<title><![CDATA[人与自然-2019-120]]></title>
+</event>
+<event id="1134289515">
+<start_time>15:57</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[百战经典-2019-25]]></title>
+</event>
+<event id="1134289518">
+<start_time>17:00</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[军营大舞台-2019-24]]></title>
+</event>
+<event id="1134289521">
+<start_time>18:05</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[乡村大世界-2019-23]]></title>
+</event>
+<event id="1134289524">
+<start_time>19:33</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[军事报道-2019-06-22]]></title>
+</event>
+<event id="1134289527">
+<start_time>20:00</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[防务新观察-2019-74]]></title>
+</event>
+<event id="1134289530">
+<start_time>20:35</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[动物世界-2019-118]]></title>
+</event>
+<event id="1134289533">
+<start_time>21:12</start_time>
+<end_time>21:17</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134289536">
+<start_time>21:17</start_time>
+<end_time>22:07</end_time>
+<title><![CDATA[乡约-2019-22]]></title>
+</event>
+<event id="1134289539">
+<start_time>22:07</start_time>
+<end_time>22:40</end_time>
+<title><![CDATA[聚焦三农-2019-06-22]]></title>
+</event>
+<event id="1134289542">
+<start_time>22:40</start_time>
+<end_time>23:17</end_time>
+<title><![CDATA[军事科技-2019-25]]></title>
+</event>
+<event id="1134418845">
+<start_time>23:17</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[阳光大道-2019-22]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV7" epg_code="CCTV7" date="2019-06-23">
+<event id="1134418848">
+<start_time>00:12</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[农广天地-2019-122(A)]]></title>
+</event>
+<event id="1134418851">
+<start_time>00:55</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1134418854">
+<start_time>06:00</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134418857">
+<start_time>06:05</start_time>
+<end_time>06:35</end_time>
+<title><![CDATA[农广天地-2019-136(B)]]></title>
+</event>
+<event id="1134418860">
+<start_time>06:35</start_time>
+<end_time>07:05</end_time>
+<title><![CDATA[聚焦三农-2019-06-22]]></title>
+</event>
+<event id="1134418863">
+<start_time>07:05</start_time>
+<end_time>07:50</end_time>
+<title><![CDATA[动物世界-2017-129(45分钟)]]></title>
+</event>
+<event id="1134418866">
+<start_time>07:50</start_time>
+<end_time>08:37</end_time>
+<title><![CDATA[动物世界-2017-130(45分钟)]]></title>
+</event>
+<event id="1134418869">
+<start_time>08:37</start_time>
+<end_time>09:10</end_time>
+<title><![CDATA[动物世界-2018-179]]></title>
+</event>
+<event id="1134418872">
+<start_time>09:10</start_time>
+<end_time>09:40</end_time>
+<title><![CDATA[防务新观察-2019-74]]></title>
+</event>
+<event id="1134418875">
+<start_time>09:40</start_time>
+<end_time>10:17</end_time>
+<title><![CDATA[军事科技-2019-25]]></title>
+</event>
+<event id="1134418878">
+<start_time>10:17</start_time>
+<end_time>11:19</end_time>
+<title><![CDATA[军旅文化.大视野-2019-24]]></title>
+</event>
+<event id="1134418881">
+<start_time>11:19</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[第一动画乐园(香港)-2019-35]]></title>
+</event>
+<event id="1134418884">
+<start_time>12:05</start_time>
+<end_time>12:57</end_time>
+<title><![CDATA[第一动画乐园(香港)-2019-36]]></title>
+</event>
+<event id="1134418887">
+<start_time>12:57</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[聚焦三农-2019-06-22]]></title>
+</event>
+<event id="1134418890">
+<start_time>13:22</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[乡约-2019-22]]></title>
+</event>
+<event id="1134418893">
+<start_time>14:13</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[农广天地-2019-25(C)]]></title>
+</event>
+<event id="1134418896">
+<start_time>14:43</start_time>
+<end_time>15:12</end_time>
+<title><![CDATA[人与自然-2019-122]]></title>
+</event>
+<event id="1134418899">
+<start_time>15:12</start_time>
+<end_time>15:20</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134418902">
+<start_time>15:20</start_time>
+<end_time>15:57</end_time>
+<title><![CDATA[防务新观察-2019-74]]></title>
+</event>
+<event id="1134418905">
+<start_time>15:57</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[谁是终极英雄-2019-25]]></title>
+</event>
+<event id="1134418908">
+<start_time>17:00</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[中国武警-2019-23]]></title>
+</event>
+<event id="1134418911">
+<start_time>17:30</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[军迷淘天下-2019-24]]></title>
+</event>
+<event id="1134418914">
+<start_time>18:05</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[阳光大道-2019-23]]></title>
+</event>
+<event id="1134418917">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[农广天地-2019-137(B)]]></title>
+</event>
+<event id="1134418920">
+<start_time>19:33</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[军事报道-2019-06-23]]></title>
+</event>
+<event id="1134418923">
+<start_time>20:00</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[防务新观察-2019-75]]></title>
+</event>
+<event id="1134418926">
+<start_time>20:35</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[动物世界-2019-119]]></title>
+</event>
+<event id="1134418929">
+<start_time>21:12</start_time>
+<end_time>21:17</end_time>
+<title><![CDATA[农业气象]]></title>
+</event>
+<event id="1134418932">
+<start_time>21:17</start_time>
+<end_time>22:07</end_time>
+<title><![CDATA[食尚大转盘-2019-23]]></title>
+</event>
+<event id="1134418935">
+<start_time>22:07</start_time>
+<end_time>22:40</end_time>
+<title><![CDATA[聚焦三农-2019-06-23]]></title>
+</event>
+<event id="1134418938">
+<start_time>22:40</start_time>
+<end_time>23:17</end_time>
+<title><![CDATA[中国武警-2019-24]]></title>
+</event>
+<event id="1134418941">
+<start_time>23:17</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[乡村大世界-2019-23]]></title>
+</event>
+</schedule>
+</document>

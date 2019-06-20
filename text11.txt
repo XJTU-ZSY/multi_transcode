@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV12" epg_code="CCTV12" date="2019-06-18">
+<event id="1133859294">
+<start_time>00:48</start_time>
+<end_time>01:32</end_time>
+<title><![CDATA[一线-2019-162]]></title>
+</event>
+<event id="1134327675">
+<start_time>01:32</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[夜线-2019-96]]></title>
+</event>
+<event id="1134327678">
+<start_time>02:16</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133859300">
+<start_time>06:00</start_time>
+<end_time>06:24</end_time>
+<title><![CDATA[夕阳红-2019-168]]></title>
+</event>
+<event id="1133859303">
+<start_time>06:24</start_time>
+<end_time>06:46</end_time>
+<title><![CDATA[道德观察(日播版)-2019-168]]></title>
+</event>
+<event id="1133859306">
+<start_time>06:46</start_time>
+<end_time>07:20</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-168]]></title>
+</event>
+<event id="1133859309">
+<start_time>07:20</start_time>
+<end_time>07:44</end_time>
+<title><![CDATA[平安365-2019-168]]></title>
+</event>
+<event id="1133859312">
+<start_time>07:44</start_time>
+<end_time>08:07</end_time>
+<title><![CDATA[夕阳红-2019-168]]></title>
+</event>
+<event id="1135202709">
+<start_time>08:07</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[普法栏目剧-听见凉山]]></title>
+</event>
+<event id="1135202691">
+<start_time>09:00</start_time>
+<end_time>09:54</end_time>
+<title><![CDATA[普法栏目剧-听见凉山]]></title>
+</event>
+<event id="1135238169">
+<start_time>09:54</start_time>
+<end_time>10:48</end_time>
+<title><![CDATA[普法栏目剧-听见凉山]]></title>
+</event>
+<event id="1135238172">
+<start_time>10:48</start_time>
+<end_time>11:40</end_time>
+<title><![CDATA[普法栏目剧-听见凉山]]></title>
+</event>
+<event id="1133859327">
+<start_time>11:40</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[平安365-2019-169]]></title>
+</event>
+<event id="1133859330">
+<start_time>12:00</start_time>
+<end_time>12:44</end_time>
+<title><![CDATA[热线12-2019-169]]></title>
+</event>
+<event id="1135250550">
+<start_time>12:44</start_time>
+<end_time>13:31</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-18/29]]></title>
+</event>
+<event id="1135250553">
+<start_time>13:31</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-19/29]]></title>
+</event>
+<event id="1133859339">
+<start_time>14:18</start_time>
+<end_time>15:03</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-20/29]]></title>
+</event>
+<event id="1133859342">
+<start_time>15:03</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-21/29]]></title>
+</event>
+<event id="1133859345">
+<start_time>15:48</start_time>
+<end_time>16:08</end_time>
+<title><![CDATA[夕阳红-2019-169]]></title>
+</event>
+<event id="1133859348">
+<start_time>16:08</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[法律讲堂-2019-167]]></title>
+</event>
+<event id="1133859351">
+<start_time>16:40</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热线12-2019-169]]></title>
+</event>
+<event id="1133859354">
+<start_time>17:20</start_time>
+<end_time>18:01</end_time>
+<title><![CDATA[天网-2019-113]]></title>
+</event>
+<event id="1135202715">
+<start_time>18:01</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[普法栏目剧-谎言的终点]]></title>
+</event>
+<event id="1133859360">
+<start_time>18:52</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[法律讲堂-2019-168]]></title>
+</event>
+<event id="1133859363">
+<start_time>19:24</start_time>
+<end_time>20:07</end_time>
+<title><![CDATA[一线-2019-163]]></title>
+</event>
+<event id="1133859366">
+<start_time>20:07</start_time>
+<end_time>20:49</end_time>
+<title><![CDATA[天网-2019-110]]></title>
+</event>
+<event id="1133859369">
+<start_time>20:49</start_time>
+<end_time>21:39</end_time>
+<title><![CDATA[普法栏目剧2019-166]]></title>
+</event>
+<event id="1133859372">
+<start_time>21:39</start_time>
+<end_time>21:42</end_time>
+<title><![CDATA[2019体彩开奖-2019-162]]></title>
+</event>
+<event id="1133859375">
+<start_time>21:42</start_time>
+<end_time>22:03</end_time>
+<title><![CDATA[道德观察(日播版)-2019-169]]></title>
+</event>
+<event id="1133859378">
+<start_time>22:03</start_time>
+<end_time>22:43</end_time>
+<title><![CDATA[夜线-2019-97]]></title>
+</event>
+<event id="1133859381">
+<start_time>22:43</start_time>
+<end_time>23:13</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-169]]></title>
+</event>
+<event id="1133859384">
+<start_time>23:13</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[天网-2019-110]]></title>
+</event>
+<event id="1133859387">
+<start_time>23:55</start_time>
+<end_time>00:48</end_time>
+<title><![CDATA[普法栏目剧2019-166]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV12" epg_code="CCTV12" date="2019-06-19">
+<event id="1133859390">
+<start_time>00:48</start_time>
+<end_time>01:32</end_time>
+<title><![CDATA[一线-2019-163]]></title>
+</event>
+<event id="1134946941">
+<start_time>01:32</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[夜线-2019-97]]></title>
+</event>
+<event id="1134946944">
+<start_time>02:16</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133859396">
+<start_time>06:00</start_time>
+<end_time>06:24</end_time>
+<title><![CDATA[夕阳红-2019-169]]></title>
+</event>
+<event id="1133859399">
+<start_time>06:24</start_time>
+<end_time>06:46</end_time>
+<title><![CDATA[道德观察(日播版)-2019-169]]></title>
+</event>
+<event id="1133859402">
+<start_time>06:46</start_time>
+<end_time>07:20</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-169]]></title>
+</event>
+<event id="1133859405">
+<start_time>07:20</start_time>
+<end_time>07:44</end_time>
+<title><![CDATA[平安365-2019-169]]></title>
+</event>
+<event id="1133859408">
+<start_time>07:44</start_time>
+<end_time>08:07</end_time>
+<title><![CDATA[夕阳红-2019-169]]></title>
+</event>
+<event id="1133859411">
+<start_time>08:07</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[普法栏目剧2017-225]]></title>
+</event>
+<event id="1133859414">
+<start_time>09:00</start_time>
+<end_time>09:54</end_time>
+<title><![CDATA[普法栏目剧2017-226]]></title>
+</event>
+<event id="1133859417">
+<start_time>09:54</start_time>
+<end_time>10:48</end_time>
+<title><![CDATA[普法栏目剧2017-227]]></title>
+</event>
+<event id="1133859420">
+<start_time>10:48</start_time>
+<end_time>11:40</end_time>
+<title><![CDATA[普法栏目剧2017-228]]></title>
+</event>
+<event id="1133859423">
+<start_time>11:40</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[平安365-2019-170]]></title>
+</event>
+<event id="1133859426">
+<start_time>12:00</start_time>
+<end_time>12:44</end_time>
+<title><![CDATA[热线12-2019-170]]></title>
+</event>
+<event id="1133859429">
+<start_time>12:44</start_time>
+<end_time>13:31</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-22/29]]></title>
+</event>
+<event id="1133859432">
+<start_time>13:31</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-23/29]]></title>
+</event>
+<event id="1133859435">
+<start_time>14:18</start_time>
+<end_time>15:03</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-24/29]]></title>
+</event>
+<event id="1133859438">
+<start_time>15:03</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-25/29]]></title>
+</event>
+<event id="1133859441">
+<start_time>15:48</start_time>
+<end_time>16:08</end_time>
+<title><![CDATA[夕阳红-2019-170]]></title>
+</event>
+<event id="1133859444">
+<start_time>16:08</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[法律讲堂-2019-168]]></title>
+</event>
+<event id="1133859447">
+<start_time>16:40</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热线12-2019-170]]></title>
+</event>
+<event id="1133859450">
+<start_time>17:20</start_time>
+<end_time>18:01</end_time>
+<title><![CDATA[天网-2019-110]]></title>
+</event>
+<event id="1133859453">
+<start_time>18:01</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[普法栏目剧2019-166]]></title>
+</event>
+<event id="1133859456">
+<start_time>18:52</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[法律讲堂-2019-169]]></title>
+</event>
+<event id="1133859459">
+<start_time>19:24</start_time>
+<end_time>20:07</end_time>
+<title><![CDATA[一线-2019-164]]></title>
+</event>
+<event id="1133859462">
+<start_time>20:07</start_time>
+<end_time>20:49</end_time>
+<title><![CDATA[天网-2019-114]]></title>
+</event>
+<event id="1133859465">
+<start_time>20:49</start_time>
+<end_time>21:39</end_time>
+<title><![CDATA[普法栏目剧2019-167]]></title>
+</event>
+<event id="1133859468">
+<start_time>21:39</start_time>
+<end_time>21:42</end_time>
+<title><![CDATA[2019体彩开奖-2019-163]]></title>
+</event>
+<event id="1133859471">
+<start_time>21:42</start_time>
+<end_time>22:03</end_time>
+<title><![CDATA[道德观察(日播版)-2019-170]]></title>
+</event>
+<event id="1133859474">
+<start_time>22:03</start_time>
+<end_time>22:43</end_time>
+<title><![CDATA[夜线-2019-98]]></title>
+</event>
+<event id="1133859477">
+<start_time>22:43</start_time>
+<end_time>23:13</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-170]]></title>
+</event>
+<event id="1133859480">
+<start_time>23:13</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[天网-2019-114]]></title>
+</event>
+<event id="1133859483">
+<start_time>23:55</start_time>
+<end_time>00:48</end_time>
+<title><![CDATA[普法栏目剧2019-167]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV12" epg_code="CCTV12" date="2019-06-20">
+<event id="1133859486">
+<start_time>00:48</start_time>
+<end_time>01:32</end_time>
+<title><![CDATA[一线-2019-164]]></title>
+</event>
+<event id="1135246578">
+<start_time>01:32</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[夜线-2019-98]]></title>
+</event>
+<event id="1135246581">
+<start_time>02:16</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133859492">
+<start_time>06:00</start_time>
+<end_time>06:24</end_time>
+<title><![CDATA[夕阳红-2019-170]]></title>
+</event>
+<event id="1133859495">
+<start_time>06:24</start_time>
+<end_time>06:46</end_time>
+<title><![CDATA[道德观察(日播版)-2019-170]]></title>
+</event>
+<event id="1133859498">
+<start_time>06:46</start_time>
+<end_time>07:20</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-170]]></title>
+</event>
+<event id="1133859501">
+<start_time>07:20</start_time>
+<end_time>07:44</end_time>
+<title><![CDATA[平安365-2019-170]]></title>
+</event>
+<event id="1133859504">
+<start_time>07:44</start_time>
+<end_time>08:07</end_time>
+<title><![CDATA[夕阳红-2019-170]]></title>
+</event>
+<event id="1133859507">
+<start_time>08:07</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[普法栏目剧2017-229]]></title>
+</event>
+<event id="1133859510">
+<start_time>09:00</start_time>
+<end_time>09:54</end_time>
+<title><![CDATA[普法栏目剧2017-230]]></title>
+</event>
+<event id="1133859513">
+<start_time>09:54</start_time>
+<end_time>10:48</end_time>
+<title><![CDATA[普法栏目剧2017-231]]></title>
+</event>
+<event id="1133859516">
+<start_time>10:48</start_time>
+<end_time>11:40</end_time>
+<title><![CDATA[普法栏目剧2017-232]]></title>
+</event>
+<event id="1133859519">
+<start_time>11:40</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[平安365-2019-171]]></title>
+</event>
+<event id="1133859522">
+<start_time>12:00</start_time>
+<end_time>12:44</end_time>
+<title><![CDATA[热线12-2019-171]]></title>
+</event>
+<event id="1133859525">
+<start_time>12:44</start_time>
+<end_time>13:31</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-26/29]]></title>
+</event>
+<event id="1133859528">
+<start_time>13:31</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-27/29]]></title>
+</event>
+<event id="1133859531">
+<start_time>14:18</start_time>
+<end_time>15:03</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-28/29]]></title>
+</event>
+<event id="1133859534">
+<start_time>15:03</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-正义的重量-29/29]]></title>
+</event>
+<event id="1133859537">
+<start_time>15:48</start_time>
+<end_time>16:08</end_time>
+<title><![CDATA[夕阳红-2019-171]]></title>
+</event>
+<event id="1133859540">
+<start_time>16:08</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[法律讲堂-2019-169]]></title>
+</event>
+<event id="1133859543">
+<start_time>16:40</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热线12-2019-171]]></title>
+</event>
+<event id="1133859546">
+<start_time>17:20</start_time>
+<end_time>18:01</end_time>
+<title><![CDATA[天网-2019-114]]></title>
+</event>
+<event id="1133859549">
+<start_time>18:01</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[普法栏目剧2019-167]]></title>
+</event>
+<event id="1133859552">
+<start_time>18:52</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[法律讲堂-2019-170]]></title>
+</event>
+<event id="1133859555">
+<start_time>19:24</start_time>
+<end_time>20:07</end_time>
+<title><![CDATA[一线-2019-165]]></title>
+</event>
+<event id="1133859558">
+<start_time>20:07</start_time>
+<end_time>20:49</end_time>
+<title><![CDATA[天网-2019-115]]></title>
+</event>
+<event id="1133859561">
+<start_time>20:49</start_time>
+<end_time>21:39</end_time>
+<title><![CDATA[普法栏目剧2019-168]]></title>
+</event>
+<event id="1133859564">
+<start_time>21:39</start_time>
+<end_time>21:42</end_time>
+<title><![CDATA[2019体彩开奖-2019-164]]></title>
+</event>
+<event id="1133859567">
+<start_time>21:42</start_time>
+<end_time>22:03</end_time>
+<title><![CDATA[道德观察(日播版)-2019-171]]></title>
+</event>
+<event id="1133859570">
+<start_time>22:03</start_time>
+<end_time>22:43</end_time>
+<title><![CDATA[夜线-2019-99]]></title>
+</event>
+<event id="1133859573">
+<start_time>22:43</start_time>
+<end_time>23:13</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-171]]></title>
+</event>
+<event id="1133859576">
+<start_time>23:13</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[天网-2019-115]]></title>
+</event>
+<event id="1133882454">
+<start_time>23:55</start_time>
+<end_time>00:48</end_time>
+<title><![CDATA[普法栏目剧2019-168]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV12" epg_code="CCTV12" date="2019-06-21">
+<event id="1134044421">
+<start_time>00:48</start_time>
+<end_time>01:32</end_time>
+<title><![CDATA[一线-2019-165]]></title>
+</event>
+<event id="1134044424">
+<start_time>01:32</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[夜线-2019-99]]></title>
+</event>
+<event id="1134044427">
+<start_time>06:00</start_time>
+<end_time>06:24</end_time>
+<title><![CDATA[夕阳红-2019-171]]></title>
+</event>
+<event id="1134044430">
+<start_time>06:24</start_time>
+<end_time>06:46</end_time>
+<title><![CDATA[道德观察(日播版)-2019-171]]></title>
+</event>
+<event id="1134044433">
+<start_time>06:46</start_time>
+<end_time>07:20</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-171]]></title>
+</event>
+<event id="1134044436">
+<start_time>07:20</start_time>
+<end_time>07:44</end_time>
+<title><![CDATA[平安365-2019-171]]></title>
+</event>
+<event id="1134044439">
+<start_time>07:44</start_time>
+<end_time>08:07</end_time>
+<title><![CDATA[夕阳红-2019-171]]></title>
+</event>
+<event id="1134044442">
+<start_time>08:07</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[普法栏目剧2017-233]]></title>
+</event>
+<event id="1134044445">
+<start_time>09:00</start_time>
+<end_time>09:54</end_time>
+<title><![CDATA[普法栏目剧2017-234]]></title>
+</event>
+<event id="1134044448">
+<start_time>09:54</start_time>
+<end_time>10:48</end_time>
+<title><![CDATA[普法栏目剧2017-237]]></title>
+</event>
+<event id="1134044451">
+<start_time>10:48</start_time>
+<end_time>11:40</end_time>
+<title><![CDATA[普法栏目剧2017-238]]></title>
+</event>
+<event id="1134044454">
+<start_time>11:40</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[平安365-2019-172]]></title>
+</event>
+<event id="1134044457">
+<start_time>12:00</start_time>
+<end_time>12:44</end_time>
+<title><![CDATA[热线12-2019-172]]></title>
+</event>
+<event id="1134044460">
+<start_time>12:44</start_time>
+<end_time>13:31</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-1/38]]></title>
+</event>
+<event id="1134044463">
+<start_time>13:31</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-2/38]]></title>
+</event>
+<event id="1134044466">
+<start_time>14:18</start_time>
+<end_time>15:03</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-3/38]]></title>
+</event>
+<event id="1134044469">
+<start_time>15:03</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-4/38]]></title>
+</event>
+<event id="1134044472">
+<start_time>15:48</start_time>
+<end_time>16:08</end_time>
+<title><![CDATA[夕阳红-2019-172]]></title>
+</event>
+<event id="1134044475">
+<start_time>16:08</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[法律讲堂-2019-170]]></title>
+</event>
+<event id="1134044478">
+<start_time>16:40</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热线12-2019-172]]></title>
+</event>
+<event id="1134044481">
+<start_time>17:20</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[天网-2019-116]]></title>
+</event>
+<event id="1134044484">
+<start_time>18:00</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[普法栏目剧2019-169]]></title>
+</event>
+<event id="1134044487">
+<start_time>18:52</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[法律讲堂-2019-171]]></title>
+</event>
+<event id="1134044490">
+<start_time>19:24</start_time>
+<end_time>20:07</end_time>
+<title><![CDATA[一线-2019-166]]></title>
+</event>
+<event id="1134044493">
+<start_time>20:07</start_time>
+<end_time>21:39</end_time>
+<title><![CDATA[2019闪亮的名字-最美大学生和最美辅导员发布仪式]]></title>
+</event>
+<event id="1134044496">
+<start_time>21:39</start_time>
+<end_time>21:42</end_time>
+<title><![CDATA[2019体彩开奖-2019-165]]></title>
+</event>
+<event id="1134044499">
+<start_time>21:42</start_time>
+<end_time>22:03</end_time>
+<title><![CDATA[道德观察(日播版)-2019-172]]></title>
+</event>
+<event id="1134044502">
+<start_time>22:03</start_time>
+<end_time>22:43</end_time>
+<title><![CDATA[见证-2019-25]]></title>
+</event>
+<event id="1134044505">
+<start_time>22:43</start_time>
+<end_time>23:13</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-172]]></title>
+</event>
+<event id="1134044508">
+<start_time>23:13</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[天网-2019-116]]></title>
+</event>
+<event id="1134292686">
+<start_time>23:55</start_time>
+<end_time>00:48</end_time>
+<title><![CDATA[普法栏目剧2019-169]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV12" epg_code="CCTV12" date="2019-06-22">
+<event id="1134292689">
+<start_time>00:48</start_time>
+<end_time>01:32</end_time>
+<title><![CDATA[一线-2019-166]]></title>
+</event>
+<event id="1134292692">
+<start_time>01:32</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[见证-2019-25]]></title>
+</event>
+<event id="1134292695">
+<start_time>06:00</start_time>
+<end_time>06:24</end_time>
+<title><![CDATA[夕阳红-2019-172]]></title>
+</event>
+<event id="1134292698">
+<start_time>06:24</start_time>
+<end_time>06:46</end_time>
+<title><![CDATA[道德观察(日播版)-2019-172]]></title>
+</event>
+<event id="1134292701">
+<start_time>06:46</start_time>
+<end_time>07:20</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-172]]></title>
+</event>
+<event id="1134292704">
+<start_time>07:20</start_time>
+<end_time>07:44</end_time>
+<title><![CDATA[平安365-2019-172]]></title>
+</event>
+<event id="1134292707">
+<start_time>07:44</start_time>
+<end_time>08:07</end_time>
+<title><![CDATA[夕阳红-2019-172]]></title>
+</event>
+<event id="1134292710">
+<start_time>08:07</start_time>
+<end_time>08:51</end_time>
+<title><![CDATA[天网-2019-116]]></title>
+</event>
+<event id="1134292713">
+<start_time>08:51</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[普法栏目剧2019-169]]></title>
+</event>
+<event id="1134292716">
+<start_time>09:45</start_time>
+<end_time>11:18</end_time>
+<title><![CDATA[2019闪亮的名字-最美大学生和最美辅导员发布仪式]]></title>
+</event>
+<event id="1134292719">
+<start_time>11:18</start_time>
+<end_time>11:40</end_time>
+<title><![CDATA[道德观察(日播版)-2019-172]]></title>
+</event>
+<event id="1134292722">
+<start_time>11:40</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[平安365-2019-173]]></title>
+</event>
+<event id="1134292725">
+<start_time>12:00</start_time>
+<end_time>12:44</end_time>
+<title><![CDATA[热线12-2019-173]]></title>
+</event>
+<event id="1134292728">
+<start_time>12:44</start_time>
+<end_time>13:31</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-5/38]]></title>
+</event>
+<event id="1134292731">
+<start_time>13:31</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-6/38]]></title>
+</event>
+<event id="1134292734">
+<start_time>14:18</start_time>
+<end_time>15:03</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-7/38]]></title>
+</event>
+<event id="1134292737">
+<start_time>15:03</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-8/38]]></title>
+</event>
+<event id="1134292740">
+<start_time>15:48</start_time>
+<end_time>16:08</end_time>
+<title><![CDATA[夕阳红-2019-173]]></title>
+</event>
+<event id="1134292743">
+<start_time>16:08</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[法律讲堂-2019-171]]></title>
+</event>
+<event id="1134292746">
+<start_time>16:40</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热线12-2019-173]]></title>
+</event>
+<event id="1134292749">
+<start_time>17:20</start_time>
+<end_time>18:01</end_time>
+<title><![CDATA[天网-2019-116]]></title>
+</event>
+<event id="1134292752">
+<start_time>18:01</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[普法栏目剧2019-169]]></title>
+</event>
+<event id="1134292755">
+<start_time>18:52</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[法律讲堂-2019-172]]></title>
+</event>
+<event id="1134292758">
+<start_time>19:24</start_time>
+<end_time>20:07</end_time>
+<title><![CDATA[一线-2019-167]]></title>
+</event>
+<event id="1134292761">
+<start_time>20:07</start_time>
+<end_time>20:49</end_time>
+<title><![CDATA[庭审现场-2019-25]]></title>
+</event>
+<event id="1134292764">
+<start_time>20:49</start_time>
+<end_time>21:39</end_time>
+<title><![CDATA[普法栏目剧2019-170]]></title>
+</event>
+<event id="1134292767">
+<start_time>21:39</start_time>
+<end_time>21:42</end_time>
+<title><![CDATA[2019体彩开奖-2019-166]]></title>
+</event>
+<event id="1134292770">
+<start_time>21:42</start_time>
+<end_time>22:03</end_time>
+<title><![CDATA[道德观察(日播版)-2019-173]]></title>
+</event>
+<event id="1134292773">
+<start_time>22:03</start_time>
+<end_time>22:43</end_time>
+<title><![CDATA[小区大事-2019-24]]></title>
+</event>
+<event id="1134292776">
+<start_time>22:43</start_time>
+<end_time>23:13</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-173]]></title>
+</event>
+<event id="1134292779">
+<start_time>23:13</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[庭审现场-2019-25]]></title>
+</event>
+<event id="1134421155">
+<start_time>23:55</start_time>
+<end_time>00:48</end_time>
+<title><![CDATA[普法栏目剧2019-170]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV12" epg_code="CCTV12" date="2019-06-23">
+<event id="1134421158">
+<start_time>00:48</start_time>
+<end_time>01:32</end_time>
+<title><![CDATA[一线-2019-167]]></title>
+</event>
+<event id="1134421161">
+<start_time>01:32</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[小区大事-2019-24]]></title>
+</event>
+<event id="1134421164">
+<start_time>06:00</start_time>
+<end_time>06:24</end_time>
+<title><![CDATA[夕阳红-2019-173]]></title>
+</event>
+<event id="1134421167">
+<start_time>06:24</start_time>
+<end_time>07:08</end_time>
+<title><![CDATA[小区大事-2019-24]]></title>
+</event>
+<event id="1134421170">
+<start_time>07:08</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[平安365-2019-173]]></title>
+</event>
+<event id="1134421173">
+<start_time>07:32</start_time>
+<end_time>07:56</end_time>
+<title><![CDATA[夕阳红-2019-173]]></title>
+</event>
+<event id="1134421176">
+<start_time>07:56</start_time>
+<end_time>08:49</end_time>
+<title><![CDATA[普法栏目剧2018-337]]></title>
+</event>
+<event id="1134421179">
+<start_time>08:49</start_time>
+<end_time>09:43</end_time>
+<title><![CDATA[普法栏目剧2018-338]]></title>
+</event>
+<event id="1134421182">
+<start_time>09:43</start_time>
+<end_time>10:37</end_time>
+<title><![CDATA[律师来了(第三季)-2019-2]]></title>
+</event>
+<event id="1134421185">
+<start_time>10:37</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[庭审现场-2019-25]]></title>
+</event>
+<event id="1134421188">
+<start_time>11:20</start_time>
+<end_time>11:40</end_time>
+<title><![CDATA[道德观察(日播版)-2019-174]]></title>
+</event>
+<event id="1134421191">
+<start_time>11:40</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[平安365-2019-174]]></title>
+</event>
+<event id="1134421194">
+<start_time>12:00</start_time>
+<end_time>12:44</end_time>
+<title><![CDATA[热线12-2019-174]]></title>
+</event>
+<event id="1134421197">
+<start_time>12:44</start_time>
+<end_time>13:31</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-9/38]]></title>
+</event>
+<event id="1134421200">
+<start_time>13:31</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-10/38]]></title>
+</event>
+<event id="1134421203">
+<start_time>14:18</start_time>
+<end_time>15:03</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-11/38]]></title>
+</event>
+<event id="1134421206">
+<start_time>15:03</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[2019年社会与法电视剧精选-幸福有配方-12/38]]></title>
+</event>
+<event id="1134421209">
+<start_time>15:48</start_time>
+<end_time>16:08</end_time>
+<title><![CDATA[夕阳红-2019-174]]></title>
+</event>
+<event id="1134421212">
+<start_time>16:08</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[道德观察(日播版)-2019-174]]></title>
+</event>
+<event id="1134421215">
+<start_time>16:30</start_time>
+<end_time>17:10</end_time>
+<title><![CDATA[热线12-2019-174]]></title>
+</event>
+<event id="1134421218">
+<start_time>17:10</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[律师来了(第三季)-2019-2]]></title>
+</event>
+<event id="1134421221">
+<start_time>18:00</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[律师来了(第三季)-2019-3]]></title>
+</event>
+<event id="1134421224">
+<start_time>18:52</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[法律讲堂-2019-173]]></title>
+</event>
+<event id="1134421227">
+<start_time>19:24</start_time>
+<end_time>20:07</end_time>
+<title><![CDATA[一线-2019-168]]></title>
+</event>
+<event id="1134421230">
+<start_time>20:07</start_time>
+<end_time>20:49</end_time>
+<title><![CDATA[忏悔录-2019-25]]></title>
+</event>
+<event id="1134421233">
+<start_time>20:49</start_time>
+<end_time>21:39</end_time>
+<title><![CDATA[普法栏目剧2019-171]]></title>
+</event>
+<event id="1134421236">
+<start_time>21:39</start_time>
+<end_time>21:42</end_time>
+<title><![CDATA[2019体彩开奖-2019-167]]></title>
+</event>
+<event id="1134421239">
+<start_time>21:42</start_time>
+<end_time>22:13</end_time>
+<title><![CDATA[热话-2019-23]]></title>
+</event>
+<event id="1134421242">
+<start_time>22:13</start_time>
+<end_time>22:53</end_time>
+<title><![CDATA[心理访谈-2019-25]]></title>
+</event>
+<event id="1134421245">
+<start_time>22:53</start_time>
+<end_time>23:23</end_time>
+<title><![CDATA[法律讲堂(文史版)-2019-174]]></title>
+</event>
+<event id="1135251771">
+<start_time>23:23</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[忏悔录-2019-25]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV12" epg_code="CCTV12" date="2019-06-24">
+<event id="1135251774">
+<start_time>00:05</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[热话]]></title>
+</event>
+<event id="1135251777">
+<start_time>00:38</start_time>
+<end_time>01:21</end_time>
+<title><![CDATA[一线]]></title>
+</event>
+<event id="1135251780">
+<start_time>01:21</start_time>
+<end_time>02:02</end_time>
+<title><![CDATA[心理访谈]]></title>
+</event>
+<event id="1135251783">
+<start_time>02:02</start_time>
+<end_time>02:26</end_time>
+<title><![CDATA[道德观察]]></title>
+</event>
+<event id="1135251786">
+<start_time>02:26</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1135251789">
+<start_time>05:55</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135251792">
+<start_time>06:00</start_time>
+<end_time>06:24</end_time>
+<title><![CDATA[夕阳红]]></title>
+</event>
+<event id="1135251795">
+<start_time>06:24</start_time>
+<end_time>06:46</end_time>
+<title><![CDATA[道德观察]]></title>
+</event>
+<event id="1135251798">
+<start_time>06:46</start_time>
+<end_time>07:20</end_time>
+<title><![CDATA[法律讲堂]]></title>
+</event>
+<event id="1135251801">
+<start_time>07:20</start_time>
+<end_time>07:44</end_time>
+<title><![CDATA[平安365]]></title>
+</event>
+<event id="1135251804">
+<start_time>07:44</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[夕阳红]]></title>
+</event>
+<event id="1135251807">
+<start_time>08:09</start_time>
+<end_time>09:02</end_time>
+<title><![CDATA[普法栏目剧]]></title>
+</event>
+<event id="1135251810">
+<start_time>09:02</start_time>
+<end_time>10:50</end_time>
+<title><![CDATA[普法栏目剧]]></title>
+</event>
+<event id="1135251813">
+<start_time>10:50</start_time>
+<end_time>11:40</end_time>
+<title><![CDATA[普法栏目剧]]></title>
+</event>
+<event id="1135251816">
+<start_time>11:40</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[平安365]]></title>
+</event>
+<event id="1135251819">
+<start_time>12:00</start_time>
+<end_time>12:44</end_time>
+<title><![CDATA[热线12]]></title>
+</event>
+<event id="1135251822">
+<start_time>12:44</start_time>
+<end_time>13:31</end_time>
+<title><![CDATA[剧场]]></title>
+</event>
+<event id="1135251825">
+<start_time>13:31</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[剧场]]></title>
+</event>
+<event id="1135251828">
+<start_time>14:18</start_time>
+<end_time>15:03</end_time>
+<title><![CDATA[剧场]]></title>
+</event>
+<event id="1135251831">
+<start_time>15:03</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[剧场]]></title>
+</event>
+<event id="1135251834">
+<start_time>15:48</start_time>
+<end_time>16:08</end_time>
+<title><![CDATA[夕阳红]]></title>
+</event>
+<event id="1135251837">
+<start_time>16:08</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[法律讲堂]]></title>
+</event>
+<event id="1135251840">
+<start_time>16:40</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热线12]]></title>
+</event>
+<event id="1135251843">
+<start_time>17:20</start_time>
+<end_time>18:03</end_time>
+<title><![CDATA[小区大事]]></title>
+</event>
+<event id="1135251846">
+<start_time>18:03</start_time>
+<end_time>18:52</end_time>
+<title><![CDATA[普法栏目剧]]></title>
+</event>
+<event id="1135251849">
+<start_time>18:52</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[法律讲堂]]></title>
+</event>
+<event id="1135251852">
+<start_time>19:24</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[一线]]></title>
+</event>
+<event id="1135251855">
+<start_time>20:06</start_time>
+<end_time>20:51</end_time>
+<title><![CDATA[天网]]></title>
+</event>
+<event id="1135251858">
+<start_time>20:51</start_time>
+<end_time>21:39</end_time>
+<title><![CDATA[普法栏目剧]]></title>
+</event>
+<event id="1135251861">
+<start_time>21:39</start_time>
+<end_time>21:42</end_time>
+<title><![CDATA[体彩开奖]]></title>
+</event>
+<event id="1135251864">
+<start_time>21:42</start_time>
+<end_time>22:03</end_time>
+<title><![CDATA[道德观察]]></title>
+</event>
+<event id="1135251867">
+<start_time>22:03</start_time>
+<end_time>22:43</end_time>
+<title><![CDATA[夜线]]></title>
+</event>
+<event id="1135251870">
+<start_time>22:43</start_time>
+<end_time>23:13</end_time>
+<title><![CDATA[法律讲堂]]></title>
+</event>
+<event id="1135251873">
+<start_time>23:13</start_time>
+<end_time>23:57</end_time>
+<title><![CDATA[天网]]></title>
+</event>
+<event id="1135251876">
+<start_time>23:57</start_time>
+<end_time>23:59</end_time>
+<title><![CDATA[普法栏目剧]]></title>
+</event>
+<event id="1135251879">
+<start_time>23:59</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[结束]]></title>
+</event>
+</schedule>
+</document>

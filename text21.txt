@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="SZTV1" epg_code="SZTV1" date="2019-06-18">
+<event id="1135260960">
+<start_time>00:04</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[决胜制高点]]></title>
+</event>
+<event id="1135260963">
+<start_time>00:55</start_time>
+<end_time>01:28</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1135260966">
+<start_time>01:28</start_time>
+<end_time>02:19</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1135260969">
+<start_time>02:19</start_time>
+<end_time>02:59</end_time>
+<title><![CDATA[不夜场:怒火英雄11]]></title>
+</event>
+<event id="1135260972">
+<start_time>02:59</start_time>
+<end_time>03:40</end_time>
+<title><![CDATA[不夜场:怒火英雄12]]></title>
+</event>
+<event id="1135260975">
+<start_time>03:40</start_time>
+<end_time>04:21</end_time>
+<title><![CDATA[不夜场:怒火英雄13]]></title>
+</event>
+<event id="1135260978">
+<start_time>04:21</start_time>
+<end_time>05:02</end_time>
+<title><![CDATA[不夜场:怒火英雄14]]></title>
+</event>
+<event id="1135260981">
+<start_time>05:02</start_time>
+<end_time>05:38</end_time>
+<title><![CDATA[不夜场:怒火英雄15]]></title>
+</event>
+<event id="1135260984">
+<start_time>05:38</start_time>
+<end_time>06:10</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1135260987">
+<start_time>06:10</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1135260990">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135260993">
+<start_time>07:01</start_time>
+<end_time>07:46</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1135260996">
+<start_time>07:46</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260999">
+<start_time>08:00</start_time>
+<end_time>08:49</end_time>
+<title><![CDATA[动画片:百变马丁]]></title>
+</event>
+<event id="1135261002">
+<start_time>08:49</start_time>
+<end_time>09:25</end_time>
+<title><![CDATA[精品剧场:决战江南(14)]]></title>
+</event>
+<event id="1135237797">
+<start_time>09:25</start_time>
+<end_time>10:18</end_time>
+<title><![CDATA[精品剧场:决战江南(15)]]></title>
+</event>
+<event id="1135238568">
+<start_time>10:18</start_time>
+<end_time>11:07</end_time>
+<title><![CDATA[精品剧场:决战江南(16)]]></title>
+</event>
+<event id="1135238571">
+<start_time>11:07</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[精品剧场:决战江南(17)]]></title>
+</event>
+<event id="1135219110">
+<start_time>11:50</start_time>
+<end_time>12:45</end_time>
+<title><![CDATA[正午30分]]></title>
+</event>
+<event id="1135250568">
+<start_time>12:45</start_time>
+<end_time>13:32</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1135261224">
+<start_time>13:32</start_time>
+<end_time>14:27</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(25)]]></title>
+</event>
+<event id="1135261227">
+<start_time>14:27</start_time>
+<end_time>15:23</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(26)]]></title>
+</event>
+<event id="1135217892">
+<start_time>15:23</start_time>
+<end_time>16:17</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(27)]]></title>
+</event>
+<event id="1135217895">
+<start_time>16:17</start_time>
+<end_time>17:13</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(28)]]></title>
+</event>
+<event id="1135217898">
+<start_time>17:13</start_time>
+<end_time>18:25</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(29)]]></title>
+</event>
+<event id="1135217901">
+<start_time>18:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[MV:我和我的祖国深圳版]]></title>
+</event>
+<event id="1132869555">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[深视新闻]]></title>
+</event>
+<event id="1132869558">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133577906">
+<start_time>19:36</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(23)]]></title>
+</event>
+<event id="1135217904">
+<start_time>20:31</start_time>
+<end_time>21:23</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(24)]]></title>
+</event>
+<event id="1135217907">
+<start_time>21:23</start_time>
+<end_time>22:25</end_time>
+<title><![CDATA[军情直播间]]></title>
+</event>
+<event id="1135217910">
+<start_time>22:25</start_time>
+<end_time>23:27</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1135217913">
+<start_time>23:27</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[悦时尚]]></title>
+</event>
+</schedule>
+<schedule channel_id="SZTV1" epg_code="SZTV1" date="2019-06-19">
+<event id="1133130726">
+<start_time>00:12</start_time>
+<end_time>01:17</end_time>
+<title><![CDATA[军情直播间]]></title>
+</event>
+<event id="1133130729">
+<start_time>01:17</start_time>
+<end_time>01:49</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1133130732">
+<start_time>01:49</start_time>
+<end_time>02:36</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1134989298">
+<start_time>02:36</start_time>
+<end_time>03:28</end_time>
+<title><![CDATA[不夜场:怒火英雄(18)]]></title>
+</event>
+<event id="1134989301">
+<start_time>03:28</start_time>
+<end_time>04:19</end_time>
+<title><![CDATA[不夜场:怒火英雄(19)]]></title>
+</event>
+<event id="1134989304">
+<start_time>04:19</start_time>
+<end_time>05:15</end_time>
+<title><![CDATA[不夜场:怒火英雄(20)]]></title>
+</event>
+<event id="1134989307">
+<start_time>05:15</start_time>
+<end_time>05:56</end_time>
+<title><![CDATA[不夜场:怒火英雄(21)]]></title>
+</event>
+<event id="1134989310">
+<start_time>05:56</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[不夜场:怒火英雄(22)]]></title>
+</event>
+<event id="1133130750">
+<start_time>06:20</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1133130753">
+<start_time>07:00</start_time>
+<end_time>07:49</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1133130756">
+<start_time>07:49</start_time>
+<end_time>08:47</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1133834550">
+<start_time>08:47</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[精品剧场:决战江南(18)]]></title>
+</event>
+<event id="1133834553">
+<start_time>09:24</start_time>
+<end_time>10:16</end_time>
+<title><![CDATA[精品剧场:决战江南(19)]]></title>
+</event>
+<event id="1133834556">
+<start_time>10:16</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[精品剧场:决战江南(20)]]></title>
+</event>
+<event id="1133834559">
+<start_time>11:10</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[精品剧场:决战江南(21)]]></title>
+</event>
+<event id="1133130771">
+<start_time>11:50</start_time>
+<end_time>12:38</end_time>
+<title><![CDATA[正午30分]]></title>
+</event>
+<event id="1133130774">
+<start_time>12:38</start_time>
+<end_time>12:43</end_time>
+<title><![CDATA[深圳天气预报]]></title>
+</event>
+<event id="1133130777">
+<start_time>12:43</start_time>
+<end_time>13:18</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1134337776">
+<start_time>13:18</start_time>
+<end_time>14:17</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(30)]]></title>
+</event>
+<event id="1134337779">
+<start_time>14:17</start_time>
+<end_time>15:18</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(31)]]></title>
+</event>
+<event id="1134337782">
+<start_time>15:18</start_time>
+<end_time>16:18</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(32)]]></title>
+</event>
+<event id="1134337785">
+<start_time>16:18</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(33)]]></title>
+</event>
+<event id="1134337788">
+<start_time>17:20</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(34)]]></title>
+</event>
+<event id="1133130795">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[深视新闻]]></title>
+</event>
+<event id="1133130798">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133577912">
+<start_time>19:36</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(25)]]></title>
+</event>
+<event id="1133577915">
+<start_time>20:31</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(26)]]></title>
+</event>
+<event id="1133130807">
+<start_time>21:20</start_time>
+<end_time>22:20</end_time>
+<title><![CDATA[关键洞察力]]></title>
+</event>
+<event id="1133130810">
+<start_time>22:20</start_time>
+<end_time>23:21</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1133130813">
+<start_time>23:21</start_time>
+<end_time>23:56</end_time>
+<title><![CDATA[悦世界]]></title>
+</event>
+<event id="1133393517">
+<start_time>23:56</start_time>
+<end_time>00:17</end_time>
+<title><![CDATA[关键洞察力]]></title>
+</event>
+</schedule>
+<schedule channel_id="SZTV1" epg_code="SZTV1" date="2019-06-20">
+<event id="1133365356">
+<start_time>00:17</start_time>
+<end_time>01:13</end_time>
+<title><![CDATA[关键洞察力]]></title>
+</event>
+<event id="1133365359">
+<start_time>01:13</start_time>
+<end_time>02:01</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1134989313">
+<start_time>02:01</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[不夜场:怒火英雄(23)]]></title>
+</event>
+<event id="1134989316">
+<start_time>02:45</start_time>
+<end_time>03:50</end_time>
+<title><![CDATA[不夜场:怒火英雄(24)]]></title>
+</event>
+<event id="1134989319">
+<start_time>03:50</start_time>
+<end_time>04:31</end_time>
+<title><![CDATA[不夜场:怒火英雄(25)]]></title>
+</event>
+<event id="1134989322">
+<start_time>04:31</start_time>
+<end_time>05:13</end_time>
+<title><![CDATA[不夜场:怒火英雄(26)]]></title>
+</event>
+<event id="1134989325">
+<start_time>05:13</start_time>
+<end_time>05:52</end_time>
+<title><![CDATA[不夜场:怒火英雄(27)]]></title>
+</event>
+<event id="1134989328">
+<start_time>05:52</start_time>
+<end_time>06:10</end_time>
+<title><![CDATA[不夜场:怒火英雄(28)]]></title>
+</event>
+<event id="1133365380">
+<start_time>06:10</start_time>
+<end_time>06:52</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1133365383">
+<start_time>06:52</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1133365386">
+<start_time>07:30</start_time>
+<end_time>07:41</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1133365389">
+<start_time>07:41</start_time>
+<end_time>08:20</end_time>
+<title><![CDATA[环游记-我们的侣行]]></title>
+</event>
+<event id="1133365392">
+<start_time>08:20</start_time>
+<end_time>08:50</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1133834562">
+<start_time>08:50</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[精品剧场:决战江南(22)]]></title>
+</event>
+<event id="1133834565">
+<start_time>09:27</start_time>
+<end_time>10:19</end_time>
+<title><![CDATA[精品剧场:决战江南(23)]]></title>
+</event>
+<event id="1133834568">
+<start_time>10:19</start_time>
+<end_time>11:09</end_time>
+<title><![CDATA[精品剧场:决战江南(24)]]></title>
+</event>
+<event id="1133834571">
+<start_time>11:09</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[精品剧场:决战江南(25)]]></title>
+</event>
+<event id="1133365407">
+<start_time>11:50</start_time>
+<end_time>12:38</end_time>
+<title><![CDATA[正午30分]]></title>
+</event>
+<event id="1133365410">
+<start_time>12:38</start_time>
+<end_time>12:43</end_time>
+<title><![CDATA[深圳天气预报]]></title>
+</event>
+<event id="1133365413">
+<start_time>12:43</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1134337809">
+<start_time>13:19</start_time>
+<end_time>14:20</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(35)]]></title>
+</event>
+<event id="1134337812">
+<start_time>14:20</start_time>
+<end_time>15:23</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(36)]]></title>
+</event>
+<event id="1134337815">
+<start_time>15:23</start_time>
+<end_time>16:22</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(37)]]></title>
+</event>
+<event id="1134337818">
+<start_time>16:22</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(38)]]></title>
+</event>
+<event id="1134337821">
+<start_time>17:20</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[热播剧场:婚姻历险记(39)]]></title>
+</event>
+<event id="1133365431">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[深视新闻]]></title>
+</event>
+<event id="1133365434">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133577918">
+<start_time>19:36</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(27)]]></title>
+</event>
+<event id="1133577921">
+<start_time>20:31</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(28)]]></title>
+</event>
+<event id="1133365443">
+<start_time>21:25</start_time>
+<end_time>22:10</end_time>
+<title><![CDATA[你好面试官]]></title>
+</event>
+<event id="1133365446">
+<start_time>22:10</start_time>
+<end_time>23:12</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1133670246">
+<start_time>23:12</start_time>
+<end_time>00:25</end_time>
+<title><![CDATA[非常静距离]]></title>
+</event>
+</schedule>
+<schedule channel_id="SZTV1" epg_code="SZTV1" date="2019-06-21">
+<event id="1133651193">
+<start_time>00:25</start_time>
+<end_time>01:32</end_time>
+<title><![CDATA[合伙中国人第二季]]></title>
+</event>
+<event id="1133651196">
+<start_time>01:32</start_time>
+<end_time>02:03</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1133651199">
+<start_time>02:03</start_time>
+<end_time>02:51</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1134989331">
+<start_time>02:51</start_time>
+<end_time>03:37</end_time>
+<title><![CDATA[不夜场:怒火英雄(29)]]></title>
+</event>
+<event id="1134989334">
+<start_time>03:37</start_time>
+<end_time>04:10</end_time>
+<title><![CDATA[不夜场:怒火英雄(30)]]></title>
+</event>
+<event id="1134989337">
+<start_time>04:10</start_time>
+<end_time>05:11</end_time>
+<title><![CDATA[不夜场:怒火英雄(31)]]></title>
+</event>
+<event id="1134989340">
+<start_time>05:11</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[不夜场:怒火英雄(32)]]></title>
+</event>
+<event id="1134989343">
+<start_time>05:55</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[不夜场:怒火英雄(33)]]></title>
+</event>
+<event id="1133651217">
+<start_time>06:20</start_time>
+<end_time>06:54</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1133651220">
+<start_time>06:54</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1133651223">
+<start_time>08:00</start_time>
+<end_time>08:50</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1133834574">
+<start_time>08:50</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[精品剧场:决战江南(26)]]></title>
+</event>
+<event id="1133834577">
+<start_time>09:27</start_time>
+<end_time>10:19</end_time>
+<title><![CDATA[精品剧场:决战江南(27)]]></title>
+</event>
+<event id="1133834580">
+<start_time>10:19</start_time>
+<end_time>11:09</end_time>
+<title><![CDATA[精品剧场:决战江南(28)]]></title>
+</event>
+<event id="1133834583">
+<start_time>11:09</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[精品剧场:决战江南(29)]]></title>
+</event>
+<event id="1133651238">
+<start_time>11:50</start_time>
+<end_time>12:38</end_time>
+<title><![CDATA[正午30分]]></title>
+</event>
+<event id="1133651241">
+<start_time>12:38</start_time>
+<end_time>12:44</end_time>
+<title><![CDATA[深圳天气预报]]></title>
+</event>
+<event id="1133651244">
+<start_time>12:44</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1133651247">
+<start_time>13:19</start_time>
+<end_time>14:20</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133651250">
+<start_time>14:20</start_time>
+<end_time>15:30</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133651253">
+<start_time>15:30</start_time>
+<end_time>16:27</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133651256">
+<start_time>16:27</start_time>
+<end_time>17:27</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133651259">
+<start_time>17:27</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133651262">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[深视新闻]]></title>
+</event>
+<event id="1133651265">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133651268">
+<start_time>19:36</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(29)]]></title>
+</event>
+<event id="1133651271">
+<start_time>20:30</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[起舞吧!齐舞]]></title>
+</event>
+<event id="1133651274">
+<start_time>22:30</start_time>
+<end_time>23:35</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1133951067">
+<start_time>23:35</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[最强辩手]]></title>
+</event>
+</schedule>
+<schedule channel_id="SZTV1" epg_code="SZTV1" date="2019-06-22">
+<event id="1133927481">
+<start_time>00:10</start_time>
+<end_time>01:07</end_time>
+<title><![CDATA[爱情找对门]]></title>
+</event>
+<event id="1133927484">
+<start_time>01:07</start_time>
+<end_time>02:01</end_time>
+<title><![CDATA[中国赛车手]]></title>
+</event>
+<event id="1133927487">
+<start_time>02:01</start_time>
+<end_time>02:50</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1134989346">
+<start_time>02:50</start_time>
+<end_time>03:37</end_time>
+<title><![CDATA[不夜场:怒火英雄(34)]]></title>
+</event>
+<event id="1134989349">
+<start_time>03:37</start_time>
+<end_time>04:16</end_time>
+<title><![CDATA[不夜场:怒火英雄(35)]]></title>
+</event>
+<event id="1134989352">
+<start_time>04:16</start_time>
+<end_time>05:03</end_time>
+<title><![CDATA[不夜场:怒火英雄(36)]]></title>
+</event>
+<event id="1134989355">
+<start_time>05:03</start_time>
+<end_time>06:02</end_time>
+<title><![CDATA[不夜场:怒火英雄(37)]]></title>
+</event>
+<event id="1133927502">
+<start_time>06:02</start_time>
+<end_time>06:52</end_time>
+<title><![CDATA[宅人食堂]]></title>
+</event>
+<event id="1133927505">
+<start_time>06:52</start_time>
+<end_time>07:40</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1133927508">
+<start_time>07:40</start_time>
+<end_time>08:45</end_time>
+<title><![CDATA[决胜制高点]]></title>
+</event>
+<event id="1133927511">
+<start_time>08:45</start_time>
+<end_time>09:38</end_time>
+<title><![CDATA[辣妈学院]]></title>
+</event>
+<event id="1133927514">
+<start_time>09:38</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[精品剧场:决战江南(30)]]></title>
+</event>
+<event id="1133927517">
+<start_time>10:14</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[精品剧场:决战江南(31)]]></title>
+</event>
+<event id="1133927520">
+<start_time>11:03</start_time>
+<end_time>11:37</end_time>
+<title><![CDATA[精品剧场:决战江南(32)]]></title>
+</event>
+<event id="1133927523">
+<start_time>11:37</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[宴遇美食荟]]></title>
+</event>
+<event id="1133927526">
+<start_time>11:50</start_time>
+<end_time>12:39</end_time>
+<title><![CDATA[正午30分]]></title>
+</event>
+<event id="1133927529">
+<start_time>12:39</start_time>
+<end_time>12:46</end_time>
+<title><![CDATA[深圳天气预报]]></title>
+</event>
+<event id="1133927532">
+<start_time>12:46</start_time>
+<end_time>13:49</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133927535">
+<start_time>13:49</start_time>
+<end_time>14:38</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133927538">
+<start_time>14:38</start_time>
+<end_time>15:27</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133927541">
+<start_time>15:27</start_time>
+<end_time>16:16</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133927544">
+<start_time>16:16</start_time>
+<end_time>17:06</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133927547">
+<start_time>17:06</start_time>
+<end_time>18:18</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1133927550">
+<start_time>18:18</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[课间十分钟]]></title>
+</event>
+<event id="1133927553">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[深视新闻]]></title>
+</event>
+<event id="1133927556">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133927559">
+<start_time>19:35</start_time>
+<end_time>20:26</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(30)]]></title>
+</event>
+<event id="1133927562">
+<start_time>20:26</start_time>
+<end_time>21:28</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(31)]]></title>
+</event>
+<event id="1133927565">
+<start_time>21:28</start_time>
+<end_time>22:15</end_time>
+<title><![CDATA[非常静距离]]></title>
+</event>
+<event id="1133927568">
+<start_time>22:15</start_time>
+<end_time>23:18</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1133927571">
+<start_time>23:18</start_time>
+<end_time>23:51</end_time>
+<title><![CDATA[奇妙的民居]]></title>
+</event>
+<event id="1134218052">
+<start_time>23:51</start_time>
+<end_time>00:48</end_time>
+<title><![CDATA[勇士的荣耀]]></title>
+</event>
+</schedule>
+<schedule channel_id="SZTV1" epg_code="SZTV1" date="2019-06-23">
+<event id="1134198684">
+<start_time>00:48</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1134198687">
+<start_time>01:30</start_time>
+<end_time>02:17</end_time>
+<title><![CDATA[军情直播间]]></title>
+</event>
+<event id="1134198690">
+<start_time>02:17</start_time>
+<end_time>03:06</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1134989358">
+<start_time>03:06</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[不夜场:怒火英雄(38)]]></title>
+</event>
+<event id="1134989361">
+<start_time>03:45</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[不夜场:怒火英雄(39)]]></title>
+</event>
+<event id="1134989364">
+<start_time>04:30</start_time>
+<end_time>05:12</end_time>
+<title><![CDATA[不夜场:怒火英雄(40)]]></title>
+</event>
+<event id="1134989367">
+<start_time>05:12</start_time>
+<end_time>06:02</end_time>
+<title><![CDATA[不夜场:怒火英雄(41)]]></title>
+</event>
+<event id="1134198705">
+<start_time>06:02</start_time>
+<end_time>06:32</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134198708">
+<start_time>06:32</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1134198711">
+<start_time>07:59</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[军情直播间]]></title>
+</event>
+<event id="1134198714">
+<start_time>08:55</start_time>
+<end_time>09:47</end_time>
+<title><![CDATA[辣妈学院]]></title>
+</event>
+<event id="1134198717">
+<start_time>09:47</start_time>
+<end_time>10:27</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1134198720">
+<start_time>10:27</start_time>
+<end_time>11:08</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1134198723">
+<start_time>11:08</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[温暖在身边]]></title>
+</event>
+<event id="1134198726">
+<start_time>11:50</start_time>
+<end_time>12:43</end_time>
+<title><![CDATA[正午30分]]></title>
+</event>
+<event id="1134198729">
+<start_time>12:43</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[奇妙的民居]]></title>
+</event>
+<event id="1134198732">
+<start_time>13:22</start_time>
+<end_time>14:23</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134198735">
+<start_time>14:23</start_time>
+<end_time>15:24</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134198738">
+<start_time>15:24</start_time>
+<end_time>16:24</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134198741">
+<start_time>16:24</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[勇士的荣耀]]></title>
+</event>
+<event id="1134198744">
+<start_time>17:30</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[辣妈学院]]></title>
+</event>
+<event id="1134198747">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[深视新闻]]></title>
+</event>
+<event id="1134198750">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134198753">
+<start_time>19:35</start_time>
+<end_time>20:45</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(32)]]></title>
+</event>
+<event id="1134198756">
+<start_time>20:45</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(33)]]></title>
+</event>
+<event id="1134198759">
+<start_time>21:32</start_time>
+<end_time>22:10</end_time>
+<title><![CDATA[奇妙的民居]]></title>
+</event>
+<event id="1134198762">
+<start_time>22:10</start_time>
+<end_time>23:12</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1134577653">
+<start_time>23:12</start_time>
+<end_time>00:30</end_time>
+<title><![CDATA[勇士的荣耀]]></title>
+</event>
+</schedule>
+<schedule channel_id="SZTV1" epg_code="SZTV1" date="2019-06-24">
+<event id="1134557622">
+<start_time>00:30</start_time>
+<end_time>01:23</end_time>
+<title><![CDATA[勇士的征途]]></title>
+</event>
+<event id="1134557625">
+<start_time>01:23</start_time>
+<end_time>01:57</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134557628">
+<start_time>01:57</start_time>
+<end_time>02:34</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1134557631">
+<start_time>02:34</start_time>
+<end_time>03:23</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1134989370">
+<start_time>03:23</start_time>
+<end_time>04:04</end_time>
+<title><![CDATA[不夜场:怒火英雄(42)]]></title>
+</event>
+<event id="1134989373">
+<start_time>04:04</start_time>
+<end_time>05:32</end_time>
+<title><![CDATA[不夜场:怒火英雄(43)]]></title>
+</event>
+<event id="1134989376">
+<start_time>05:32</start_time>
+<end_time>06:15</end_time>
+<title><![CDATA[不夜场:怒火英雄(44)]]></title>
+</event>
+<event id="1134557643">
+<start_time>06:15</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1134557646">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1134557649">
+<start_time>08:00</start_time>
+<end_time>08:47</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134557652">
+<start_time>08:47</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1134557655">
+<start_time>09:24</start_time>
+<end_time>10:12</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1134557658">
+<start_time>10:12</start_time>
+<end_time>11:08</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1134557661">
+<start_time>11:08</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1134557664">
+<start_time>11:50</start_time>
+<end_time>12:38</end_time>
+<title><![CDATA[正午30分]]></title>
+</event>
+<event id="1134557667">
+<start_time>12:38</start_time>
+<end_time>12:43</end_time>
+<title><![CDATA[深圳天气预报]]></title>
+</event>
+<event id="1134557670">
+<start_time>12:43</start_time>
+<end_time>13:25</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1134557673">
+<start_time>13:25</start_time>
+<end_time>14:25</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134557676">
+<start_time>14:25</start_time>
+<end_time>15:24</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134557679">
+<start_time>15:24</start_time>
+<end_time>16:22</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134557682">
+<start_time>16:22</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134557685">
+<start_time>17:20</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134557688">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[深视新闻]]></title>
+</event>
+<event id="1134557691">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134557694">
+<start_time>19:36</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(34)]]></title>
+</event>
+<event id="1134557697">
+<start_time>20:31</start_time>
+<end_time>21:18</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(35)]]></title>
+</event>
+<event id="1134557700">
+<start_time>21:18</start_time>
+<end_time>22:29</end_time>
+<title><![CDATA[决胜制高点]]></title>
+</event>
+<event id="1134557703">
+<start_time>22:29</start_time>
+<end_time>23:31</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1135083966">
+<start_time>23:31</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[悦健康]]></title>
+</event>
+</schedule>
+<schedule channel_id="SZTV1" epg_code="SZTV1" date="2019-06-25">
+<event id="1135061976">
+<start_time>00:12</start_time>
+<end_time>01:17</end_time>
+<title><![CDATA[决胜制高点]]></title>
+</event>
+<event id="1135061979">
+<start_time>01:17</start_time>
+<end_time>01:49</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1135061982">
+<start_time>01:49</start_time>
+<end_time>02:35</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1135061985">
+<start_time>02:35</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[不夜场:怒火英雄(45)]]></title>
+</event>
+<event id="1135061988">
+<start_time>03:15</start_time>
+<end_time>03:55</end_time>
+<title><![CDATA[不夜场]]></title>
+</event>
+<event id="1135061991">
+<start_time>03:55</start_time>
+<end_time>04:40</end_time>
+<title><![CDATA[不夜场]]></title>
+</event>
+<event id="1135061994">
+<start_time>04:40</start_time>
+<end_time>05:14</end_time>
+<title><![CDATA[不夜场]]></title>
+</event>
+<event id="1135061997">
+<start_time>05:14</start_time>
+<end_time>05:56</end_time>
+<title><![CDATA[不夜场]]></title>
+</event>
+<event id="1135062000">
+<start_time>05:56</start_time>
+<end_time>06:22</end_time>
+<title><![CDATA[不夜场]]></title>
+</event>
+<event id="1135062003">
+<start_time>06:22</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135062006">
+<start_time>07:00</start_time>
+<end_time>07:49</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1135062009">
+<start_time>07:49</start_time>
+<end_time>08:47</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135062012">
+<start_time>08:47</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1135062015">
+<start_time>09:24</start_time>
+<end_time>10:16</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1135062018">
+<start_time>10:16</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1135062021">
+<start_time>11:10</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[精品剧场]]></title>
+</event>
+<event id="1135062024">
+<start_time>11:50</start_time>
+<end_time>12:38</end_time>
+<title><![CDATA[正午30分]]></title>
+</event>
+<event id="1135062027">
+<start_time>12:38</start_time>
+<end_time>12:43</end_time>
+<title><![CDATA[深圳天气预报]]></title>
+</event>
+<event id="1135062030">
+<start_time>12:43</start_time>
+<end_time>13:25</end_time>
+<title><![CDATA[探秘时刻]]></title>
+</event>
+<event id="1135062033">
+<start_time>13:25</start_time>
+<end_time>14:20</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1135062036">
+<start_time>14:20</start_time>
+<end_time>15:19</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1135062039">
+<start_time>15:19</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1135062042">
+<start_time>16:20</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1135062045">
+<start_time>17:20</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1135062048">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[深视新闻]]></title>
+</event>
+<event id="1135062051">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135062054">
+<start_time>19:36</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(36)]]></title>
+</event>
+<event id="1135062057">
+<start_time>20:31</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[黄金剧场:逆流而上的你(37)]]></title>
+</event>
+<event id="1135062060">
+<start_time>21:20</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[军情直播间]]></title>
+</event>
+<event id="1135062063">
+<start_time>22:30</start_time>
+<end_time>23:36</end_time>
+<title><![CDATA[直播港澳台]]></title>
+</event>
+<event id="1135062066">
+<start_time>23:36</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[悦时尚]]></title>
+</event>
+</schedule>
+</document>

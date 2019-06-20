@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="NMGTV1" epg_code="NMGTV1" date="2019-06-18">
+<event id="1135260675">
+<start_time>00:35</start_time>
+<end_time>01:15</end_time>
+<title><![CDATA[星光剧场:五号特工组12]]></title>
+</event>
+<event id="1135260678">
+<start_time>01:15</start_time>
+<end_time>01:26</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260681">
+<start_time>01:26</start_time>
+<end_time>02:06</end_time>
+<title><![CDATA[星光剧场:五号特工组13]]></title>
+</event>
+<event id="1135260684">
+<start_time>02:06</start_time>
+<end_time>03:06</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1135260687">
+<start_time>03:06</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1135260690">
+<start_time>04:06</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1135260693">
+<start_time>05:00</start_time>
+<end_time>05:21</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1135260696">
+<start_time>05:21</start_time>
+<end_time>05:37</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1135260699">
+<start_time>05:37</start_time>
+<end_time>06:19</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义17]]></title>
+</event>
+<event id="1135260702">
+<start_time>06:19</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260705">
+<start_time>06:29</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义18(上)]]></title>
+</event>
+<event id="1135260708">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135260711">
+<start_time>07:01</start_time>
+<end_time>07:12</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义18(下)]]></title>
+</event>
+<event id="1135260714">
+<start_time>07:12</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1132854282">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1135260717">
+<start_time>08:00</start_time>
+<end_time>08:31</end_time>
+<title><![CDATA[动画剧场:帮帮龙出动(34-35)]]></title>
+</event>
+<event id="1135260720">
+<start_time>08:31</start_time>
+<end_time>09:28</end_time>
+<title><![CDATA[经典剧场:穆桂英挂帅(37)]]></title>
+</event>
+<event id="1135237803">
+<start_time>09:28</start_time>
+<end_time>10:20</end_time>
+<title><![CDATA[经典剧场:穆桂英挂帅(38)]]></title>
+</event>
+<event id="1135239612">
+<start_time>10:20</start_time>
+<end_time>11:13</end_time>
+<title><![CDATA[经典剧场:穆桂英挂帅(39)]]></title>
+</event>
+<event id="1135244688">
+<start_time>11:13</start_time>
+<end_time>12:02</end_time>
+<title><![CDATA[经典剧场:重案六组1(1)]]></title>
+</event>
+<event id="1135244691">
+<start_time>12:02</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[经典剧场:重案六组1(2)]]></title>
+</event>
+<event id="1135250526">
+<start_time>13:00</start_time>
+<end_time>13:29</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1135261005">
+<start_time>13:29</start_time>
+<end_time>14:20</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(26)]]></title>
+</event>
+<event id="1135262535">
+<start_time>14:20</start_time>
+<end_time>15:17</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(27)]]></title>
+</event>
+<event id="1135262538">
+<start_time>15:17</start_time>
+<end_time>16:10</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(28)]]></title>
+</event>
+<event id="1135218840">
+<start_time>16:10</start_time>
+<end_time>17:02</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(29)]]></title>
+</event>
+<event id="1135218843">
+<start_time>17:02</start_time>
+<end_time>17:58</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(30)]]></title>
+</event>
+<event id="1135218846">
+<start_time>17:58</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1132854327">
+<start_time>18:30</start_time>
+<end_time>18:51</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1132854330">
+<start_time>18:51</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[内蒙古天气预报]]></title>
+</event>
+<event id="1132854333">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1132854336">
+<start_time>19:36</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(38)]]></title>
+</event>
+<event id="1132854339">
+<start_time>20:28</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(39)]]></title>
+</event>
+<event id="1132854342">
+<start_time>21:20</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[晚间报道]]></title>
+</event>
+<event id="1132854345">
+<start_time>21:40</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻再观察]]></title>
+</event>
+<event id="1132854348">
+<start_time>22:00</start_time>
+<end_time>23:06</end_time>
+<title><![CDATA[金牌律师团]]></title>
+</event>
+<event id="1132854351">
+<start_time>23:06</start_time>
+<end_time>23:47</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133162781">
+<start_time>23:47</start_time>
+<end_time>00:50</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+</schedule>
+<schedule channel_id="NMGTV1" epg_code="NMGTV1" date="2019-06-19">
+<event id="1133115135">
+<start_time>00:50</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[金牌律师团]]></title>
+</event>
+<event id="1133115138">
+<start_time>02:00</start_time>
+<end_time>05:24</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1133115141">
+<start_time>05:24</start_time>
+<end_time>06:15</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(19)]]></title>
+</event>
+<event id="1133115144">
+<start_time>06:15</start_time>
+<end_time>07:10</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(20)]]></title>
+</event>
+<event id="1133115147">
+<start_time>07:10</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[草原音画]]></title>
+</event>
+<event id="1133115150">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1133115153">
+<start_time>08:00</start_time>
+<end_time>08:27</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134979254">
+<start_time>08:27</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[经典剧场:重案六组1(3)]]></title>
+</event>
+<event id="1134979257">
+<start_time>09:21</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[经典剧场:重案六组1(4)]]></title>
+</event>
+<event id="1134979260">
+<start_time>10:14</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[经典剧场:重案六组1(5)]]></title>
+</event>
+<event id="1134979263">
+<start_time>11:10</start_time>
+<end_time>12:06</end_time>
+<title><![CDATA[经典剧场:重案六组1(6)]]></title>
+</event>
+<event id="1134979266">
+<start_time>12:06</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[经典剧场:重案六组1(7)]]></title>
+</event>
+<event id="1133115171">
+<start_time>13:00</start_time>
+<end_time>13:20</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133115174">
+<start_time>13:20</start_time>
+<end_time>13:35</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1133831310">
+<start_time>13:35</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(31)]]></title>
+</event>
+<event id="1133831313">
+<start_time>14:30</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(32)]]></title>
+</event>
+<event id="1133831316">
+<start_time>15:25</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(33)]]></title>
+</event>
+<event id="1133831319">
+<start_time>16:20</start_time>
+<end_time>17:16</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(34)]]></title>
+</event>
+<event id="1133831322">
+<start_time>17:16</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(35)]]></title>
+</event>
+<event id="1133115192">
+<start_time>18:08</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1133115195">
+<start_time>18:30</start_time>
+<end_time>18:51</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1133115198">
+<start_time>18:51</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[内蒙古天气预报]]></title>
+</event>
+<event id="1133115201">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133115204">
+<start_time>19:36</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(40)]]></title>
+</event>
+<event id="1133115207">
+<start_time>20:29</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(41)]]></title>
+</event>
+<event id="1133115210">
+<start_time>21:20</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[晚间报道]]></title>
+</event>
+<event id="1133115213">
+<start_time>21:40</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻再观察]]></title>
+</event>
+<event id="1133115216">
+<start_time>22:00</start_time>
+<end_time>23:06</end_time>
+<title><![CDATA[创客中国]]></title>
+</event>
+<event id="1133115219">
+<start_time>23:06</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133417394">
+<start_time>23:55</start_time>
+<end_time>00:52</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+</schedule>
+<schedule channel_id="NMGTV1" epg_code="NMGTV1" date="2019-06-20">
+<event id="1133349777">
+<start_time>00:52</start_time>
+<end_time>01:46</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133349780">
+<start_time>01:46</start_time>
+<end_time>02:41</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133349783">
+<start_time>02:41</start_time>
+<end_time>03:42</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1133349786">
+<start_time>03:42</start_time>
+<end_time>05:22</end_time>
+<title><![CDATA[创客中国]]></title>
+</event>
+<event id="1133349789">
+<start_time>05:22</start_time>
+<end_time>06:14</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(21)]]></title>
+</event>
+<event id="1133349792">
+<start_time>06:14</start_time>
+<end_time>07:09</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(22)]]></title>
+</event>
+<event id="1133349795">
+<start_time>07:09</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[福彩草原情]]></title>
+</event>
+<event id="1133349798">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1133349801">
+<start_time>08:00</start_time>
+<end_time>08:27</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134979269">
+<start_time>08:27</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[经典剧场:重案六组1(8)]]></title>
+</event>
+<event id="1134979272">
+<start_time>09:21</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[经典剧场:重案六组1(9)]]></title>
+</event>
+<event id="1134979275">
+<start_time>10:14</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[经典剧场:重案六组1(10)]]></title>
+</event>
+<event id="1134979278">
+<start_time>11:10</start_time>
+<end_time>12:06</end_time>
+<title><![CDATA[经典剧场:重案六组1(11)]]></title>
+</event>
+<event id="1134979281">
+<start_time>12:06</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[经典剧场:重案六组1(12)]]></title>
+</event>
+<event id="1133349819">
+<start_time>13:00</start_time>
+<end_time>13:20</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133349822">
+<start_time>13:20</start_time>
+<end_time>13:35</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1133831325">
+<start_time>13:35</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(36)]]></title>
+</event>
+<event id="1133831328">
+<start_time>14:30</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(37)]]></title>
+</event>
+<event id="1133831331">
+<start_time>15:25</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(38)]]></title>
+</event>
+<event id="1133831334">
+<start_time>16:20</start_time>
+<end_time>17:16</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(39)]]></title>
+</event>
+<event id="1133831337">
+<start_time>17:16</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[传奇剧场:铁齿铜牙纪晓岚(40)]]></title>
+</event>
+<event id="1133349840">
+<start_time>18:08</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1133349843">
+<start_time>18:30</start_time>
+<end_time>18:51</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1133349846">
+<start_time>18:51</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[内蒙古天气预报]]></title>
+</event>
+<event id="1133349849">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133349852">
+<start_time>19:36</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(42)]]></title>
+</event>
+<event id="1133349855">
+<start_time>20:28</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(43)]]></title>
+</event>
+<event id="1133349858">
+<start_time>21:20</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[晚间报道]]></title>
+</event>
+<event id="1133349861">
+<start_time>21:40</start_time>
+<end_time>22:02</end_time>
+<title><![CDATA[新闻再观察]]></title>
+</event>
+<event id="1133349864">
+<start_time>22:02</start_time>
+<end_time>23:04</end_time>
+<title><![CDATA[开卷有理]]></title>
+</event>
+<event id="1133349867">
+<start_time>23:04</start_time>
+<end_time>23:54</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133684961">
+<start_time>23:54</start_time>
+<end_time>00:03</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+</schedule>
+<schedule channel_id="NMGTV1" epg_code="NMGTV1" date="2019-06-21">
+<event id="1133635914">
+<start_time>00:03</start_time>
+<end_time>00:57</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133635917">
+<start_time>00:57</start_time>
+<end_time>01:52</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133635920">
+<start_time>01:52</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133635923">
+<start_time>02:45</start_time>
+<end_time>03:46</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1133635926">
+<start_time>03:46</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[开卷有理]]></title>
+</event>
+<event id="1133635929">
+<start_time>04:30</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[福彩草原情]]></title>
+</event>
+<event id="1133635932">
+<start_time>05:20</start_time>
+<end_time>06:12</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(23)]]></title>
+</event>
+<event id="1133635935">
+<start_time>06:12</start_time>
+<end_time>07:07</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(24)]]></title>
+</event>
+<event id="1133635938">
+<start_time>07:07</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[福彩草原情]]></title>
+</event>
+<event id="1133635941">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1133635944">
+<start_time>08:00</start_time>
+<end_time>08:25</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134979284">
+<start_time>08:25</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[经典剧场:重案六组1(13)]]></title>
+</event>
+<event id="1134979287">
+<start_time>09:21</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[经典剧场:重案六组1(14)]]></title>
+</event>
+<event id="1134979290">
+<start_time>10:14</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[经典剧场:重案六组1(15)]]></title>
+</event>
+<event id="1134979293">
+<start_time>11:10</start_time>
+<end_time>12:06</end_time>
+<title><![CDATA[经典剧场:重案六组1(16)]]></title>
+</event>
+<event id="1134979296">
+<start_time>12:06</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[经典剧场:重案六组1(17)]]></title>
+</event>
+<event id="1133635962">
+<start_time>13:00</start_time>
+<end_time>13:20</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133635965">
+<start_time>13:20</start_time>
+<end_time>13:35</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1133635968">
+<start_time>13:35</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133635971">
+<start_time>14:30</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133635974">
+<start_time>15:25</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133635977">
+<start_time>16:20</start_time>
+<end_time>17:16</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133635980">
+<start_time>17:16</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133635983">
+<start_time>18:08</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1133635986">
+<start_time>18:30</start_time>
+<end_time>18:51</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1133635989">
+<start_time>18:51</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[内蒙古天气预报]]></title>
+</event>
+<event id="1133635992">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133635995">
+<start_time>19:36</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(44)]]></title>
+</event>
+<event id="1133635998">
+<start_time>20:28</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(45)]]></title>
+</event>
+<event id="1133636001">
+<start_time>21:20</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[晚间报道]]></title>
+</event>
+<event id="1133636004">
+<start_time>21:40</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻再观察]]></title>
+</event>
+<event id="1133636007">
+<start_time>22:00</start_time>
+<end_time>23:06</end_time>
+<title><![CDATA[蔚蓝的故乡]]></title>
+</event>
+<event id="1133636010">
+<start_time>23:06</start_time>
+<end_time>23:47</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133970249">
+<start_time>23:47</start_time>
+<end_time>00:03</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+</schedule>
+<schedule channel_id="NMGTV1" epg_code="NMGTV1" date="2019-06-22">
+<event id="1133912280">
+<start_time>00:03</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133912283">
+<start_time>01:05</start_time>
+<end_time>01:50</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133912286">
+<start_time>01:50</start_time>
+<end_time>02:31</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1133912289">
+<start_time>02:31</start_time>
+<end_time>03:33</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1133912292">
+<start_time>03:33</start_time>
+<end_time>04:27</end_time>
+<title><![CDATA[开卷有理]]></title>
+</event>
+<event id="1133912295">
+<start_time>04:27</start_time>
+<end_time>05:21</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133912298">
+<start_time>05:21</start_time>
+<end_time>06:14</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(25)]]></title>
+</event>
+<event id="1133912301">
+<start_time>06:14</start_time>
+<end_time>07:08</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(26)]]></title>
+</event>
+<event id="1133912304">
+<start_time>07:08</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[福彩草原情]]></title>
+</event>
+<event id="1133912307">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1133912310">
+<start_time>08:00</start_time>
+<end_time>08:25</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134979299">
+<start_time>08:25</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[经典剧场:重案六组1(18)]]></title>
+</event>
+<event id="1134979302">
+<start_time>09:21</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[经典剧场:重案六组1(19)]]></title>
+</event>
+<event id="1134979305">
+<start_time>10:14</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[经典剧场:重案六组1(20)]]></title>
+</event>
+<event id="1134979308">
+<start_time>11:10</start_time>
+<end_time>12:06</end_time>
+<title><![CDATA[经典剧场:重案六组1(21)]]></title>
+</event>
+<event id="1134979311">
+<start_time>12:06</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[经典剧场:重案六组1(22)]]></title>
+</event>
+<event id="1133912328">
+<start_time>13:00</start_time>
+<end_time>13:20</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133912331">
+<start_time>13:20</start_time>
+<end_time>13:35</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1133912334">
+<start_time>13:35</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133912337">
+<start_time>14:30</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133912340">
+<start_time>15:25</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133912343">
+<start_time>16:20</start_time>
+<end_time>17:16</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133912346">
+<start_time>17:16</start_time>
+<end_time>18:04</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1133912349">
+<start_time>18:04</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1133912352">
+<start_time>18:30</start_time>
+<end_time>18:51</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1133912355">
+<start_time>18:51</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[内蒙古天气预报]]></title>
+</event>
+<event id="1133912358">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133912361">
+<start_time>19:36</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(46)]]></title>
+</event>
+<event id="1133912364">
+<start_time>20:28</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(47)]]></title>
+</event>
+<event id="1133912367">
+<start_time>21:20</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[晚间报道]]></title>
+</event>
+<event id="1133912370">
+<start_time>22:00</start_time>
+<end_time>23:06</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1133912373">
+<start_time>23:06</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1134233139">
+<start_time>23:55</start_time>
+<end_time>00:06</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+</schedule>
+<schedule channel_id="NMGTV1" epg_code="NMGTV1" date="2019-06-23">
+<event id="1134183588">
+<start_time>00:06</start_time>
+<end_time>01:07</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1134183591">
+<start_time>01:07</start_time>
+<end_time>01:51</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1134183594">
+<start_time>01:51</start_time>
+<end_time>02:21</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1134183597">
+<start_time>02:21</start_time>
+<end_time>03:31</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1134183600">
+<start_time>03:31</start_time>
+<end_time>04:37</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1134183603">
+<start_time>04:37</start_time>
+<end_time>05:22</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1134183606">
+<start_time>05:22</start_time>
+<end_time>06:14</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(27)]]></title>
+</event>
+<event id="1134183609">
+<start_time>06:14</start_time>
+<end_time>07:08</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(28)]]></title>
+</event>
+<event id="1134183612">
+<start_time>07:08</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[福彩草原情]]></title>
+</event>
+<event id="1134183615">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1134183618">
+<start_time>08:00</start_time>
+<end_time>08:25</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134979314">
+<start_time>08:25</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[经典剧场:重案六组1(23)]]></title>
+</event>
+<event id="1134979317">
+<start_time>09:21</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[经典剧场:重案六组1(24)]]></title>
+</event>
+<event id="1134979320">
+<start_time>10:14</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[经典剧场:重案六组1(25)]]></title>
+</event>
+<event id="1134979323">
+<start_time>11:10</start_time>
+<end_time>12:06</end_time>
+<title><![CDATA[经典剧场:重案六组1(26)]]></title>
+</event>
+<event id="1134979326">
+<start_time>12:06</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[经典剧场:重案六组1(27)]]></title>
+</event>
+<event id="1134183636">
+<start_time>13:00</start_time>
+<end_time>13:20</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1134183639">
+<start_time>13:20</start_time>
+<end_time>13:35</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1134183642">
+<start_time>13:35</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134183645">
+<start_time>14:30</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134183648">
+<start_time>15:25</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134183651">
+<start_time>16:20</start_time>
+<end_time>17:16</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134183654">
+<start_time>17:16</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134183657">
+<start_time>18:08</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1134183660">
+<start_time>18:30</start_time>
+<end_time>18:51</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1134183663">
+<start_time>18:51</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[内蒙古天气预报]]></title>
+</event>
+<event id="1134183666">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134183669">
+<start_time>19:36</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[北方剧场:正阳门下小女人(48)]]></title>
+</event>
+<event id="1134183672">
+<start_time>20:29</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[北方剧场]]></title>
+</event>
+<event id="1134183675">
+<start_time>21:20</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[晚间报道]]></title>
+</event>
+<event id="1134183678">
+<start_time>21:40</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻再观察]]></title>
+</event>
+<event id="1134183681">
+<start_time>22:00</start_time>
+<end_time>23:06</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1134519549">
+<start_time>23:06</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+</schedule>
+<schedule channel_id="NMGTV1" epg_code="NMGTV1" date="2019-06-24">
+<event id="1134484206">
+<start_time>00:05</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1134484209">
+<start_time>01:08</start_time>
+<end_time>01:50</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1134484212">
+<start_time>01:50</start_time>
+<end_time>02:32</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1134484215">
+<start_time>02:32</start_time>
+<end_time>04:36</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1134484218">
+<start_time>04:36</start_time>
+<end_time>05:21</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1134484221">
+<start_time>05:21</start_time>
+<end_time>06:13</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(29)]]></title>
+</event>
+<event id="1134484224">
+<start_time>06:13</start_time>
+<end_time>07:08</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(30)]]></title>
+</event>
+<event id="1134484227">
+<start_time>07:08</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[福彩草原情]]></title>
+</event>
+<event id="1134484230">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1134484233">
+<start_time>08:00</start_time>
+<end_time>08:27</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134979329">
+<start_time>08:27</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[经典剧场:重案六组1(28)]]></title>
+</event>
+<event id="1134979332">
+<start_time>09:21</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[经典剧场:重案六组1(29)]]></title>
+</event>
+<event id="1134979335">
+<start_time>10:14</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[经典剧场:重案六组1(30)]]></title>
+</event>
+<event id="1134979338">
+<start_time>11:10</start_time>
+<end_time>12:06</end_time>
+<title><![CDATA[经典剧场:重案六组1(31)]]></title>
+</event>
+<event id="1134979341">
+<start_time>12:06</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[经典剧场:重案六组1(32)]]></title>
+</event>
+<event id="1134484251">
+<start_time>13:00</start_time>
+<end_time>13:20</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1134484254">
+<start_time>13:20</start_time>
+<end_time>13:35</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1134484257">
+<start_time>13:35</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134484260">
+<start_time>14:30</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134484263">
+<start_time>15:25</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134484266">
+<start_time>16:20</start_time>
+<end_time>17:16</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134484269">
+<start_time>17:16</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1134484272">
+<start_time>18:08</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1134484275">
+<start_time>18:30</start_time>
+<end_time>18:51</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1134484278">
+<start_time>18:51</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[内蒙古天气预报]]></title>
+</event>
+<event id="1134484281">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134484284">
+<start_time>19:36</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[北方剧场]]></title>
+</event>
+<event id="1134484287">
+<start_time>20:29</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[北方剧场]]></title>
+</event>
+<event id="1134484290">
+<start_time>21:20</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[晚间报道]]></title>
+</event>
+<event id="1134484293">
+<start_time>21:40</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻再观察]]></title>
+</event>
+<event id="1134484296">
+<start_time>22:00</start_time>
+<end_time>23:06</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1135099650">
+<start_time>23:06</start_time>
+<end_time>00:06</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+</schedule>
+<schedule channel_id="NMGTV1" epg_code="NMGTV1" date="2019-06-25">
+<event id="1135046778">
+<start_time>00:06</start_time>
+<end_time>01:09</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1135046781">
+<start_time>01:09</start_time>
+<end_time>01:52</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1135046784">
+<start_time>01:52</start_time>
+<end_time>02:33</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1135046787">
+<start_time>02:33</start_time>
+<end_time>03:31</end_time>
+<title><![CDATA[马兰花开]]></title>
+</event>
+<event id="1135046790">
+<start_time>03:31</start_time>
+<end_time>04:36</end_time>
+<title><![CDATA[金牌律师团]]></title>
+</event>
+<event id="1135046793">
+<start_time>04:36</start_time>
+<end_time>05:21</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1135046796">
+<start_time>05:21</start_time>
+<end_time>06:11</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(31)]]></title>
+</event>
+<event id="1135046799">
+<start_time>06:11</start_time>
+<end_time>07:08</end_time>
+<title><![CDATA[清晨剧场:包青天之七侠五义(32)]]></title>
+</event>
+<event id="1135046802">
+<start_time>07:08</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[福彩草原情]]></title>
+</event>
+<event id="1135046805">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1135046808">
+<start_time>08:00</start_time>
+<end_time>08:27</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135046811">
+<start_time>08:27</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135046814">
+<start_time>09:21</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135046817">
+<start_time>10:14</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135046820">
+<start_time>11:10</start_time>
+<end_time>12:06</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135046823">
+<start_time>12:06</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135046826">
+<start_time>13:00</start_time>
+<end_time>13:20</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1135046829">
+<start_time>13:20</start_time>
+<end_time>13:35</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1135046832">
+<start_time>13:35</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1135046835">
+<start_time>14:30</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1135046838">
+<start_time>15:25</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1135046841">
+<start_time>16:20</start_time>
+<end_time>17:16</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1135046844">
+<start_time>17:16</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[传奇剧场]]></title>
+</event>
+<event id="1135046847">
+<start_time>18:08</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[欢乐驿站]]></title>
+</event>
+<event id="1135046850">
+<start_time>18:30</start_time>
+<end_time>18:51</end_time>
+<title><![CDATA[内蒙古新闻联播]]></title>
+</event>
+<event id="1135046853">
+<start_time>18:51</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[内蒙古天气预报]]></title>
+</event>
+<event id="1135046856">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135046859">
+<start_time>19:36</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[北方剧场]]></title>
+</event>
+<event id="1135046862">
+<start_time>20:28</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[北方剧场]]></title>
+</event>
+<event id="1135046865">
+<start_time>21:20</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[晚间报道]]></title>
+</event>
+<event id="1135046868">
+<start_time>21:40</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻再观察]]></title>
+</event>
+<event id="1135046871">
+<start_time>22:00</start_time>
+<end_time>23:06</end_time>
+<title><![CDATA[金牌律师团]]></title>
+</event>
+<event id="1135046874">
+<start_time>23:06</start_time>
+<end_time>23:47</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+<event id="1135046877">
+<start_time>23:47</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[星光剧场:五号特工组]]></title>
+</event>
+</schedule>
+</document>

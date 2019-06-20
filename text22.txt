@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="NANFANG2" epg_code="NANFANG2" date="2019-06-18">
+<event id="1134653541">
+<start_time>00:15</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134653544">
+<start_time>01:22</start_time>
+<end_time>01:41</end_time>
+<title><![CDATA[情感调查]]></title>
+</event>
+<event id="1134653547">
+<start_time>01:41</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653550">
+<start_time>02:00</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653553">
+<start_time>02:40</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653556">
+<start_time>03:00</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+<event id="1134653559">
+<start_time>03:45</start_time>
+<end_time>05:15</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653562">
+<start_time>05:15</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[72家房客]]></title>
+</event>
+<event id="1134653565">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[卫视新闻坊(重播)]]></title>
+</event>
+<event id="1134653568">
+<start_time>06:33</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653571">
+<start_time>06:40</start_time>
+<end_time>06:51</end_time>
+<title><![CDATA[第一故事]]></title>
+</event>
+<event id="1134653574">
+<start_time>06:51</start_time>
+<end_time>07:10</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653577">
+<start_time>07:10</start_time>
+<end_time>07:45</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653580">
+<start_time>07:45</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653583">
+<start_time>08:00</start_time>
+<end_time>08:45</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134653586">
+<start_time>08:45</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[72家房客 2集连播]]></title>
+</event>
+<event id="1134653589">
+<start_time>09:30</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653592">
+<start_time>11:00</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[真实故事]]></title>
+</event>
+<event id="1134653595">
+<start_time>11:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[第一故事]]></title>
+</event>
+<event id="1134653598">
+<start_time>12:00</start_time>
+<end_time>12:42</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134653601">
+<start_time>12:42</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653604">
+<start_time>13:00</start_time>
+<end_time>13:40</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653607">
+<start_time>13:40</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653610">
+<start_time>14:00</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134653613">
+<start_time>15:10</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[短剧连环炮]]></title>
+</event>
+<event id="1134653616">
+<start_time>17:30</start_time>
+<end_time>18:40</end_time>
+<title><![CDATA[少儿节目]]></title>
+</event>
+<event id="1134653619">
+<start_time>18:40</start_time>
+<end_time>18:50</end_time>
+<title><![CDATA[五分钟热度]]></title>
+</event>
+<event id="1134653622">
+<start_time>18:50</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653625">
+<start_time>18:55</start_time>
+<end_time>19:15</end_time>
+<title><![CDATA[都市笑口组]]></title>
+</event>
+<event id="1134653628">
+<start_time>19:15</start_time>
+<end_time>19:50</end_time>
+<title><![CDATA[城事特搜]]></title>
+</event>
+<event id="1134653631">
+<start_time>19:50</start_time>
+<end_time>20:05</end_time>
+<title><![CDATA[讲开又讲]]></title>
+</event>
+<event id="1134653634">
+<start_time>20:05</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[72家房客 2集连播]]></title>
+</event>
+<event id="1134653637">
+<start_time>21:00</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[人间真情]]></title>
+</event>
+<event id="1134653640">
+<start_time>21:15</start_time>
+<end_time>21:45</end_time>
+<title><![CDATA[卫视新闻坊]]></title>
+</event>
+<event id="1134653643">
+<start_time>21:45</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653646">
+<start_time>21:58</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653649">
+<start_time>23:30</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+</schedule>
+<schedule channel_id="NANFANG2" epg_code="NANFANG2" date="2019-06-19">
+<event id="1134653652">
+<start_time>00:15</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134653655">
+<start_time>01:22</start_time>
+<end_time>01:41</end_time>
+<title><![CDATA[情感调查]]></title>
+</event>
+<event id="1134653658">
+<start_time>01:41</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653661">
+<start_time>02:00</start_time>
+<end_time>02:38</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653664">
+<start_time>02:38</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653667">
+<start_time>03:00</start_time>
+<end_time>03:43</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+<event id="1134653670">
+<start_time>03:43</start_time>
+<end_time>05:13</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653673">
+<start_time>05:13</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[72家房客 2集连播]]></title>
+</event>
+<event id="1134653676">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[卫视新闻坊(重播)]]></title>
+</event>
+<event id="1134653679">
+<start_time>06:33</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653682">
+<start_time>06:40</start_time>
+<end_time>06:50</end_time>
+<title><![CDATA[人间真情]]></title>
+</event>
+<event id="1134653685">
+<start_time>06:50</start_time>
+<end_time>07:10</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653688">
+<start_time>07:10</start_time>
+<end_time>07:45</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653691">
+<start_time>07:45</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653694">
+<start_time>08:00</start_time>
+<end_time>08:45</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134653697">
+<start_time>08:45</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[72家房客 2集连播]]></title>
+</event>
+<event id="1134653700">
+<start_time>09:35</start_time>
+<end_time>10:55</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653703">
+<start_time>10:55</start_time>
+<end_time>11:47</end_time>
+<title><![CDATA[真实故事]]></title>
+</event>
+<event id="1134653706">
+<start_time>11:47</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[人间真情]]></title>
+</event>
+<event id="1134653709">
+<start_time>12:00</start_time>
+<end_time>12:42</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134653712">
+<start_time>12:42</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653715">
+<start_time>13:00</start_time>
+<end_time>13:45</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653718">
+<start_time>13:45</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653721">
+<start_time>14:00</start_time>
+<end_time>15:12</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134653724">
+<start_time>15:12</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[72家房客]]></title>
+</event>
+<event id="1134653727">
+<start_time>18:08</start_time>
+<end_time>18:40</end_time>
+<title><![CDATA[放学我当家]]></title>
+</event>
+<event id="1134653730">
+<start_time>18:40</start_time>
+<end_time>18:50</end_time>
+<title><![CDATA[五分钟热度]]></title>
+</event>
+<event id="1134653733">
+<start_time>18:50</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653736">
+<start_time>18:55</start_time>
+<end_time>19:15</end_time>
+<title><![CDATA[都市笑口组]]></title>
+</event>
+<event id="1134653739">
+<start_time>19:15</start_time>
+<end_time>19:50</end_time>
+<title><![CDATA[城事特搜]]></title>
+</event>
+<event id="1134653742">
+<start_time>19:50</start_time>
+<end_time>20:05</end_time>
+<title><![CDATA[讲开又讲]]></title>
+</event>
+<event id="1134653745">
+<start_time>20:05</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[72家房客 2集连播]]></title>
+</event>
+<event id="1134653748">
+<start_time>21:00</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[人间真情]]></title>
+</event>
+<event id="1134653751">
+<start_time>21:15</start_time>
+<end_time>21:45</end_time>
+<title><![CDATA[卫视新闻坊]]></title>
+</event>
+<event id="1134653754">
+<start_time>21:45</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653757">
+<start_time>21:58</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653760">
+<start_time>23:30</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+</schedule>
+<schedule channel_id="NANFANG2" epg_code="NANFANG2" date="2019-06-20">
+<event id="1134653763">
+<start_time>00:15</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134653766">
+<start_time>01:20</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[情感调查]]></title>
+</event>
+<event id="1134653769">
+<start_time>01:40</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653772">
+<start_time>02:00</start_time>
+<end_time>02:35</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653775">
+<start_time>02:35</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653778">
+<start_time>03:00</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+<event id="1134653781">
+<start_time>03:45</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653784">
+<start_time>05:18</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[短剧连环炮]]></title>
+</event>
+<event id="1134653787">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[卫视新闻坊(重播)]]></title>
+</event>
+<event id="1134653790">
+<start_time>06:33</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653793">
+<start_time>06:40</start_time>
+<end_time>06:50</end_time>
+<title><![CDATA[人间真情]]></title>
+</event>
+<event id="1134653796">
+<start_time>06:50</start_time>
+<end_time>07:10</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653799">
+<start_time>07:10</start_time>
+<end_time>07:45</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653802">
+<start_time>07:45</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653805">
+<start_time>08:00</start_time>
+<end_time>08:45</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134653808">
+<start_time>08:45</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[72家房客 2集连播]]></title>
+</event>
+<event id="1134653811">
+<start_time>09:35</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653814">
+<start_time>11:00</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[真实故事]]></title>
+</event>
+<event id="1134653817">
+<start_time>11:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[人间真情]]></title>
+</event>
+<event id="1134653820">
+<start_time>12:00</start_time>
+<end_time>12:42</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134653823">
+<start_time>12:42</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653826">
+<start_time>13:00</start_time>
+<end_time>13:40</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653829">
+<start_time>13:40</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653832">
+<start_time>14:00</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134653835">
+<start_time>15:10</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[短剧连环炮]]></title>
+</event>
+<event id="1134653838">
+<start_time>17:30</start_time>
+<end_time>18:40</end_time>
+<title><![CDATA[少儿节目]]></title>
+</event>
+<event id="1134653841">
+<start_time>18:40</start_time>
+<end_time>18:50</end_time>
+<title><![CDATA[五分钟热度]]></title>
+</event>
+<event id="1134653844">
+<start_time>18:50</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653847">
+<start_time>18:55</start_time>
+<end_time>19:15</end_time>
+<title><![CDATA[都市笑口组]]></title>
+</event>
+<event id="1134653850">
+<start_time>19:15</start_time>
+<end_time>19:50</end_time>
+<title><![CDATA[城事特搜]]></title>
+</event>
+<event id="1134653853">
+<start_time>19:50</start_time>
+<end_time>20:05</end_time>
+<title><![CDATA[讲开又讲]]></title>
+</event>
+<event id="1134653856">
+<start_time>20:05</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[72家房客 2集连播]]></title>
+</event>
+<event id="1134653859">
+<start_time>21:00</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[岭南风情画]]></title>
+</event>
+<event id="1134653862">
+<start_time>21:15</start_time>
+<end_time>21:45</end_time>
+<title><![CDATA[卫视新闻坊]]></title>
+</event>
+<event id="1134653865">
+<start_time>21:45</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653868">
+<start_time>21:58</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653871">
+<start_time>23:30</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+</schedule>
+<schedule channel_id="NANFANG2" epg_code="NANFANG2" date="2019-06-21">
+<event id="1134653874">
+<start_time>00:15</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134653877">
+<start_time>01:20</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[情感调查]]></title>
+</event>
+<event id="1134653880">
+<start_time>01:40</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653883">
+<start_time>02:00</start_time>
+<end_time>02:35</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653886">
+<start_time>02:35</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653889">
+<start_time>03:00</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+<event id="1134653892">
+<start_time>03:45</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653895">
+<start_time>05:18</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[短剧连环炮]]></title>
+</event>
+<event id="1134653898">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[卫视新闻坊(重播)]]></title>
+</event>
+<event id="1134653901">
+<start_time>06:33</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653904">
+<start_time>06:40</start_time>
+<end_time>06:50</end_time>
+<title><![CDATA[岭南风情画]]></title>
+</event>
+<event id="1134653907">
+<start_time>06:50</start_time>
+<end_time>07:10</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653910">
+<start_time>07:10</start_time>
+<end_time>07:45</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653913">
+<start_time>07:45</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653916">
+<start_time>08:00</start_time>
+<end_time>08:45</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134653919">
+<start_time>08:45</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[72家房客 2集连播]]></title>
+</event>
+<event id="1134653922">
+<start_time>09:30</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653925">
+<start_time>11:00</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[真实故事]]></title>
+</event>
+<event id="1134653928">
+<start_time>11:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[岭南风情画]]></title>
+</event>
+<event id="1134653931">
+<start_time>12:00</start_time>
+<end_time>12:42</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134653934">
+<start_time>12:42</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653937">
+<start_time>13:00</start_time>
+<end_time>13:40</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653940">
+<start_time>13:40</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134653943">
+<start_time>14:00</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134653946">
+<start_time>15:10</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[短剧连环炮]]></title>
+</event>
+<event id="1134653949">
+<start_time>17:30</start_time>
+<end_time>18:40</end_time>
+<title><![CDATA[少儿节目]]></title>
+</event>
+<event id="1134653952">
+<start_time>18:40</start_time>
+<end_time>18:50</end_time>
+<title><![CDATA[五分钟热度]]></title>
+</event>
+<event id="1134653955">
+<start_time>18:50</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653958">
+<start_time>18:55</start_time>
+<end_time>19:15</end_time>
+<title><![CDATA[都市笑口组]]></title>
+</event>
+<event id="1134653961">
+<start_time>19:15</start_time>
+<end_time>19:50</end_time>
+<title><![CDATA[城事特搜]]></title>
+</event>
+<event id="1134653964">
+<start_time>19:50</start_time>
+<end_time>20:05</end_time>
+<title><![CDATA[讲开又讲]]></title>
+</event>
+<event id="1134653967">
+<start_time>20:05</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[72家房客 2集连播]]></title>
+</event>
+<event id="1134653970">
+<start_time>21:00</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[岭南风情画]]></title>
+</event>
+<event id="1134653973">
+<start_time>21:15</start_time>
+<end_time>21:45</end_time>
+<title><![CDATA[卫视新闻坊]]></title>
+</event>
+<event id="1134653976">
+<start_time>21:45</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134653979">
+<start_time>21:58</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134653982">
+<start_time>23:30</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+</schedule>
+<schedule channel_id="NANFANG2" epg_code="NANFANG2" date="2019-06-22">
+<event id="1134653985">
+<start_time>00:15</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134653988">
+<start_time>01:20</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[情感调查]]></title>
+</event>
+<event id="1134653991">
+<start_time>01:40</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[都市笑口组(重播)]]></title>
+</event>
+<event id="1134653994">
+<start_time>02:00</start_time>
+<end_time>02:35</end_time>
+<title><![CDATA[城事特搜(重播)]]></title>
+</event>
+<event id="1134653997">
+<start_time>02:35</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[讲开又讲(重播)]]></title>
+</event>
+<event id="1134654000">
+<start_time>03:00</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+<event id="1134654003">
+<start_time>03:45</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134654006">
+<start_time>05:18</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[短剧连环炮]]></title>
+</event>
+<event id="1134654009">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[卫视新闻坊(重播)]]></title>
+</event>
+<event id="1134654012">
+<start_time>06:33</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134654015">
+<start_time>06:40</start_time>
+<end_time>06:50</end_time>
+<title><![CDATA[岭南风情画]]></title>
+</event>
+<event id="1134654018">
+<start_time>06:50</start_time>
+<end_time>07:10</end_time>
+<title><![CDATA[阿SIR出更(重播)]]></title>
+</event>
+<event id="1134654021">
+<start_time>07:10</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[我爱返寻味(重播)]]></title>
+</event>
+<event id="1134654024">
+<start_time>08:00</start_time>
+<end_time>08:45</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134654027">
+<start_time>08:45</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[72家房客 两集连播]]></title>
+</event>
+<event id="1134654030">
+<start_time>09:35</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134654033">
+<start_time>11:00</start_time>
+<end_time>11:35</end_time>
+<title><![CDATA[一起旅游吧]]></title>
+</event>
+<event id="1134654036">
+<start_time>11:35</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[爆笑连环炮]]></title>
+</event>
+<event id="1134654039">
+<start_time>12:00</start_time>
+<end_time>12:45</end_time>
+<title><![CDATA[卫视新闻坊(重播)]]></title>
+</event>
+<event id="1134654042">
+<start_time>12:45</start_time>
+<end_time>13:10</end_time>
+<title><![CDATA[潮流假期]]></title>
+</event>
+<event id="1134654045">
+<start_time>13:10</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[72家房客 两集连播]]></title>
+</event>
+<event id="1134654048">
+<start_time>14:00</start_time>
+<end_time>14:45</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134654051">
+<start_time>14:45</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[短剧连环炮]]></title>
+</event>
+<event id="1134654054">
+<start_time>17:30</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[潮流假期]]></title>
+</event>
+<event id="1134654057">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[全民放轻松]]></title>
+</event>
+<event id="1134654060">
+<start_time>18:30</start_time>
+<end_time>18:45</end_time>
+<title><![CDATA[FUN尚荟]]></title>
+</event>
+<event id="1134654063">
+<start_time>18:45</start_time>
+<end_time>18:50</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134654066">
+<start_time>18:50</start_time>
+<end_time>19:13</end_time>
+<title><![CDATA[阿SIR出更]]></title>
+</event>
+<event id="1134654069">
+<start_time>19:13</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[我爱返寻味]]></title>
+</event>
+<event id="1134654072">
+<start_time>20:00</start_time>
+<end_time>20:50</end_time>
+<title><![CDATA[72家房客 两集连播]]></title>
+</event>
+<event id="1134654075">
+<start_time>20:50</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[阿SIR出更]]></title>
+</event>
+<event id="1134654078">
+<start_time>21:15</start_time>
+<end_time>21:50</end_time>
+<title><![CDATA[卫视新闻坊]]></title>
+</event>
+<event id="1134654081">
+<start_time>21:50</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134654084">
+<start_time>21:58</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134654087">
+<start_time>23:30</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+</schedule>
+<schedule channel_id="NANFANG2" epg_code="NANFANG2" date="2019-06-23">
+<event id="1134654090">
+<start_time>00:15</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134654093">
+<start_time>01:20</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[情感调查]]></title>
+</event>
+<event id="1134654096">
+<start_time>01:40</start_time>
+<end_time>02:15</end_time>
+<title><![CDATA[阿SIR出更]]></title>
+</event>
+<event id="1134654099">
+<start_time>02:15</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[我爱返寻味]]></title>
+</event>
+<event id="1134654102">
+<start_time>03:00</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+<event id="1134654105">
+<start_time>03:45</start_time>
+<end_time>04:10</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134654108">
+<start_time>04:10</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[短剧连环炮]]></title>
+</event>
+<event id="1134654111">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[卫视新闻坊(重播)]]></title>
+</event>
+<event id="1134654114">
+<start_time>06:33</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134654117">
+<start_time>06:40</start_time>
+<end_time>06:50</end_time>
+<title><![CDATA[南方视窗]]></title>
+</event>
+<event id="1134654120">
+<start_time>06:50</start_time>
+<end_time>07:10</end_time>
+<title><![CDATA[阿SIR出更(重播)]]></title>
+</event>
+<event id="1134654123">
+<start_time>07:10</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[我爱返寻味(重播)]]></title>
+</event>
+<event id="1134654126">
+<start_time>08:00</start_time>
+<end_time>08:45</end_time>
+<title><![CDATA[今日最新闻(重播)]]></title>
+</event>
+<event id="1134654129">
+<start_time>08:45</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[72家房客 两集连播]]></title>
+</event>
+<event id="1134654132">
+<start_time>09:35</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134654135">
+<start_time>11:00</start_time>
+<end_time>11:35</end_time>
+<title><![CDATA[全民放轻松]]></title>
+</event>
+<event id="1134654138">
+<start_time>11:35</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[爆笑连环炮]]></title>
+</event>
+<event id="1134654141">
+<start_time>12:00</start_time>
+<end_time>12:45</end_time>
+<title><![CDATA[卫视新闻坊(重播)]]></title>
+</event>
+<event id="1134654144">
+<start_time>12:45</start_time>
+<end_time>13:10</end_time>
+<title><![CDATA[潮流假期]]></title>
+</event>
+<event id="1134654147">
+<start_time>13:10</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[72家房客 两集连播]]></title>
+</event>
+<event id="1134654150">
+<start_time>14:00</start_time>
+<end_time>14:45</end_time>
+<title><![CDATA[粤唱粤好戏]]></title>
+</event>
+<event id="1134654153">
+<start_time>14:45</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[短剧连环炮]]></title>
+</event>
+<event id="1134654156">
+<start_time>17:30</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[潮流假期]]></title>
+</event>
+<event id="1134654159">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[粤港财富通]]></title>
+</event>
+<event id="1134654162">
+<start_time>18:30</start_time>
+<end_time>18:45</end_time>
+<title><![CDATA[FUN尚荟]]></title>
+</event>
+<event id="1134654165">
+<start_time>18:45</start_time>
+<end_time>18:50</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134654168">
+<start_time>18:50</start_time>
+<end_time>19:13</end_time>
+<title><![CDATA[阿SIR出更]]></title>
+</event>
+<event id="1134654171">
+<start_time>19:13</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[我爱返寻味]]></title>
+</event>
+<event id="1134654174">
+<start_time>20:00</start_time>
+<end_time>20:50</end_time>
+<title><![CDATA[72家房客 两集连播]]></title>
+</event>
+<event id="1134654177">
+<start_time>20:50</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[阿SIR出更]]></title>
+</event>
+<event id="1134654180">
+<start_time>21:15</start_time>
+<end_time>21:50</end_time>
+<title><![CDATA[卫视新闻坊]]></title>
+</event>
+<event id="1134654183">
+<start_time>21:50</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[南方气象]]></title>
+</event>
+<event id="1134654186">
+<start_time>21:58</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[老友剧场]]></title>
+</event>
+<event id="1134654189">
+<start_time>23:30</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[今日最新闻]]></title>
+</event>
+</schedule>
+</document>

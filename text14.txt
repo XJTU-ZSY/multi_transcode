@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV16" epg_code="CCTV16" date="2019-06-18">
+<event id="1133858721">
+<start_time>00:48</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[经典-2019-139-2019欧洲音乐会(下)]]></title>
+</event>
+<event id="1133858724">
+<start_time>01:18</start_time>
+<end_time>02:03</end_time>
+<title><![CDATA[CCTV音乐厅-漫步经典2019-130]]></title>
+</event>
+<event id="1134327648">
+<start_time>02:03</start_time>
+<end_time>02:43</end_time>
+<title><![CDATA[音乐告诉你-2019-85艺术家带你听音乐(85)]]></title>
+</event>
+<event id="1134327651">
+<start_time>02:43</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133858730">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-82]]></title>
+</event>
+<event id="1133858733">
+<start_time>06:33</start_time>
+<end_time>07:06</end_time>
+<title><![CDATA[中国音乐电视-2019-169]]></title>
+</event>
+<event id="1133858736">
+<start_time>07:06</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[今乐坛-2019-104]]></title>
+</event>
+<event id="1133858739">
+<start_time>07:32</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[风华国乐-2019-179]]></title>
+</event>
+<event id="1133858742">
+<start_time>08:09</start_time>
+<end_time>09:57</end_time>
+<title><![CDATA[精彩音乐汇-2019-172]]></title>
+</event>
+<event id="1133858745">
+<start_time>09:57</start_time>
+<end_time>10:35</end_time>
+<title><![CDATA[民歌·中国-2019-122山水恋歌(2)]]></title>
+</event>
+<event id="1133858748">
+<start_time>10:35</start_time>
+<end_time>11:42</end_time>
+<title><![CDATA[2019星光璀璨演唱会第一季-3(4K)]]></title>
+</event>
+<event id="1133858751">
+<start_time>11:42</start_time>
+<end_time>12:19</end_time>
+<title><![CDATA[中国音乐电视-2019-169]]></title>
+</event>
+<event id="1133858754">
+<start_time>12:19</start_time>
+<end_time>14:07</end_time>
+<title><![CDATA[精彩音乐汇-2019-171]]></title>
+</event>
+<event id="1133858757">
+<start_time>14:07</start_time>
+<end_time>14:46</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-82]]></title>
+</event>
+<event id="1133858760">
+<start_time>14:46</start_time>
+<end_time>15:19</end_time>
+<title><![CDATA[音乐传奇2019-189-岁月金曲7 6月18日]]></title>
+</event>
+<event id="1133858763">
+<start_time>15:19</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[音乐传奇2019-190-岁月金曲8 6月18日]]></title>
+</event>
+<event id="1133858766">
+<start_time>15:52</start_time>
+<end_time>16:02</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-信仰]]></title>
+</event>
+<event id="1133858769">
+<start_time>16:02</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[今乐坛-2019-104]]></title>
+</event>
+<event id="1133858772">
+<start_time>16:30</start_time>
+<end_time>17:09</end_time>
+<title><![CDATA[民歌·中国-2019-122山水恋歌(2)]]></title>
+</event>
+<event id="1133858775">
+<start_time>17:09</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[中国音乐电视-2019-169]]></title>
+</event>
+<event id="1133858778">
+<start_time>17:48</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[精彩音乐汇-2019-173]]></title>
+</event>
+<event id="1133858781">
+<start_time>19:30</start_time>
+<end_time>20:40</end_time>
+<title><![CDATA[歌声与微笑2019-31-但愿人长久]]></title>
+</event>
+<event id="1133858784">
+<start_time>20:40</start_time>
+<end_time>21:46</end_time>
+<title><![CDATA[全球中文音乐榜上榜-2019-5]]></title>
+</event>
+<event id="1133858787">
+<start_time>21:46</start_time>
+<end_time>22:23</end_time>
+<title><![CDATA[风华国乐-精选版《国风雅韵》10]]></title>
+</event>
+<event id="1133858790">
+<start_time>22:23</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[精彩音乐汇-2019-170]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV16" epg_code="CCTV16" date="2019-06-19">
+<event id="1133858793">
+<start_time>00:05</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[经典-2019-140-2017欧洲音乐会]]></title>
+</event>
+<event id="1133858796">
+<start_time>01:05</start_time>
+<end_time>01:50</end_time>
+<title><![CDATA[CCTV音乐厅-漫步经典2019-131]]></title>
+</event>
+<event id="1134946914">
+<start_time>01:50</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[音乐告诉你-2019-86艺术家带你听音乐(86)]]></title>
+</event>
+<event id="1134946917">
+<start_time>02:30</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133858802">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-83]]></title>
+</event>
+<event id="1133858805">
+<start_time>06:33</start_time>
+<end_time>07:06</end_time>
+<title><![CDATA[中国音乐电视-2019-170]]></title>
+</event>
+<event id="1133858808">
+<start_time>07:06</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[今乐坛-2019-105]]></title>
+</event>
+<event id="1133858811">
+<start_time>07:32</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[风华国乐-2019-181]]></title>
+</event>
+<event id="1133858814">
+<start_time>08:09</start_time>
+<end_time>09:57</end_time>
+<title><![CDATA[精彩音乐汇-2019-173]]></title>
+</event>
+<event id="1133858817">
+<start_time>09:57</start_time>
+<end_time>10:35</end_time>
+<title><![CDATA[民歌·中国-2019-123山水恋歌(3)]]></title>
+</event>
+<event id="1133858820">
+<start_time>10:35</start_time>
+<end_time>11:42</end_time>
+<title><![CDATA[歌声与微笑2019-31-但愿人长久]]></title>
+</event>
+<event id="1133858823">
+<start_time>11:42</start_time>
+<end_time>12:19</end_time>
+<title><![CDATA[中国音乐电视-2019-170]]></title>
+</event>
+<event id="1133858826">
+<start_time>12:19</start_time>
+<end_time>14:07</end_time>
+<title><![CDATA[精彩音乐汇-2019-172]]></title>
+</event>
+<event id="1133858829">
+<start_time>14:07</start_time>
+<end_time>14:46</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-83]]></title>
+</event>
+<event id="1133858832">
+<start_time>14:46</start_time>
+<end_time>15:19</end_time>
+<title><![CDATA[音乐传奇2019-191-岁月金曲9 6月19日]]></title>
+</event>
+<event id="1133858835">
+<start_time>15:19</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[音乐传奇2019-192-岁月金曲10 6月19日]]></title>
+</event>
+<event id="1133858838">
+<start_time>15:52</start_time>
+<end_time>16:02</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-领航新征程]]></title>
+</event>
+<event id="1133858841">
+<start_time>16:02</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[今乐坛-2019-105]]></title>
+</event>
+<event id="1133858844">
+<start_time>16:30</start_time>
+<end_time>17:09</end_time>
+<title><![CDATA[民歌·中国-2019-123山水恋歌(3)]]></title>
+</event>
+<event id="1133858847">
+<start_time>17:09</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[中国音乐电视-2019-170]]></title>
+</event>
+<event id="1133858850">
+<start_time>17:48</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[精彩音乐汇-2019-174]]></title>
+</event>
+<event id="1133858853">
+<start_time>19:30</start_time>
+<end_time>20:40</end_time>
+<title><![CDATA[精彩音乐汇-群星演唱会-2019-25]]></title>
+</event>
+<event id="1133858856">
+<start_time>20:40</start_time>
+<end_time>21:46</end_time>
+<title><![CDATA[乐享汇-“青春恋歌”演唱会精编]]></title>
+</event>
+<event id="1133858859">
+<start_time>21:46</start_time>
+<end_time>22:23</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-83]]></title>
+</event>
+<event id="1133858862">
+<start_time>22:23</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[精彩音乐汇-2019-171]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV16" epg_code="CCTV16" date="2019-06-20">
+<event id="1133858865">
+<start_time>00:05</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[经典-2019-141-2017森林音乐会]]></title>
+</event>
+<event id="1133858868">
+<start_time>01:05</start_time>
+<end_time>01:50</end_time>
+<title><![CDATA[CCTV音乐厅-漫步经典2019-132]]></title>
+</event>
+<event id="1135246551">
+<start_time>01:50</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[音乐告诉你-2019-87艺术家带你听音乐(87)]]></title>
+</event>
+<event id="1135246554">
+<start_time>02:30</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133858874">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-83]]></title>
+</event>
+<event id="1133858877">
+<start_time>06:33</start_time>
+<end_time>07:06</end_time>
+<title><![CDATA[中国音乐电视-2019-171]]></title>
+</event>
+<event id="1133858880">
+<start_time>07:06</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[今乐坛-2019-106]]></title>
+</event>
+<event id="1133858883">
+<start_time>07:32</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[风华国乐-2019-182]]></title>
+</event>
+<event id="1133858886">
+<start_time>08:09</start_time>
+<end_time>09:57</end_time>
+<title><![CDATA[精彩音乐汇-2019-174]]></title>
+</event>
+<event id="1133858889">
+<start_time>09:57</start_time>
+<end_time>10:35</end_time>
+<title><![CDATA[民歌·中国-2019-124山水恋歌(4)]]></title>
+</event>
+<event id="1133858892">
+<start_time>10:35</start_time>
+<end_time>11:42</end_time>
+<title><![CDATA[精彩音乐汇-群星演唱会-2019-26]]></title>
+</event>
+<event id="1133858895">
+<start_time>11:42</start_time>
+<end_time>12:19</end_time>
+<title><![CDATA[中国音乐电视-2019-171]]></title>
+</event>
+<event id="1133858898">
+<start_time>12:19</start_time>
+<end_time>14:07</end_time>
+<title><![CDATA[精彩音乐汇-2019-173]]></title>
+</event>
+<event id="1133858901">
+<start_time>14:07</start_time>
+<end_time>14:46</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-83]]></title>
+</event>
+<event id="1133858904">
+<start_time>14:46</start_time>
+<end_time>15:09</end_time>
+<title><![CDATA[影视留声机-2019-163]]></title>
+</event>
+<event id="1133858907">
+<start_time>15:09</start_time>
+<end_time>15:32</end_time>
+<title><![CDATA[影视留声机-2019-164]]></title>
+</event>
+<event id="1133858910">
+<start_time>15:32</start_time>
+<end_time>16:02</end_time>
+<title><![CDATA[影视留声机-2019-165]]></title>
+</event>
+<event id="1133858913">
+<start_time>16:02</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[今乐坛-2019-106]]></title>
+</event>
+<event id="1133858916">
+<start_time>16:30</start_time>
+<end_time>17:09</end_time>
+<title><![CDATA[民歌·中国-2019-124山水恋歌(4)]]></title>
+</event>
+<event id="1133858919">
+<start_time>17:09</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[中国音乐电视-2019-171]]></title>
+</event>
+<event id="1133858922">
+<start_time>17:48</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[精彩音乐汇-2019-175]]></title>
+</event>
+<event id="1133858925">
+<start_time>19:30</start_time>
+<end_time>20:40</end_time>
+<title><![CDATA[乐享汇-“音乐正青春”演唱会精编]]></title>
+</event>
+<event id="1133858928">
+<start_time>20:40</start_time>
+<end_time>21:46</end_time>
+<title><![CDATA[全球中文音乐榜上榜-2019-23]]></title>
+</event>
+<event id="1133858931">
+<start_time>21:46</start_time>
+<end_time>22:23</end_time>
+<title><![CDATA[音乐人生-2019-24魏松(下)]]></title>
+</event>
+<event id="1134044190">
+<start_time>22:23</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[精彩音乐汇-2019-172]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV16" epg_code="CCTV16" date="2019-06-21">
+<event id="1134044193">
+<start_time>00:05</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[经典-2019-142-2018欧洲音乐会]]></title>
+</event>
+<event id="1134044196">
+<start_time>01:05</start_time>
+<end_time>01:50</end_time>
+<title><![CDATA[CCTV音乐厅-漫步经典2019-133]]></title>
+</event>
+<event id="1134044199">
+<start_time>01:50</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[音乐告诉你-2019-88艺术家带你听音乐(88)]]></title>
+</event>
+<event id="1134044202">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-84]]></title>
+</event>
+<event id="1134044205">
+<start_time>06:33</start_time>
+<end_time>07:06</end_time>
+<title><![CDATA[中国音乐电视-2019-172]]></title>
+</event>
+<event id="1134044208">
+<start_time>07:06</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[今乐坛-2019-107]]></title>
+</event>
+<event id="1134044211">
+<start_time>07:32</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[风华国乐-2019-183]]></title>
+</event>
+<event id="1134044214">
+<start_time>08:09</start_time>
+<end_time>09:57</end_time>
+<title><![CDATA[精彩音乐汇-2019-175]]></title>
+</event>
+<event id="1134044217">
+<start_time>09:57</start_time>
+<end_time>10:35</end_time>
+<title><![CDATA[民歌·中国-2019-125山水恋歌(5)]]></title>
+</event>
+<event id="1134044220">
+<start_time>10:35</start_time>
+<end_time>11:42</end_time>
+<title><![CDATA[乐享汇-“音乐正青春”演唱会精编]]></title>
+</event>
+<event id="1134044223">
+<start_time>11:42</start_time>
+<end_time>12:19</end_time>
+<title><![CDATA[中国音乐电视-2019-172]]></title>
+</event>
+<event id="1134044226">
+<start_time>12:19</start_time>
+<end_time>14:07</end_time>
+<title><![CDATA[精彩音乐汇-2019-174]]></title>
+</event>
+<event id="1134044229">
+<start_time>14:07</start_time>
+<end_time>14:46</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-84]]></title>
+</event>
+<event id="1134044232">
+<start_time>14:46</start_time>
+<end_time>15:09</end_time>
+<title><![CDATA[影视留声机-2019-166]]></title>
+</event>
+<event id="1134044235">
+<start_time>15:09</start_time>
+<end_time>15:32</end_time>
+<title><![CDATA[影视留声机-2019-167]]></title>
+</event>
+<event id="1134044238">
+<start_time>15:32</start_time>
+<end_time>16:02</end_time>
+<title><![CDATA[影视留声机-2019-168]]></title>
+</event>
+<event id="1134044241">
+<start_time>16:02</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[今乐坛-2019-107]]></title>
+</event>
+<event id="1134044244">
+<start_time>16:30</start_time>
+<end_time>17:09</end_time>
+<title><![CDATA[民歌·中国-2019-125山水恋歌(5)]]></title>
+</event>
+<event id="1134044247">
+<start_time>17:09</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[中国音乐电视-2019-172]]></title>
+</event>
+<event id="1134044250">
+<start_time>17:48</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[精彩音乐汇-2019-176]]></title>
+</event>
+<event id="1134044253">
+<start_time>19:30</start_time>
+<end_time>20:42</end_time>
+<title><![CDATA[一起音乐吧-2019-40为你歌唱]]></title>
+</event>
+<event id="1134044256">
+<start_time>20:42</start_time>
+<end_time>22:18</end_time>
+<title><![CDATA[歌声与微笑2019-29-似水年华]]></title>
+</event>
+<event id="1134044259">
+<start_time>22:18</start_time>
+<end_time>22:44</end_time>
+<title><![CDATA[今乐坛-2019-107]]></title>
+</event>
+<event id="1134292458">
+<start_time>22:44</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[精彩音乐汇-2019-173]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV16" epg_code="CCTV16" date="2019-06-22">
+<event id="1134292461">
+<start_time>00:26</start_time>
+<end_time>01:26</end_time>
+<title><![CDATA[经典-2019-143-2018森林音乐会]]></title>
+</event>
+<event id="1134292464">
+<start_time>01:26</start_time>
+<end_time>02:11</end_time>
+<title><![CDATA[CCTV音乐厅-漫步经典2019-134]]></title>
+</event>
+<event id="1134292467">
+<start_time>02:11</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[音乐告诉你-2019-89艺术家带你听音乐(89)]]></title>
+</event>
+<event id="1134292470">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-84]]></title>
+</event>
+<event id="1134292473">
+<start_time>06:33</start_time>
+<end_time>07:06</end_time>
+<title><![CDATA[中国音乐电视-2019-173]]></title>
+</event>
+<event id="1134292476">
+<start_time>07:06</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[今乐坛-2019-107]]></title>
+</event>
+<event id="1134292479">
+<start_time>07:32</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[风华国乐-2019-184]]></title>
+</event>
+<event id="1134292482">
+<start_time>08:09</start_time>
+<end_time>09:57</end_time>
+<title><![CDATA[精彩音乐汇-2019-176]]></title>
+</event>
+<event id="1134292485">
+<start_time>09:57</start_time>
+<end_time>10:35</end_time>
+<title><![CDATA[民歌·中国-2019-121山水恋歌(1)]]></title>
+</event>
+<event id="1134292488">
+<start_time>10:35</start_time>
+<end_time>12:19</end_time>
+<title><![CDATA[歌声与微笑2019-29-似水年华]]></title>
+</event>
+<event id="1134292491">
+<start_time>12:19</start_time>
+<end_time>14:07</end_time>
+<title><![CDATA[精彩音乐汇-2019-175]]></title>
+</event>
+<event id="1134292494">
+<start_time>14:07</start_time>
+<end_time>15:19</end_time>
+<title><![CDATA[音乐传奇2019-193-一代芳华邓丽君5 6月22日]]></title>
+</event>
+<event id="1134292497">
+<start_time>15:19</start_time>
+<end_time>16:28</end_time>
+<title><![CDATA[一起音乐吧-2019-29青春如歌]]></title>
+</event>
+<event id="1134292500">
+<start_time>16:28</start_time>
+<end_time>17:37</end_time>
+<title><![CDATA[一起音乐吧-2019-31最初的梦想]]></title>
+</event>
+<event id="1134292503">
+<start_time>17:37</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-领航新征程]]></title>
+</event>
+<event id="1134292506">
+<start_time>17:48</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[精彩音乐汇-2019-177]]></title>
+</event>
+<event id="1134292509">
+<start_time>19:30</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[全球中文音乐榜上榜-直播-2019-14]]></title>
+</event>
+<event id="1134292512">
+<start_time>21:10</start_time>
+<end_time>21:59</end_time>
+<title><![CDATA[CCTV音乐厅-“歌从草原来”内蒙古采风原创歌曲演唱会(上)]]></title>
+</event>
+<event id="1134292515">
+<start_time>21:59</start_time>
+<end_time>22:50</end_time>
+<title><![CDATA[CCTV音乐厅-“歌从草原来”内蒙古采风原创歌曲演唱会(下)]]></title>
+</event>
+<event id="1134292518">
+<start_time>22:50</start_time>
+<end_time>23:12</end_time>
+<title><![CDATA[影视留声机-2019-169]]></title>
+</event>
+<event id="1134292521">
+<start_time>23:12</start_time>
+<end_time>23:34</end_time>
+<title><![CDATA[影视留声机-2019-170]]></title>
+</event>
+<event id="1134420924">
+<start_time>23:34</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[影视留声机-2019-171]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV16" epg_code="CCTV16" date="2019-06-23">
+<event id="1134420927">
+<start_time>00:00</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[CCTV音乐厅-中国与世界(三)]]></title>
+</event>
+<event id="1134420930">
+<start_time>01:00</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[经典-2019-144-布赫宾德与德累斯顿国家管弦乐团音乐会]]></title>
+</event>
+<event id="1134420933">
+<start_time>02:00</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[音乐告诉你-2019-90艺术家带你听音乐(90)]]></title>
+</event>
+<event id="1134420936">
+<start_time>06:00</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[百年歌声-广场舞金曲2019-84]]></title>
+</event>
+<event id="1134420939">
+<start_time>06:33</start_time>
+<end_time>07:06</end_time>
+<title><![CDATA[中国音乐电视-2019-174]]></title>
+</event>
+<event id="1134420942">
+<start_time>07:06</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[今乐坛-2019-107]]></title>
+</event>
+<event id="1134420945">
+<start_time>07:32</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[风华国乐-2019-185]]></title>
+</event>
+<event id="1134420948">
+<start_time>08:09</start_time>
+<end_time>09:57</end_time>
+<title><![CDATA[精彩音乐汇-2019-177]]></title>
+</event>
+<event id="1134420951">
+<start_time>09:57</start_time>
+<end_time>10:35</end_time>
+<title><![CDATA[民歌·中国-2019-122山水恋歌(2)]]></title>
+</event>
+<event id="1134420954">
+<start_time>10:35</start_time>
+<end_time>11:25</end_time>
+<title><![CDATA[CCTV音乐厅-“歌从草原来”内蒙古采风原创歌曲演唱会(上)]]></title>
+</event>
+<event id="1134420957">
+<start_time>11:25</start_time>
+<end_time>12:19</end_time>
+<title><![CDATA[CCTV音乐厅-“歌从草原来”内蒙古采风原创歌曲演唱会(下)]]></title>
+</event>
+<event id="1134420960">
+<start_time>12:19</start_time>
+<end_time>14:07</end_time>
+<title><![CDATA[精彩音乐汇-2019-176]]></title>
+</event>
+<event id="1134420963">
+<start_time>14:07</start_time>
+<end_time>15:13</end_time>
+<title><![CDATA[音乐传奇2019-194-又见邓丽君(上)6月23日]]></title>
+</event>
+<event id="1134420966">
+<start_time>15:13</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[音乐传奇2019-195-又见邓丽君(下)6月23日]]></title>
+</event>
+<event id="1134420969">
+<start_time>16:25</start_time>
+<end_time>17:33</end_time>
+<title><![CDATA[一起音乐吧-2019-32往日时光]]></title>
+</event>
+<event id="1134420972">
+<start_time>17:33</start_time>
+<end_time>17:37</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-时间的远方]]></title>
+</event>
+<event id="1134420975">
+<start_time>17:37</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-幸福像阳光一样]]></title>
+</event>
+<event id="1134420978">
+<start_time>17:48</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[精彩音乐汇-2019-178]]></title>
+</event>
+<event id="1134420981">
+<start_time>19:30</start_time>
+<end_time>21:16</end_time>
+<title><![CDATA[精彩音乐汇-群星演唱会-2019-43]]></title>
+</event>
+<event id="1134420984">
+<start_time>21:16</start_time>
+<end_time>21:49</end_time>
+<title><![CDATA[乐游天下-2019-27麟乡情韵]]></title>
+</event>
+<event id="1134420987">
+<start_time>21:49</start_time>
+<end_time>22:42</end_time>
+<title><![CDATA[音乐公开课-2019-23孟玲主讲：因材施教，良师高徒(上)]]></title>
+</event>
+<event id="1134420990">
+<start_time>22:42</start_time>
+<end_time>23:52</end_time>
+<title><![CDATA[一起音乐吧-2019-40为你歌唱]]></title>
+</event>
+<event id="1134420993">
+<start_time>23:52</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[CCTV音乐厅-中国与世界(四)]]></title>
+</event>
+</schedule>
+</document>

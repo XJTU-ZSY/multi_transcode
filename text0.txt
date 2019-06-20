@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV1" epg_code="CCTV1" date="2019-06-18">
+<event id="1134039906">
+<start_time>00:11</start_time>
+<end_time>00:19</end_time>
+<title><![CDATA[生活提示2019年6月 14]]></title>
+</event>
+<event id="1134039909">
+<start_time>00:19</start_time>
+<end_time>00:45</end_time>
+<title><![CDATA[人口-2019-25]]></title>
+</event>
+<event id="1134039912">
+<start_time>00:45</start_time>
+<end_time>01:17</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134039915">
+<start_time>01:17</start_time>
+<end_time>02:04</end_time>
+<title><![CDATA[开讲啦-2019-22]]></title>
+</event>
+<event id="1134039918">
+<start_time>02:04</start_time>
+<end_time>02:56</end_time>
+<title><![CDATA[我有传家宝2019-26]]></title>
+</event>
+<event id="1134039921">
+<start_time>02:56</start_time>
+<end_time>04:29</end_time>
+<title><![CDATA[经典咏流传第二季-第四期重播]]></title>
+</event>
+<event id="1134039924">
+<start_time>04:29</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日说法-2019-168]]></title>
+</event>
+<event id="1133314875">
+<start_time>04:57</start_time>
+<end_time>05:27</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134039927">
+<start_time>05:27</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[人与自然-2019-170]]></title>
+</event>
+<event id="1134039930">
+<start_time>06:00</start_time>
+<end_time>08:38</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134039933">
+<start_time>08:38</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[生活早参考-特别节目(生活圈)2019-109]]></title>
+</event>
+<event id="1135203120">
+<start_time>09:24</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[手创中国-2019-1]]></title>
+</event>
+<event id="1135237755">
+<start_time>09:27</start_time>
+<end_time>10:17</end_time>
+<title><![CDATA[大江东去第11集]]></title>
+</event>
+<event id="1135238430">
+<start_time>10:17</start_time>
+<end_time>11:05</end_time>
+<title><![CDATA[大江东去第12集]]></title>
+</event>
+<event id="1135243125">
+<start_time>11:05</start_time>
+<end_time>11:56</end_time>
+<title><![CDATA[大江东去第13集]]></title>
+</event>
+<event id="1135243128">
+<start_time>11:56</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[2019秘境之眼-31]]></title>
+</event>
+<event id="1134039951">
+<start_time>12:00</start_time>
+<end_time>12:36</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134039954">
+<start_time>12:36</start_time>
+<end_time>13:12</end_time>
+<title><![CDATA[今日说法-2019-169]]></title>
+</event>
+<event id="1135250112">
+<start_time>13:12</start_time>
+<end_time>13:14</end_time>
+<title><![CDATA[瞬间中国-2019-32]]></title>
+</event>
+<event id="1135250115">
+<start_time>13:14</start_time>
+<end_time>14:04</end_time>
+<title><![CDATA[刘家媳妇第15集]]></title>
+</event>
+<event id="1134039963">
+<start_time>14:04</start_time>
+<end_time>14:10</end_time>
+<title><![CDATA[手创中国-2019-1]]></title>
+</event>
+<event id="1135261770">
+<start_time>14:10</start_time>
+<end_time>14:57</end_time>
+<title><![CDATA[刘家媳妇第16集]]></title>
+</event>
+<event id="1135261887">
+<start_time>14:57</start_time>
+<end_time>15:02</end_time>
+<title><![CDATA[瞬间中国-2019-31]]></title>
+</event>
+<event id="1135261890">
+<start_time>15:02</start_time>
+<end_time>15:51</end_time>
+<title><![CDATA[刘家媳妇第17集]]></title>
+</event>
+<event id="1134039975">
+<start_time>15:51</start_time>
+<end_time>15:54</end_time>
+<title><![CDATA[瞬间中国-2019-25]]></title>
+</event>
+<event id="1134946650">
+<start_time>15:54</start_time>
+<end_time>16:41</end_time>
+<title><![CDATA[刘家媳妇第18集]]></title>
+</event>
+<event id="1134039981">
+<start_time>16:41</start_time>
+<end_time>16:42</end_time>
+<title><![CDATA[瞬间中国-2019-19]]></title>
+</event>
+<event id="1134039984">
+<start_time>16:42</start_time>
+<end_time>16:48</end_time>
+<title><![CDATA[手创中国-2019-1]]></title>
+</event>
+<event id="1134039987">
+<start_time>16:48</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[第一动画乐园-2019-467]]></title>
+</event>
+<event id="1134039990">
+<start_time>17:30</start_time>
+<end_time>17:54</end_time>
+<title><![CDATA[第一动画乐园-2019-468]]></title>
+</event>
+<event id="1134039993">
+<start_time>17:54</start_time>
+<end_time>18:40</end_time>
+<title><![CDATA[第一动画乐园-2019-439]]></title>
+</event>
+<event id="1134039996">
+<start_time>18:40</start_time>
+<end_time>18:46</end_time>
+<title><![CDATA[第一动画乐园-2019-469]]></title>
+</event>
+<event id="1134039999">
+<start_time>18:46</start_time>
+<end_time>18:54</end_time>
+<title><![CDATA[第一动画乐园-2018-132]]></title>
+</event>
+<event id="1134040002">
+<start_time>18:54</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[2019秘境之眼-167]]></title>
+</event>
+<event id="1134040005">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134040008">
+<start_time>19:31</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134995385">
+<start_time>19:40</start_time>
+<end_time>20:01</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134995388">
+<start_time>20:01</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[前情提要-《共和国血脉》9/36]]></title>
+</event>
+<event id="1134995391">
+<start_time>20:06</start_time>
+<end_time>20:56</end_time>
+<title><![CDATA[共和国血脉9/36]]></title>
+</event>
+<event id="1134995394">
+<start_time>20:56</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[前情提要-《共和国血脉》10/36]]></title>
+</event>
+<event id="1134995397">
+<start_time>21:00</start_time>
+<end_time>21:49</end_time>
+<title><![CDATA[共和国血脉10/36]]></title>
+</event>
+<event id="1134995400">
+<start_time>21:49</start_time>
+<end_time>21:53</end_time>
+<title><![CDATA[手创中国-2019-1]]></title>
+</event>
+<event id="1134995403">
+<start_time>21:53</start_time>
+<end_time>21:59</end_time>
+<title><![CDATA[2019秘境之眼-32]]></title>
+</event>
+<event id="1134040032">
+<start_time>21:59</start_time>
+<end_time>22:36</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134040035">
+<start_time>22:36</start_time>
+<end_time>00:21</end_time>
+<title><![CDATA[2019年等着我特别节目-6]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV1" epg_code="CCTV1" date="2019-06-19">
+<event id="1134040038">
+<start_time>00:21</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[国际艺苑-2019-24]]></title>
+</event>
+<event id="1134040041">
+<start_time>01:20</start_time>
+<end_time>01:26</end_time>
+<title><![CDATA[生活提示2019年6月 15]]></title>
+</event>
+<event id="1134040044">
+<start_time>01:26</start_time>
+<end_time>01:58</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134040047">
+<start_time>01:58</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[动物世界-2019-116]]></title>
+</event>
+<event id="1134040050">
+<start_time>02:30</start_time>
+<end_time>02:42</end_time>
+<title><![CDATA[精彩一刻-2019-16航拍中国第二季四川城]]></title>
+</event>
+<event id="1134040053">
+<start_time>02:42</start_time>
+<end_time>02:56</end_time>
+<title><![CDATA[精彩一刻-2019-27航拍中国第二季甘肃关塞]]></title>
+</event>
+<event id="1134040056">
+<start_time>02:56</start_time>
+<end_time>04:29</end_time>
+<title><![CDATA[2019年等着我特别节目-6]]></title>
+</event>
+<event id="1134040059">
+<start_time>04:29</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日说法-2019-169]]></title>
+</event>
+<event id="1133823777">
+<start_time>04:57</start_time>
+<end_time>05:27</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134040062">
+<start_time>05:27</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[人与自然-2019-171]]></title>
+</event>
+<event id="1134040065">
+<start_time>06:00</start_time>
+<end_time>08:38</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134040068">
+<start_time>08:38</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[生活早参考-特别节目(生活圈)2019-110]]></title>
+</event>
+<event id="1134040071">
+<start_time>09:24</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[手创中国-2019-2]]></title>
+</event>
+<event id="1135246347">
+<start_time>09:27</start_time>
+<end_time>10:16</end_time>
+<title><![CDATA[大江东去第14集]]></title>
+</event>
+<event id="1135246350">
+<start_time>10:16</start_time>
+<end_time>11:05</end_time>
+<title><![CDATA[大江东去第15集]]></title>
+</event>
+<event id="1135246353">
+<start_time>11:05</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[大江东去第16集]]></title>
+</event>
+<event id="1134040083">
+<start_time>11:54</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[2019秘境之眼-33]]></title>
+</event>
+<event id="1134040086">
+<start_time>12:00</start_time>
+<end_time>12:36</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134040089">
+<start_time>12:36</start_time>
+<end_time>13:12</end_time>
+<title><![CDATA[今日说法-2019-170]]></title>
+</event>
+<event id="1134040092">
+<start_time>13:12</start_time>
+<end_time>13:14</end_time>
+<title><![CDATA[瞬间中国-2019-31]]></title>
+</event>
+<event id="1135246356">
+<start_time>13:14</start_time>
+<end_time>14:04</end_time>
+<title><![CDATA[刘家媳妇第19集]]></title>
+</event>
+<event id="1134040098">
+<start_time>14:04</start_time>
+<end_time>14:09</end_time>
+<title><![CDATA[手创中国-2019-2]]></title>
+</event>
+<event id="1135246359">
+<start_time>14:09</start_time>
+<end_time>14:57</end_time>
+<title><![CDATA[刘家媳妇第20集]]></title>
+</event>
+<event id="1134040104">
+<start_time>14:57</start_time>
+<end_time>15:01</end_time>
+<title><![CDATA[瞬间中国-2019-25]]></title>
+</event>
+<event id="1135246362">
+<start_time>15:01</start_time>
+<end_time>15:51</end_time>
+<title><![CDATA[刘家媳妇第21集]]></title>
+</event>
+<event id="1134040110">
+<start_time>15:51</start_time>
+<end_time>15:54</end_time>
+<title><![CDATA[瞬间中国-2019-19]]></title>
+</event>
+<event id="1135246365">
+<start_time>15:54</start_time>
+<end_time>16:41</end_time>
+<title><![CDATA[刘家媳妇第22集]]></title>
+</event>
+<event id="1134040116">
+<start_time>16:41</start_time>
+<end_time>16:42</end_time>
+<title><![CDATA[瞬间中国-2019-32]]></title>
+</event>
+<event id="1134040119">
+<start_time>16:42</start_time>
+<end_time>16:48</end_time>
+<title><![CDATA[手创中国-2019-2]]></title>
+</event>
+<event id="1134040122">
+<start_time>16:48</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[第一动画乐园-2019-470]]></title>
+</event>
+<event id="1134040125">
+<start_time>17:30</start_time>
+<end_time>17:54</end_time>
+<title><![CDATA[第一动画乐园-2019-471]]></title>
+</event>
+<event id="1134040128">
+<start_time>17:54</start_time>
+<end_time>18:40</end_time>
+<title><![CDATA[第一动画乐园-2019-443]]></title>
+</event>
+<event id="1134040131">
+<start_time>18:40</start_time>
+<end_time>18:46</end_time>
+<title><![CDATA[第一动画乐园-2019-472]]></title>
+</event>
+<event id="1134040134">
+<start_time>18:46</start_time>
+<end_time>18:54</end_time>
+<title><![CDATA[第一动画乐园-2018-132]]></title>
+</event>
+<event id="1134040137">
+<start_time>18:54</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[2019秘境之眼-168]]></title>
+</event>
+<event id="1134040140">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134040143">
+<start_time>19:31</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134040146">
+<start_time>19:40</start_time>
+<end_time>20:01</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134040149">
+<start_time>20:01</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[前情提要-《共和国血脉》11/36]]></title>
+</event>
+<event id="1135246368">
+<start_time>20:06</start_time>
+<end_time>20:54</end_time>
+<title><![CDATA[共和国血脉11/36]]></title>
+</event>
+<event id="1135246371">
+<start_time>20:54</start_time>
+<end_time>20:57</end_time>
+<title><![CDATA[前情提要-《共和国血脉》12/36]]></title>
+</event>
+<event id="1135246374">
+<start_time>20:57</start_time>
+<end_time>21:46</end_time>
+<title><![CDATA[共和国血脉12/36]]></title>
+</event>
+<event id="1135246377">
+<start_time>21:46</start_time>
+<end_time>21:51</end_time>
+<title><![CDATA[手创中国-2019-2]]></title>
+</event>
+<event id="1135246380">
+<start_time>21:51</start_time>
+<end_time>21:59</end_time>
+<title><![CDATA[2019秘境之眼-34]]></title>
+</event>
+<event id="1134040167">
+<start_time>21:59</start_time>
+<end_time>22:36</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134040170">
+<start_time>22:36</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[挑战不可能第四季-第五期重播]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV1" epg_code="CCTV1" date="2019-06-20">
+<event id="1134040173">
+<start_time>00:24</start_time>
+<end_time>01:02</end_time>
+<title><![CDATA[动物世界-2019-117]]></title>
+</event>
+<event id="1134040176">
+<start_time>01:02</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[生活提示2019年6月 16]]></title>
+</event>
+<event id="1134040179">
+<start_time>01:08</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134040182">
+<start_time>01:40</start_time>
+<end_time>02:25</end_time>
+<title><![CDATA[2019中国味道-11]]></title>
+</event>
+<event id="1134040185">
+<start_time>02:25</start_time>
+<end_time>02:42</end_time>
+<title><![CDATA[精彩一刻-2019-51航拍中国第二季江苏水建筑]]></title>
+</event>
+<event id="1134040188">
+<start_time>02:42</start_time>
+<end_time>02:56</end_time>
+<title><![CDATA[精彩一刻-2019-27航拍中国第二季甘肃关塞]]></title>
+</event>
+<event id="1134040191">
+<start_time>02:56</start_time>
+<end_time>04:29</end_time>
+<title><![CDATA[挑战不可能第四季-第五期重播]]></title>
+</event>
+<event id="1134040194">
+<start_time>04:29</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日说法-2019-170]]></title>
+</event>
+<event id="1133823873">
+<start_time>04:57</start_time>
+<end_time>05:27</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134040197">
+<start_time>05:27</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[人与自然-2019-172]]></title>
+</event>
+<event id="1134040200">
+<start_time>06:00</start_time>
+<end_time>08:38</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134040203">
+<start_time>08:38</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[生活早参考-特别节目(生活圈)2019-111]]></title>
+</event>
+<event id="1134040206">
+<start_time>09:24</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[手创中国-2019-3]]></title>
+</event>
+<event id="1135214196">
+<start_time>09:27</start_time>
+<end_time>10:16</end_time>
+<title><![CDATA[大江东去17/42]]></title>
+</event>
+<event id="1135214199">
+<start_time>10:16</start_time>
+<end_time>11:05</end_time>
+<title><![CDATA[大江东去18/42]]></title>
+</event>
+<event id="1135214202">
+<start_time>11:05</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[大江东去19/42]]></title>
+</event>
+<event id="1134040218">
+<start_time>11:54</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[2019秘境之眼-35]]></title>
+</event>
+<event id="1134040221">
+<start_time>12:00</start_time>
+<end_time>12:36</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134040224">
+<start_time>12:36</start_time>
+<end_time>13:11</end_time>
+<title><![CDATA[今日说法-2019-171]]></title>
+</event>
+<event id="1134040227">
+<start_time>13:11</start_time>
+<end_time>13:13</end_time>
+<title><![CDATA[瞬间中国-2019-25]]></title>
+</event>
+<event id="1134040230">
+<start_time>13:13</start_time>
+<end_time>14:03</end_time>
+<title><![CDATA[刘家媳妇23/39]]></title>
+</event>
+<event id="1134040233">
+<start_time>14:03</start_time>
+<end_time>14:08</end_time>
+<title><![CDATA[手创中国-2019-3]]></title>
+</event>
+<event id="1134040236">
+<start_time>14:08</start_time>
+<end_time>14:54</end_time>
+<title><![CDATA[刘家媳妇24/39]]></title>
+</event>
+<event id="1134040239">
+<start_time>14:54</start_time>
+<end_time>14:58</end_time>
+<title><![CDATA[瞬间中国-2019-19]]></title>
+</event>
+<event id="1134040242">
+<start_time>14:58</start_time>
+<end_time>15:46</end_time>
+<title><![CDATA[刘家媳妇25/39]]></title>
+</event>
+<event id="1134040245">
+<start_time>15:46</start_time>
+<end_time>15:47</end_time>
+<title><![CDATA[瞬间中国-2019-32]]></title>
+</event>
+<event id="1134040248">
+<start_time>15:47</start_time>
+<end_time>15:50</end_time>
+<title><![CDATA[手创中国-2019-3]]></title>
+</event>
+<event id="1134040251">
+<start_time>15:50</start_time>
+<end_time>16:37</end_time>
+<title><![CDATA[刘家媳妇26/39]]></title>
+</event>
+<event id="1134040254">
+<start_time>16:37</start_time>
+<end_time>16:43</end_time>
+<title><![CDATA[瞬间中国-2019-31]]></title>
+</event>
+<event id="1134040257">
+<start_time>16:43</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[第一动画乐园-2019-473]]></title>
+</event>
+<event id="1134040260">
+<start_time>17:25</start_time>
+<end_time>17:39</end_time>
+<title><![CDATA[第一动画乐园-2019-474]]></title>
+</event>
+<event id="1134040263">
+<start_time>17:39</start_time>
+<end_time>18:25</end_time>
+<title><![CDATA[第一动画乐园-2019-447]]></title>
+</event>
+<event id="1134040266">
+<start_time>18:25</start_time>
+<end_time>18:31</end_time>
+<title><![CDATA[第一动画乐园-2019-475]]></title>
+</event>
+<event id="1134040269">
+<start_time>18:31</start_time>
+<end_time>18:35</end_time>
+<title><![CDATA[第一动画乐园-2018-132]]></title>
+</event>
+<event id="1134040272">
+<start_time>18:35</start_time>
+<end_time>18:54</end_time>
+<title><![CDATA[瞬间中国电影短片-2019-1]]></title>
+</event>
+<event id="1134040275">
+<start_time>18:54</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[2019秘境之眼-169]]></title>
+</event>
+<event id="1134040278">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134040281">
+<start_time>19:31</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134040284">
+<start_time>19:40</start_time>
+<end_time>20:02</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134040287">
+<start_time>20:02</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[前情提要-《共和国血脉》13/36]]></title>
+</event>
+<event id="1134040290">
+<start_time>20:06</start_time>
+<end_time>20:57</end_time>
+<title><![CDATA[共和国血脉13/36]]></title>
+</event>
+<event id="1134040293">
+<start_time>20:57</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[前情提要-《共和国血脉》14/36]]></title>
+</event>
+<event id="1134040296">
+<start_time>21:00</start_time>
+<end_time>21:50</end_time>
+<title><![CDATA[共和国血脉14/36]]></title>
+</event>
+<event id="1134040299">
+<start_time>21:50</start_time>
+<end_time>21:54</end_time>
+<title><![CDATA[手创中国-2019-3]]></title>
+</event>
+<event id="1134040302">
+<start_time>21:54</start_time>
+<end_time>21:59</end_time>
+<title><![CDATA[2019秘境之眼-36]]></title>
+</event>
+<event id="1134040305">
+<start_time>21:59</start_time>
+<end_time>22:36</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134040308">
+<start_time>22:36</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[2019一路有你-2]]></title>
+</event>
+<event id="1134040311">
+<start_time>23:30</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[开讲啦-2019-23]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV1" epg_code="CCTV1" date="2019-06-21">
+<event id="1134040314">
+<start_time>00:26</start_time>
+<end_time>00:32</end_time>
+<title><![CDATA[生活提示2019年6月 17]]></title>
+</event>
+<event id="1134040317">
+<start_time>00:32</start_time>
+<end_time>01:04</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134040320">
+<start_time>01:04</start_time>
+<end_time>01:36</end_time>
+<title><![CDATA[动物世界-2019-118]]></title>
+</event>
+<event id="1134040323">
+<start_time>01:36</start_time>
+<end_time>02:26</end_time>
+<title><![CDATA[我有传家宝2019-26]]></title>
+</event>
+<event id="1134040326">
+<start_time>02:26</start_time>
+<end_time>02:56</end_time>
+<title><![CDATA[人与自然-2019-172]]></title>
+</event>
+<event id="1134040329">
+<start_time>02:56</start_time>
+<end_time>04:29</end_time>
+<title><![CDATA[经典咏流传第二季-第五期重播]]></title>
+</event>
+<event id="1134040332">
+<start_time>04:29</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日说法-2019-171]]></title>
+</event>
+<event id="1134040335">
+<start_time>04:57</start_time>
+<end_time>05:27</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134040338">
+<start_time>05:27</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[人与自然-2019-173]]></title>
+</event>
+<event id="1134040341">
+<start_time>06:00</start_time>
+<end_time>08:38</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134040344">
+<start_time>08:38</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[生活早参考-特别节目(生活圈)2019-112]]></title>
+</event>
+<event id="1134040347">
+<start_time>09:24</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[手创中国-2019-4]]></title>
+</event>
+<event id="1135214205">
+<start_time>09:27</start_time>
+<end_time>10:16</end_time>
+<title><![CDATA[大江东去20/42]]></title>
+</event>
+<event id="1135214208">
+<start_time>10:16</start_time>
+<end_time>11:05</end_time>
+<title><![CDATA[大江东去21/42]]></title>
+</event>
+<event id="1135214211">
+<start_time>11:05</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[大江东去22/42]]></title>
+</event>
+<event id="1134040359">
+<start_time>11:54</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[2019秘境之眼-37]]></title>
+</event>
+<event id="1134040362">
+<start_time>12:00</start_time>
+<end_time>12:36</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134040365">
+<start_time>12:36</start_time>
+<end_time>13:12</end_time>
+<title><![CDATA[今日说法-2019-172]]></title>
+</event>
+<event id="1134040368">
+<start_time>13:12</start_time>
+<end_time>13:14</end_time>
+<title><![CDATA[瞬间中国-2019-19]]></title>
+</event>
+<event id="1134040371">
+<start_time>13:14</start_time>
+<end_time>14:06</end_time>
+<title><![CDATA[刘家媳妇27/39]]></title>
+</event>
+<event id="1134040374">
+<start_time>14:06</start_time>
+<end_time>14:11</end_time>
+<title><![CDATA[手创中国-2019-4]]></title>
+</event>
+<event id="1134040377">
+<start_time>14:11</start_time>
+<end_time>14:57</end_time>
+<title><![CDATA[刘家媳妇28/39]]></title>
+</event>
+<event id="1134040380">
+<start_time>14:57</start_time>
+<end_time>15:01</end_time>
+<title><![CDATA[瞬间中国-2019-32]]></title>
+</event>
+<event id="1134040383">
+<start_time>15:01</start_time>
+<end_time>15:51</end_time>
+<title><![CDATA[刘家媳妇29/39]]></title>
+</event>
+<event id="1134040386">
+<start_time>15:51</start_time>
+<end_time>15:54</end_time>
+<title><![CDATA[瞬间中国-2019-31]]></title>
+</event>
+<event id="1134040389">
+<start_time>15:54</start_time>
+<end_time>16:41</end_time>
+<title><![CDATA[刘家媳妇30/39]]></title>
+</event>
+<event id="1134040392">
+<start_time>16:41</start_time>
+<end_time>16:42</end_time>
+<title><![CDATA[瞬间中国-2019-25]]></title>
+</event>
+<event id="1134040395">
+<start_time>16:42</start_time>
+<end_time>16:48</end_time>
+<title><![CDATA[手创中国-2019-4]]></title>
+</event>
+<event id="1134040398">
+<start_time>16:48</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[第一动画乐园-2019-476]]></title>
+</event>
+<event id="1134040401">
+<start_time>17:30</start_time>
+<end_time>17:54</end_time>
+<title><![CDATA[第一动画乐园-2019-477]]></title>
+</event>
+<event id="1134040404">
+<start_time>17:54</start_time>
+<end_time>18:40</end_time>
+<title><![CDATA[第一动画乐园-2019-478]]></title>
+</event>
+<event id="1134040407">
+<start_time>18:40</start_time>
+<end_time>18:46</end_time>
+<title><![CDATA[第一动画乐园-2019-479]]></title>
+</event>
+<event id="1134040410">
+<start_time>18:46</start_time>
+<end_time>18:54</end_time>
+<title><![CDATA[第一动画乐园-2018-132]]></title>
+</event>
+<event id="1134040413">
+<start_time>18:54</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[2019秘境之眼-170]]></title>
+</event>
+<event id="1134040416">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134040419">
+<start_time>19:31</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134040422">
+<start_time>19:40</start_time>
+<end_time>20:02</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134040425">
+<start_time>20:02</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[前情提要-《共和国血脉》15/36]]></title>
+</event>
+<event id="1134040428">
+<start_time>20:06</start_time>
+<end_time>20:56</end_time>
+<title><![CDATA[共和国血脉15/36]]></title>
+</event>
+<event id="1134040431">
+<start_time>20:56</start_time>
+<end_time>20:59</end_time>
+<title><![CDATA[前情提要-《共和国血脉》16/36]]></title>
+</event>
+<event id="1135246383">
+<start_time>20:59</start_time>
+<end_time>21:55</end_time>
+<title><![CDATA[共和国血脉16/36]]></title>
+</event>
+<event id="1134040440">
+<start_time>21:55</start_time>
+<end_time>21:59</end_time>
+<title><![CDATA[2019秘境之眼-38]]></title>
+</event>
+<event id="1134040443">
+<start_time>21:59</start_time>
+<end_time>22:36</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134289119">
+<start_time>22:36</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[星光大道-2019-29(4K)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV1" epg_code="CCTV1" date="2019-06-22">
+<event id="1134289122">
+<start_time>00:24</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[动物世界-2019-119]]></title>
+</event>
+<event id="1134289125">
+<start_time>00:58</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[生活提示2019年6月 18]]></title>
+</event>
+<event id="1134289128">
+<start_time>01:08</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134289131">
+<start_time>01:40</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[国际艺苑-2019-24]]></title>
+</event>
+<event id="1134289134">
+<start_time>02:30</start_time>
+<end_time>02:43</end_time>
+<title><![CDATA[精彩一刻-2019-27航拍中国第二季甘肃关塞]]></title>
+</event>
+<event id="1134289137">
+<start_time>02:43</start_time>
+<end_time>02:56</end_time>
+<title><![CDATA[精彩一刻-2019-16航拍中国第二季四川城]]></title>
+</event>
+<event id="1134289140">
+<start_time>02:56</start_time>
+<end_time>04:29</end_time>
+<title><![CDATA[星光大道-2019-29(4K)]]></title>
+</event>
+<event id="1134289143">
+<start_time>04:29</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日说法-2019-172]]></title>
+</event>
+<event id="1134289146">
+<start_time>04:57</start_time>
+<end_time>05:27</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134289149">
+<start_time>05:27</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[人与自然-2019-174]]></title>
+</event>
+<event id="1134289152">
+<start_time>06:00</start_time>
+<end_time>08:38</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1135214214">
+<start_time>08:38</start_time>
+<end_time>09:26</end_time>
+<title><![CDATA[大江东去23/42]]></title>
+</event>
+<event id="1135214217">
+<start_time>09:26</start_time>
+<end_time>10:15</end_time>
+<title><![CDATA[大江东去24/42]]></title>
+</event>
+<event id="1134289161">
+<start_time>10:15</start_time>
+<end_time>11:55</end_time>
+<title><![CDATA[经典咏流传第二季-第五期重播]]></title>
+</event>
+<event id="1134289164">
+<start_time>11:55</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[2019秘境之眼-39]]></title>
+</event>
+<event id="1134289167">
+<start_time>12:00</start_time>
+<end_time>12:36</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134289170">
+<start_time>12:36</start_time>
+<end_time>13:11</end_time>
+<title><![CDATA[今日说法-2019-173]]></title>
+</event>
+<event id="1134289173">
+<start_time>13:11</start_time>
+<end_time>13:14</end_time>
+<title><![CDATA[手创中国-2019-1]]></title>
+</event>
+<event id="1134289176">
+<start_time>13:14</start_time>
+<end_time>14:47</end_time>
+<title><![CDATA[2019闪亮的名字-最美大学生和最美辅导员发布仪式]]></title>
+</event>
+<event id="1134289179">
+<start_time>14:47</start_time>
+<end_time>14:52</end_time>
+<title><![CDATA[瞬间中国-2019-32]]></title>
+</event>
+<event id="1134289182">
+<start_time>14:52</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[刘家媳妇31/39]]></title>
+</event>
+<event id="1134289185">
+<start_time>15:38</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[瞬间中国-2019-31]]></title>
+</event>
+<event id="1134289188">
+<start_time>15:42</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[刘家媳妇32/39]]></title>
+</event>
+<event id="1134289191">
+<start_time>16:33</start_time>
+<end_time>17:21</end_time>
+<title><![CDATA[刘家媳妇33/39]]></title>
+</event>
+<event id="1134289194">
+<start_time>17:21</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[瞬间中国-2019-25]]></title>
+</event>
+<event id="1134289197">
+<start_time>17:28</start_time>
+<end_time>17:38</end_time>
+<title><![CDATA[精彩一刻-2019-45航拍中国第二季广东科技]]></title>
+</event>
+<event id="1134289200">
+<start_time>17:38</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[精彩一刻-2019-51航拍中国第二季江苏水建筑]]></title>
+</event>
+<event id="1134289203">
+<start_time>17:55</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[瞬间中国-2019-19]]></title>
+</event>
+<event id="1134289206">
+<start_time>17:56</start_time>
+<end_time>18:03</end_time>
+<title><![CDATA[手创中国-2019-1]]></title>
+</event>
+<event id="1134289209">
+<start_time>18:03</start_time>
+<end_time>18:54</end_time>
+<title><![CDATA[2019中国味道-12]]></title>
+</event>
+<event id="1134289212">
+<start_time>18:54</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[2019秘境之眼-171]]></title>
+</event>
+<event id="1134289215">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134289218">
+<start_time>19:31</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134289221">
+<start_time>19:40</start_time>
+<end_time>20:02</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134289224">
+<start_time>20:02</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[前情提要-《共和国血脉》17/36]]></title>
+</event>
+<event id="1134289227">
+<start_time>20:06</start_time>
+<end_time>20:56</end_time>
+<title><![CDATA[共和国血脉17/36]]></title>
+</event>
+<event id="1134289230">
+<start_time>20:56</start_time>
+<end_time>20:58</end_time>
+<title><![CDATA[前情提要-《共和国血脉》18/36]]></title>
+</event>
+<event id="1134289233">
+<start_time>20:58</start_time>
+<end_time>21:48</end_time>
+<title><![CDATA[共和国血脉18/36]]></title>
+</event>
+<event id="1134289236">
+<start_time>21:48</start_time>
+<end_time>21:52</end_time>
+<title><![CDATA[手创中国-2019-1]]></title>
+</event>
+<event id="1134289239">
+<start_time>21:52</start_time>
+<end_time>21:59</end_time>
+<title><![CDATA[2019秘境之眼-40]]></title>
+</event>
+<event id="1134289242">
+<start_time>21:59</start_time>
+<end_time>22:36</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134289245">
+<start_time>22:36</start_time>
+<end_time>23:32</end_time>
+<title><![CDATA[开讲啦-2019-24]]></title>
+</event>
+<event id="1134418530">
+<start_time>23:32</start_time>
+<end_time>01:15</end_time>
+<title><![CDATA[星光大道-2019-29(4K)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV1" epg_code="CCTV1" date="2019-06-23">
+<event id="1134418533">
+<start_time>01:15</start_time>
+<end_time>01:47</end_time>
+<title><![CDATA[动物世界-2019-120]]></title>
+</event>
+<event id="1134418536">
+<start_time>01:47</start_time>
+<end_time>01:53</end_time>
+<title><![CDATA[生活提示2019年6月 19]]></title>
+</event>
+<event id="1134418539">
+<start_time>01:53</start_time>
+<end_time>02:25</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134418542">
+<start_time>02:25</start_time>
+<end_time>02:42</end_time>
+<title><![CDATA[精彩一刻-2019-51航拍中国第二季江苏水建筑]]></title>
+</event>
+<event id="1134418545">
+<start_time>02:42</start_time>
+<end_time>02:56</end_time>
+<title><![CDATA[精彩一刻-2019-22航拍中国第二季内蒙古林]]></title>
+</event>
+<event id="1134418548">
+<start_time>02:56</start_time>
+<end_time>04:29</end_time>
+<title><![CDATA[2019年等着我特别节目-6]]></title>
+</event>
+<event id="1134418551">
+<start_time>04:29</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[今日说法-2019-173]]></title>
+</event>
+<event id="1134418554">
+<start_time>04:57</start_time>
+<end_time>05:27</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134418557">
+<start_time>05:27</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[人与自然-2019-175]]></title>
+</event>
+<event id="1134418560">
+<start_time>06:00</start_time>
+<end_time>08:38</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134418563">
+<start_time>08:38</start_time>
+<end_time>09:27</end_time>
+<title><![CDATA[2019中国味道-10]]></title>
+</event>
+<event id="1134418566">
+<start_time>09:27</start_time>
+<end_time>10:16</end_time>
+<title><![CDATA[精彩一刻-2019-80国家宝藏第二季蔡明潘长江唐嫣罗晋]]></title>
+</event>
+<event id="1134418569">
+<start_time>10:16</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[2019年等着我特别节目-6]]></title>
+</event>
+<event id="1134418572">
+<start_time>11:54</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[2019秘境之眼-41]]></title>
+</event>
+<event id="1134418575">
+<start_time>12:00</start_time>
+<end_time>12:36</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134418578">
+<start_time>12:36</start_time>
+<end_time>13:12</end_time>
+<title><![CDATA[今日说法-2019-174]]></title>
+</event>
+<event id="1134418581">
+<start_time>13:12</start_time>
+<end_time>13:15</end_time>
+<title><![CDATA[瞬间中国-2019-31]]></title>
+</event>
+<event id="1134418584">
+<start_time>13:15</start_time>
+<end_time>14:05</end_time>
+<title><![CDATA[我有传家宝2019-27]]></title>
+</event>
+<event id="1134418587">
+<start_time>14:05</start_time>
+<end_time>14:10</end_time>
+<title><![CDATA[瞬间中国-2019-25]]></title>
+</event>
+<event id="1134418590">
+<start_time>14:10</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[刘家媳妇34/39]]></title>
+</event>
+<event id="1134418593">
+<start_time>15:00</start_time>
+<end_time>15:04</end_time>
+<title><![CDATA[瞬间中国-2019-19]]></title>
+</event>
+<event id="1134418596">
+<start_time>15:04</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[刘家媳妇35/39]]></title>
+</event>
+<event id="1134418599">
+<start_time>15:52</start_time>
+<end_time>16:39</end_time>
+<title><![CDATA[刘家媳妇36/39]]></title>
+</event>
+<event id="1134418602">
+<start_time>16:39</start_time>
+<end_time>16:41</end_time>
+<title><![CDATA[手创中国-2019-2]]></title>
+</event>
+<event id="1134418605">
+<start_time>16:41</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[刘家媳妇37/39]]></title>
+</event>
+<event id="1134418608">
+<start_time>17:28</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[瞬间中国-2019-32]]></title>
+</event>
+<event id="1134418611">
+<start_time>17:31</start_time>
+<end_time>17:51</end_time>
+<title><![CDATA[精彩一刻-2019-12航拍中国第二季浙江海]]></title>
+</event>
+<event id="1134418614">
+<start_time>17:51</start_time>
+<end_time>17:58</end_time>
+<title><![CDATA[手创中国-2019-2]]></title>
+</event>
+<event id="1134418617">
+<start_time>17:58</start_time>
+<end_time>18:54</end_time>
+<title><![CDATA[正大综艺-动物来啦2019-19]]></title>
+</event>
+<event id="1134418620">
+<start_time>18:54</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[2019秘境之眼-172]]></title>
+</event>
+<event id="1134418623">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134418626">
+<start_time>19:31</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134418629">
+<start_time>19:40</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134418632">
+<start_time>20:06</start_time>
+<end_time>21:50</end_time>
+<title><![CDATA[2019年等着我特别节目-7]]></title>
+</event>
+<event id="1134418635">
+<start_time>21:50</start_time>
+<end_time>21:54</end_time>
+<title><![CDATA[手创中国-2019-2]]></title>
+</event>
+<event id="1134418638">
+<start_time>21:54</start_time>
+<end_time>21:59</end_time>
+<title><![CDATA[2019秘境之眼-28]]></title>
+</event>
+<event id="1134418641">
+<start_time>21:59</start_time>
+<end_time>22:36</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1135157004">
+<start_time>22:36</start_time>
+<end_time>00:21</end_time>
+<title><![CDATA[2019年等着我特别节目-7]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV1" epg_code="CCTV1" date="2019-06-24">
+<event id="1135157007">
+<start_time>00:21</start_time>
+<end_time>01:17</end_time>
+<title><![CDATA[开讲啦-2019-24]]></title>
+</event>
+<event id="1135157010">
+<start_time>01:17</start_time>
+<end_time>01:49</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1135157013">
+<start_time>01:49</start_time>
+<end_time>02:39</end_time>
+<title><![CDATA[正大综艺-动物来啦2019-19]]></title>
+</event>
+<event id="1135157016">
+<start_time>02:39</start_time>
+<end_time>02:56</end_time>
+<title><![CDATA[精彩一刻-2019-43航拍中国第二季广东山野]]></title>
+</event>
+<event id="1135157019">
+<start_time>02:56</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[2019年等着我特别节目-7]]></title>
+</event>
+<event id="1135157022">
+<start_time>19:31</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+</schedule>
+</document>

@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="LNTV1" epg_code="LNTV1" date="2019-06-18">
+<event id="1135260138">
+<start_time>00:19</start_time>
+<end_time>00:47</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季60]]></title>
+</event>
+<event id="1135260141">
+<start_time>00:47</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260144">
+<start_time>01:18</start_time>
+<end_time>02:58</end_time>
+<title><![CDATA[经典影院:不见不散]]></title>
+</event>
+<event id="1135260147">
+<start_time>02:58</start_time>
+<end_time>03:50</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1135260150">
+<start_time>03:50</start_time>
+<end_time>05:08</end_time>
+<title><![CDATA[经典影院:绝情剑]]></title>
+</event>
+<event id="1135260153">
+<start_time>05:08</start_time>
+<end_time>05:39</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260156">
+<start_time>05:39</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[黑土地]]></title>
+</event>
+<event id="1135260159">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[第一时间(上)]]></title>
+</event>
+<event id="1135202730">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135260162">
+<start_time>07:01</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[第一时间(下)]]></title>
+</event>
+<event id="1135260165">
+<start_time>07:30</start_time>
+<end_time>07:56</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1135260168">
+<start_time>07:56</start_time>
+<end_time>08:48</end_time>
+<title><![CDATA[奇幻科学城]]></title>
+</event>
+<event id="1135217865">
+<start_time>08:48</start_time>
+<end_time>09:46</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(21)]]></title>
+</event>
+<event id="1135238271">
+<start_time>09:46</start_time>
+<end_time>10:54</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(22)]]></title>
+</event>
+<event id="1135238274">
+<start_time>10:54</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(23)]]></title>
+</event>
+<event id="1132832832">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[说天下]]></title>
+</event>
+<event id="1135250490">
+<start_time>13:00</start_time>
+<end_time>13:25</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135261011">
+<start_time>13:25</start_time>
+<end_time>14:20</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(5)]]></title>
+</event>
+<event id="1135261014">
+<start_time>14:20</start_time>
+<end_time>15:18</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(6)]]></title>
+</event>
+<event id="1134973614">
+<start_time>15:18</start_time>
+<end_time>16:02</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(7)]]></title>
+</event>
+<event id="1134973617">
+<start_time>16:02</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(8)]]></title>
+</event>
+<event id="1132832850">
+<start_time>17:00</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1132832853">
+<start_time>17:52</start_time>
+<end_time>18:19</end_time>
+<title><![CDATA[风物辽宁]]></title>
+</event>
+<event id="1132832856">
+<start_time>18:19</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[品牌辽宁]]></title>
+</event>
+<event id="1132832859">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[气象资讯]]></title>
+</event>
+<event id="1132832862">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1132832865">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[辽宁天气预报]]></title>
+</event>
+<event id="1132832868">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1132832871">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[北方剧场:家产(18)]]></title>
+</event>
+<event id="1132832874">
+<start_time>20:25</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[北方剧场:家产(19)]]></title>
+</event>
+<event id="1135202703">
+<start_time>21:15</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[有请主角儿]]></title>
+</event>
+<event id="1135202706">
+<start_time>22:00</start_time>
+<end_time>01:07</end_time>
+<title><![CDATA[紫金镖]]></title>
+</event>
+</schedule>
+<schedule channel_id="LNTV1" epg_code="LNTV1" date="2019-06-19">
+<event id="1133093166">
+<start_time>01:07</start_time>
+<end_time>03:20</end_time>
+<title><![CDATA[北方影院]]></title>
+</event>
+<event id="1133093169">
+<start_time>03:20</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[北方影院]]></title>
+</event>
+<event id="1133093172">
+<start_time>05:40</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[黑土地]]></title>
+</event>
+<event id="1133093175">
+<start_time>06:30</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[第一时间]]></title>
+</event>
+<event id="1133093178">
+<start_time>07:30</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1133093181">
+<start_time>08:03</start_time>
+<end_time>08:48</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133093184">
+<start_time>08:48</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(24)]]></title>
+</event>
+<event id="1133093187">
+<start_time>09:45</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(25)]]></title>
+</event>
+<event id="1133093190">
+<start_time>10:51</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(26)]]></title>
+</event>
+<event id="1133093193">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[说天下]]></title>
+</event>
+<event id="1133093196">
+<start_time>13:00</start_time>
+<end_time>13:25</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134973620">
+<start_time>13:25</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(9)]]></title>
+</event>
+<event id="1134973623">
+<start_time>14:18</start_time>
+<end_time>15:16</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(10)]]></title>
+</event>
+<event id="1134973626">
+<start_time>15:16</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(11)]]></title>
+</event>
+<event id="1134973629">
+<start_time>16:01</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(12)]]></title>
+</event>
+<event id="1133093211">
+<start_time>17:00</start_time>
+<end_time>17:51</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1133093214">
+<start_time>17:51</start_time>
+<end_time>18:20</end_time>
+<title><![CDATA[风物辽宁]]></title>
+</event>
+<event id="1133093217">
+<start_time>18:20</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[品牌辽宁]]></title>
+</event>
+<event id="1133093220">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1133093223">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[辽宁天气预报]]></title>
+</event>
+<event id="1133093226">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133093229">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[北方剧场:家产(20)]]></title>
+</event>
+<event id="1133093232">
+<start_time>20:25</start_time>
+<end_time>21:09</end_time>
+<title><![CDATA[北方剧场:家产(21)]]></title>
+</event>
+<event id="1133093235">
+<start_time>21:09</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[靓妈攻略]]></title>
+</event>
+<event id="1133093238">
+<start_time>22:00</start_time>
+<end_time>23:27</end_time>
+<title><![CDATA[北方影院]]></title>
+</event>
+<event id="1133450739">
+<start_time>23:27</start_time>
+<end_time>01:07</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+</schedule>
+<schedule channel_id="LNTV1" epg_code="LNTV1" date="2019-06-20">
+<event id="1133328432">
+<start_time>01:07</start_time>
+<end_time>03:20</end_time>
+<title><![CDATA[北方影院]]></title>
+</event>
+<event id="1133328435">
+<start_time>03:20</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[北方影院]]></title>
+</event>
+<event id="1133328438">
+<start_time>05:40</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[黑土地]]></title>
+</event>
+<event id="1133328441">
+<start_time>06:30</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[第一时间]]></title>
+</event>
+<event id="1133328444">
+<start_time>07:30</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1133328447">
+<start_time>08:04</start_time>
+<end_time>08:48</end_time>
+<title><![CDATA[纪录片:记住乡愁第一季]]></title>
+</event>
+<event id="1133328450">
+<start_time>08:48</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(27)]]></title>
+</event>
+<event id="1133328453">
+<start_time>09:45</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(28)]]></title>
+</event>
+<event id="1133328456">
+<start_time>10:51</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(29)]]></title>
+</event>
+<event id="1133328459">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[说天下]]></title>
+</event>
+<event id="1133328462">
+<start_time>13:00</start_time>
+<end_time>13:24</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134973632">
+<start_time>13:24</start_time>
+<end_time>14:21</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(13)]]></title>
+</event>
+<event id="1134973635">
+<start_time>14:21</start_time>
+<end_time>15:17</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(14)]]></title>
+</event>
+<event id="1134973638">
+<start_time>15:17</start_time>
+<end_time>16:02</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(15)]]></title>
+</event>
+<event id="1134973641">
+<start_time>16:02</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(16)]]></title>
+</event>
+<event id="1133328477">
+<start_time>17:00</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1133328480">
+<start_time>17:52</start_time>
+<end_time>18:19</end_time>
+<title><![CDATA[风物辽宁]]></title>
+</event>
+<event id="1133328483">
+<start_time>18:19</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[品牌辽宁]]></title>
+</event>
+<event id="1133328486">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[气象资讯]]></title>
+</event>
+<event id="1133328489">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1133328492">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[辽宁天气预报]]></title>
+</event>
+<event id="1133328495">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133328498">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[北方剧场:家产(22)]]></title>
+</event>
+<event id="1133328501">
+<start_time>20:25</start_time>
+<end_time>21:13</end_time>
+<title><![CDATA[北方剧场:家产(23)]]></title>
+</event>
+<event id="1133328504">
+<start_time>21:13</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[有请主角儿]]></title>
+</event>
+<event id="1133328507">
+<start_time>22:00</start_time>
+<end_time>23:31</end_time>
+<title><![CDATA[北方影院]]></title>
+</event>
+<event id="1133715303">
+<start_time>23:31</start_time>
+<end_time>01:07</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+</schedule>
+<schedule channel_id="LNTV1" epg_code="LNTV1" date="2019-06-21">
+<event id="1133614830">
+<start_time>01:07</start_time>
+<end_time>04:53</end_time>
+<title><![CDATA[北方影院]]></title>
+</event>
+<event id="1133614833">
+<start_time>04:53</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[北方影院]]></title>
+</event>
+<event id="1133614836">
+<start_time>05:40</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[黑土地]]></title>
+</event>
+<event id="1133614839">
+<start_time>06:30</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[第一时间]]></title>
+</event>
+<event id="1133614842">
+<start_time>07:30</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1133614845">
+<start_time>07:59</start_time>
+<end_time>08:48</end_time>
+<title><![CDATA[祝你平安]]></title>
+</event>
+<event id="1133614848">
+<start_time>08:48</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(30)]]></title>
+</event>
+<event id="1133614851">
+<start_time>09:45</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(31)]]></title>
+</event>
+<event id="1133614854">
+<start_time>10:51</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(32)]]></title>
+</event>
+<event id="1133614857">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[说天下]]></title>
+</event>
+<event id="1133614860">
+<start_time>13:00</start_time>
+<end_time>13:25</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134973644">
+<start_time>13:25</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(17)]]></title>
+</event>
+<event id="1134973647">
+<start_time>14:18</start_time>
+<end_time>15:14</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(18)]]></title>
+</event>
+<event id="1134973650">
+<start_time>15:14</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(19)]]></title>
+</event>
+<event id="1134973653">
+<start_time>16:00</start_time>
+<end_time>17:01</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(20)]]></title>
+</event>
+<event id="1133614875">
+<start_time>17:01</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1133614878">
+<start_time>18:00</start_time>
+<end_time>18:20</end_time>
+<title><![CDATA[风物辽宁]]></title>
+</event>
+<event id="1133614881">
+<start_time>18:20</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[品牌辽宁]]></title>
+</event>
+<event id="1133614884">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[气象资讯]]></title>
+</event>
+<event id="1133614887">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1133614890">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[辽宁天气预报]]></title>
+</event>
+<event id="1133614893">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133614896">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[北方剧场:家产(24)]]></title>
+</event>
+<event id="1133614899">
+<start_time>20:25</start_time>
+<end_time>21:13</end_time>
+<title><![CDATA[北方剧场:家产(25)]]></title>
+</event>
+<event id="1133614902">
+<start_time>21:13</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[有请主角儿]]></title>
+</event>
+<event id="1133614905">
+<start_time>22:05</start_time>
+<end_time>23:36</end_time>
+<title><![CDATA[组团儿上春晚]]></title>
+</event>
+<event id="1134004893">
+<start_time>23:36</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[北方影院]]></title>
+</event>
+</schedule>
+<schedule channel_id="LNTV1" epg_code="LNTV1" date="2019-06-22">
+<event id="1133890749">
+<start_time>00:28</start_time>
+<end_time>01:58</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1133890752">
+<start_time>01:58</start_time>
+<end_time>03:28</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1133890755">
+<start_time>03:28</start_time>
+<end_time>03:38</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133890758">
+<start_time>03:38</start_time>
+<end_time>05:09</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1133890761">
+<start_time>05:09</start_time>
+<end_time>05:41</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1133890764">
+<start_time>05:41</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[黑土地]]></title>
+</event>
+<event id="1133890767">
+<start_time>06:30</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[第一时间]]></title>
+</event>
+<event id="1133890770">
+<start_time>07:30</start_time>
+<end_time>07:56</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1133890773">
+<start_time>07:56</start_time>
+<end_time>08:48</end_time>
+<title><![CDATA[奇幻科学城]]></title>
+</event>
+<event id="1133890776">
+<start_time>08:48</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(33)]]></title>
+</event>
+<event id="1133890779">
+<start_time>09:45</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(34)]]></title>
+</event>
+<event id="1133890782">
+<start_time>10:51</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(35)]]></title>
+</event>
+<event id="1133890785">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[说天下]]></title>
+</event>
+<event id="1133890788">
+<start_time>13:00</start_time>
+<end_time>13:25</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134973656">
+<start_time>13:25</start_time>
+<end_time>14:20</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(21)]]></title>
+</event>
+<event id="1134973659">
+<start_time>14:20</start_time>
+<end_time>15:17</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(22)]]></title>
+</event>
+<event id="1134973662">
+<start_time>15:17</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(23)]]></title>
+</event>
+<event id="1134973665">
+<start_time>16:01</start_time>
+<end_time>17:01</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(24)]]></title>
+</event>
+<event id="1133890803">
+<start_time>17:01</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1133890806">
+<start_time>17:52</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[中国好人]]></title>
+</event>
+<event id="1133890809">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1133890812">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[辽宁天气预报]]></title>
+</event>
+<event id="1133890815">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133890818">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[北方剧场:家产(26)]]></title>
+</event>
+<event id="1133890821">
+<start_time>20:25</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[北方剧场:家产(27)]]></title>
+</event>
+<event id="1133890824">
+<start_time>21:15</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[有请主角儿]]></title>
+</event>
+<event id="1133890827">
+<start_time>22:00</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1134261180">
+<start_time>23:55</start_time>
+<end_time>01:11</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+</schedule>
+<schedule channel_id="LNTV1" epg_code="LNTV1" date="2019-06-23">
+<event id="1134162645">
+<start_time>01:11</start_time>
+<end_time>02:33</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1134162648">
+<start_time>02:33</start_time>
+<end_time>03:21</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1134162651">
+<start_time>03:21</start_time>
+<end_time>04:13</end_time>
+<title><![CDATA[有请主角儿]]></title>
+</event>
+<event id="1134162654">
+<start_time>04:13</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1134162657">
+<start_time>05:40</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[黑土地]]></title>
+</event>
+<event id="1134162660">
+<start_time>06:30</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[第一时间]]></title>
+</event>
+<event id="1134162663">
+<start_time>07:30</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1134162666">
+<start_time>07:59</start_time>
+<end_time>08:48</end_time>
+<title><![CDATA[奇幻科学城]]></title>
+</event>
+<event id="1134162669">
+<start_time>08:48</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(36)]]></title>
+</event>
+<event id="1134162672">
+<start_time>09:45</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(37)]]></title>
+</event>
+<event id="1134162675">
+<start_time>10:51</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场:雪花那个飘(38)]]></title>
+</event>
+<event id="1134162678">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[说天下]]></title>
+</event>
+<event id="1134162681">
+<start_time>13:00</start_time>
+<end_time>13:25</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134973668">
+<start_time>13:25</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(25)]]></title>
+</event>
+<event id="1134973671">
+<start_time>14:18</start_time>
+<end_time>15:13</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(26)]]></title>
+</event>
+<event id="1134973674">
+<start_time>15:13</start_time>
+<end_time>15:58</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(27)]]></title>
+</event>
+<event id="1134973677">
+<start_time>15:58</start_time>
+<end_time>17:01</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(28)]]></title>
+</event>
+<event id="1134162696">
+<start_time>17:01</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1134162699">
+<start_time>17:52</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[瞭望评辨天下]]></title>
+</event>
+<event id="1134162702">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1134162705">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[辽宁天气预报]]></title>
+</event>
+<event id="1134162708">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134162711">
+<start_time>19:33</start_time>
+<end_time>20:26</end_time>
+<title><![CDATA[北方剧场:家产(28)]]></title>
+</event>
+<event id="1134162714">
+<start_time>20:26</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[北方剧场:家产(29)]]></title>
+</event>
+<event id="1134162717">
+<start_time>21:15</start_time>
+<end_time>22:45</end_time>
+<title><![CDATA[欢乐饭米粒儿]]></title>
+</event>
+<event id="1134470772">
+<start_time>22:45</start_time>
+<end_time>01:13</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+</schedule>
+<schedule channel_id="LNTV1" epg_code="LNTV1" date="2019-06-24">
+<event id="1134458349">
+<start_time>01:13</start_time>
+<end_time>02:32</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1134458352">
+<start_time>02:32</start_time>
+<end_time>04:14</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1134458355">
+<start_time>04:14</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1134458358">
+<start_time>05:40</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[黑土地]]></title>
+</event>
+<event id="1134458361">
+<start_time>06:30</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[第一时间]]></title>
+</event>
+<event id="1134458364">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1134458367">
+<start_time>08:00</start_time>
+<end_time>08:48</end_time>
+<title><![CDATA[奇幻科学城]]></title>
+</event>
+<event id="1134458370">
+<start_time>08:48</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134458373">
+<start_time>09:45</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134458376">
+<start_time>10:51</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134458379">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[说天下]]></title>
+</event>
+<event id="1134458382">
+<start_time>13:00</start_time>
+<end_time>13:24</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134973680">
+<start_time>13:24</start_time>
+<end_time>14:22</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(29)]]></title>
+</event>
+<event id="1134973683">
+<start_time>14:22</start_time>
+<end_time>15:17</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(30)]]></title>
+</event>
+<event id="1134973686">
+<start_time>15:17</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(31)]]></title>
+</event>
+<event id="1134973689">
+<start_time>16:01</start_time>
+<end_time>16:58</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(32)]]></title>
+</event>
+<event id="1134458397">
+<start_time>16:58</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1134458400">
+<start_time>17:52</start_time>
+<end_time>18:20</end_time>
+<title><![CDATA[风物辽宁]]></title>
+</event>
+<event id="1134458403">
+<start_time>18:20</start_time>
+<end_time>18:25</end_time>
+<title><![CDATA[品牌辽宁]]></title>
+</event>
+<event id="1134458406">
+<start_time>18:25</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[气象资讯]]></title>
+</event>
+<event id="1134458409">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1134458412">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[辽宁天气预报]]></title>
+</event>
+<event id="1134458415">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134458418">
+<start_time>19:33</start_time>
+<end_time>20:23</end_time>
+<title><![CDATA[北方剧场:家产(30)]]></title>
+</event>
+<event id="1134458421">
+<start_time>20:23</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[北方剧场:家产(31)]]></title>
+</event>
+<event id="1134458424">
+<start_time>21:15</start_time>
+<end_time>22:37</end_time>
+<title><![CDATA[欢乐饭米粒儿]]></title>
+</event>
+<event id="1135129245">
+<start_time>22:37</start_time>
+<end_time>01:13</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+</schedule>
+<schedule channel_id="LNTV1" epg_code="LNTV1" date="2019-06-25">
+<event id="1135025520">
+<start_time>01:13</start_time>
+<end_time>02:32</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1135025523">
+<start_time>02:32</start_time>
+<end_time>04:14</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1135025526">
+<start_time>04:14</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1135025529">
+<start_time>05:40</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[黑土地]]></title>
+</event>
+<event id="1135025532">
+<start_time>06:30</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[第一时间]]></title>
+</event>
+<event id="1135025535">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1135025538">
+<start_time>08:00</start_time>
+<end_time>08:48</end_time>
+<title><![CDATA[奇幻科学城]]></title>
+</event>
+<event id="1135025541">
+<start_time>08:48</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135025544">
+<start_time>09:45</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135025547">
+<start_time>10:51</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135025550">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[说天下]]></title>
+</event>
+<event id="1135025553">
+<start_time>13:00</start_time>
+<end_time>13:24</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135025556">
+<start_time>13:24</start_time>
+<end_time>14:21</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(33)]]></title>
+</event>
+<event id="1135025559">
+<start_time>14:21</start_time>
+<end_time>15:18</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(34)]]></title>
+</event>
+<event id="1135025562">
+<start_time>15:18</start_time>
+<end_time>16:02</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(35)]]></title>
+</event>
+<event id="1135025565">
+<start_time>16:02</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[下午剧场:刘家媳妇(36)]]></title>
+</event>
+<event id="1135025568">
+<start_time>17:00</start_time>
+<end_time>17:52</end_time>
+<title><![CDATA[欢乐集结号]]></title>
+</event>
+<event id="1135025571">
+<start_time>17:52</start_time>
+<end_time>18:19</end_time>
+<title><![CDATA[风物辽宁]]></title>
+</event>
+<event id="1135025574">
+<start_time>18:19</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[品牌辽宁]]></title>
+</event>
+<event id="1135025577">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[气象资讯]]></title>
+</event>
+<event id="1135025580">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[辽宁新闻]]></title>
+</event>
+<event id="1135025583">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[辽宁天气预报]]></title>
+</event>
+<event id="1135025586">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135025589">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[北方剧场:家产(32)]]></title>
+</event>
+<event id="1135025592">
+<start_time>20:25</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[北方剧场:家产(33)]]></title>
+</event>
+<event id="1135025595">
+<start_time>21:15</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[奇幻科学城]]></title>
+</event>
+<event id="1135025598">
+<start_time>22:00</start_time>
+<end_time>23:33</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+<event id="1135025601">
+<start_time>23:33</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[经典影院]]></title>
+</event>
+</schedule>
+</document>

@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCQTV1" epg_code="CCQTV1" date="2019-06-18">
+<event id="1135251303">
+<start_time>00:30</start_time>
+<end_time>00:32</end_time>
+<title><![CDATA[旅游气象]]></title>
+</event>
+<event id="1135251306">
+<start_time>00:32</start_time>
+<end_time>01:14</end_time>
+<title><![CDATA[午夜剧场:心如铁23]]></title>
+</event>
+<event id="1135251309">
+<start_time>01:14</start_time>
+<end_time>01:38</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135251312">
+<start_time>01:38</start_time>
+<end_time>02:19</end_time>
+<title><![CDATA[午夜剧场:心如铁24]]></title>
+</event>
+<event id="1135251315">
+<start_time>02:19</start_time>
+<end_time>02:33</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135251318">
+<start_time>02:33</start_time>
+<end_time>02:54</end_time>
+<title><![CDATA[走近中国消防]]></title>
+</event>
+<event id="1135251321">
+<start_time>02:54</start_time>
+<end_time>03:12</end_time>
+<title><![CDATA[红岩本色]]></title>
+</event>
+<event id="1135251324">
+<start_time>03:12</start_time>
+<end_time>03:59</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1135251327">
+<start_time>03:59</start_time>
+<end_time>04:42</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1135251330">
+<start_time>04:42</start_time>
+<end_time>05:24</end_time>
+<title><![CDATA[深夜剧场:勇敢的心47]]></title>
+</event>
+<event id="1135251333">
+<start_time>05:24</start_time>
+<end_time>05:37</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135251336">
+<start_time>05:37</start_time>
+<end_time>06:19</end_time>
+<title><![CDATA[深夜剧场:勇敢的心48]]></title>
+</event>
+<event id="1135251339">
+<start_time>06:19</start_time>
+<end_time>06:42</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135251342">
+<start_time>06:42</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1135251345">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135251348">
+<start_time>07:01</start_time>
+<end_time>07:16</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1135251351">
+<start_time>07:16</start_time>
+<end_time>07:28</end_time>
+<title><![CDATA[第一V视频]]></title>
+</event>
+<event id="1135251354">
+<start_time>07:28</start_time>
+<end_time>07:57</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1135251357">
+<start_time>07:57</start_time>
+<end_time>08:10</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1135202832">
+<start_time>08:10</start_time>
+<end_time>09:07</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记精编版(1)]]></title>
+</event>
+<event id="1135202835">
+<start_time>09:07</start_time>
+<end_time>10:05</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记精编版(2)]]></title>
+</event>
+<event id="1135202838">
+<start_time>10:05</start_time>
+<end_time>11:02</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记精编版(3)]]></title>
+</event>
+<event id="1135202841">
+<start_time>11:02</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记精编版(4)]]></title>
+</event>
+<event id="1135249056">
+<start_time>12:00</start_time>
+<end_time>12:22</end_time>
+<title><![CDATA[第1眼新闻]]></title>
+</event>
+<event id="1135249098">
+<start_time>12:22</start_time>
+<end_time>12:27</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1135249800">
+<start_time>12:27</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1135249803">
+<start_time>13:04</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(15)]]></title>
+</event>
+<event id="1135216674">
+<start_time>14:01</start_time>
+<end_time>14:56</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(16)]]></title>
+</event>
+<event id="1135216677">
+<start_time>14:56</start_time>
+<end_time>15:51</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(17)]]></title>
+</event>
+<event id="1135216680">
+<start_time>15:51</start_time>
+<end_time>16:47</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(18)]]></title>
+</event>
+<event id="1135216683">
+<start_time>16:47</start_time>
+<end_time>17:47</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(19)]]></title>
+</event>
+<event id="1132834698">
+<start_time>17:47</start_time>
+<end_time>18:04</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1132834701">
+<start_time>18:04</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1132834704">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[重庆天气预报]]></title>
+</event>
+<event id="1132834707">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[重庆新闻联播]]></title>
+</event>
+<event id="1132834710">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1135216686">
+<start_time>19:35</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[传奇剧场 :共产党人刘少奇(1)]]></title>
+</event>
+<event id="1135216689">
+<start_time>20:35</start_time>
+<end_time>21:29</end_time>
+<title><![CDATA[传奇剧场 :共产党人刘少奇(2)]]></title>
+</event>
+<event id="1135261230">
+<start_time>21:29</start_time>
+<end_time>22:32</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1135261233">
+<start_time>22:32</start_time>
+<end_time>23:18</end_time>
+<title><![CDATA[晚间剧场:激战38]]></title>
+</event>
+<event id="1135261236">
+<start_time>23:18</start_time>
+<end_time>00:09</end_time>
+<title><![CDATA[晚间剧场:激战39]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCQTV1" epg_code="CCQTV1" date="2019-06-19">
+<event id="1133095014">
+<start_time>00:09</start_time>
+<end_time>01:14</end_time>
+<title><![CDATA[午夜剧场:心如铁(25)]]></title>
+</event>
+<event id="1133095017">
+<start_time>01:14</start_time>
+<end_time>02:17</end_time>
+<title><![CDATA[午夜剧场:心如铁(26)]]></title>
+</event>
+<event id="1133095020">
+<start_time>02:17</start_time>
+<end_time>03:04</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1133289057">
+<start_time>03:04</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1133095026">
+<start_time>04:50</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(49)]]></title>
+</event>
+<event id="1133095029">
+<start_time>05:45</start_time>
+<end_time>06:42</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(50)]]></title>
+</event>
+<event id="1133095032">
+<start_time>06:42</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1133095035">
+<start_time>07:00</start_time>
+<end_time>07:15</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1133095038">
+<start_time>07:15</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1133095041">
+<start_time>07:30</start_time>
+<end_time>08:01</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1133095044">
+<start_time>08:01</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1133095047">
+<start_time>08:03</start_time>
+<end_time>08:10</end_time>
+<title><![CDATA[第一V视频]]></title>
+</event>
+<event id="1135260786">
+<start_time>08:10</start_time>
+<end_time>09:05</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(5)]]></title>
+</event>
+<event id="1135260789">
+<start_time>09:05</start_time>
+<end_time>10:03</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(6)]]></title>
+</event>
+<event id="1135260792">
+<start_time>10:03</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(7)]]></title>
+</event>
+<event id="1135260795">
+<start_time>11:00</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(8)]]></title>
+</event>
+<event id="1133095062">
+<start_time>12:00</start_time>
+<end_time>12:18</end_time>
+<title><![CDATA[第1眼新闻]]></title>
+</event>
+<event id="1133095065">
+<start_time>12:18</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1133289060">
+<start_time>12:25</start_time>
+<end_time>12:59</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1134974175">
+<start_time>12:59</start_time>
+<end_time>13:56</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(20)]]></title>
+</event>
+<event id="1134974178">
+<start_time>13:56</start_time>
+<end_time>14:54</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(21)]]></title>
+</event>
+<event id="1134974181">
+<start_time>14:54</start_time>
+<end_time>15:50</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(22)]]></title>
+</event>
+<event id="1134974184">
+<start_time>15:50</start_time>
+<end_time>16:42</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(23)]]></title>
+</event>
+<event id="1134974187">
+<start_time>16:42</start_time>
+<end_time>17:43</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(24)]]></title>
+</event>
+<event id="1133095086">
+<start_time>17:43</start_time>
+<end_time>18:06</end_time>
+<title><![CDATA[第1眼新闻]]></title>
+</event>
+<event id="1133095089">
+<start_time>18:06</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1133095092">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[重庆天气预报]]></title>
+</event>
+<event id="1133095095">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[重庆新闻联播]]></title>
+</event>
+<event id="1133095098">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1135260798">
+<start_time>19:35</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(3)]]></title>
+</event>
+<event id="1135260801">
+<start_time>20:28</start_time>
+<end_time>21:23</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(4)]]></title>
+</event>
+<event id="1133095107">
+<start_time>21:23</start_time>
+<end_time>22:15</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1134330549">
+<start_time>22:15</start_time>
+<end_time>23:08</end_time>
+<title><![CDATA[晚间剧场:激战(42)]]></title>
+</event>
+<event id="1133384457">
+<start_time>23:08</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCQTV1" epg_code="CCQTV1" date="2019-06-20">
+<event id="1133330070">
+<start_time>00:15</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[午夜剧场:心如铁(27)]]></title>
+</event>
+<event id="1133330073">
+<start_time>01:22</start_time>
+<end_time>02:20</end_time>
+<title><![CDATA[午夜剧场:心如铁(28)]]></title>
+</event>
+<event id="1133330076">
+<start_time>02:20</start_time>
+<end_time>03:14</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1133330079">
+<start_time>03:14</start_time>
+<end_time>04:52</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133330082">
+<start_time>04:52</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(51)]]></title>
+</event>
+<event id="1133330085">
+<start_time>05:45</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(52)]]></title>
+</event>
+<event id="1133330088">
+<start_time>06:40</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1133330091">
+<start_time>07:00</start_time>
+<end_time>07:15</end_time>
+<title><![CDATA[直播重庆]]></title>
+</event>
+<event id="1133330094">
+<start_time>07:15</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1133330097">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1133330100">
+<start_time>08:00</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1133330103">
+<start_time>08:03</start_time>
+<end_time>08:11</end_time>
+<title><![CDATA[第一V视频]]></title>
+</event>
+<event id="1135260804">
+<start_time>08:11</start_time>
+<end_time>09:08</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(9)]]></title>
+</event>
+<event id="1135260807">
+<start_time>09:08</start_time>
+<end_time>10:04</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(10)]]></title>
+</event>
+<event id="1135260810">
+<start_time>10:04</start_time>
+<end_time>11:01</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(11)]]></title>
+</event>
+<event id="1135260813">
+<start_time>11:01</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(12)]]></title>
+</event>
+<event id="1133330118">
+<start_time>12:00</start_time>
+<end_time>12:18</end_time>
+<title><![CDATA[第1眼新闻]]></title>
+</event>
+<event id="1133330121">
+<start_time>12:18</start_time>
+<end_time>12:21</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1133330124">
+<start_time>12:21</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1134974190">
+<start_time>13:04</start_time>
+<end_time>13:58</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(25)]]></title>
+</event>
+<event id="1134974193">
+<start_time>13:58</start_time>
+<end_time>14:55</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(26)]]></title>
+</event>
+<event id="1134974196">
+<start_time>14:55</start_time>
+<end_time>15:53</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(27)]]></title>
+</event>
+<event id="1134974199">
+<start_time>15:53</start_time>
+<end_time>16:49</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(28)]]></title>
+</event>
+<event id="1134974202">
+<start_time>16:49</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(29)]]></title>
+</event>
+<event id="1133330142">
+<start_time>17:49</start_time>
+<end_time>18:06</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1133330145">
+<start_time>18:06</start_time>
+<end_time>18:21</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1133330148">
+<start_time>18:21</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[重庆天气预报]]></title>
+</event>
+<event id="1133330151">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[重庆新闻联播]]></title>
+</event>
+<event id="1133330154">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1135260816">
+<start_time>19:36</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(5)]]></title>
+</event>
+<event id="1135260819">
+<start_time>20:29</start_time>
+<end_time>21:23</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(6)]]></title>
+</event>
+<event id="1133330163">
+<start_time>21:23</start_time>
+<end_time>22:12</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1133330166">
+<start_time>22:12</start_time>
+<end_time>22:56</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1133330169">
+<start_time>22:56</start_time>
+<end_time>23:38</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1133665467">
+<start_time>23:38</start_time>
+<end_time>00:06</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCQTV1" epg_code="CCQTV1" date="2019-06-21">
+<event id="1133616555">
+<start_time>00:06</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[旅游气象]]></title>
+</event>
+<event id="1133616558">
+<start_time>00:10</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[午夜剧场:心如铁(29)]]></title>
+</event>
+<event id="1133616561">
+<start_time>01:19</start_time>
+<end_time>02:17</end_time>
+<title><![CDATA[午夜剧场:心如铁(30)]]></title>
+</event>
+<event id="1133616564">
+<start_time>02:17</start_time>
+<end_time>03:05</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1133616567">
+<start_time>03:05</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133616570">
+<start_time>04:06</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1133616573">
+<start_time>04:50</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(53)]]></title>
+</event>
+<event id="1133616576">
+<start_time>05:45</start_time>
+<end_time>06:42</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(54)]]></title>
+</event>
+<event id="1133616579">
+<start_time>06:42</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[环球视界(重播)]]></title>
+</event>
+<event id="1133616582">
+<start_time>07:00</start_time>
+<end_time>07:16</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1133616585">
+<start_time>07:16</start_time>
+<end_time>07:31</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1133616588">
+<start_time>07:31</start_time>
+<end_time>08:02</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1133616591">
+<start_time>08:02</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1133616594">
+<start_time>08:03</start_time>
+<end_time>08:08</end_time>
+<title><![CDATA[第一V视频]]></title>
+</event>
+<event id="1135260822">
+<start_time>08:08</start_time>
+<end_time>09:05</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(13)]]></title>
+</event>
+<event id="1135260825">
+<start_time>09:05</start_time>
+<end_time>10:03</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(14)]]></title>
+</event>
+<event id="1135260828">
+<start_time>10:03</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(15)]]></title>
+</event>
+<event id="1135260831">
+<start_time>10:59</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(16)]]></title>
+</event>
+<event id="1133616609">
+<start_time>12:00</start_time>
+<end_time>12:20</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1133616612">
+<start_time>12:20</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1133616615">
+<start_time>12:25</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1134974205">
+<start_time>13:04</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(30)]]></title>
+</event>
+<event id="1134974208">
+<start_time>14:01</start_time>
+<end_time>14:52</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(31)]]></title>
+</event>
+<event id="1134974211">
+<start_time>14:52</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(32)]]></title>
+</event>
+<event id="1134974214">
+<start_time>15:48</start_time>
+<end_time>16:41</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(33)]]></title>
+</event>
+<event id="1134974217">
+<start_time>16:41</start_time>
+<end_time>17:43</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(34)]]></title>
+</event>
+<event id="1133616633">
+<start_time>17:43</start_time>
+<end_time>18:02</end_time>
+<title><![CDATA[第1眼新闻]]></title>
+</event>
+<event id="1133616636">
+<start_time>18:02</start_time>
+<end_time>18:21</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1133616639">
+<start_time>18:21</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[重庆天气预报]]></title>
+</event>
+<event id="1133616642">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[重庆新闻联播]]></title>
+</event>
+<event id="1133616645">
+<start_time>19:00</start_time>
+<end_time>19:37</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1135260834">
+<start_time>19:37</start_time>
+<end_time>20:32</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(7)]]></title>
+</event>
+<event id="1135260837">
+<start_time>20:32</start_time>
+<end_time>21:18</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(8)]]></title>
+</event>
+<event id="1133616654">
+<start_time>21:18</start_time>
+<end_time>22:03</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1133616657">
+<start_time>22:03</start_time>
+<end_time>22:51</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1133941410">
+<start_time>22:51</start_time>
+<end_time>00:02</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCQTV1" epg_code="CCQTV1" date="2019-06-22">
+<event id="1133892465">
+<start_time>00:02</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[旅游气象]]></title>
+</event>
+<event id="1133892468">
+<start_time>00:10</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[午夜剧场:心如铁(31)]]></title>
+</event>
+<event id="1133892471">
+<start_time>01:20</start_time>
+<end_time>02:13</end_time>
+<title><![CDATA[午夜剧场:心如铁(32)]]></title>
+</event>
+<event id="1133892474">
+<start_time>02:13</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1133892477">
+<start_time>02:45</start_time>
+<end_time>03:48</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133892480">
+<start_time>03:48</start_time>
+<end_time>04:51</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133892483">
+<start_time>04:51</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(55)]]></title>
+</event>
+<event id="1133892486">
+<start_time>05:45</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(56)]]></title>
+</event>
+<event id="1133892489">
+<start_time>06:40</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1133892492">
+<start_time>07:00</start_time>
+<end_time>07:15</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1133892495">
+<start_time>07:15</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1133892498">
+<start_time>07:30</start_time>
+<end_time>08:02</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1133892501">
+<start_time>08:02</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1133892504">
+<start_time>08:03</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[第一V视频]]></title>
+</event>
+<event id="1135260840">
+<start_time>08:05</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(17)]]></title>
+</event>
+<event id="1135260843">
+<start_time>09:04</start_time>
+<end_time>10:05</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(18)]]></title>
+</event>
+<event id="1135260846">
+<start_time>10:05</start_time>
+<end_time>11:01</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(19)]]></title>
+</event>
+<event id="1135260849">
+<start_time>11:01</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(20)]]></title>
+</event>
+<event id="1133892519">
+<start_time>12:00</start_time>
+<end_time>12:20</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1133892522">
+<start_time>12:20</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1133892525">
+<start_time>12:25</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1134974220">
+<start_time>13:04</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(35)]]></title>
+</event>
+<event id="1134974223">
+<start_time>14:01</start_time>
+<end_time>14:52</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(36)]]></title>
+</event>
+<event id="1134974226">
+<start_time>14:52</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(37)]]></title>
+</event>
+<event id="1134974229">
+<start_time>15:48</start_time>
+<end_time>16:44</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(38)]]></title>
+</event>
+<event id="1134974232">
+<start_time>16:44</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(39)]]></title>
+</event>
+<event id="1133892543">
+<start_time>17:49</start_time>
+<end_time>18:06</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1133892546">
+<start_time>18:06</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1133892549">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[重庆天气预报]]></title>
+</event>
+<event id="1133892552">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[重庆新闻联播]]></title>
+</event>
+<event id="1133892555">
+<start_time>19:00</start_time>
+<end_time>19:37</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1135260852">
+<start_time>19:37</start_time>
+<end_time>20:32</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(9)]]></title>
+</event>
+<event id="1135260855">
+<start_time>20:32</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(10)]]></title>
+</event>
+<event id="1133892564">
+<start_time>21:25</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1133892567">
+<start_time>22:05</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1133892570">
+<start_time>23:00</start_time>
+<end_time>23:29</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1134212766">
+<start_time>23:29</start_time>
+<end_time>00:02</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCQTV1" epg_code="CCQTV1" date="2019-06-23">
+<event id="1134164364">
+<start_time>00:02</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[旅游气象]]></title>
+</event>
+<event id="1134164367">
+<start_time>00:05</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[午夜剧场:心如铁(33)]]></title>
+</event>
+<event id="1134164370">
+<start_time>01:18</start_time>
+<end_time>02:14</end_time>
+<title><![CDATA[午夜剧场:心如铁(34)]]></title>
+</event>
+<event id="1134164373">
+<start_time>02:14</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1134164376">
+<start_time>02:45</start_time>
+<end_time>03:17</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1134164379">
+<start_time>03:17</start_time>
+<end_time>04:51</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134164382">
+<start_time>04:51</start_time>
+<end_time>05:45</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(57)]]></title>
+</event>
+<event id="1134164385">
+<start_time>05:45</start_time>
+<end_time>06:44</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(58)]]></title>
+</event>
+<event id="1134164388">
+<start_time>06:44</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1134164391">
+<start_time>07:00</start_time>
+<end_time>07:15</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1134164394">
+<start_time>07:15</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1134164397">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1134164400">
+<start_time>08:00</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1134164403">
+<start_time>08:04</start_time>
+<end_time>08:10</end_time>
+<title><![CDATA[第一V视频]]></title>
+</event>
+<event id="1135260858">
+<start_time>08:10</start_time>
+<end_time>09:05</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(21)]]></title>
+</event>
+<event id="1135260861">
+<start_time>09:05</start_time>
+<end_time>10:07</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(22)]]></title>
+</event>
+<event id="1135260864">
+<start_time>10:07</start_time>
+<end_time>11:01</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(23)]]></title>
+</event>
+<event id="1135260867">
+<start_time>11:01</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(24)]]></title>
+</event>
+<event id="1134164418">
+<start_time>12:00</start_time>
+<end_time>12:20</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1134164421">
+<start_time>12:20</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1134164424">
+<start_time>12:25</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1134974235">
+<start_time>13:04</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(40)]]></title>
+</event>
+<event id="1134974238">
+<start_time>14:01</start_time>
+<end_time>14:52</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(41)]]></title>
+</event>
+<event id="1134974241">
+<start_time>14:52</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[下午剧场:铁核桃之无间风云(42)]]></title>
+</event>
+<event id="1134164436">
+<start_time>15:48</start_time>
+<end_time>16:41</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134164439">
+<start_time>16:41</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134164442">
+<start_time>17:49</start_time>
+<end_time>18:06</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1134164445">
+<start_time>18:06</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1134164448">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[重庆天气预报]]></title>
+</event>
+<event id="1134164451">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[重庆新闻联播]]></title>
+</event>
+<event id="1134164454">
+<start_time>19:00</start_time>
+<end_time>19:37</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135260870">
+<start_time>19:37</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(11)]]></title>
+</event>
+<event id="1135260873">
+<start_time>20:29</start_time>
+<end_time>21:24</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(12)]]></title>
+</event>
+<event id="1134164463">
+<start_time>21:24</start_time>
+<end_time>22:17</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1134164466">
+<start_time>22:17</start_time>
+<end_time>23:13</end_time>
+<title><![CDATA[我为家乡代言]]></title>
+</event>
+<event id="1134467337">
+<start_time>23:13</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCQTV1" epg_code="CCQTV1" date="2019-06-24">
+<event id="1134460296">
+<start_time>00:12</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[午夜剧场:心如铁(35)]]></title>
+</event>
+<event id="1134460299">
+<start_time>01:22</start_time>
+<end_time>02:18</end_time>
+<title><![CDATA[午夜剧场:心如铁(36)]]></title>
+</event>
+<event id="1134460302">
+<start_time>02:18</start_time>
+<end_time>03:33</end_time>
+<title><![CDATA[我为家乡代言]]></title>
+</event>
+<event id="1134460305">
+<start_time>03:33</start_time>
+<end_time>04:21</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1134460308">
+<start_time>04:21</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134460311">
+<start_time>04:50</start_time>
+<end_time>05:46</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(59)]]></title>
+</event>
+<event id="1134460314">
+<start_time>05:46</start_time>
+<end_time>06:43</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(60)]]></title>
+</event>
+<event id="1134460317">
+<start_time>06:43</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1134460320">
+<start_time>07:00</start_time>
+<end_time>07:15</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1134460323">
+<start_time>07:15</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[第一V视频]]></title>
+</event>
+<event id="1134460326">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1134460329">
+<start_time>08:00</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1134460332">
+<start_time>08:05</start_time>
+<end_time>08:43</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1135260876">
+<start_time>08:43</start_time>
+<end_time>09:32</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(25)]]></title>
+</event>
+<event id="1135260879">
+<start_time>09:32</start_time>
+<end_time>10:22</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(26)]]></title>
+</event>
+<event id="1135260882">
+<start_time>10:22</start_time>
+<end_time>11:10</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(27)]]></title>
+</event>
+<event id="1135260885">
+<start_time>11:10</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(28)]]></title>
+</event>
+<event id="1134460347">
+<start_time>12:00</start_time>
+<end_time>12:19</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1134460350">
+<start_time>12:19</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1134460353">
+<start_time>12:25</start_time>
+<end_time>12:43</end_time>
+<title><![CDATA[走近中国消防]]></title>
+</event>
+<event id="1134460356">
+<start_time>12:43</start_time>
+<end_time>12:59</end_time>
+<title><![CDATA[红岩本色]]></title>
+</event>
+<event id="1134460359">
+<start_time>12:59</start_time>
+<end_time>13:45</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134460362">
+<start_time>13:45</start_time>
+<end_time>14:31</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134460365">
+<start_time>14:31</start_time>
+<end_time>15:16</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134460368">
+<start_time>15:16</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134460371">
+<start_time>16:01</start_time>
+<end_time>16:49</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134460374">
+<start_time>16:49</start_time>
+<end_time>17:50</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134460377">
+<start_time>17:50</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1134460380">
+<start_time>18:05</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1134460383">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[重庆天气预报]]></title>
+</event>
+<event id="1134460386">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[重庆新闻联播]]></title>
+</event>
+<event id="1134460389">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1135260888">
+<start_time>19:35</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(13)]]></title>
+</event>
+<event id="1135260891">
+<start_time>20:29</start_time>
+<end_time>21:22</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(14)]]></title>
+</event>
+<event id="1134460398">
+<start_time>21:22</start_time>
+<end_time>22:11</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1134460401">
+<start_time>22:11</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1135079037">
+<start_time>23:00</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCQTV1" epg_code="CCQTV1" date="2019-06-25">
+<event id="1135027314">
+<start_time>00:10</start_time>
+<end_time>01:17</end_time>
+<title><![CDATA[午夜剧场:心如铁(37)]]></title>
+</event>
+<event id="1135027317">
+<start_time>01:17</start_time>
+<end_time>02:11</end_time>
+<title><![CDATA[午夜剧场:心如铁(38)]]></title>
+</event>
+<event id="1135027320">
+<start_time>02:11</start_time>
+<end_time>02:54</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1135027323">
+<start_time>02:54</start_time>
+<end_time>03:16</end_time>
+<title><![CDATA[走进中国消防]]></title>
+</event>
+<event id="1135027326">
+<start_time>03:16</start_time>
+<end_time>03:32</end_time>
+<title><![CDATA[红岩本色]]></title>
+</event>
+<event id="1135027329">
+<start_time>03:32</start_time>
+<end_time>04:52</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135027332">
+<start_time>04:52</start_time>
+<end_time>05:47</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(61)]]></title>
+</event>
+<event id="1135027335">
+<start_time>05:47</start_time>
+<end_time>06:43</end_time>
+<title><![CDATA[深夜剧场:勇敢的心(62)]]></title>
+</event>
+<event id="1135027338">
+<start_time>06:43</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1135027341">
+<start_time>07:00</start_time>
+<end_time>07:15</end_time>
+<title><![CDATA[第一眼新闻]]></title>
+</event>
+<event id="1135027344">
+<start_time>07:15</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1135027347">
+<start_time>07:30</start_time>
+<end_time>07:58</end_time>
+<title><![CDATA[中国故事]]></title>
+</event>
+<event id="1135027350">
+<start_time>07:58</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[早间气象服务]]></title>
+</event>
+<event id="1135027353">
+<start_time>08:03</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[第一V视频]]></title>
+</event>
+<event id="1135260894">
+<start_time>08:05</start_time>
+<end_time>09:05</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(29)]]></title>
+</event>
+<event id="1135260897">
+<start_time>09:05</start_time>
+<end_time>10:01</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(30)]]></title>
+</event>
+<event id="1135260900">
+<start_time>10:01</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(31)]]></title>
+</event>
+<event id="1135260903">
+<start_time>10:58</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[英雄剧场:新乌龙山剿匪记(32)]]></title>
+</event>
+<event id="1135027368">
+<start_time>12:00</start_time>
+<end_time>12:19</end_time>
+<title><![CDATA[第1眼新闻]]></title>
+</event>
+<event id="1135027371">
+<start_time>12:19</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[午间气象服务]]></title>
+</event>
+<event id="1135027374">
+<start_time>12:26</start_time>
+<end_time>13:01</end_time>
+<title><![CDATA[TICO欢乐假日:猪猪侠之恐龙日记]]></title>
+</event>
+<event id="1135027377">
+<start_time>13:01</start_time>
+<end_time>13:58</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135027380">
+<start_time>13:58</start_time>
+<end_time>14:47</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135027383">
+<start_time>14:47</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135027386">
+<start_time>15:45</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135027389">
+<start_time>16:35</start_time>
+<end_time>17:47</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135027392">
+<start_time>17:47</start_time>
+<end_time>18:04</end_time>
+<title><![CDATA[环球视界]]></title>
+</event>
+<event id="1135027395">
+<start_time>18:04</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[财经壹资讯]]></title>
+</event>
+<event id="1135027398">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[重庆天气预报]]></title>
+</event>
+<event id="1135027401">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[重庆新闻联播]]></title>
+</event>
+<event id="1135027404">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1135260906">
+<start_time>19:35</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(15)]]></title>
+</event>
+<event id="1135260909">
+<start_time>20:30</start_time>
+<end_time>21:22</end_time>
+<title><![CDATA[传奇剧场:共产党人刘少奇(16)]]></title>
+</event>
+<event id="1135027413">
+<start_time>21:22</start_time>
+<end_time>22:10</end_time>
+<title><![CDATA[谢谢你来了]]></title>
+</event>
+<event id="1135027416">
+<start_time>22:10</start_time>
+<end_time>23:10</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1135027419">
+<start_time>23:10</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+</schedule>
+</document>

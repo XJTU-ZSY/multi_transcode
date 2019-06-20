@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="DONGFANG1" epg_code="DONGFANG1" date="2019-06-18">
+<event id="1135238994">
+<start_time>00:22</start_time>
+<end_time>01:26</end_time>
+<title><![CDATA[东方综艺大赏]]></title>
+</event>
+<event id="1135238997">
+<start_time>01:26</start_time>
+<end_time>02:59</end_time>
+<title><![CDATA[东方综艺大赏]]></title>
+</event>
+<event id="1135239000">
+<start_time>02:59</start_time>
+<end_time>04:27</end_time>
+<title><![CDATA[梦想改造家第五季4]]></title>
+</event>
+<event id="1135239003">
+<start_time>04:27</start_time>
+<end_time>05:53</end_time>
+<title><![CDATA[梦想改造家第五季5]]></title>
+</event>
+<event id="1135239006">
+<start_time>05:53</start_time>
+<end_time>06:11</end_time>
+<title><![CDATA[急诊室故事第二季]]></title>
+</event>
+<event id="1135239009">
+<start_time>06:11</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:生门2]]></title>
+</event>
+<event id="1133409987">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135239012">
+<start_time>07:01</start_time>
+<end_time>08:59</end_time>
+<title><![CDATA[看东方]]></title>
+</event>
+<event id="1135239015">
+<start_time>08:59</start_time>
+<end_time>09:01</end_time>
+<title><![CDATA[东方新气象]]></title>
+</event>
+<event id="1134996945">
+<start_time>09:01</start_time>
+<end_time>09:03</end_time>
+<title><![CDATA[中国梦主题歌曲:信仰]]></title>
+</event>
+<event id="1134996948">
+<start_time>09:03</start_time>
+<end_time>09:12</end_time>
+<title><![CDATA[潮童天下精编(423)]]></title>
+</event>
+<event id="1135203108">
+<start_time>09:12</start_time>
+<end_time>10:33</end_time>
+<title><![CDATA[妈妈咪呀5(5)]]></title>
+</event>
+<event id="1135243029">
+<start_time>10:33</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[妈妈咪呀5(11)]]></title>
+</event>
+<event id="1135243032">
+<start_time>11:45</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[妈妈咪呀6(10)]]></title>
+</event>
+<event id="1133410008">
+<start_time>12:00</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[午间30分]]></title>
+</event>
+<event id="1134996966">
+<start_time>12:26</start_time>
+<end_time>12:27</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135250088">
+<start_time>12:27</start_time>
+<end_time>13:12</end_time>
+<title><![CDATA[带着爸爸去留学(7)]]></title>
+</event>
+<event id="1135250715">
+<start_time>13:12</start_time>
+<end_time>13:57</end_time>
+<title><![CDATA[带着爸爸去留学(8)]]></title>
+</event>
+<event id="1135261218">
+<start_time>13:57</start_time>
+<end_time>14:26</end_time>
+<title><![CDATA[带着爸爸去留学(4)]]></title>
+</event>
+<event id="1135261221">
+<start_time>14:26</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[带着爸爸去留学(5)]]></title>
+</event>
+<event id="1134996981">
+<start_time>15:10</start_time>
+<end_time>15:54</end_time>
+<title><![CDATA[带着爸爸去留学(6)]]></title>
+</event>
+<event id="1134996984">
+<start_time>15:54</start_time>
+<end_time>16:38</end_time>
+<title><![CDATA[带着爸爸去留学(7)]]></title>
+</event>
+<event id="1134996987">
+<start_time>16:38</start_time>
+<end_time>17:19</end_time>
+<title><![CDATA[带着爸爸去留学(8)]]></title>
+</event>
+<event id="1134996990">
+<start_time>17:19</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[文娱新天地]]></title>
+</event>
+<event id="1134996993">
+<start_time>17:48</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[诗书画(169)]]></title>
+</event>
+<event id="1133410029">
+<start_time>18:00</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[东方新闻]]></title>
+</event>
+<event id="1133410032">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1133410035">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134996996">
+<start_time>19:33</start_time>
+<end_time>20:22</end_time>
+<title><![CDATA[带着爸爸去留学(9)]]></title>
+</event>
+<event id="1135217454">
+<start_time>20:22</start_time>
+<end_time>21:11</end_time>
+<title><![CDATA[带着爸爸去留学(10)]]></title>
+</event>
+<event id="1135217457">
+<start_time>21:11</start_time>
+<end_time>21:22</end_time>
+<title><![CDATA[东方看大剧]]></title>
+</event>
+<event id="1135203114">
+<start_time>21:22</start_time>
+<end_time>22:27</end_time>
+<title><![CDATA[忘不了餐厅(8)]]></title>
+</event>
+<event id="1134997017">
+<start_time>22:27</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[虹口航拍]]></title>
+</event>
+<event id="1134997020">
+<start_time>22:30</start_time>
+<end_time>23:29</end_time>
+<title><![CDATA[今晚60分]]></title>
+</event>
+<event id="1134997023">
+<start_time>23:29</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134997026">
+<start_time>23:30</start_time>
+<end_time>23:41</end_time>
+<title><![CDATA[诗书画(169)]]></title>
+</event>
+<event id="1135224840">
+<start_time>23:41</start_time>
+<end_time>00:35</end_time>
+<title><![CDATA[忘不了餐厅(8)]]></title>
+</event>
+</schedule>
+<schedule channel_id="DONGFANG1" epg_code="DONGFANG1" date="2019-06-19">
+<event id="1135224843">
+<start_time>00:35</start_time>
+<end_time>01:34</end_time>
+<title><![CDATA[东方综艺大赏(3)]]></title>
+</event>
+<event id="1135224846">
+<start_time>01:34</start_time>
+<end_time>03:07</end_time>
+<title><![CDATA[东方综艺大赏(4)]]></title>
+</event>
+<event id="1135224849">
+<start_time>03:07</start_time>
+<end_time>04:26</end_time>
+<title><![CDATA[梦想改造家5(6):高海拔的家]]></title>
+</event>
+<event id="1135224852">
+<start_time>04:26</start_time>
+<end_time>05:53</end_time>
+<title><![CDATA[梦想改造家5(7):全是厅的家]]></title>
+</event>
+<event id="1135224855">
+<start_time>05:53</start_time>
+<end_time>06:12</end_time>
+<title><![CDATA[急诊室故事2精编]]></title>
+</event>
+<event id="1135224858">
+<start_time>06:12</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[生门(3)]]></title>
+</event>
+<event id="1133965581">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1133965584">
+<start_time>07:01</start_time>
+<end_time>08:59</end_time>
+<title><![CDATA[看东方]]></title>
+</event>
+<event id="1135224861">
+<start_time>08:59</start_time>
+<end_time>09:01</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135224864">
+<start_time>09:01</start_time>
+<end_time>09:10</end_time>
+<title><![CDATA[潮童天下精编(423)]]></title>
+</event>
+<event id="1135224867">
+<start_time>09:10</start_time>
+<end_time>10:17</end_time>
+<title><![CDATA[妈妈咪呀5(7)]]></title>
+</event>
+<event id="1135224870">
+<start_time>10:17</start_time>
+<end_time>11:27</end_time>
+<title><![CDATA[妈妈咪呀5(8)]]></title>
+</event>
+<event id="1135224873">
+<start_time>11:27</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[妈妈咪呀6精编]]></title>
+</event>
+<event id="1133965602">
+<start_time>12:00</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[午间30分]]></title>
+</event>
+<event id="1135224876">
+<start_time>12:26</start_time>
+<end_time>12:27</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135224879">
+<start_time>12:27</start_time>
+<end_time>13:11</end_time>
+<title><![CDATA[带着爸爸去留学(9)]]></title>
+</event>
+<event id="1135224882">
+<start_time>13:11</start_time>
+<end_time>13:56</end_time>
+<title><![CDATA[带着爸爸去留学(10)]]></title>
+</event>
+<event id="1135224885">
+<start_time>13:56</start_time>
+<end_time>14:21</end_time>
+<title><![CDATA[带着爸爸去留学(6)]]></title>
+</event>
+<event id="1135224888">
+<start_time>14:21</start_time>
+<end_time>15:06</end_time>
+<title><![CDATA[带着爸爸去留学(7)]]></title>
+</event>
+<event id="1135224891">
+<start_time>15:06</start_time>
+<end_time>15:51</end_time>
+<title><![CDATA[带着爸爸去留学(8)]]></title>
+</event>
+<event id="1135224894">
+<start_time>15:51</start_time>
+<end_time>16:36</end_time>
+<title><![CDATA[带着爸爸去留学(9)]]></title>
+</event>
+<event id="1135224897">
+<start_time>16:36</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[带着爸爸去留学(10)]]></title>
+</event>
+<event id="1135224900">
+<start_time>17:15</start_time>
+<end_time>17:19</end_time>
+<title><![CDATA[明日精彩看点]]></title>
+</event>
+<event id="1135224903">
+<start_time>17:19</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[文娱新天地]]></title>
+</event>
+<event id="1135224906">
+<start_time>17:48</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[诗书画]]></title>
+</event>
+<event id="1133965623">
+<start_time>18:00</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[东方新闻]]></title>
+</event>
+<event id="1133965626">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1133965629">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135224909">
+<start_time>19:33</start_time>
+<end_time>20:13</end_time>
+<title><![CDATA[带着爸爸去留学(11)]]></title>
+</event>
+<event id="1135224912">
+<start_time>20:13</start_time>
+<end_time>20:43</end_time>
+<title><![CDATA[带着爸爸去留学(12)]]></title>
+</event>
+<event id="1135224915">
+<start_time>20:43</start_time>
+<end_time>20:50</end_time>
+<title><![CDATA[明日精彩看点]]></title>
+</event>
+<event id="1135224918">
+<start_time>20:50</start_time>
+<end_time>21:05</end_time>
+<title><![CDATA[东方看大剧]]></title>
+</event>
+<event id="1135224921">
+<start_time>21:05</start_time>
+<end_time>21:46</end_time>
+<title><![CDATA[宠物医院(1)]]></title>
+</event>
+<event id="1135224924">
+<start_time>21:46</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[东方大看点]]></title>
+</event>
+<event id="1133965653">
+<start_time>22:30</start_time>
+<end_time>23:29</end_time>
+<title><![CDATA[今晚60分]]></title>
+</event>
+<event id="1133965656">
+<start_time>23:29</start_time>
+<end_time>23:31</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135224927">
+<start_time>23:31</start_time>
+<end_time>23:43</end_time>
+<title><![CDATA[诗书画]]></title>
+</event>
+<event id="1135224930">
+<start_time>23:43</start_time>
+<end_time>00:35</end_time>
+<title><![CDATA[我们在行动3(2)]]></title>
+</event>
+</schedule>
+<schedule channel_id="DONGFANG1" epg_code="DONGFANG1" date="2019-06-20">
+<event id="1135224933">
+<start_time>00:35</start_time>
+<end_time>02:02</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135224936">
+<start_time>02:02</start_time>
+<end_time>03:05</end_time>
+<title><![CDATA[梦想改造家5(9):同甘共苦的家]]></title>
+</event>
+<event id="1135224939">
+<start_time>03:05</start_time>
+<end_time>04:29</end_time>
+<title><![CDATA[梦想改造家5(10):五代同堂的家]]></title>
+</event>
+<event id="1135224942">
+<start_time>04:29</start_time>
+<end_time>05:52</end_time>
+<title><![CDATA[梦想改造家5(11):抱团养老的家]]></title>
+</event>
+<event id="1135224945">
+<start_time>05:52</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[梦想改造家2精编]]></title>
+</event>
+<event id="1134931275">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1134931278">
+<start_time>07:01</start_time>
+<end_time>08:59</end_time>
+<title><![CDATA[看东方]]></title>
+</event>
+<event id="1135224948">
+<start_time>08:59</start_time>
+<end_time>09:03</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135224951">
+<start_time>09:03</start_time>
+<end_time>09:05</end_time>
+<title><![CDATA[中国梦主题歌曲:心远天高]]></title>
+</event>
+<event id="1135224954">
+<start_time>09:05</start_time>
+<end_time>09:18</end_time>
+<title><![CDATA[潮童天下精编]]></title>
+</event>
+<event id="1135224957">
+<start_time>09:18</start_time>
+<end_time>10:27</end_time>
+<title><![CDATA[妈妈咪呀5(9)]]></title>
+</event>
+<event id="1135224960">
+<start_time>10:27</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[妈妈咪呀5(10)]]></title>
+</event>
+<event id="1135224963">
+<start_time>12:00</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[午间30分]]></title>
+</event>
+<event id="1135224966">
+<start_time>12:26</start_time>
+<end_time>12:38</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135224969">
+<start_time>12:38</start_time>
+<end_time>14:14</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135224972">
+<start_time>14:14</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[中国新相亲]]></title>
+</event>
+<event id="1135224975">
+<start_time>15:45</start_time>
+<end_time>17:19</end_time>
+<title><![CDATA[中国新相亲2(8)]]></title>
+</event>
+<event id="1135224978">
+<start_time>17:19</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[文娱新天地]]></title>
+</event>
+<event id="1135224981">
+<start_time>17:49</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[诗书画]]></title>
+</event>
+<event id="1134931317">
+<start_time>18:00</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[东方新闻]]></title>
+</event>
+<event id="1135224984">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134931323">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135224987">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[带着爸爸去留学(13)]]></title>
+</event>
+<event id="1135224990">
+<start_time>20:25</start_time>
+<end_time>21:05</end_time>
+<title><![CDATA[带着爸爸去留学(14)]]></title>
+</event>
+<event id="1135224993">
+<start_time>21:05</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[明日精彩看点]]></title>
+</event>
+<event id="1135224996">
+<start_time>21:12</start_time>
+<end_time>21:27</end_time>
+<title><![CDATA[东方看大剧]]></title>
+</event>
+<event id="1135224999">
+<start_time>21:27</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[前情预告]]></title>
+</event>
+<event id="1135225002">
+<start_time>21:30</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[人生加减法(10)]]></title>
+</event>
+<event id="1134931338">
+<start_time>22:30</start_time>
+<end_time>23:29</end_time>
+<title><![CDATA[今晚60分]]></title>
+</event>
+<event id="1135225005">
+<start_time>23:29</start_time>
+<end_time>23:31</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135225008">
+<start_time>23:31</start_time>
+<end_time>23:44</end_time>
+<title><![CDATA[诗书画]]></title>
+</event>
+<event id="1135225011">
+<start_time>23:44</start_time>
+<end_time>00:29</end_time>
+<title><![CDATA[闪亮的名字(6)]]></title>
+</event>
+</schedule>
+<schedule channel_id="DONGFANG1" epg_code="DONGFANG1" date="2019-06-21">
+<event id="1135225014">
+<start_time>00:29</start_time>
+<end_time>02:07</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135225017">
+<start_time>02:07</start_time>
+<end_time>03:11</end_time>
+<title><![CDATA[梦想改造家5(12):被困住的家]]></title>
+</event>
+<event id="1135225020">
+<start_time>03:11</start_time>
+<end_time>04:10</end_time>
+<title><![CDATA[梦想改造家3(1)]]></title>
+</event>
+<event id="1135225023">
+<start_time>04:10</start_time>
+<end_time>05:09</end_time>
+<title><![CDATA[梦想改造家3(2)]]></title>
+</event>
+<event id="1135225026">
+<start_time>05:09</start_time>
+<end_time>06:09</end_time>
+<title><![CDATA[梦想改造家3(3)]]></title>
+</event>
+<event id="1135225029">
+<start_time>06:09</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[急诊室故事(15)]]></title>
+</event>
+<event id="1135225032">
+<start_time>06:29</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[生门(3)]]></title>
+</event>
+<event id="1135225035">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135225038">
+<start_time>07:01</start_time>
+<end_time>08:59</end_time>
+<title><![CDATA[看东方]]></title>
+</event>
+<event id="1135225041">
+<start_time>08:59</start_time>
+<end_time>09:03</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135225044">
+<start_time>09:03</start_time>
+<end_time>09:05</end_time>
+<title><![CDATA[中国梦主题歌曲:因为有你]]></title>
+</event>
+<event id="1135225047">
+<start_time>09:05</start_time>
+<end_time>09:18</end_time>
+<title><![CDATA[潮童天下精编]]></title>
+</event>
+<event id="1135225050">
+<start_time>09:18</start_time>
+<end_time>10:37</end_time>
+<title><![CDATA[妈妈咪呀5(11)]]></title>
+</event>
+<event id="1135225053">
+<start_time>10:37</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[妈妈咪呀5(12)]]></title>
+</event>
+<event id="1135225056">
+<start_time>12:00</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[午间30分]]></title>
+</event>
+<event id="1135225059">
+<start_time>12:26</start_time>
+<end_time>12:38</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135225062">
+<start_time>12:38</start_time>
+<end_time>14:14</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135225065">
+<start_time>14:14</start_time>
+<end_time>15:53</end_time>
+<title><![CDATA[中国新相亲]]></title>
+</event>
+<event id="1135225068">
+<start_time>15:53</start_time>
+<end_time>17:19</end_time>
+<title><![CDATA[中国新相亲2精编]]></title>
+</event>
+<event id="1135225071">
+<start_time>17:19</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[文娱新天地]]></title>
+</event>
+<event id="1135225074">
+<start_time>17:49</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[诗书画]]></title>
+</event>
+<event id="1135225077">
+<start_time>18:00</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[东方新闻]]></title>
+</event>
+<event id="1135225080">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135225083">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135225086">
+<start_time>19:33</start_time>
+<end_time>20:15</end_time>
+<title><![CDATA[带着爸爸去留学(15)]]></title>
+</event>
+<event id="1135225089">
+<start_time>20:15</start_time>
+<end_time>20:45</end_time>
+<title><![CDATA[带着爸爸去留学(16)]]></title>
+</event>
+<event id="1135225092">
+<start_time>20:45</start_time>
+<end_time>20:52</end_time>
+<title><![CDATA[明日精彩看点]]></title>
+</event>
+<event id="1135225095">
+<start_time>20:52</start_time>
+<end_time>20:57</end_time>
+<title><![CDATA[东方看大剧]]></title>
+</event>
+<event id="1135225098">
+<start_time>20:57</start_time>
+<end_time>20:58</end_time>
+<title><![CDATA[前情预告]]></title>
+</event>
+<event id="1135225101">
+<start_time>20:58</start_time>
+<end_time>21:38</end_time>
+<title><![CDATA[本草中华(3)]]></title>
+</event>
+<event id="1135225104">
+<start_time>21:38</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[东方大看点]]></title>
+</event>
+<event id="1135225107">
+<start_time>22:30</start_time>
+<end_time>23:29</end_time>
+<title><![CDATA[今晚60分]]></title>
+</event>
+<event id="1135225110">
+<start_time>23:29</start_time>
+<end_time>23:31</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135225113">
+<start_time>23:31</start_time>
+<end_time>23:44</end_time>
+<title><![CDATA[诗书画]]></title>
+</event>
+<event id="1135225116">
+<start_time>23:44</start_time>
+<end_time>01:04</end_time>
+<title><![CDATA[极限挑战5(5)]]></title>
+</event>
+</schedule>
+<schedule channel_id="DONGFANG1" epg_code="DONGFANG1" date="2019-06-22">
+<event id="1135225119">
+<start_time>01:04</start_time>
+<end_time>02:42</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135225122">
+<start_time>02:42</start_time>
+<end_time>04:02</end_time>
+<title><![CDATA[梦想改造家3(4)]]></title>
+</event>
+<event id="1135225125">
+<start_time>04:02</start_time>
+<end_time>05:01</end_time>
+<title><![CDATA[梦想改造家3(5)]]></title>
+</event>
+<event id="1135225128">
+<start_time>05:01</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[梦想改造家3(6)]]></title>
+</event>
+<event id="1135225131">
+<start_time>06:00</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[急诊室故事(17)]]></title>
+</event>
+<event id="1135225134">
+<start_time>06:29</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[生门(4)]]></title>
+</event>
+<event id="1135225137">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135225140">
+<start_time>07:01</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[看东方]]></title>
+</event>
+<event id="1135225143">
+<start_time>08:09</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135225146">
+<start_time>08:13</start_time>
+<end_time>08:15</end_time>
+<title><![CDATA[中国梦主题歌曲:心远天高]]></title>
+</event>
+<event id="1135225149">
+<start_time>08:15</start_time>
+<end_time>09:03</end_time>
+<title><![CDATA[双城记(513)]]></title>
+</event>
+<event id="1135225152">
+<start_time>09:03</start_time>
+<end_time>10:10</end_time>
+<title><![CDATA[妈妈咪呀精编]]></title>
+</event>
+<event id="1135225155">
+<start_time>10:10</start_time>
+<end_time>11:23</end_time>
+<title><![CDATA[妈妈咪呀精编]]></title>
+</event>
+<event id="1135225158">
+<start_time>11:23</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[潮童天下]]></title>
+</event>
+<event id="1135225161">
+<start_time>12:00</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[午间30分]]></title>
+</event>
+<event id="1135225164">
+<start_time>12:26</start_time>
+<end_time>12:38</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135225167">
+<start_time>12:38</start_time>
+<end_time>14:34</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135225170">
+<start_time>14:34</start_time>
+<end_time>16:39</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135225173">
+<start_time>16:39</start_time>
+<end_time>17:57</end_time>
+<title><![CDATA[笑傲江湖4精编]]></title>
+</event>
+<event id="1135225176">
+<start_time>17:57</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[诗书画]]></title>
+</event>
+<event id="1134931491">
+<start_time>18:00</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[东方新闻]]></title>
+</event>
+<event id="1135225179">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134931497">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135225182">
+<start_time>19:34</start_time>
+<end_time>20:14</end_time>
+<title><![CDATA[带着爸爸去留学(17)]]></title>
+</event>
+<event id="1135225185">
+<start_time>20:14</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[明日精彩看点]]></title>
+</event>
+<event id="1135225188">
+<start_time>20:30</start_time>
+<end_time>21:59</end_time>
+<title><![CDATA[笑傲江湖4(4)]]></title>
+</event>
+<event id="1135225191">
+<start_time>21:59</start_time>
+<end_time>23:31</end_time>
+<title><![CDATA[我最爱的女人们(7)]]></title>
+</event>
+<event id="1135225194">
+<start_time>23:31</start_time>
+<end_time>01:21</end_time>
+<title><![CDATA[笑傲江湖4(4)]]></title>
+</event>
+</schedule>
+<schedule channel_id="DONGFANG1" epg_code="DONGFANG1" date="2019-06-23">
+<event id="1135225197">
+<start_time>01:21</start_time>
+<end_time>02:51</end_time>
+<title><![CDATA[笑傲江湖4(3)]]></title>
+</event>
+<event id="1135225200">
+<start_time>02:51</start_time>
+<end_time>04:13</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135225203">
+<start_time>04:13</start_time>
+<end_time>05:13</end_time>
+<title><![CDATA[梦想改造家3(7)]]></title>
+</event>
+<event id="1135225206">
+<start_time>05:13</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[梦想改造家3(8)]]></title>
+</event>
+<event id="1135225209">
+<start_time>06:29</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[梦想改造家3(10)]]></title>
+</event>
+<event id="1135225212">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[生门(5)]]></title>
+</event>
+<event id="1135225215">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135225218">
+<start_time>07:01</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[看东方]]></title>
+</event>
+<event id="1135225221">
+<start_time>08:09</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135225224">
+<start_time>08:13</start_time>
+<end_time>08:15</end_time>
+<title><![CDATA[中国梦主题歌曲:信仰]]></title>
+</event>
+<event id="1135225227">
+<start_time>08:15</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[环球交叉点(319)]]></title>
+</event>
+<event id="1135225230">
+<start_time>09:00</start_time>
+<end_time>09:31</end_time>
+<title><![CDATA[未来邀请函]]></title>
+</event>
+<event id="1135225233">
+<start_time>09:31</start_time>
+<end_time>11:25</end_time>
+<title><![CDATA[妈妈咪呀精编]]></title>
+</event>
+<event id="1135225236">
+<start_time>11:25</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[潮童天下]]></title>
+</event>
+<event id="1135225239">
+<start_time>12:00</start_time>
+<end_time>12:39</end_time>
+<title><![CDATA[中国长三角]]></title>
+</event>
+<event id="1135225242">
+<start_time>12:39</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135225245">
+<start_time>14:33</start_time>
+<end_time>16:19</end_time>
+<title><![CDATA[东方综艺大赏:歌曲,小品,相声]]></title>
+</event>
+<event id="1135225248">
+<start_time>16:19</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[极限挑战5(6)]]></title>
+</event>
+<event id="1135225251">
+<start_time>17:48</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[诗书画]]></title>
+</event>
+<event id="1134931566">
+<start_time>18:00</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[东方新闻]]></title>
+</event>
+<event id="1135225254">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135225257">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135225260">
+<start_time>19:35</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[上海国际电影节金爵奖颁奖典礼]]></title>
+</event>
+<event id="1135225263">
+<start_time>21:00</start_time>
+<end_time>22:54</end_time>
+<title><![CDATA[极限挑战5(7)]]></title>
+</event>
+<event id="1135225266">
+<start_time>22:54</start_time>
+<end_time>23:14</end_time>
+<title><![CDATA[我爱挑战(7)]]></title>
+</event>
+<event id="1135225269">
+<start_time>23:14</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[极限挑战5(7)]]></title>
+</event>
+</schedule>
+</document>

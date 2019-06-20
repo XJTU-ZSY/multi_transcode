@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="NXTV2" epg_code="NXTV2" date="2019-06-18">
+<event id="1135260441">
+<start_time>00:05</start_time>
+<end_time>00:47</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城20]]></title>
+</event>
+<event id="1135260444">
+<start_time>00:47</start_time>
+<end_time>00:59</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260447">
+<start_time>00:59</start_time>
+<end_time>01:17</end_time>
+<title><![CDATA[创富宁夏]]></title>
+</event>
+<event id="1135260450">
+<start_time>01:17</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[午夜剧场:中国刑警803第一部24]]></title>
+</event>
+<event id="1135260453">
+<start_time>02:00</start_time>
+<end_time>06:12</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1135260456">
+<start_time>06:12</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[感动]]></title>
+</event>
+<event id="1135260459">
+<start_time>06:29</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季34]]></title>
+</event>
+<event id="1135260462">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135260465">
+<start_time>07:01</start_time>
+<end_time>07:29</end_time>
+<title><![CDATA[宁夏新闻]]></title>
+</event>
+<event id="1135260468">
+<start_time>07:29</start_time>
+<end_time>07:42</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1135260471">
+<start_time>07:42</start_time>
+<end_time>08:41</end_time>
+<title><![CDATA[天下剧场:征服 9]]></title>
+</event>
+<event id="1135260474">
+<start_time>08:41</start_time>
+<end_time>09:42</end_time>
+<title><![CDATA[天下剧场:征服(10)]]></title>
+</event>
+<event id="1135238211">
+<start_time>09:42</start_time>
+<end_time>10:50</end_time>
+<title><![CDATA[天下剧场:征服(11)]]></title>
+</event>
+<event id="1135238214">
+<start_time>10:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[天下剧场:征服(12)]]></title>
+</event>
+<event id="1132849140">
+<start_time>12:00</start_time>
+<end_time>12:23</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1135249689">
+<start_time>12:23</start_time>
+<end_time>12:55</end_time>
+<title><![CDATA[这里是宁夏]]></title>
+</event>
+<event id="1135250685">
+<start_time>12:55</start_time>
+<end_time>13:53</end_time>
+<title><![CDATA[温情剧场:野山鹰(5)]]></title>
+</event>
+<event id="1135261668">
+<start_time>13:53</start_time>
+<end_time>14:51</end_time>
+<title><![CDATA[温情剧场:野山鹰(6)]]></title>
+</event>
+<event id="1135261671">
+<start_time>14:51</start_time>
+<end_time>15:47</end_time>
+<title><![CDATA[温情剧场:野山鹰(7)]]></title>
+</event>
+<event id="1135261659">
+<start_time>15:47</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[温情剧场:野山鹰(8)]]></title>
+</event>
+<event id="1134975468">
+<start_time>16:40</start_time>
+<end_time>17:35</end_time>
+<title><![CDATA[温情剧场:野山鹰(9)]]></title>
+</event>
+<event id="1134975471">
+<start_time>17:35</start_time>
+<end_time>18:03</end_time>
+<title><![CDATA[动画片剧场:叶罗丽精灵梦]]></title>
+</event>
+<event id="1132849164">
+<start_time>18:03</start_time>
+<end_time>18:21</end_time>
+<title><![CDATA[创富宁夏]]></title>
+</event>
+<event id="1132849167">
+<start_time>18:21</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[宁夏天气预报]]></title>
+</event>
+<event id="1132849170">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1132849173">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135203156">
+<start_time>19:33</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[家和剧场:你是我兄弟37]]></title>
+</event>
+<event id="1135203159">
+<start_time>20:28</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[家和剧场:你是我兄弟38]]></title>
+</event>
+<event id="1132849182">
+<start_time>21:25</start_time>
+<end_time>21:55</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1135203126">
+<start_time>21:55</start_time>
+<end_time>22:54</end_time>
+<title><![CDATA[解码一带一路]]></title>
+</event>
+<event id="1135203129">
+<start_time>22:54</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(21)]]></title>
+</event>
+</schedule>
+<schedule channel_id="NXTV2" epg_code="NXTV2" date="2019-06-19">
+<event id="1135261782">
+<start_time>00:10</start_time>
+<end_time>01:04</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(22)]]></title>
+</event>
+<event id="1133109624">
+<start_time>01:04</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[创富宁夏]]></title>
+</event>
+<event id="1135261785">
+<start_time>01:22</start_time>
+<end_time>02:05</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(25)]]></title>
+</event>
+<event id="1135261788">
+<start_time>02:05</start_time>
+<end_time>03:24</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(26)]]></title>
+</event>
+<event id="1133109633">
+<start_time>03:24</start_time>
+<end_time>03:55</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133109636">
+<start_time>03:55</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[主题微电影]]></title>
+</event>
+<event id="1133830659">
+<start_time>04:00</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(9)]]></title>
+</event>
+<event id="1133830662">
+<start_time>04:50</start_time>
+<end_time>05:50</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(10)]]></title>
+</event>
+<event id="1133109645">
+<start_time>05:50</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133109648">
+<start_time>07:01</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[宁夏新闻]]></title>
+</event>
+<event id="1133109651">
+<start_time>07:36</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1134332853">
+<start_time>08:00</start_time>
+<end_time>08:56</end_time>
+<title><![CDATA[天下剧场:征服(13)]]></title>
+</event>
+<event id="1134332856">
+<start_time>08:56</start_time>
+<end_time>09:53</end_time>
+<title><![CDATA[天下剧场:征服(14)]]></title>
+</event>
+<event id="1134332859">
+<start_time>09:53</start_time>
+<end_time>10:50</end_time>
+<title><![CDATA[天下剧场:征服(15)]]></title>
+</event>
+<event id="1134332862">
+<start_time>10:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[天下剧场:征服(16)]]></title>
+</event>
+<event id="1133109666">
+<start_time>12:00</start_time>
+<end_time>12:23</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133109669">
+<start_time>12:23</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[解码一带一路]]></title>
+</event>
+<event id="1134975480">
+<start_time>12:51</start_time>
+<end_time>13:49</end_time>
+<title><![CDATA[温情剧场:野山鹰(10)]]></title>
+</event>
+<event id="1134975483">
+<start_time>13:49</start_time>
+<end_time>14:47</end_time>
+<title><![CDATA[温情剧场:野山鹰(11)]]></title>
+</event>
+<event id="1134975486">
+<start_time>14:47</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[温情剧场:野山鹰(12)]]></title>
+</event>
+<event id="1134975489">
+<start_time>15:45</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[温情剧场:野山鹰(13)]]></title>
+</event>
+<event id="1134975492">
+<start_time>16:40</start_time>
+<end_time>17:35</end_time>
+<title><![CDATA[温情剧场:野山鹰(14)]]></title>
+</event>
+<event id="1134975495">
+<start_time>17:35</start_time>
+<end_time>18:03</end_time>
+<title><![CDATA[动画片剧场:叶罗丽精灵梦]]></title>
+</event>
+<event id="1133109690">
+<start_time>18:03</start_time>
+<end_time>18:21</end_time>
+<title><![CDATA[创富宁夏]]></title>
+</event>
+<event id="1133109693">
+<start_time>18:21</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[宁夏天气预报]]></title>
+</event>
+<event id="1133109696">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1133109699">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133109702">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1133109705">
+<start_time>20:28</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1133109708">
+<start_time>21:25</start_time>
+<end_time>21:55</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1133109711">
+<start_time>21:55</start_time>
+<end_time>22:55</end_time>
+<title><![CDATA[战争启示录之战事]]></title>
+</event>
+<event id="1135261791">
+<start_time>22:55</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(23)]]></title>
+</event>
+</schedule>
+<schedule channel_id="NXTV2" epg_code="NXTV2" date="2019-06-20">
+<event id="1135261794">
+<start_time>00:10</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(27)]]></title>
+</event>
+<event id="1135261797">
+<start_time>01:00</start_time>
+<end_time>02:05</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(28)]]></title>
+</event>
+<event id="1135261800">
+<start_time>02:05</start_time>
+<end_time>03:13</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(29)]]></title>
+</event>
+<event id="1133344452">
+<start_time>03:13</start_time>
+<end_time>04:01</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1133830665">
+<start_time>04:01</start_time>
+<end_time>04:52</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(11)]]></title>
+</event>
+<event id="1133830668">
+<start_time>04:52</start_time>
+<end_time>05:50</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(12)]]></title>
+</event>
+<event id="1133344461">
+<start_time>05:50</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133344464">
+<start_time>07:01</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[宁夏新闻]]></title>
+</event>
+<event id="1133344467">
+<start_time>07:36</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1134332865">
+<start_time>08:00</start_time>
+<end_time>08:56</end_time>
+<title><![CDATA[天下剧场:征服(17)]]></title>
+</event>
+<event id="1134332868">
+<start_time>08:56</start_time>
+<end_time>09:53</end_time>
+<title><![CDATA[天下剧场:征服(18)]]></title>
+</event>
+<event id="1134332871">
+<start_time>09:53</start_time>
+<end_time>10:50</end_time>
+<title><![CDATA[天下剧场:征服(19)]]></title>
+</event>
+<event id="1134332874">
+<start_time>10:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[天下剧场:征服(20)]]></title>
+</event>
+<event id="1133344482">
+<start_time>12:00</start_time>
+<end_time>12:23</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133344485">
+<start_time>12:23</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[这里是宁夏]]></title>
+</event>
+<event id="1134975507">
+<start_time>12:51</start_time>
+<end_time>13:49</end_time>
+<title><![CDATA[温情剧场:野山鹰(15)]]></title>
+</event>
+<event id="1134975510">
+<start_time>13:49</start_time>
+<end_time>14:47</end_time>
+<title><![CDATA[温情剧场:野山鹰(16)]]></title>
+</event>
+<event id="1134975513">
+<start_time>14:47</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[温情剧场:野山鹰(17)]]></title>
+</event>
+<event id="1134975516">
+<start_time>15:45</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[温情剧场:野山鹰(18)]]></title>
+</event>
+<event id="1134975519">
+<start_time>16:40</start_time>
+<end_time>17:35</end_time>
+<title><![CDATA[温情剧场:野山鹰(19)]]></title>
+</event>
+<event id="1134975522">
+<start_time>17:35</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[动画片剧场:叶罗丽精灵梦]]></title>
+</event>
+<event id="1133344506">
+<start_time>18:08</start_time>
+<end_time>18:21</end_time>
+<title><![CDATA[创富宁夏]]></title>
+</event>
+<event id="1133344509">
+<start_time>18:21</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[宁夏天气预报]]></title>
+</event>
+<event id="1133344512">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1133344515">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133344518">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1133344521">
+<start_time>20:28</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1133344524">
+<start_time>21:25</start_time>
+<end_time>21:55</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1133344527">
+<start_time>21:55</start_time>
+<end_time>22:55</end_time>
+<title><![CDATA[拜托了磊哥]]></title>
+</event>
+<event id="1135261803">
+<start_time>22:55</start_time>
+<end_time>23:48</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(24)]]></title>
+</event>
+<event id="1135261806">
+<start_time>23:48</start_time>
+<end_time>01:09</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(25)]]></title>
+</event>
+</schedule>
+<schedule channel_id="NXTV2" epg_code="NXTV2" date="2019-06-21">
+<event id="1135261809">
+<start_time>01:09</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(30)]]></title>
+</event>
+<event id="1135261812">
+<start_time>02:16</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(31)]]></title>
+</event>
+<event id="1135261815">
+<start_time>03:00</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(32)]]></title>
+</event>
+<event id="1133630718">
+<start_time>03:45</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[非遗中国]]></title>
+</event>
+<event id="1133830671">
+<start_time>04:00</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(13)]]></title>
+</event>
+<event id="1133830674">
+<start_time>05:00</start_time>
+<end_time>05:50</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(14)]]></title>
+</event>
+<event id="1133630727">
+<start_time>05:50</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133630730">
+<start_time>07:01</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[宁夏新闻]]></title>
+</event>
+<event id="1133630733">
+<start_time>07:36</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1133630736">
+<start_time>08:00</start_time>
+<end_time>08:56</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1133630739">
+<start_time>08:56</start_time>
+<end_time>09:53</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1133630742">
+<start_time>09:53</start_time>
+<end_time>10:50</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1133630745">
+<start_time>10:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1133630748">
+<start_time>12:00</start_time>
+<end_time>12:23</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133630751">
+<start_time>12:23</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[拜托了磊哥]]></title>
+</event>
+<event id="1134975534">
+<start_time>12:51</start_time>
+<end_time>13:49</end_time>
+<title><![CDATA[温情剧场:野山鹰(20)]]></title>
+</event>
+<event id="1134975537">
+<start_time>13:49</start_time>
+<end_time>14:47</end_time>
+<title><![CDATA[温情剧场:野山鹰(21)]]></title>
+</event>
+<event id="1134975540">
+<start_time>14:47</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[温情剧场:野山鹰(22)]]></title>
+</event>
+<event id="1134975543">
+<start_time>15:45</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[温情剧场:野山鹰(23)]]></title>
+</event>
+<event id="1134975546">
+<start_time>16:40</start_time>
+<end_time>17:35</end_time>
+<title><![CDATA[温情剧场:野山鹰(24)]]></title>
+</event>
+<event id="1134975549">
+<start_time>17:35</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[动画片剧场:叶罗丽精灵梦]]></title>
+</event>
+<event id="1133630772">
+<start_time>18:08</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[创富宁夏]]></title>
+</event>
+<event id="1133630775">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[宁夏天气预报]]></title>
+</event>
+<event id="1133630778">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1133630781">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133630784">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1133630787">
+<start_time>20:28</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1133630790">
+<start_time>21:25</start_time>
+<end_time>21:55</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1133630793">
+<start_time>21:55</start_time>
+<end_time>22:58</end_time>
+<title><![CDATA[龙在东方]]></title>
+</event>
+<event id="1135261818">
+<start_time>22:58</start_time>
+<end_time>23:46</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(26)]]></title>
+</event>
+<event id="1135261821">
+<start_time>23:46</start_time>
+<end_time>01:04</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(27)]]></title>
+</event>
+</schedule>
+<schedule channel_id="NXTV2" epg_code="NXTV2" date="2019-06-22">
+<event id="1135261824">
+<start_time>01:04</start_time>
+<end_time>02:08</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(33)]]></title>
+</event>
+<event id="1135261827">
+<start_time>02:08</start_time>
+<end_time>02:54</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(34)]]></title>
+</event>
+<event id="1135261830">
+<start_time>02:54</start_time>
+<end_time>03:38</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(35)]]></title>
+</event>
+<event id="1133906859">
+<start_time>03:38</start_time>
+<end_time>04:04</end_time>
+<title><![CDATA[主题微电影]]></title>
+</event>
+<event id="1133906862">
+<start_time>04:04</start_time>
+<end_time>04:51</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(15)]]></title>
+</event>
+<event id="1133906865">
+<start_time>04:51</start_time>
+<end_time>05:50</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(16)]]></title>
+</event>
+<event id="1133906868">
+<start_time>05:50</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133906871">
+<start_time>07:01</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[宁夏新闻]]></title>
+</event>
+<event id="1133906874">
+<start_time>07:36</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1133906877">
+<start_time>08:00</start_time>
+<end_time>08:56</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1133906880">
+<start_time>08:56</start_time>
+<end_time>09:53</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1133906883">
+<start_time>09:53</start_time>
+<end_time>10:50</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1133906886">
+<start_time>10:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1133906889">
+<start_time>12:00</start_time>
+<end_time>12:22</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133906892">
+<start_time>12:22</start_time>
+<end_time>13:01</end_time>
+<title><![CDATA[战争启示录之战事]]></title>
+</event>
+<event id="1134975561">
+<start_time>13:01</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[温情剧场:野山鹰(25)]]></title>
+</event>
+<event id="1134975564">
+<start_time>14:00</start_time>
+<end_time>14:59</end_time>
+<title><![CDATA[温情剧场:野山鹰(26)]]></title>
+</event>
+<event id="1134975567">
+<start_time>14:59</start_time>
+<end_time>15:51</end_time>
+<title><![CDATA[温情剧场:野山鹰(27)]]></title>
+</event>
+<event id="1134975570">
+<start_time>15:51</start_time>
+<end_time>16:49</end_time>
+<title><![CDATA[温情剧场:野山鹰(28)]]></title>
+</event>
+<event id="1134975573">
+<start_time>16:49</start_time>
+<end_time>17:25</end_time>
+<title><![CDATA[温情剧场:野山鹰(29)]]></title>
+</event>
+<event id="1134975576">
+<start_time>17:25</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[动画片剧场:叶罗丽精灵梦]]></title>
+</event>
+<event id="1133906913">
+<start_time>18:08</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[创富宁夏]]></title>
+</event>
+<event id="1133906916">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[宁夏天气预报]]></title>
+</event>
+<event id="1133906919">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1133906922">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133906925">
+<start_time>19:35</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1133906928">
+<start_time>20:28</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1133906931">
+<start_time>21:25</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1133906934">
+<start_time>21:58</start_time>
+<end_time>22:09</end_time>
+<title><![CDATA[旅游风向标]]></title>
+</event>
+<event id="1133906937">
+<start_time>22:09</start_time>
+<end_time>22:55</end_time>
+<title><![CDATA[这里是宁夏]]></title>
+</event>
+<event id="1135261833">
+<start_time>22:55</start_time>
+<end_time>23:43</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(28)]]></title>
+</event>
+<event id="1135261836">
+<start_time>23:43</start_time>
+<end_time>00:08</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(29)]]></title>
+</event>
+</schedule>
+<schedule channel_id="NXTV2" epg_code="NXTV2" date="2019-06-23">
+<event id="1135261839">
+<start_time>00:08</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[次黄档剧场:微微一笑很倾城(30)]]></title>
+</event>
+<event id="1135261842">
+<start_time>01:20</start_time>
+<end_time>02:25</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(36)]]></title>
+</event>
+<event id="1135261845">
+<start_time>02:25</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(37)]]></title>
+</event>
+<event id="1135261848">
+<start_time>03:10</start_time>
+<end_time>04:03</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(38)]]></title>
+</event>
+<event id="1134178587">
+<start_time>04:03</start_time>
+<end_time>04:52</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(17)]]></title>
+</event>
+<event id="1134178590">
+<start_time>04:52</start_time>
+<end_time>05:50</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(18)]]></title>
+</event>
+<event id="1134178593">
+<start_time>05:50</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134178596">
+<start_time>07:01</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[宁夏新闻]]></title>
+</event>
+<event id="1134178599">
+<start_time>07:36</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1134178602">
+<start_time>08:00</start_time>
+<end_time>08:56</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1134178605">
+<start_time>08:56</start_time>
+<end_time>09:53</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1134178608">
+<start_time>09:53</start_time>
+<end_time>10:50</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1134178611">
+<start_time>10:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1134178614">
+<start_time>12:00</start_time>
+<end_time>12:22</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1134178617">
+<start_time>12:22</start_time>
+<end_time>13:01</end_time>
+<title><![CDATA[解码一带一路]]></title>
+</event>
+<event id="1134975588">
+<start_time>13:01</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[温情剧场:野山鹰(30)]]></title>
+</event>
+<event id="1134975591">
+<start_time>14:00</start_time>
+<end_time>14:41</end_time>
+<title><![CDATA[温情剧场:野山鹰(31)]]></title>
+</event>
+<event id="1134975594">
+<start_time>14:41</start_time>
+<end_time>15:31</end_time>
+<title><![CDATA[温情剧场:野山鹰(32)]]></title>
+</event>
+<event id="1134975597">
+<start_time>15:31</start_time>
+<end_time>16:31</end_time>
+<title><![CDATA[温情剧场:野山鹰(33)]]></title>
+</event>
+<event id="1134975600">
+<start_time>16:31</start_time>
+<end_time>17:21</end_time>
+<title><![CDATA[温情剧场:野山鹰(34)]]></title>
+</event>
+<event id="1134975603">
+<start_time>17:21</start_time>
+<end_time>18:08</end_time>
+<title><![CDATA[动画片剧场:叶罗丽精灵梦]]></title>
+</event>
+<event id="1134178638">
+<start_time>18:08</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[旅游风向标]]></title>
+</event>
+<event id="1134178641">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[宁夏天气预报]]></title>
+</event>
+<event id="1134178644">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1134178647">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134178650">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1134178653">
+<start_time>20:28</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1134178656">
+<start_time>21:25</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[宁夏新闻]]></title>
+</event>
+<event id="1134178659">
+<start_time>21:58</start_time>
+<end_time>22:50</end_time>
+<title><![CDATA[次黄档剧场]]></title>
+</event>
+<event id="1134178662">
+<start_time>22:50</start_time>
+<end_time>23:44</end_time>
+<title><![CDATA[次黄档剧场]]></title>
+</event>
+<event id="1134538857">
+<start_time>23:44</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[次黄档剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="NXTV2" epg_code="NXTV2" date="2019-06-24">
+<event id="1134478740">
+<start_time>01:05</start_time>
+<end_time>01:33</end_time>
+<title><![CDATA[周末旅行家]]></title>
+</event>
+<event id="1135261851">
+<start_time>01:33</start_time>
+<end_time>02:21</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(39)]]></title>
+</event>
+<event id="1135261854">
+<start_time>02:21</start_time>
+<end_time>03:09</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(40)]]></title>
+</event>
+<event id="1134478749">
+<start_time>03:09</start_time>
+<end_time>04:04</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1134478752">
+<start_time>04:04</start_time>
+<end_time>04:55</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(19)]]></title>
+</event>
+<event id="1134478755">
+<start_time>04:55</start_time>
+<end_time>05:50</end_time>
+<title><![CDATA[清晨剧场:踏破硝烟(20)]]></title>
+</event>
+<event id="1134478758">
+<start_time>05:50</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134478761">
+<start_time>07:01</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[宁夏新闻]]></title>
+</event>
+<event id="1134478764">
+<start_time>07:35</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1134478767">
+<start_time>08:00</start_time>
+<end_time>08:56</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1134478770">
+<start_time>08:56</start_time>
+<end_time>09:53</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1134478773">
+<start_time>09:53</start_time>
+<end_time>10:50</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1134478776">
+<start_time>10:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1134478779">
+<start_time>12:00</start_time>
+<end_time>12:23</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1134478782">
+<start_time>12:23</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[这里是宁夏]]></title>
+</event>
+<event id="1134975612">
+<start_time>12:51</start_time>
+<end_time>13:49</end_time>
+<title><![CDATA[温情剧场:野山鹰(35)]]></title>
+</event>
+<event id="1134975615">
+<start_time>13:49</start_time>
+<end_time>14:47</end_time>
+<title><![CDATA[温情剧场:野山鹰(36)]]></title>
+</event>
+<event id="1134975618">
+<start_time>14:47</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[温情剧场:野山鹰(37)]]></title>
+</event>
+<event id="1134975621">
+<start_time>15:45</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[温情剧场:野山鹰(38)]]></title>
+</event>
+<event id="1134975624">
+<start_time>16:40</start_time>
+<end_time>17:35</end_time>
+<title><![CDATA[温情剧场:野山鹰(39)]]></title>
+</event>
+<event id="1134975627">
+<start_time>17:35</start_time>
+<end_time>18:03</end_time>
+<title><![CDATA[动画片剧场:叶罗丽精灵梦]]></title>
+</event>
+<event id="1134478803">
+<start_time>18:03</start_time>
+<end_time>18:21</end_time>
+<title><![CDATA[创富宁夏]]></title>
+</event>
+<event id="1134478806">
+<start_time>18:21</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[宁夏天气预报]]></title>
+</event>
+<event id="1134478809">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1134478812">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134478815">
+<start_time>19:33</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1134478818">
+<start_time>20:28</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1134478821">
+<start_time>21:25</start_time>
+<end_time>21:55</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1134478824">
+<start_time>21:55</start_time>
+<end_time>22:38</end_time>
+<title><![CDATA[这里是宁夏]]></title>
+</event>
+<event id="1134478827">
+<start_time>22:38</start_time>
+<end_time>23:21</end_time>
+<title><![CDATA[次黄档剧场]]></title>
+</event>
+<event id="1135124439">
+<start_time>23:21</start_time>
+<end_time>00:20</end_time>
+<title><![CDATA[次黄档剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="NXTV2" epg_code="NXTV2" date="2019-06-25">
+<event id="1135041582">
+<start_time>00:20</start_time>
+<end_time>00:45</end_time>
+<title><![CDATA[周末旅行家]]></title>
+</event>
+<event id="1135261857">
+<start_time>00:45</start_time>
+<end_time>01:33</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(41)]]></title>
+</event>
+<event id="1135261860">
+<start_time>01:33</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[午夜剧场:中国刑警803(42)]]></title>
+</event>
+<event id="1135041591">
+<start_time>02:00</start_time>
+<end_time>05:50</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1135041594">
+<start_time>05:50</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135041597">
+<start_time>07:01</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[宁夏新闻]]></title>
+</event>
+<event id="1135041600">
+<start_time>07:36</start_time>
+<end_time>07:45</end_time>
+<title><![CDATA[说宋朝]]></title>
+</event>
+<event id="1135041603">
+<start_time>07:45</start_time>
+<end_time>08:43</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1135041606">
+<start_time>08:43</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1135041609">
+<start_time>09:45</start_time>
+<end_time>10:50</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1135041612">
+<start_time>10:50</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[天下剧场]]></title>
+</event>
+<event id="1135041615">
+<start_time>12:00</start_time>
+<end_time>12:23</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1135041618">
+<start_time>12:23</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[这里是宁夏]]></title>
+</event>
+<event id="1135041621">
+<start_time>12:51</start_time>
+<end_time>13:49</end_time>
+<title><![CDATA[温情剧场:野山鹰(40)]]></title>
+</event>
+<event id="1135041624">
+<start_time>13:49</start_time>
+<end_time>14:47</end_time>
+<title><![CDATA[温情剧场:野山鹰(41)]]></title>
+</event>
+<event id="1135041627">
+<start_time>14:47</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[温情剧场:野山鹰(42)]]></title>
+</event>
+<event id="1135041630">
+<start_time>15:45</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[温情剧场]]></title>
+</event>
+<event id="1135041633">
+<start_time>16:40</start_time>
+<end_time>17:35</end_time>
+<title><![CDATA[温情剧场]]></title>
+</event>
+<event id="1135041636">
+<start_time>17:35</start_time>
+<end_time>18:03</end_time>
+<title><![CDATA[动画片剧场:叶罗丽精灵梦]]></title>
+</event>
+<event id="1135041639">
+<start_time>18:03</start_time>
+<end_time>18:21</end_time>
+<title><![CDATA[创富宁夏]]></title>
+</event>
+<event id="1135041642">
+<start_time>18:21</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[宁夏天气预报]]></title>
+</event>
+<event id="1135041645">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1135041648">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135041651">
+<start_time>19:33</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1135041654">
+<start_time>20:28</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[家和剧场]]></title>
+</event>
+<event id="1135041657">
+<start_time>21:25</start_time>
+<end_time>21:55</end_time>
+<title><![CDATA[宁夏新闻联播]]></title>
+</event>
+<event id="1135041660">
+<start_time>21:55</start_time>
+<end_time>22:54</end_time>
+<title><![CDATA[这里是宁夏]]></title>
+</event>
+<event id="1135041663">
+<start_time>22:54</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[次黄档剧场]]></title>
+</event>
+</schedule>
+</document>

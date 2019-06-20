@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="HEBEI1" epg_code="HEBEI1" date="2019-06-18">
+<event id="1135260324">
+<start_time>00:20</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135260327">
+<start_time>00:24</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[午夜剧场:双刺10]]></title>
+</event>
+<event id="1135260330">
+<start_time>01:05</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260333">
+<start_time>01:19</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[午夜剧场:双刺11]]></title>
+</event>
+<event id="1135260336">
+<start_time>02:00</start_time>
+<end_time>02:41</end_time>
+<title><![CDATA[午夜剧场:双刺12]]></title>
+</event>
+<event id="1135260339">
+<start_time>02:41</start_time>
+<end_time>03:22</end_time>
+<title><![CDATA[午夜剧场:双刺13]]></title>
+</event>
+<event id="1135260342">
+<start_time>03:22</start_time>
+<end_time>04:03</end_time>
+<title><![CDATA[午夜剧场:双刺14]]></title>
+</event>
+<event id="1135260345">
+<start_time>04:03</start_time>
+<end_time>04:44</end_time>
+<title><![CDATA[午夜剧场:双刺15]]></title>
+</event>
+<event id="1135260348">
+<start_time>04:44</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[午夜剧场:双刺16]]></title>
+</event>
+<event id="1135260351">
+<start_time>05:20</start_time>
+<end_time>05:31</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260354">
+<start_time>05:31</start_time>
+<end_time>06:07</end_time>
+<title><![CDATA[午夜剧场:双刺17]]></title>
+</event>
+<event id="1135260357">
+<start_time>06:07</start_time>
+<end_time>06:26</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260360">
+<start_time>06:26</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[燕赵传奇]]></title>
+</event>
+<event id="1135260363">
+<start_time>06:58</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135260366">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135260369">
+<start_time>07:01</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[你早京津冀]]></title>
+</event>
+<event id="1135260372">
+<start_time>08:05</start_time>
+<end_time>09:16</end_time>
+<title><![CDATA[动画片:鹿精灵(7-11)]]></title>
+</event>
+<event id="1135224621">
+<start_time>09:16</start_time>
+<end_time>10:07</end_time>
+<title><![CDATA[经典剧场:英雄联盟(4)]]></title>
+</event>
+<event id="1135238574">
+<start_time>10:07</start_time>
+<end_time>11:07</end_time>
+<title><![CDATA[经典剧场:英雄联盟(5)]]></title>
+</event>
+<event id="1135248609">
+<start_time>11:07</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[经典剧场:英雄联盟(6)]]></title>
+</event>
+<event id="1135249713">
+<start_time>12:10</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[欢乐冲击波]]></title>
+</event>
+<event id="1135249719">
+<start_time>12:51</start_time>
+<end_time>13:42</end_time>
+<title><![CDATA[情感剧场:太行英雄传(33)]]></title>
+</event>
+<event id="1135261317">
+<start_time>13:42</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[情感剧场:太行英雄传(34)]]></title>
+</event>
+<event id="1135261320">
+<start_time>14:33</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[情感剧场:太行英雄传(35)]]></title>
+</event>
+<event id="1135203084">
+<start_time>15:34</start_time>
+<end_time>16:34</end_time>
+<title><![CDATA[情感剧场:太行英雄传(36)]]></title>
+</event>
+<event id="1135203087">
+<start_time>16:34</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[情感剧场:太行英雄传(37)]]></title>
+</event>
+<event id="1132836018">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[家政女皇]]></title>
+</event>
+<event id="1132836021">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[河北新闻]]></title>
+</event>
+<event id="1132836024">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1132836027">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134980262">
+<start_time>19:33</start_time>
+<end_time>20:26</end_time>
+<title><![CDATA[民生剧场:娘道(1)]]></title>
+</event>
+<event id="1134980265">
+<start_time>20:26</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[民生剧场:娘道(2)]]></title>
+</event>
+<event id="1132836036">
+<start_time>21:20</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[哈喽伙计]]></title>
+</event>
+<event id="1134974526">
+<start_time>22:05</start_time>
+<end_time>22:45</end_time>
+<title><![CDATA[晚间剧场:正阳门下小女人(12)]]></title>
+</event>
+<event id="1132836042">
+<start_time>22:45</start_time>
+<end_time>23:23</end_time>
+<title><![CDATA[美丽新风尚]]></title>
+</event>
+<event id="1133189292">
+<start_time>23:23</start_time>
+<end_time>00:02</end_time>
+<title><![CDATA[京津冀大头条]]></title>
+</event>
+</schedule>
+<schedule channel_id="HEBEI1" epg_code="HEBEI1" date="2019-06-19">
+<event id="1135261029">
+<start_time>00:02</start_time>
+<end_time>00:59</end_time>
+<title><![CDATA[午夜剧场:双刺(18)]]></title>
+</event>
+<event id="1135261032">
+<start_time>00:59</start_time>
+<end_time>01:55</end_time>
+<title><![CDATA[午夜剧场:双刺(19)]]></title>
+</event>
+<event id="1135261035">
+<start_time>01:55</start_time>
+<end_time>02:37</end_time>
+<title><![CDATA[午夜剧场:双刺(20)]]></title>
+</event>
+<event id="1135261038">
+<start_time>02:37</start_time>
+<end_time>03:41</end_time>
+<title><![CDATA[午夜剧场:双刺(21)]]></title>
+</event>
+<event id="1135261041">
+<start_time>03:41</start_time>
+<end_time>04:42</end_time>
+<title><![CDATA[午夜剧场:双刺(22)]]></title>
+</event>
+<event id="1135261044">
+<start_time>04:42</start_time>
+<end_time>05:24</end_time>
+<title><![CDATA[午夜剧场:双刺(23)]]></title>
+</event>
+<event id="1135261047">
+<start_time>05:24</start_time>
+<end_time>06:28</end_time>
+<title><![CDATA[午夜剧场:双刺(24)]]></title>
+</event>
+<event id="1133096403">
+<start_time>06:28</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[穿越经典]]></title>
+</event>
+<event id="1133096406">
+<start_time>06:58</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1133096409">
+<start_time>07:00</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[你早京津冀]]></title>
+</event>
+<event id="1133096412">
+<start_time>08:05</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261050">
+<start_time>08:13</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[经典剧场:英雄联盟(7)]]></title>
+</event>
+<event id="1135261053">
+<start_time>09:06</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[经典剧场:英雄联盟(8)]]></title>
+</event>
+<event id="1135261056">
+<start_time>10:00</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[经典剧场:英雄联盟(9)]]></title>
+</event>
+<event id="1135261059">
+<start_time>11:03</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[经典剧场:英雄联盟(10)]]></title>
+</event>
+<event id="1133096427">
+<start_time>12:05</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[欢乐冲击波]]></title>
+</event>
+<event id="1133096430">
+<start_time>12:54</start_time>
+<end_time>13:43</end_time>
+<title><![CDATA[情感剧场:太行英雄传(38)]]></title>
+</event>
+<event id="1133096433">
+<start_time>13:43</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[情感剧场:太行英雄传(39)]]></title>
+</event>
+<event id="1133096436">
+<start_time>14:33</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[情感剧场:太行英雄传(40)]]></title>
+</event>
+<event id="1133096439">
+<start_time>15:34</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[情感剧场:太行英雄传(41)]]></title>
+</event>
+<event id="1133096442">
+<start_time>16:33</start_time>
+<end_time>17:58</end_time>
+<title><![CDATA[情感剧场:太行英雄传(42)]]></title>
+</event>
+<event id="1133096445">
+<start_time>17:58</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[家政女皇]]></title>
+</event>
+<event id="1133096448">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[河北新闻]]></title>
+</event>
+<event id="1133096451">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1133096454">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134980268">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[民生剧场:娘道(3)]]></title>
+</event>
+<event id="1134980271">
+<start_time>20:25</start_time>
+<end_time>21:19</end_time>
+<title><![CDATA[民生剧场:娘道(4)]]></title>
+</event>
+<event id="1133096463">
+<start_time>21:19</start_time>
+<end_time>22:01</end_time>
+<title><![CDATA[燕赵传奇]]></title>
+</event>
+<event id="1134974562">
+<start_time>22:01</start_time>
+<end_time>22:58</end_time>
+<title><![CDATA[晚间剧场:正阳门下小女人(13)]]></title>
+</event>
+<event id="1133096469">
+<start_time>22:58</start_time>
+<end_time>23:35</end_time>
+<title><![CDATA[美丽新风尚]]></title>
+</event>
+<event id="1133450838">
+<start_time>23:35</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[京津冀大头条]]></title>
+</event>
+</schedule>
+<schedule channel_id="HEBEI1" epg_code="HEBEI1" date="2019-06-20">
+<event id="1135261062">
+<start_time>00:05</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[午夜剧场:双刺(25)]]></title>
+</event>
+<event id="1135261065">
+<start_time>00:58</start_time>
+<end_time>01:39</end_time>
+<title><![CDATA[午夜剧场:双刺(26)]]></title>
+</event>
+<event id="1135261068">
+<start_time>01:39</start_time>
+<end_time>02:20</end_time>
+<title><![CDATA[午夜剧场:双刺(27)]]></title>
+</event>
+<event id="1135261071">
+<start_time>02:20</start_time>
+<end_time>03:04</end_time>
+<title><![CDATA[午夜剧场:双刺(28)]]></title>
+</event>
+<event id="1135261074">
+<start_time>03:04</start_time>
+<end_time>03:54</end_time>
+<title><![CDATA[午夜剧场:双刺(29)]]></title>
+</event>
+<event id="1135261077">
+<start_time>03:54</start_time>
+<end_time>04:45</end_time>
+<title><![CDATA[午夜剧场:双刺(30)]]></title>
+</event>
+<event id="1135261080">
+<start_time>04:45</start_time>
+<end_time>05:38</end_time>
+<title><![CDATA[午夜剧场:双刺(31)]]></title>
+</event>
+<event id="1135261083">
+<start_time>05:38</start_time>
+<end_time>06:31</end_time>
+<title><![CDATA[午夜剧场:双刺(32)]]></title>
+</event>
+<event id="1133331429">
+<start_time>06:31</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[穿越经典]]></title>
+</event>
+<event id="1133331432">
+<start_time>06:58</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1133331435">
+<start_time>07:00</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[你早京津冀]]></title>
+</event>
+<event id="1133331438">
+<start_time>08:05</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261086">
+<start_time>08:13</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[经典剧场:英雄联盟(11)]]></title>
+</event>
+<event id="1135261089">
+<start_time>09:06</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[经典剧场:英雄联盟(12)]]></title>
+</event>
+<event id="1135261092">
+<start_time>10:00</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[经典剧场:英雄联盟(13)]]></title>
+</event>
+<event id="1135261095">
+<start_time>11:03</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[经典剧场:英雄联盟(14)]]></title>
+</event>
+<event id="1133331453">
+<start_time>12:05</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[欢乐冲击波]]></title>
+</event>
+<event id="1133331456">
+<start_time>12:54</start_time>
+<end_time>13:43</end_time>
+<title><![CDATA[情感剧场:太行英雄传(43)]]></title>
+</event>
+<event id="1133331459">
+<start_time>13:43</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[情感剧场:太行英雄传(44)]]></title>
+</event>
+<event id="1133331462">
+<start_time>14:33</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[情感剧场:太行英雄传(45)]]></title>
+</event>
+<event id="1133331465">
+<start_time>15:34</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[情感剧场:太行英雄传(46)]]></title>
+</event>
+<event id="1133331468">
+<start_time>16:33</start_time>
+<end_time>17:58</end_time>
+<title><![CDATA[情感剧场:太行英雄传(47)]]></title>
+</event>
+<event id="1133331471">
+<start_time>17:58</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[家政女皇]]></title>
+</event>
+<event id="1133331474">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[河北新闻]]></title>
+</event>
+<event id="1133331477">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1133331480">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134980274">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[民生剧场:娘道(5)]]></title>
+</event>
+<event id="1134980277">
+<start_time>20:25</start_time>
+<end_time>21:16</end_time>
+<title><![CDATA[民生剧场:娘道(6)]]></title>
+</event>
+<event id="1133331489">
+<start_time>21:16</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[加油向前跑]]></title>
+</event>
+<event id="1134974601">
+<start_time>22:05</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[晚间剧场:正阳门下小女人(14)]]></title>
+</event>
+<event id="1133331495">
+<start_time>23:02</start_time>
+<end_time>23:35</end_time>
+<title><![CDATA[美丽新风尚]]></title>
+</event>
+<event id="1133715402">
+<start_time>23:35</start_time>
+<end_time>00:04</end_time>
+<title><![CDATA[京津冀大头条]]></title>
+</event>
+</schedule>
+<schedule channel_id="HEBEI1" epg_code="HEBEI1" date="2019-06-21">
+<event id="1135261098">
+<start_time>00:04</start_time>
+<end_time>00:45</end_time>
+<title><![CDATA[午夜剧场:双刺(33)]]></title>
+</event>
+<event id="1135261101">
+<start_time>00:45</start_time>
+<end_time>01:27</end_time>
+<title><![CDATA[午夜剧场:双刺(34)]]></title>
+</event>
+<event id="1135261104">
+<start_time>01:27</start_time>
+<end_time>02:08</end_time>
+<title><![CDATA[午夜剧场:双刺(35)]]></title>
+</event>
+<event id="1135261107">
+<start_time>02:08</start_time>
+<end_time>02:50</end_time>
+<title><![CDATA[午夜剧场:双刺(36)]]></title>
+</event>
+<event id="1135261110">
+<start_time>02:50</start_time>
+<end_time>03:54</end_time>
+<title><![CDATA[午夜剧场:双刺(37)]]></title>
+</event>
+<event id="1135261113">
+<start_time>03:54</start_time>
+<end_time>04:36</end_time>
+<title><![CDATA[午夜剧场:双刺(38)]]></title>
+</event>
+<event id="1135261116">
+<start_time>04:36</start_time>
+<end_time>05:17</end_time>
+<title><![CDATA[午夜剧场:双刺(39)]]></title>
+</event>
+<event id="1133617794">
+<start_time>05:17</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133617797">
+<start_time>06:58</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1133617800">
+<start_time>07:00</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[你早京津冀]]></title>
+</event>
+<event id="1133617803">
+<start_time>08:05</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261119">
+<start_time>08:13</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[经典剧场:英雄联盟(15)]]></title>
+</event>
+<event id="1135261122">
+<start_time>09:06</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[经典剧场:英雄联盟(16)]]></title>
+</event>
+<event id="1135261125">
+<start_time>10:00</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[经典剧场:英雄联盟(17)]]></title>
+</event>
+<event id="1135261128">
+<start_time>11:03</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[经典剧场:英雄联盟(18)]]></title>
+</event>
+<event id="1133617818">
+<start_time>12:05</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[欢乐冲击波]]></title>
+</event>
+<event id="1133617821">
+<start_time>12:54</start_time>
+<end_time>13:43</end_time>
+<title><![CDATA[情感剧场:太行英雄传(48)]]></title>
+</event>
+<event id="1133617824">
+<start_time>13:43</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[情感剧场:太行英雄传(49)]]></title>
+</event>
+<event id="1133617827">
+<start_time>14:33</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[情感剧场:太行英雄传(50)]]></title>
+</event>
+<event id="1133617830">
+<start_time>15:34</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1133617833">
+<start_time>16:33</start_time>
+<end_time>17:58</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1133617836">
+<start_time>17:58</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[家政女皇]]></title>
+</event>
+<event id="1133617839">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[河北新闻]]></title>
+</event>
+<event id="1133617842">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1133617845">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134980280">
+<start_time>19:34</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[民生剧场:娘道(7)]]></title>
+</event>
+<event id="1134980283">
+<start_time>20:25</start_time>
+<end_time>21:21</end_time>
+<title><![CDATA[民生剧场:娘道(8)]]></title>
+</event>
+<event id="1133617854">
+<start_time>21:21</start_time>
+<end_time>22:08</end_time>
+<title><![CDATA[小强来了]]></title>
+</event>
+<event id="1134974637">
+<start_time>22:08</start_time>
+<end_time>22:45</end_time>
+<title><![CDATA[晚间剧场:正阳门下小女人(15)]]></title>
+</event>
+<event id="1133617860">
+<start_time>22:45</start_time>
+<end_time>23:23</end_time>
+<title><![CDATA[美丽新风尚]]></title>
+</event>
+<event id="1134004992">
+<start_time>23:23</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[京津冀大头条]]></title>
+</event>
+</schedule>
+<schedule channel_id="HEBEI1" epg_code="HEBEI1" date="2019-06-22">
+<event id="1135261131">
+<start_time>00:00</start_time>
+<end_time>00:51</end_time>
+<title><![CDATA[午夜剧场:双刺(40)]]></title>
+</event>
+<event id="1135261134">
+<start_time>00:51</start_time>
+<end_time>01:38</end_time>
+<title><![CDATA[午夜剧场:双刺(41)]]></title>
+</event>
+<event id="1135261137">
+<start_time>01:38</start_time>
+<end_time>02:25</end_time>
+<title><![CDATA[午夜剧场:双刺(42)]]></title>
+</event>
+<event id="1135261140">
+<start_time>02:25</start_time>
+<end_time>03:07</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134974652">
+<start_time>03:07</start_time>
+<end_time>04:10</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133893716">
+<start_time>04:10</start_time>
+<end_time>04:51</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133893719">
+<start_time>04:51</start_time>
+<end_time>05:33</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133893722">
+<start_time>05:33</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133893725">
+<start_time>06:27</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133893728">
+<start_time>06:58</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1133893731">
+<start_time>07:00</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[你早京津冀]]></title>
+</event>
+<event id="1133893734">
+<start_time>08:05</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261143">
+<start_time>08:13</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[经典剧场:英雄联盟(19)]]></title>
+</event>
+<event id="1135261146">
+<start_time>09:06</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[经典剧场:英雄联盟(20)]]></title>
+</event>
+<event id="1135261149">
+<start_time>10:00</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[经典剧场:英雄联盟(21)]]></title>
+</event>
+<event id="1135261152">
+<start_time>11:03</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[经典剧场:英雄联盟(22)]]></title>
+</event>
+<event id="1133893749">
+<start_time>12:05</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[欢乐冲击波]]></title>
+</event>
+<event id="1133893752">
+<start_time>12:54</start_time>
+<end_time>13:43</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1133893755">
+<start_time>13:43</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1133893758">
+<start_time>14:33</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1133893761">
+<start_time>15:34</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1133893764">
+<start_time>16:33</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1133893767">
+<start_time>17:55</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[家政女皇]]></title>
+</event>
+<event id="1133893770">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[河北新闻]]></title>
+</event>
+<event id="1133893773">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1133893776">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134980286">
+<start_time>19:32</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[民生剧场:娘道(9)]]></title>
+</event>
+<event id="1134980289">
+<start_time>20:25</start_time>
+<end_time>21:22</end_time>
+<title><![CDATA[民生剧场:娘道(10)]]></title>
+</event>
+<event id="1133893785">
+<start_time>21:22</start_time>
+<end_time>22:51</end_time>
+<title><![CDATA[我中国少年]]></title>
+</event>
+<event id="1133893788">
+<start_time>22:51</start_time>
+<end_time>23:23</end_time>
+<title><![CDATA[美丽新风尚]]></title>
+</event>
+<event id="1134261279">
+<start_time>23:23</start_time>
+<end_time>00:02</end_time>
+<title><![CDATA[京津冀大头条]]></title>
+</event>
+</schedule>
+<schedule channel_id="HEBEI1" epg_code="HEBEI1" date="2019-06-23">
+<event id="1134165597">
+<start_time>00:02</start_time>
+<end_time>00:59</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134165600">
+<start_time>00:59</start_time>
+<end_time>01:55</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134165603">
+<start_time>01:55</start_time>
+<end_time>02:37</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134165606">
+<start_time>02:37</start_time>
+<end_time>03:41</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134165609">
+<start_time>03:41</start_time>
+<end_time>04:42</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134165612">
+<start_time>04:42</start_time>
+<end_time>05:24</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134165615">
+<start_time>05:24</start_time>
+<end_time>06:28</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134165618">
+<start_time>06:28</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[穿越经典]]></title>
+</event>
+<event id="1134165621">
+<start_time>06:58</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1134165624">
+<start_time>07:00</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[你早京津冀]]></title>
+</event>
+<event id="1135261155">
+<start_time>08:13</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[经典剧场:英雄联盟(23)]]></title>
+</event>
+<event id="1135261158">
+<start_time>09:06</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[经典剧场:英雄联盟(24)]]></title>
+</event>
+<event id="1135261161">
+<start_time>10:00</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[经典剧场:英雄联盟(25)]]></title>
+</event>
+<event id="1135261164">
+<start_time>11:03</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[经典剧场:英雄联盟(26)]]></title>
+</event>
+<event id="1134165639">
+<start_time>12:05</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[欢乐冲击波]]></title>
+</event>
+<event id="1134165642">
+<start_time>12:54</start_time>
+<end_time>13:43</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134165645">
+<start_time>13:43</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134165648">
+<start_time>14:33</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134165651">
+<start_time>15:34</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134165654">
+<start_time>16:33</start_time>
+<end_time>17:53</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134165657">
+<start_time>17:53</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[家政女皇]]></title>
+</event>
+<event id="1134165660">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[河北新闻]]></title>
+</event>
+<event id="1134165663">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1134165666">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134980292">
+<start_time>19:33</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[民生剧场:娘道(11)]]></title>
+</event>
+<event id="1134980295">
+<start_time>20:29</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[民生剧场:娘道(12)]]></title>
+</event>
+<event id="1134165675">
+<start_time>21:20</start_time>
+<end_time>22:50</end_time>
+<title><![CDATA[我中国少年]]></title>
+</event>
+<event id="1134974679">
+<start_time>22:50</start_time>
+<end_time>23:20</end_time>
+<title><![CDATA[晚间剧场:正阳门下小女人(16)]]></title>
+</event>
+<event id="1134470775">
+<start_time>23:20</start_time>
+<end_time>00:03</end_time>
+<title><![CDATA[京津冀大头条]]></title>
+</event>
+</schedule>
+<schedule channel_id="HEBEI1" epg_code="HEBEI1" date="2019-06-24">
+<event id="1134461721">
+<start_time>00:03</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134461724">
+<start_time>01:05</start_time>
+<end_time>02:07</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134461727">
+<start_time>02:07</start_time>
+<end_time>02:49</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134461730">
+<start_time>02:49</start_time>
+<end_time>03:34</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134461733">
+<start_time>03:34</start_time>
+<end_time>04:24</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134461736">
+<start_time>04:24</start_time>
+<end_time>05:26</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134461739">
+<start_time>05:26</start_time>
+<end_time>06:31</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134461742">
+<start_time>06:31</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[穿越经典]]></title>
+</event>
+<event id="1134461745">
+<start_time>06:58</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1134461748">
+<start_time>07:00</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[你早京津冀]]></title>
+</event>
+<event id="1134461751">
+<start_time>08:05</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261167">
+<start_time>08:13</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[经典剧场:英雄联盟(27)]]></title>
+</event>
+<event id="1135261170">
+<start_time>09:06</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[经典剧场:英雄联盟(28)]]></title>
+</event>
+<event id="1135261173">
+<start_time>10:00</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[经典剧场:英雄联盟(29)]]></title>
+</event>
+<event id="1135261176">
+<start_time>11:03</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[经典剧场:英雄联盟(30)]]></title>
+</event>
+<event id="1134461766">
+<start_time>12:05</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[欢乐冲击波]]></title>
+</event>
+<event id="1134461769">
+<start_time>12:54</start_time>
+<end_time>13:43</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134461772">
+<start_time>13:43</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134461775">
+<start_time>14:33</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134461778">
+<start_time>15:34</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134461781">
+<start_time>16:33</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1134461784">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[家政女皇]]></title>
+</event>
+<event id="1134461787">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河北新闻]]></title>
+</event>
+<event id="1134461790">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134980298">
+<start_time>19:33</start_time>
+<end_time>20:25</end_time>
+<title><![CDATA[民生剧场:娘道(13)]]></title>
+</event>
+<event id="1134980301">
+<start_time>20:25</start_time>
+<end_time>21:19</end_time>
+<title><![CDATA[民生剧场:娘道(14)]]></title>
+</event>
+<event id="1134461799">
+<start_time>21:19</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[中华好家风]]></title>
+</event>
+<event id="1134974694">
+<start_time>22:05</start_time>
+<end_time>22:45</end_time>
+<title><![CDATA[晚间剧场:正阳门下小女人(17)]]></title>
+</event>
+<event id="1134461805">
+<start_time>22:45</start_time>
+<end_time>23:23</end_time>
+<title><![CDATA[美丽新风尚]]></title>
+</event>
+<event id="1135129344">
+<start_time>23:23</start_time>
+<end_time>00:02</end_time>
+<title><![CDATA[京津冀大头条]]></title>
+</event>
+</schedule>
+<schedule channel_id="HEBEI1" epg_code="HEBEI1" date="2019-06-25">
+<event id="1135028619">
+<start_time>00:02</start_time>
+<end_time>00:59</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135028622">
+<start_time>00:59</start_time>
+<end_time>01:55</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135028625">
+<start_time>01:55</start_time>
+<end_time>02:37</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135028628">
+<start_time>02:37</start_time>
+<end_time>03:41</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135028631">
+<start_time>03:41</start_time>
+<end_time>04:42</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135028634">
+<start_time>04:42</start_time>
+<end_time>05:24</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135028637">
+<start_time>05:24</start_time>
+<end_time>06:28</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135028640">
+<start_time>06:28</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[穿越经典]]></title>
+</event>
+<event id="1135028643">
+<start_time>06:58</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1135028646">
+<start_time>07:00</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[你早京津冀]]></title>
+</event>
+<event id="1135028649">
+<start_time>08:05</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261179">
+<start_time>08:13</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[经典剧场:英雄联盟(31)]]></title>
+</event>
+<event id="1135261182">
+<start_time>09:06</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[经典剧场:英雄联盟(32)]]></title>
+</event>
+<event id="1135261185">
+<start_time>10:00</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[经典剧场:英雄联盟(33)]]></title>
+</event>
+<event id="1135261188">
+<start_time>11:03</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[经典剧场:英雄联盟(34)]]></title>
+</event>
+<event id="1135028664">
+<start_time>12:05</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[欢乐冲击波]]></title>
+</event>
+<event id="1135028667">
+<start_time>12:54</start_time>
+<end_time>13:43</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1135028670">
+<start_time>13:43</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1135028673">
+<start_time>14:33</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1135028676">
+<start_time>15:34</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1135028679">
+<start_time>16:33</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[情感剧场]]></title>
+</event>
+<event id="1135028682">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[家政女皇]]></title>
+</event>
+<event id="1135028685">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[河北新闻]]></title>
+</event>
+<event id="1135028688">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[河北天气预报]]></title>
+</event>
+<event id="1135028691">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135028694">
+<start_time>19:33</start_time>
+<end_time>20:26</end_time>
+<title><![CDATA[民生剧场:娘道(15)]]></title>
+</event>
+<event id="1135028697">
+<start_time>20:26</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[民生剧场:娘道(16)]]></title>
+</event>
+<event id="1135028700">
+<start_time>21:20</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[哈喽伙计]]></title>
+</event>
+<event id="1135028703">
+<start_time>22:05</start_time>
+<end_time>22:45</end_time>
+<title><![CDATA[晚间剧场:正阳门下小女人(18)]]></title>
+</event>
+<event id="1135028706">
+<start_time>22:45</start_time>
+<end_time>23:23</end_time>
+<title><![CDATA[美丽新风尚]]></title>
+</event>
+<event id="1135028709">
+<start_time>23:23</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[京津冀大头条]]></title>
+</event>
+</schedule>
+</document>

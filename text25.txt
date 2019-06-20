@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="TCTC1" epg_code="TCTC1" date="2019-06-18">
+<event id="1135259862">
+<start_time>00:12</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1135259865">
+<start_time>00:38</start_time>
+<end_time>00:51</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135259868">
+<start_time>00:51</start_time>
+<end_time>01:29</end_time>
+<title><![CDATA[第一时尚]]></title>
+</event>
+<event id="1135259871">
+<start_time>01:29</start_time>
+<end_time>01:59</end_time>
+<title><![CDATA[午夜剧场:嫂子嫂子69]]></title>
+</event>
+<event id="1135259874">
+<start_time>01:59</start_time>
+<end_time>02:20</end_time>
+<title><![CDATA[午夜剧场:嫂子嫂子70]]></title>
+</event>
+<event id="1135259877">
+<start_time>02:20</start_time>
+<end_time>03:01</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135259880">
+<start_time>03:01</start_time>
+<end_time>03:53</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+<event id="1135259883">
+<start_time>03:53</start_time>
+<end_time>04:24</end_time>
+<title><![CDATA[梅卿快车道]]></title>
+</event>
+<event id="1135259886">
+<start_time>04:24</start_time>
+<end_time>04:48</end_time>
+<title><![CDATA[中国体育旅游报道]]></title>
+</event>
+<event id="1135259889">
+<start_time>04:48</start_time>
+<end_time>05:19</end_time>
+<title><![CDATA[午夜剧场:嫂子嫂子71]]></title>
+</event>
+<event id="1135259892">
+<start_time>05:19</start_time>
+<end_time>05:49</end_time>
+<title><![CDATA[午夜剧场:嫂子嫂子72]]></title>
+</event>
+<event id="1135259895">
+<start_time>05:49</start_time>
+<end_time>06:19</end_time>
+<title><![CDATA[午夜剧场:嫂子嫂子73]]></title>
+</event>
+<event id="1135259898">
+<start_time>06:19</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[午夜剧场:嫂子嫂子74]]></title>
+</event>
+<event id="1135259901">
+<start_time>06:40</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135259904">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135259907">
+<start_time>07:01</start_time>
+<end_time>07:26</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1135259910">
+<start_time>07:26</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[天气行程单]]></title>
+</event>
+<event id="1135259913">
+<start_time>07:35</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[潮起海之南]]></title>
+</event>
+<event id="1135259916">
+<start_time>08:00</start_time>
+<end_time>08:22</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135259919">
+<start_time>08:22</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[动漫剧场:戚继光]]></title>
+</event>
+<event id="1135217793">
+<start_time>08:46</start_time>
+<end_time>09:38</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(17)]]></title>
+</event>
+<event id="1135237863">
+<start_time>09:38</start_time>
+<end_time>10:29</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(18)]]></title>
+</event>
+<event id="1135237866">
+<start_time>10:29</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(19)]]></title>
+</event>
+<event id="1135217802">
+<start_time>11:20</start_time>
+<end_time>12:11</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(20)]]></title>
+</event>
+<event id="1132841256">
+<start_time>12:11</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1132841259">
+<start_time>12:14</start_time>
+<end_time>12:17</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135250016">
+<start_time>12:17</start_time>
+<end_time>13:09</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(21)]]></title>
+</event>
+<event id="1135250019">
+<start_time>13:09</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场:穆桂英挂帅 62]]></title>
+</event>
+<event id="1134980241">
+<start_time>14:01</start_time>
+<end_time>14:53</end_time>
+<title><![CDATA[下午剧场:穆桂英挂帅 63]]></title>
+</event>
+<event id="1134980244">
+<start_time>14:53</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[下午剧场:穆桂英挂帅 64]]></title>
+</event>
+<event id="1134980247">
+<start_time>15:44</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[下午剧场:穆桂英挂帅 65]]></title>
+</event>
+<event id="1134980250">
+<start_time>16:35</start_time>
+<end_time>17:26</end_time>
+<title><![CDATA[下午剧场:穆桂英挂帅 66]]></title>
+</event>
+<event id="1134980253">
+<start_time>17:26</start_time>
+<end_time>18:16</end_time>
+<title><![CDATA[下午剧场:穆桂英挂帅 67]]></title>
+</event>
+<event id="1132841283">
+<start_time>18:16</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[点赞海南]]></title>
+</event>
+<event id="1132841286">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1132841289">
+<start_time>18:56</start_time>
+<end_time>18:58</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1132841292">
+<start_time>18:58</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1132841295">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1132841298">
+<start_time>19:31</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1132841301">
+<start_time>19:34</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1132841304">
+<start_time>19:35</start_time>
+<end_time>20:05</end_time>
+<title><![CDATA[直通自贸港]]></title>
+</event>
+<event id="1135218078">
+<start_time>20:05</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[潮起海之南]]></title>
+</event>
+<event id="1135218081">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[纪录中国]]></title>
+</event>
+<event id="1135218084">
+<start_time>21:00</start_time>
+<end_time>21:34</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1135218087">
+<start_time>21:34</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[中国体育旅游报道]]></title>
+</event>
+<event id="1135218090">
+<start_time>22:00</start_time>
+<end_time>23:03</end_time>
+<title><![CDATA[美丽俏佳人]]></title>
+</event>
+<event id="1135218093">
+<start_time>23:03</start_time>
+<end_time>00:25</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+</schedule>
+<schedule channel_id="TCTC1" epg_code="TCTC1" date="2019-06-19">
+<event id="1133101620">
+<start_time>00:25</start_time>
+<end_time>00:50</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133101623">
+<start_time>00:50</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133101626">
+<start_time>01:00</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133101629">
+<start_time>01:30</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[第1收藏]]></title>
+</event>
+<event id="1133101632">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133101635">
+<start_time>02:30</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1133101638">
+<start_time>03:10</start_time>
+<end_time>03:50</end_time>
+<title><![CDATA[美丽俏佳人]]></title>
+</event>
+<event id="1133101641">
+<start_time>03:50</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[海南岛纪事]]></title>
+</event>
+<event id="1133101644">
+<start_time>04:20</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133101647">
+<start_time>04:30</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[记住乡愁]]></title>
+</event>
+<event id="1133101650">
+<start_time>05:00</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+<event id="1133101653">
+<start_time>05:55</start_time>
+<end_time>06:25</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133101656">
+<start_time>06:25</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133101659">
+<start_time>07:00</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1133101662">
+<start_time>07:25</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133101665">
+<start_time>07:33</start_time>
+<end_time>08:02</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133101668">
+<start_time>08:02</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261455">
+<start_time>08:46</start_time>
+<end_time>09:38</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(22)]]></title>
+</event>
+<event id="1135261458">
+<start_time>09:38</start_time>
+<end_time>10:29</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(23)]]></title>
+</event>
+<event id="1135261461">
+<start_time>10:29</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(24)]]></title>
+</event>
+<event id="1135261464">
+<start_time>11:20</start_time>
+<end_time>12:11</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(25)]]></title>
+</event>
+<event id="1133101683">
+<start_time>12:11</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133101686">
+<start_time>12:14</start_time>
+<end_time>12:17</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135261467">
+<start_time>12:17</start_time>
+<end_time>13:09</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(26)]]></title>
+</event>
+<event id="1133101692">
+<start_time>13:09</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133101695">
+<start_time>14:01</start_time>
+<end_time>14:53</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133101698">
+<start_time>14:53</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133101701">
+<start_time>15:44</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133101704">
+<start_time>16:35</start_time>
+<end_time>17:26</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133101707">
+<start_time>17:26</start_time>
+<end_time>18:16</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133101710">
+<start_time>18:16</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[点赞海南]]></title>
+</event>
+<event id="1133101713">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1133101716">
+<start_time>18:56</start_time>
+<end_time>18:58</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1133101719">
+<start_time>18:58</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133101722">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133101725">
+<start_time>19:31</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133101728">
+<start_time>19:34</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1133101731">
+<start_time>19:35</start_time>
+<end_time>20:05</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133101734">
+<start_time>20:05</start_time>
+<end_time>20:50</end_time>
+<title><![CDATA[美丽俏佳人]]></title>
+</event>
+<event id="1133101737">
+<start_time>20:50</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1133101740">
+<start_time>21:20</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133101743">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133101746">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133101749">
+<start_time>22:30</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133101752">
+<start_time>23:00</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1133442798">
+<start_time>23:30</start_time>
+<end_time>00:25</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+</schedule>
+<schedule channel_id="TCTC1" epg_code="TCTC1" date="2019-06-20">
+<event id="1133336736">
+<start_time>00:25</start_time>
+<end_time>00:50</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133336739">
+<start_time>00:50</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133336742">
+<start_time>01:00</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133336745">
+<start_time>01:30</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[旅游地产]]></title>
+</event>
+<event id="1133336748">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133336751">
+<start_time>02:30</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1133336754">
+<start_time>03:10</start_time>
+<end_time>03:50</end_time>
+<title><![CDATA[美丽俏佳人]]></title>
+</event>
+<event id="1133336757">
+<start_time>03:50</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[第1时尚]]></title>
+</event>
+<event id="1133336760">
+<start_time>04:20</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133336763">
+<start_time>04:30</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[记住乡愁]]></title>
+</event>
+<event id="1133336766">
+<start_time>05:00</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+<event id="1133336769">
+<start_time>05:55</start_time>
+<end_time>06:25</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133336772">
+<start_time>06:25</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133336775">
+<start_time>07:00</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1133336778">
+<start_time>07:25</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133336781">
+<start_time>07:33</start_time>
+<end_time>08:02</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133336784">
+<start_time>08:02</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261470">
+<start_time>08:46</start_time>
+<end_time>09:38</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(27)]]></title>
+</event>
+<event id="1135261473">
+<start_time>09:38</start_time>
+<end_time>10:29</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(28)]]></title>
+</event>
+<event id="1135261476">
+<start_time>10:29</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(29)]]></title>
+</event>
+<event id="1135261479">
+<start_time>11:20</start_time>
+<end_time>12:11</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(30)]]></title>
+</event>
+<event id="1133336799">
+<start_time>12:11</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133336802">
+<start_time>12:14</start_time>
+<end_time>12:17</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135261482">
+<start_time>12:17</start_time>
+<end_time>13:09</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(31)]]></title>
+</event>
+<event id="1133336808">
+<start_time>13:09</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133336811">
+<start_time>14:01</start_time>
+<end_time>14:53</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133336814">
+<start_time>14:53</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133336817">
+<start_time>15:44</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133336820">
+<start_time>16:35</start_time>
+<end_time>17:26</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133336823">
+<start_time>17:26</start_time>
+<end_time>18:16</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133336826">
+<start_time>18:16</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[点赞海南]]></title>
+</event>
+<event id="1133336829">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1133336832">
+<start_time>18:56</start_time>
+<end_time>18:58</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1133336835">
+<start_time>18:58</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133336838">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133336841">
+<start_time>19:31</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133336844">
+<start_time>19:34</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1133336847">
+<start_time>19:35</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133336850">
+<start_time>20:00</start_time>
+<end_time>20:50</end_time>
+<title><![CDATA[纪录中国]]></title>
+</event>
+<event id="1133336853">
+<start_time>20:50</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1133336856">
+<start_time>21:20</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133336859">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133336862">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133336865">
+<start_time>22:30</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133336868">
+<start_time>23:00</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1133709267">
+<start_time>23:30</start_time>
+<end_time>00:25</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+</schedule>
+<schedule channel_id="TCTC1" epg_code="TCTC1" date="2019-06-21">
+<event id="1133622930">
+<start_time>00:25</start_time>
+<end_time>00:50</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133622933">
+<start_time>00:50</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133622936">
+<start_time>01:00</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133622939">
+<start_time>01:30</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[海南岛纪事]]></title>
+</event>
+<event id="1133622942">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133622945">
+<start_time>02:30</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1133622948">
+<start_time>03:10</start_time>
+<end_time>03:30</end_time>
+<title><![CDATA[车时尚]]></title>
+</event>
+<event id="1133622951">
+<start_time>03:30</start_time>
+<end_time>03:50</end_time>
+<title><![CDATA[文明中华行]]></title>
+</event>
+<event id="1133622954">
+<start_time>03:50</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[鲸鱼旅行排行榜]]></title>
+</event>
+<event id="1133622957">
+<start_time>04:20</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133622960">
+<start_time>04:30</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[记住乡愁]]></title>
+</event>
+<event id="1133622963">
+<start_time>05:00</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+<event id="1133622966">
+<start_time>05:55</start_time>
+<end_time>06:25</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133622969">
+<start_time>06:25</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133622972">
+<start_time>07:00</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1133622975">
+<start_time>07:25</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133622978">
+<start_time>07:33</start_time>
+<end_time>08:02</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133622981">
+<start_time>08:02</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261485">
+<start_time>08:46</start_time>
+<end_time>09:38</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(32)]]></title>
+</event>
+<event id="1135261488">
+<start_time>09:38</start_time>
+<end_time>10:29</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(33)]]></title>
+</event>
+<event id="1135261491">
+<start_time>10:29</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(34)]]></title>
+</event>
+<event id="1135261494">
+<start_time>11:20</start_time>
+<end_time>12:11</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(35)]]></title>
+</event>
+<event id="1133622996">
+<start_time>12:11</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133622999">
+<start_time>12:14</start_time>
+<end_time>12:17</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135261497">
+<start_time>12:17</start_time>
+<end_time>13:09</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(36)]]></title>
+</event>
+<event id="1133623005">
+<start_time>13:09</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133623008">
+<start_time>14:01</start_time>
+<end_time>14:53</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133623011">
+<start_time>14:53</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133623014">
+<start_time>15:44</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133623017">
+<start_time>16:35</start_time>
+<end_time>17:26</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133623020">
+<start_time>17:26</start_time>
+<end_time>18:16</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133623023">
+<start_time>18:16</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[点赞海南]]></title>
+</event>
+<event id="1133623026">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1133623029">
+<start_time>18:56</start_time>
+<end_time>18:58</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1133623032">
+<start_time>18:58</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133623035">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133623038">
+<start_time>19:31</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133623041">
+<start_time>19:34</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1133623044">
+<start_time>19:35</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133623047">
+<start_time>20:00</start_time>
+<end_time>20:50</end_time>
+<title><![CDATA[鲁豫有约]]></title>
+</event>
+<event id="1133623050">
+<start_time>20:50</start_time>
+<end_time>21:20</end_time>
+<title><![CDATA[鲸鱼旅行排行榜]]></title>
+</event>
+<event id="1133623053">
+<start_time>21:20</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133623056">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133623059">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133623062">
+<start_time>22:30</start_time>
+<end_time>23:40</end_time>
+<title><![CDATA[舞动青春]]></title>
+</event>
+<event id="1133995560">
+<start_time>23:40</start_time>
+<end_time>00:25</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+</schedule>
+<schedule channel_id="TCTC1" epg_code="TCTC1" date="2019-06-22">
+<event id="1133899089">
+<start_time>00:25</start_time>
+<end_time>00:50</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133899092">
+<start_time>00:50</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1133899095">
+<start_time>01:00</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1133899098">
+<start_time>01:20</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[鲸鱼旅行排行榜]]></title>
+</event>
+<event id="1133899101">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133899104">
+<start_time>02:30</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[第1时尚]]></title>
+</event>
+<event id="1133899107">
+<start_time>03:10</start_time>
+<end_time>03:25</end_time>
+<title><![CDATA[超级马力]]></title>
+</event>
+<event id="1133899110">
+<start_time>03:25</start_time>
+<end_time>03:40</end_time>
+<title><![CDATA[悠游星攻略]]></title>
+</event>
+<event id="1133899113">
+<start_time>03:40</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[纪录中国]]></title>
+</event>
+<event id="1133899116">
+<start_time>04:30</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[记住乡愁]]></title>
+</event>
+<event id="1133899119">
+<start_time>05:00</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+<event id="1133899122">
+<start_time>05:55</start_time>
+<end_time>06:25</end_time>
+<title><![CDATA[BOBO乐乐园]]></title>
+</event>
+<event id="1133899125">
+<start_time>06:25</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133899128">
+<start_time>07:00</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1133899131">
+<start_time>07:25</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133899134">
+<start_time>07:33</start_time>
+<end_time>08:02</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133899137">
+<start_time>08:02</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135261500">
+<start_time>08:46</start_time>
+<end_time>09:38</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(37)]]></title>
+</event>
+<event id="1135261503">
+<start_time>09:38</start_time>
+<end_time>10:29</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(38)]]></title>
+</event>
+<event id="1135261506">
+<start_time>10:29</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(39)]]></title>
+</event>
+<event id="1135261509">
+<start_time>11:20</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[阳光剧场:超级翁婿(40)]]></title>
+</event>
+<event id="1133899152">
+<start_time>12:10</start_time>
+<end_time>12:17</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135261512">
+<start_time>12:17</start_time>
+<end_time>13:09</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1133899158">
+<start_time>13:09</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133899161">
+<start_time>14:01</start_time>
+<end_time>14:53</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133899164">
+<start_time>14:53</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133899167">
+<start_time>15:44</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133899170">
+<start_time>16:35</start_time>
+<end_time>17:26</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133899173">
+<start_time>17:26</start_time>
+<end_time>18:16</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133899176">
+<start_time>18:16</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[点赞海南]]></title>
+</event>
+<event id="1133899179">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1133899182">
+<start_time>18:56</start_time>
+<end_time>18:58</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1133899185">
+<start_time>18:58</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133899188">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133899191">
+<start_time>19:31</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1133899194">
+<start_time>19:34</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1133899197">
+<start_time>19:35</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133899200">
+<start_time>20:00</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[海上丝绸之路]]></title>
+</event>
+<event id="1133899203">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[第1收藏]]></title>
+</event>
+<event id="1133899206">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[记住乡愁]]></title>
+</event>
+<event id="1133899209">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1133899212">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[鲸鱼旅行排行榜]]></title>
+</event>
+<event id="1133899215">
+<start_time>22:30</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1133899218">
+<start_time>23:00</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[第1收藏]]></title>
+</event>
+<event id="1134255378">
+<start_time>23:30</start_time>
+<end_time>00:25</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+</schedule>
+<schedule channel_id="TCTC1" epg_code="TCTC1" date="2019-06-23">
+<event id="1134170880">
+<start_time>00:25</start_time>
+<end_time>00:50</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1134170883">
+<start_time>00:50</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1134170886">
+<start_time>01:05</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[纪录中国]]></title>
+</event>
+<event id="1134170889">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1134170892">
+<start_time>02:30</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[第1收藏]]></title>
+</event>
+<event id="1134170895">
+<start_time>03:10</start_time>
+<end_time>03:40</end_time>
+<title><![CDATA[丝路精彩看陕西]]></title>
+</event>
+<event id="1134170898">
+<start_time>03:40</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[鲁豫有约]]></title>
+</event>
+<event id="1134170901">
+<start_time>04:30</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[记住乡愁]]></title>
+</event>
+<event id="1134170904">
+<start_time>05:00</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+<event id="1134170907">
+<start_time>05:55</start_time>
+<end_time>06:25</end_time>
+<title><![CDATA[BOBO乐乐园]]></title>
+</event>
+<event id="1134170910">
+<start_time>06:25</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1134170913">
+<start_time>07:00</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1134170916">
+<start_time>07:25</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1134170919">
+<start_time>07:33</start_time>
+<end_time>08:02</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1134170922">
+<start_time>08:02</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134170925">
+<start_time>08:46</start_time>
+<end_time>09:38</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134170928">
+<start_time>09:38</start_time>
+<end_time>10:29</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134170931">
+<start_time>10:29</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134170934">
+<start_time>11:20</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134170937">
+<start_time>12:10</start_time>
+<end_time>12:17</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134170940">
+<start_time>12:17</start_time>
+<end_time>12:32</end_time>
+<title><![CDATA[善行天下]]></title>
+</event>
+<event id="1134170943">
+<start_time>12:32</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134170946">
+<start_time>13:22</start_time>
+<end_time>14:15</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134170949">
+<start_time>14:15</start_time>
+<end_time>15:08</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134170952">
+<start_time>15:08</start_time>
+<end_time>16:05</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134170955">
+<start_time>16:05</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[乡遇]]></title>
+</event>
+<event id="1134170958">
+<start_time>16:20</start_time>
+<end_time>17:21</end_time>
+<title><![CDATA[脱贫致富 电视夜校]]></title>
+</event>
+<event id="1134170961">
+<start_time>17:21</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134170964">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1134170967">
+<start_time>18:56</start_time>
+<end_time>18:58</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134170970">
+<start_time>18:58</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1134170973">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134170976">
+<start_time>19:31</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1134170979">
+<start_time>19:34</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134170982">
+<start_time>19:35</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1134170985">
+<start_time>20:00</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[海南岛纪事]]></title>
+</event>
+<event id="1134170988">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[第1时尚]]></title>
+</event>
+<event id="1134170991">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[旅游地产]]></title>
+</event>
+<event id="1134170994">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1134170997">
+<start_time>22:00</start_time>
+<end_time>22:38</end_time>
+<title><![CDATA[财新时间]]></title>
+</event>
+<event id="1134171000">
+<start_time>22:38</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1134171003">
+<start_time>23:00</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[第1时尚]]></title>
+</event>
+<event id="1134470718">
+<start_time>23:30</start_time>
+<end_time>00:13</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+</schedule>
+<schedule channel_id="TCTC1" epg_code="TCTC1" date="2019-06-24">
+<event id="1134467418">
+<start_time>00:13</start_time>
+<end_time>00:51</end_time>
+<title><![CDATA[第一收藏]]></title>
+</event>
+<event id="1134467421">
+<start_time>00:51</start_time>
+<end_time>01:29</end_time>
+<title><![CDATA[第一时尚]]></title>
+</event>
+<event id="1134467424">
+<start_time>01:29</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134467427">
+<start_time>02:00</start_time>
+<end_time>02:36</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134467430">
+<start_time>02:36</start_time>
+<end_time>03:25</end_time>
+<title><![CDATA[光荣的追寻第二季]]></title>
+</event>
+<event id="1134467433">
+<start_time>03:25</start_time>
+<end_time>03:36</end_time>
+<title><![CDATA[超级马力]]></title>
+</event>
+<event id="1134467436">
+<start_time>03:36</start_time>
+<end_time>03:53</end_time>
+<title><![CDATA[善行天下]]></title>
+</event>
+<event id="1134467439">
+<start_time>03:53</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[海南岛纪事]]></title>
+</event>
+<event id="1134467442">
+<start_time>04:20</start_time>
+<end_time>04:49</end_time>
+<title><![CDATA[燃擎世界]]></title>
+</event>
+<event id="1134467445">
+<start_time>04:49</start_time>
+<end_time>05:19</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134467448">
+<start_time>05:19</start_time>
+<end_time>05:49</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134467451">
+<start_time>05:49</start_time>
+<end_time>06:19</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134467454">
+<start_time>06:19</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134467457">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1134467460">
+<start_time>07:01</start_time>
+<end_time>07:26</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1134467463">
+<start_time>07:26</start_time>
+<end_time>07:29</end_time>
+<title><![CDATA[天气行程单]]></title>
+</event>
+<event id="1134467466">
+<start_time>07:29</start_time>
+<end_time>08:02</end_time>
+<title><![CDATA[燃擎世界]]></title>
+</event>
+<event id="1134467469">
+<start_time>08:02</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134467472">
+<start_time>08:46</start_time>
+<end_time>09:38</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134467475">
+<start_time>09:38</start_time>
+<end_time>10:29</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134467478">
+<start_time>10:29</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134467481">
+<start_time>11:20</start_time>
+<end_time>12:11</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134467484">
+<start_time>12:11</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1134467487">
+<start_time>12:14</start_time>
+<end_time>12:17</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134467490">
+<start_time>12:17</start_time>
+<end_time>13:09</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1134467493">
+<start_time>13:09</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134467496">
+<start_time>14:01</start_time>
+<end_time>14:53</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134467499">
+<start_time>14:53</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134467502">
+<start_time>15:44</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134467505">
+<start_time>16:35</start_time>
+<end_time>17:26</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134467508">
+<start_time>17:26</start_time>
+<end_time>18:16</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134467511">
+<start_time>18:16</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[点赞海南]]></title>
+</event>
+<event id="1134467514">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1134467517">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[海洋预报,华风天气预报]]></title>
+</event>
+<event id="1134467520">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134467523">
+<start_time>19:31</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1134467526">
+<start_time>19:34</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1134467529">
+<start_time>19:35</start_time>
+<end_time>20:05</end_time>
+<title><![CDATA[直通自贸港]]></title>
+</event>
+<event id="1134467532">
+<start_time>20:05</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[潮起海之南]]></title>
+</event>
+<event id="1134467535">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[纪录中国]]></title>
+</event>
+<event id="1134467538">
+<start_time>21:00</start_time>
+<end_time>21:34</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1134467541">
+<start_time>21:34</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[中国体育旅游报道]]></title>
+</event>
+<event id="1134467544">
+<start_time>22:00</start_time>
+<end_time>22:58</end_time>
+<title><![CDATA[健跑中国]]></title>
+</event>
+<event id="1134467547">
+<start_time>22:58</start_time>
+<end_time>23:03</end_time>
+<title><![CDATA[点赞海南]]></title>
+</event>
+<event id="1135122606">
+<start_time>23:03</start_time>
+<end_time>00:25</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+</schedule>
+<schedule channel_id="TCTC1" epg_code="TCTC1" date="2019-06-25">
+<event id="1135033704">
+<start_time>00:25</start_time>
+<end_time>00:50</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1135033707">
+<start_time>00:50</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1135033710">
+<start_time>01:00</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1135033713">
+<start_time>01:30</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[第1时尚]]></title>
+</event>
+<event id="1135033716">
+<start_time>02:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1135033719">
+<start_time>02:30</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1135033722">
+<start_time>03:10</start_time>
+<end_time>03:50</end_time>
+<title><![CDATA[美丽俏佳人]]></title>
+</event>
+<event id="1135033725">
+<start_time>03:50</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[旅游地产]]></title>
+</event>
+<event id="1135033728">
+<start_time>04:20</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[世界游]]></title>
+</event>
+<event id="1135033731">
+<start_time>04:30</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[记住乡愁]]></title>
+</event>
+<event id="1135033734">
+<start_time>05:00</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+<event id="1135033737">
+<start_time>05:55</start_time>
+<end_time>06:25</end_time>
+<title><![CDATA[旅游大视野]]></title>
+</event>
+<event id="1135033740">
+<start_time>06:25</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1135033743">
+<start_time>07:00</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1135033746">
+<start_time>07:25</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1135033749">
+<start_time>07:33</start_time>
+<end_time>08:02</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1135033752">
+<start_time>08:02</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1135033755">
+<start_time>08:46</start_time>
+<end_time>09:38</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135033758">
+<start_time>09:38</start_time>
+<end_time>10:29</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135033761">
+<start_time>10:29</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135033764">
+<start_time>11:20</start_time>
+<end_time>12:11</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135033767">
+<start_time>12:11</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1135033770">
+<start_time>12:14</start_time>
+<end_time>12:17</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135033773">
+<start_time>12:17</start_time>
+<end_time>13:09</end_time>
+<title><![CDATA[阳光剧场]]></title>
+</event>
+<event id="1135033776">
+<start_time>13:09</start_time>
+<end_time>14:01</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135033779">
+<start_time>14:01</start_time>
+<end_time>14:53</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135033782">
+<start_time>14:53</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135033785">
+<start_time>15:44</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135033788">
+<start_time>16:35</start_time>
+<end_time>17:26</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135033791">
+<start_time>17:26</start_time>
+<end_time>18:16</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135033794">
+<start_time>18:16</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[点赞海南]]></title>
+</event>
+<event id="1135033797">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[海南新闻联播]]></title>
+</event>
+<event id="1135033800">
+<start_time>18:56</start_time>
+<end_time>18:58</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135033803">
+<start_time>18:58</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1135033806">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1135033809">
+<start_time>19:31</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[华风天气预报]]></title>
+</event>
+<event id="1135033812">
+<start_time>19:34</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[海洋预报]]></title>
+</event>
+<event id="1135033815">
+<start_time>19:35</start_time>
+<end_time>20:05</end_time>
+<title><![CDATA[直通自贸港]]></title>
+</event>
+<event id="1135033818">
+<start_time>20:05</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[中国旅游新闻]]></title>
+</event>
+<event id="1135033821">
+<start_time>20:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[美丽俏佳人]]></title>
+</event>
+<event id="1135033824">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[行者]]></title>
+</event>
+<event id="1135033827">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[中国体育报道]]></title>
+</event>
+<event id="1135033830">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[健生堂]]></title>
+</event>
+<event id="1135033833">
+<start_time>22:30</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[纪录中国]]></title>
+</event>
+<event id="1135033836">
+<start_time>23:00</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[卫视高尔夫]]></title>
+</event>
+</schedule>
+</document>

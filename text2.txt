@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV5" epg_code="CCTV5" date="2019-06-18">
+<event id="1133855457">
+<start_time>02:30</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛A组-(尼日利亚队-法国队)]]></title>
+</event>
+<event id="1133855460">
+<start_time>05:05</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[实况录像-2019年亚洲举重锦标赛暨东京奥运会资格赛 女子49公斤级决赛]]></title>
+</event>
+<event id="1133855463">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[赛事集锦-2019年田径杂志6]]></title>
+</event>
+<event id="1133315874">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[健身动起来]]></title>
+</event>
+<event id="1133855466">
+<start_time>07:00</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[体育晨报]]></title>
+</event>
+<event id="1134995415">
+<start_time>08:05</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[录像-2019年国际乒联世界巡回赛日本公开赛 男单决赛]]></title>
+</event>
+<event id="1135237881">
+<start_time>09:00</start_time>
+<end_time>10:26</end_time>
+<title><![CDATA[录像-2019年美洲杯小组赛 日本队-智利队(录播)]]></title>
+</event>
+<event id="1135243041">
+<start_time>10:26</start_time>
+<end_time>11:43</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 集锦13(录播)]]></title>
+</event>
+<event id="1135243044">
+<start_time>11:43</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事25(录播)]]></title>
+</event>
+<event id="1133315889">
+<start_time>12:00</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[体坛快讯]]></title>
+</event>
+<event id="1135249623">
+<start_time>12:35</start_time>
+<end_time>12:45</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事26(录播)]]></title>
+</event>
+<event id="1135249626">
+<start_time>12:45</start_time>
+<end_time>12:55</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事27(录播)]]></title>
+</event>
+<event id="1133855487">
+<start_time>12:55</start_time>
+<end_time>13:05</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事28(录播)]]></title>
+</event>
+<event id="1135261311">
+<start_time>13:05</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛B组 中国队-西班牙队(录播)]]></title>
+</event>
+<event id="1135261314">
+<start_time>14:33</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[实况录像-2019年国际田联钻石联赛 拉巴特站精选]]></title>
+</event>
+<event id="1133855496">
+<start_time>16:00</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[2019年世界女排联赛-中国宁波站-保加利亚-塞尔维亚]]></title>
+</event>
+<event id="1133855499">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[体育新闻]]></title>
+</event>
+<event id="1133855502">
+<start_time>19:00</start_time>
+<end_time>19:55</end_time>
+<title><![CDATA[2019女足世界杯专题-繁花]]></title>
+</event>
+<event id="1133855505">
+<start_time>19:55</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[黄金赛场-2019年亚洲冠军联赛1/8决赛-第一回合(广州恒大-山东鲁能泰山)]]></title>
+</event>
+<event id="1133855508">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[体育世界]]></title>
+</event>
+<event id="1133855511">
+<start_time>22:30</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-德国队(录播)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5" epg_code="CCTV5" date="2019-06-19">
+<event id="1133855514">
+<start_time>00:05</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛B组 中国队-西班牙队]]></title>
+</event>
+<event id="1133855517">
+<start_time>01:30</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事25(录播)]]></title>
+</event>
+<event id="1133855520">
+<start_time>01:40</start_time>
+<end_time>01:50</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事26(录播)]]></title>
+</event>
+<event id="1133855523">
+<start_time>01:50</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事27(录播)]]></title>
+</event>
+<event id="1133855526">
+<start_time>02:00</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛C组-(意大利队-巴西队)]]></title>
+</event>
+<event id="1133855529">
+<start_time>05:05</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[实况录像-2019年国际田联世界接力赛 精选1]]></title>
+</event>
+<event id="1133855532">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[赛事集锦-ATP周刊17]]></title>
+</event>
+<event id="1133571102">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[健身动起来]]></title>
+</event>
+<event id="1133855535">
+<start_time>07:00</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[体育晨报]]></title>
+</event>
+<event id="1133855538">
+<start_time>08:03</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[实况录像-2019年世界职业拳王争霸赛 精选10]]></title>
+</event>
+<event id="1133855541">
+<start_time>09:00</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[2019年中国平安中超联赛-第13轮(北京中赫国安-上海绿地申花)]]></title>
+</event>
+<event id="1133855544">
+<start_time>10:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 集锦14(录播)]]></title>
+</event>
+<event id="1133571117">
+<start_time>12:00</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[体坛快讯]]></title>
+</event>
+<event id="1133855547">
+<start_time>12:35</start_time>
+<end_time>12:45</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事29(录播)]]></title>
+</event>
+<event id="1133855550">
+<start_time>12:45</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事30(录播)]]></title>
+</event>
+<event id="1133855553">
+<start_time>13:00</start_time>
+<end_time>14:25</end_time>
+<title><![CDATA[实况录像-2019年国际乒联世界巡回赛日本公开赛 精选2]]></title>
+</event>
+<event id="1133855556">
+<start_time>14:25</start_time>
+<end_time>14:40</end_time>
+<title><![CDATA[实况录像-2019年苏迪曼杯羽毛球赛 中国队十佳球]]></title>
+</event>
+<event id="1133855559">
+<start_time>14:40</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-德国队]]></title>
+</event>
+<event id="1133855562">
+<start_time>16:00</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[2019年世界女排联赛-中国宁波站-塞尔维亚-德国]]></title>
+</event>
+<event id="1133855565">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[体育新闻]]></title>
+</event>
+<event id="1133855568">
+<start_time>19:00</start_time>
+<end_time>19:55</end_time>
+<title><![CDATA[2019女足世界杯专题-繁花]]></title>
+</event>
+<event id="1133855571">
+<start_time>19:55</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[黄金赛场-2019年亚洲冠军联赛1/8决赛-第一回合(中国上海上港-韩国全北)]]></title>
+</event>
+<event id="1133855574">
+<start_time>22:00</start_time>
+<end_time>22:45</end_time>
+<title><![CDATA[体育世界]]></title>
+</event>
+<event id="1133855577">
+<start_time>22:45</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-保加利亚队(录播)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5" epg_code="CCTV5" date="2019-06-20">
+<event id="1133855580">
+<start_time>00:05</start_time>
+<end_time>01:25</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛土耳其站 巴西队-意大利队]]></title>
+</event>
+<event id="1133855583">
+<start_time>01:25</start_time>
+<end_time>01:35</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事28(录播)]]></title>
+</event>
+<event id="1133855586">
+<start_time>01:35</start_time>
+<end_time>01:45</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事29(录播)]]></title>
+</event>
+<event id="1133855589">
+<start_time>01:45</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事30(录播)]]></title>
+</event>
+<event id="1133855592">
+<start_time>02:00</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛D组-(日本队-英格兰队)]]></title>
+</event>
+<event id="1133855595">
+<start_time>05:05</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[实况录像-2019年亚洲举重锦标赛暨东京奥运会资格赛 女子55公斤级决赛]]></title>
+</event>
+<event id="1133855598">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[赛事集锦-2019年田径杂志7]]></title>
+</event>
+<event id="1133855601">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[健身动起来]]></title>
+</event>
+<event id="1133855604">
+<start_time>07:00</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[体育晨报]]></title>
+</event>
+<event id="1133855607">
+<start_time>08:03</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[体育新闻-北京2022]]></title>
+</event>
+<event id="1133855610">
+<start_time>09:00</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[实况录像-2019年国际乒联世界巡回赛日本公开赛 精选2]]></title>
+</event>
+<event id="1133855613">
+<start_time>10:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 集锦15(录播)]]></title>
+</event>
+<event id="1133855616">
+<start_time>12:00</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[体坛快讯]]></title>
+</event>
+<event id="1133855619">
+<start_time>12:35</start_time>
+<end_time>12:45</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事31(录播)]]></title>
+</event>
+<event id="1133855622">
+<start_time>12:45</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事32(录播)]]></title>
+</event>
+<event id="1133855625">
+<start_time>13:00</start_time>
+<end_time>14:14</end_time>
+<title><![CDATA[实况录像-2019年中国男篮系列赛中澳男篮对抗赛第一场 中国队-澳大利亚NBL联队]]></title>
+</event>
+<event id="1133855628">
+<start_time>14:14</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[实况录像-2019年世界跆拳道锦标赛 男子63公斤级 精彩]]></title>
+</event>
+<event id="1133855631">
+<start_time>14:30</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[实况录像-2019年国际田联钻石联赛 奥斯陆站精选]]></title>
+</event>
+<event id="1133855634">
+<start_time>16:00</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[2019年世界女排联赛-中国宁波站-德国-保加利亚]]></title>
+</event>
+<event id="1133855637">
+<start_time>18:00</start_time>
+<end_time>19:05</end_time>
+<title><![CDATA[体育新闻]]></title>
+</event>
+<event id="1133855640">
+<start_time>19:05</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[黄金赛场-2019年世界女排联赛-中国宁波站-中国-塞尔维亚]]></title>
+</event>
+<event id="1133855643">
+<start_time>21:30</start_time>
+<end_time>22:15</end_time>
+<title><![CDATA[体育世界]]></title>
+</event>
+<event id="1133855646">
+<start_time>22:15</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[2019女足世界杯专题-繁花]]></title>
+</event>
+<event id="1134040818">
+<start_time>23:30</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛E组-(荷兰队-加拿大队)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5" epg_code="CCTV5" date="2019-06-21">
+<event id="1134040821">
+<start_time>02:30</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛F组-(瑞典队-美国队)]]></title>
+</event>
+<event id="1134040824">
+<start_time>05:05</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[实况录像-2019年亚洲举重锦标赛暨东京奥运会资格赛 男子81公斤级决赛]]></title>
+</event>
+<event id="1134040827">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[赛事集锦-ATP周刊17]]></title>
+</event>
+<event id="1134040830">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[健身动起来]]></title>
+</event>
+<event id="1134040833">
+<start_time>07:00</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[体育晨报]]></title>
+</event>
+<event id="1134040836">
+<start_time>08:03</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[实况录像-2019年亚洲冠军联赛1/8决赛第一回合 中国广州恒大-中国山东鲁能泰山]]></title>
+</event>
+<event id="1134040839">
+<start_time>09:30</start_time>
+<end_time>10:45</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛土耳其站 土耳其队-巴西队(录播)]]></title>
+</event>
+<event id="1134040842">
+<start_time>10:45</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 集锦16(录播)]]></title>
+</event>
+<event id="1134040845">
+<start_time>12:00</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[体坛快讯]]></title>
+</event>
+<event id="1134040848">
+<start_time>12:30</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[体坛快讯-体育咖吧]]></title>
+</event>
+<event id="1134040851">
+<start_time>13:00</start_time>
+<end_time>13:10</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事33(录播)]]></title>
+</event>
+<event id="1134040854">
+<start_time>13:10</start_time>
+<end_time>13:20</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事34(录播)]]></title>
+</event>
+<event id="1134040857">
+<start_time>13:20</start_time>
+<end_time>13:30</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事35(录播)]]></title>
+</event>
+<event id="1134040860">
+<start_time>13:30</start_time>
+<end_time>13:40</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事36(录播)]]></title>
+</event>
+<event id="1134040863">
+<start_time>13:40</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 小组赛6(录播)]]></title>
+</event>
+<event id="1134040866">
+<start_time>15:05</start_time>
+<end_time>15:51</end_time>
+<title><![CDATA[实况录像-2019年国际乒联世界巡回赛日本公开赛 混双决赛]]></title>
+</event>
+<event id="1134040869">
+<start_time>15:51</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-德国队]]></title>
+</event>
+<event id="1134040872">
+<start_time>17:05</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[篮球公园]]></title>
+</event>
+<event id="1134040875">
+<start_time>18:00</start_time>
+<end_time>19:05</end_time>
+<title><![CDATA[体育新闻]]></title>
+</event>
+<event id="1134040878">
+<start_time>19:05</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[黄金赛场-2019年中国男篮系列赛之中澳对抗赛-第二场(中国男篮-澳大利亚NBL联队)]]></title>
+</event>
+<event id="1134040881">
+<start_time>21:30</start_time>
+<end_time>22:15</end_time>
+<title><![CDATA[体育世界]]></title>
+</event>
+<event id="1134040884">
+<start_time>22:15</start_time>
+<end_time>23:15</end_time>
+<title><![CDATA[2019女足世界杯专题-繁花]]></title>
+</event>
+<event id="1134289605">
+<start_time>23:15</start_time>
+<end_time>00:35</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-塞尔维亚队]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5" epg_code="CCTV5" date="2019-06-22">
+<event id="1134289608">
+<start_time>00:35</start_time>
+<end_time>01:10</end_time>
+<title><![CDATA[顶级赛事-象棋]]></title>
+</event>
+<event id="1134289611">
+<start_time>01:10</start_time>
+<end_time>03:05</end_time>
+<title><![CDATA[2019年法国网球公开赛-男单决赛]]></title>
+</event>
+<event id="1134289614">
+<start_time>03:05</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[实况录像-2019年世界职业拳王争霸赛 精选9]]></title>
+</event>
+<event id="1134289617">
+<start_time>04:00</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[实况录像-2018/2019欧洲国家联赛半决赛 荷兰队-英格兰队]]></title>
+</event>
+<event id="1134289620">
+<start_time>05:30</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[实况录像-2016年职业骑牛赛5 科罗拉多泉站]]></title>
+</event>
+<event id="1134289623">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[赛事集锦-2019年田径杂志7]]></title>
+</event>
+<event id="1134289626">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[健身动起来]]></title>
+</event>
+<event id="1134289629">
+<start_time>07:00</start_time>
+<end_time>08:03</end_time>
+<title><![CDATA[体育晨报]]></title>
+</event>
+<event id="1134289632">
+<start_time>08:03</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[国际足球赛场-2019年女足世界杯小组赛集锦]]></title>
+</event>
+<event id="1134289635">
+<start_time>09:00</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[2019年世界男排联赛-美国站-美国-日本]]></title>
+</event>
+<event id="1134289638">
+<start_time>11:03</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[国际足球赛场-2019年女足世界杯小组赛集锦]]></title>
+</event>
+<event id="1134289641">
+<start_time>12:00</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[体坛快讯]]></title>
+</event>
+<event id="1134289644">
+<start_time>12:35</start_time>
+<end_time>14:03</end_time>
+<title><![CDATA[实况录像-2019年世界男排联赛美国站 加拿大队-中国队(录播)]]></title>
+</event>
+<event id="1134289647">
+<start_time>14:03</start_time>
+<end_time>15:30</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 中国队小组赛集锦]]></title>
+</event>
+<event id="1134289650">
+<start_time>15:30</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[实况录像-2019年苏迪曼杯羽毛球赛 中国队十佳球]]></title>
+</event>
+<event id="1134289653">
+<start_time>15:42</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-保加利亚队]]></title>
+</event>
+<event id="1134289656">
+<start_time>17:00</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[体育新闻]]></title>
+</event>
+<event id="1134289659">
+<start_time>17:30</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[2019年中国平安中超联赛-第14轮(北京中赫国安-广州富力)]]></title>
+</event>
+<event id="1134289662">
+<start_time>19:35</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[2019年中国平安中超联赛-第14轮(广州恒大淘宝-河北华夏幸福)]]></title>
+</event>
+<event id="1134289665">
+<start_time>21:30</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[2019女足世界杯专题-繁花]]></title>
+</event>
+<event id="1134289668">
+<start_time>22:30</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[2019年法国女足世界杯-1/8决赛1]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5" epg_code="CCTV5" date="2019-06-23">
+<event id="1134418998">
+<start_time>02:00</start_time>
+<end_time>05:35</end_time>
+<title><![CDATA[2019年法国女足世界杯-1/8决赛2]]></title>
+</event>
+<event id="1134419001">
+<start_time>05:35</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[实况录像-2016年职业骑牛赛6 尤金站]]></title>
+</event>
+<event id="1134419004">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[赛事集锦-ATP周刊18]]></title>
+</event>
+<event id="1134419007">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[健身动起来]]></title>
+</event>
+<event id="1134419010">
+<start_time>07:00</start_time>
+<end_time>08:05</end_time>
+<title><![CDATA[体育晨报]]></title>
+</event>
+<event id="1134419013">
+<start_time>08:05</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛B组 德国队-中国队]]></title>
+</event>
+<event id="1134419016">
+<start_time>09:35</start_time>
+<end_time>11:35</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 集锦17(录播)]]></title>
+</event>
+<event id="1134419019">
+<start_time>11:35</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事37(录播)]]></title>
+</event>
+<event id="1134419022">
+<start_time>11:45</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯 闪耀的故事38(录播)]]></title>
+</event>
+<event id="1134419025">
+<start_time>12:00</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[体坛快讯]]></title>
+</event>
+<event id="1134419028">
+<start_time>12:35</start_time>
+<end_time>13:35</end_time>
+<title><![CDATA[2019年世界职业拳王争霸赛-23]]></title>
+</event>
+<event id="1134419031">
+<start_time>13:35</start_time>
+<end_time>15:01</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛B组 中国队-西班牙队]]></title>
+</event>
+<event id="1134419034">
+<start_time>15:01</start_time>
+<end_time>16:31</end_time>
+<title><![CDATA[实况录像-2019年世界男排联赛美国站 中国队-日本队(录播)]]></title>
+</event>
+<event id="1134419037">
+<start_time>16:31</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛B组 南非队-中国队]]></title>
+</event>
+<event id="1134419040">
+<start_time>18:00</start_time>
+<end_time>19:05</end_time>
+<title><![CDATA[体育新闻]]></title>
+</event>
+<event id="1134419043">
+<start_time>19:05</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[2019年中国男篮系列赛之中澳对抗赛-第三场(中国男篮-澳大利亚NBL联队)]]></title>
+</event>
+<event id="1134419046">
+<start_time>21:30</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[2019女足世界杯专题-繁花]]></title>
+</event>
+<event id="1134419049">
+<start_time>22:30</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[2019年法国女足世界杯-1/8决赛3]]></title>
+</event>
+</schedule>
+</document>

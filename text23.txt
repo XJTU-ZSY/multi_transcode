@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="GUANXI1" epg_code="GUANXI1" date="2019-06-18">
+<event id="1135257804">
+<start_time>00:41</start_time>
+<end_time>01:23</end_time>
+<title><![CDATA[传奇剧场:林海雪原23]]></title>
+</event>
+<event id="1135257807">
+<start_time>01:23</start_time>
+<end_time>02:06</end_time>
+<title><![CDATA[传奇剧场:林海雪原24]]></title>
+</event>
+<event id="1135257810">
+<start_time>02:06</start_time>
+<end_time>02:24</end_time>
+<title><![CDATA[剧精彩]]></title>
+</event>
+<event id="1135257813">
+<start_time>02:24</start_time>
+<end_time>02:56</end_time>
+<title><![CDATA[遇见好书]]></title>
+</event>
+<event id="1135257816">
+<start_time>02:56</start_time>
+<end_time>03:12</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1135257819">
+<start_time>03:12</start_time>
+<end_time>03:56</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1135257822">
+<start_time>03:56</start_time>
+<end_time>04:28</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135257825">
+<start_time>04:28</start_time>
+<end_time>05:03</end_time>
+<title><![CDATA[遇见好书]]></title>
+</event>
+<event id="1135257828">
+<start_time>05:03</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[民族文化]]></title>
+</event>
+<event id="1135257831">
+<start_time>05:40</start_time>
+<end_time>06:06</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1135257834">
+<start_time>06:06</start_time>
+<end_time>06:19</end_time>
+<title><![CDATA[壮语新闻]]></title>
+</event>
+<event id="1135257837">
+<start_time>06:19</start_time>
+<end_time>06:44</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1135257840">
+<start_time>06:44</start_time>
+<end_time>06:46</end_time>
+<title><![CDATA[广西旅游天气预报]]></title>
+</event>
+<event id="1135257843">
+<start_time>06:46</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[广西海洋天气预报]]></title>
+</event>
+<event id="1135257846">
+<start_time>07:00</start_time>
+<end_time>07:03</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135257849">
+<start_time>07:03</start_time>
+<end_time>07:33</end_time>
+<title><![CDATA[纪录片:大抗战]]></title>
+</event>
+<event id="1135257852">
+<start_time>07:33</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135257855">
+<start_time>08:09</start_time>
+<end_time>09:07</end_time>
+<title><![CDATA[上午剧场:人民检察官(33)]]></title>
+</event>
+<event id="1135219074">
+<start_time>09:07</start_time>
+<end_time>10:01</end_time>
+<title><![CDATA[上午剧场:人民检察官(34)]]></title>
+</event>
+<event id="1135238313">
+<start_time>10:01</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[上午剧场:猎毒人 1]]></title>
+</event>
+<event id="1135243119">
+<start_time>10:58</start_time>
+<end_time>11:51</end_time>
+<title><![CDATA[上午剧场:猎毒人 2]]></title>
+</event>
+<event id="1135249104">
+<start_time>11:51</start_time>
+<end_time>12:21</end_time>
+<title><![CDATA[民族动画剧场:草本家族]]></title>
+</event>
+<event id="1135250445">
+<start_time>12:21</start_time>
+<end_time>13:15</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(3)]]></title>
+</event>
+<event id="1135260036">
+<start_time>13:15</start_time>
+<end_time>14:10</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(4)]]></title>
+</event>
+<event id="1135262232">
+<start_time>14:10</start_time>
+<end_time>15:09</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(5)]]></title>
+</event>
+<event id="1135262235">
+<start_time>15:09</start_time>
+<end_time>16:12</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(6)]]></title>
+</event>
+<event id="1134918042">
+<start_time>16:12</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(7)]]></title>
+</event>
+<event id="1134918045">
+<start_time>17:05</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(8)]]></title>
+</event>
+<event id="1132835739">
+<start_time>18:00</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1132835742">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1132835745">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1132835748">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广西天气预报]]></title>
+</event>
+<event id="1132835751">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1132835754">
+<start_time>19:35</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[美丽剧场:破晓(32)]]></title>
+</event>
+<event id="1132835757">
+<start_time>20:28</start_time>
+<end_time>21:18</end_time>
+<title><![CDATA[美丽剧场:破晓(33)]]></title>
+</event>
+<event id="1132835760">
+<start_time>21:18</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1132835763">
+<start_time>21:40</start_time>
+<end_time>22:16</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1132835766">
+<start_time>22:16</start_time>
+<end_time>22:42</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1133096001">
+<start_time>22:42</start_time>
+<end_time>23:27</end_time>
+<title><![CDATA[传奇剧场:林海雪原(25)]]></title>
+</event>
+<event id="1133167464">
+<start_time>23:27</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[传奇剧场:林海雪原(26)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUANXI1" epg_code="GUANXI1" date="2019-06-19">
+<event id="1133096007">
+<start_time>00:10</start_time>
+<end_time>00:53</end_time>
+<title><![CDATA[传奇剧场:林海雪原(27)]]></title>
+</event>
+<event id="1133096010">
+<start_time>00:53</start_time>
+<end_time>01:37</end_time>
+<title><![CDATA[第一书记]]></title>
+</event>
+<event id="1133096013">
+<start_time>01:37</start_time>
+<end_time>04:53</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1133096016">
+<start_time>04:53</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1133096019">
+<start_time>05:40</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1133096022">
+<start_time>06:05</start_time>
+<end_time>06:17</end_time>
+<title><![CDATA[壮语新闻]]></title>
+</event>
+<event id="1133096025">
+<start_time>06:17</start_time>
+<end_time>06:41</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1133096028">
+<start_time>06:41</start_time>
+<end_time>06:42</end_time>
+<title><![CDATA[广西旅游天气预报]]></title>
+</event>
+<event id="1133096031">
+<start_time>06:42</start_time>
+<end_time>06:48</end_time>
+<title><![CDATA[广西海洋天气预报]]></title>
+</event>
+<event id="1133096034">
+<start_time>06:48</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133096037">
+<start_time>07:35</start_time>
+<end_time>08:14</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135028250">
+<start_time>08:14</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[上午剧场:猎毒人(3)]]></title>
+</event>
+<event id="1135028253">
+<start_time>09:04</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:猎毒人(4)]]></title>
+</event>
+<event id="1135028256">
+<start_time>10:00</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[上午剧场:猎毒人(5)]]></title>
+</event>
+<event id="1135028259">
+<start_time>10:59</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[上午剧场:猎毒人(6)]]></title>
+</event>
+<event id="1134141519">
+<start_time>11:54</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[民族动画剧场:草本家族]]></title>
+</event>
+<event id="1134918048">
+<start_time>12:26</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(9)]]></title>
+</event>
+<event id="1134918051">
+<start_time>13:19</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(10)]]></title>
+</event>
+<event id="1134918054">
+<start_time>14:13</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(11)]]></title>
+</event>
+<event id="1134918057">
+<start_time>15:10</start_time>
+<end_time>16:12</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(12)]]></title>
+</event>
+<event id="1134918060">
+<start_time>16:12</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(13)]]></title>
+</event>
+<event id="1134918063">
+<start_time>17:05</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(14)]]></title>
+</event>
+<event id="1133096073">
+<start_time>18:00</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1133096076">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1133096079">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1133096082">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广西天气预报]]></title>
+</event>
+<event id="1133096085">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133096088">
+<start_time>19:36</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[美丽剧场:破晓(34)]]></title>
+</event>
+<event id="1133096091">
+<start_time>20:27</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[美丽剧场:破晓(35)]]></title>
+</event>
+<event id="1133096094">
+<start_time>21:15</start_time>
+<end_time>21:38</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1133096097">
+<start_time>21:38</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[讲政策]]></title>
+</event>
+<event id="1133096100">
+<start_time>22:05</start_time>
+<end_time>22:34</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1133096103">
+<start_time>22:34</start_time>
+<end_time>23:28</end_time>
+<title><![CDATA[传奇剧场:林海雪原(28)]]></title>
+</event>
+<event id="1133423022">
+<start_time>23:28</start_time>
+<end_time>00:09</end_time>
+<title><![CDATA[传奇剧场:林海雪原(29)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUANXI1" epg_code="GUANXI1" date="2019-06-20">
+<event id="1133331009">
+<start_time>00:09</start_time>
+<end_time>00:52</end_time>
+<title><![CDATA[传奇剧场:林海雪原(30)]]></title>
+</event>
+<event id="1133331012">
+<start_time>00:52</start_time>
+<end_time>01:24</end_time>
+<title><![CDATA[传奇剧场:林海雪原(31)]]></title>
+</event>
+<event id="1133331015">
+<start_time>01:24</start_time>
+<end_time>02:19</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1133331018">
+<start_time>02:19</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1133331021">
+<start_time>02:30</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1133331024">
+<start_time>02:45</start_time>
+<end_time>03:17</end_time>
+<title><![CDATA[超级点子王]]></title>
+</event>
+<event id="1133331027">
+<start_time>03:17</start_time>
+<end_time>03:34</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1133331030">
+<start_time>03:34</start_time>
+<end_time>04:24</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1133331033">
+<start_time>04:24</start_time>
+<end_time>05:12</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1133331036">
+<start_time>05:12</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[讲政策]]></title>
+</event>
+<event id="1133331039">
+<start_time>05:40</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1133331042">
+<start_time>06:05</start_time>
+<end_time>06:18</end_time>
+<title><![CDATA[壮语新闻]]></title>
+</event>
+<event id="1133331045">
+<start_time>06:18</start_time>
+<end_time>06:41</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1133331048">
+<start_time>06:41</start_time>
+<end_time>06:42</end_time>
+<title><![CDATA[广西旅游天气预报]]></title>
+</event>
+<event id="1133331051">
+<start_time>06:42</start_time>
+<end_time>06:46</end_time>
+<title><![CDATA[广西海洋天气预报]]></title>
+</event>
+<event id="1133331054">
+<start_time>06:46</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133331057">
+<start_time>07:35</start_time>
+<end_time>08:14</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135028262">
+<start_time>08:14</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[上午剧场:猎毒人(7)]]></title>
+</event>
+<event id="1135028265">
+<start_time>09:04</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:猎毒人(8)]]></title>
+</event>
+<event id="1135028268">
+<start_time>10:00</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[上午剧场:猎毒人(9)]]></title>
+</event>
+<event id="1135028271">
+<start_time>10:59</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[上午剧场:猎毒人(10)]]></title>
+</event>
+<event id="1134141522">
+<start_time>11:54</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[民族动画剧场:草本家族]]></title>
+</event>
+<event id="1134918066">
+<start_time>12:26</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(15)]]></title>
+</event>
+<event id="1134918069">
+<start_time>13:19</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(16)]]></title>
+</event>
+<event id="1134918072">
+<start_time>14:13</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(17)]]></title>
+</event>
+<event id="1134918075">
+<start_time>15:10</start_time>
+<end_time>16:12</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(18)]]></title>
+</event>
+<event id="1134918078">
+<start_time>16:12</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(19)]]></title>
+</event>
+<event id="1134918081">
+<start_time>17:05</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(20)]]></title>
+</event>
+<event id="1133331093">
+<start_time>18:00</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1133331096">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[广西天气预报]]></title>
+</event>
+<event id="1133331099">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1133331102">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广西天气预报]]></title>
+</event>
+<event id="1133331105">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133331108">
+<start_time>19:34</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[美丽剧场:破晓(36)]]></title>
+</event>
+<event id="1133331111">
+<start_time>20:27</start_time>
+<end_time>21:14</end_time>
+<title><![CDATA[美丽剧场:破晓(37)]]></title>
+</event>
+<event id="1133331114">
+<start_time>21:14</start_time>
+<end_time>21:37</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1133331117">
+<start_time>21:37</start_time>
+<end_time>22:21</end_time>
+<title><![CDATA[发现新广西]]></title>
+</event>
+<event id="1133331120">
+<start_time>22:21</start_time>
+<end_time>22:48</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1133331123">
+<start_time>22:48</start_time>
+<end_time>23:35</end_time>
+<title><![CDATA[传奇剧场:林海雪原(32)]]></title>
+</event>
+<event id="1133690256">
+<start_time>23:35</start_time>
+<end_time>00:37</end_time>
+<title><![CDATA[传奇剧场:林海雪原(33)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUANXI1" epg_code="GUANXI1" date="2019-06-21">
+<event id="1133617473">
+<start_time>00:37</start_time>
+<end_time>01:10</end_time>
+<title><![CDATA[传奇剧场:林海雪原(34)]]></title>
+</event>
+<event id="1133617476">
+<start_time>01:10</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[传奇剧场:林海雪原(35)]]></title>
+</event>
+<event id="1133617479">
+<start_time>02:00</start_time>
+<end_time>02:10</end_time>
+<title><![CDATA[丝绸之路品牌万里行特别报道]]></title>
+</event>
+<event id="1133617482">
+<start_time>02:10</start_time>
+<end_time>02:25</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1133617485">
+<start_time>02:25</start_time>
+<end_time>03:06</end_time>
+<title><![CDATA[发现新广西]]></title>
+</event>
+<event id="1133617488">
+<start_time>03:06</start_time>
+<end_time>03:24</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1133617491">
+<start_time>03:24</start_time>
+<end_time>04:15</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1133617494">
+<start_time>04:15</start_time>
+<end_time>04:51</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1133617497">
+<start_time>04:51</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1133617500">
+<start_time>05:40</start_time>
+<end_time>06:07</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1133617503">
+<start_time>06:07</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[一周新闻综述]]></title>
+</event>
+<event id="1133617506">
+<start_time>06:20</start_time>
+<end_time>06:43</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1133617509">
+<start_time>06:43</start_time>
+<end_time>06:44</end_time>
+<title><![CDATA[广西旅游天气预报]]></title>
+</event>
+<event id="1133617512">
+<start_time>06:44</start_time>
+<end_time>06:48</end_time>
+<title><![CDATA[广西海洋天气预报]]></title>
+</event>
+<event id="1133617515">
+<start_time>06:48</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133617518">
+<start_time>07:35</start_time>
+<end_time>08:14</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135028274">
+<start_time>08:14</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[上午剧场:猎毒人(11)]]></title>
+</event>
+<event id="1135028277">
+<start_time>09:04</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:猎毒人(12)]]></title>
+</event>
+<event id="1135028280">
+<start_time>10:00</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[上午剧场:猎毒人(13)]]></title>
+</event>
+<event id="1135028283">
+<start_time>10:59</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[上午剧场:猎毒人(14)]]></title>
+</event>
+<event id="1134141525">
+<start_time>11:54</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[民族动画剧场:草本家族]]></title>
+</event>
+<event id="1134918084">
+<start_time>12:26</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(21)]]></title>
+</event>
+<event id="1134918087">
+<start_time>13:19</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(22)]]></title>
+</event>
+<event id="1134918090">
+<start_time>14:13</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(23)]]></title>
+</event>
+<event id="1134918093">
+<start_time>15:10</start_time>
+<end_time>16:12</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(24)]]></title>
+</event>
+<event id="1134918096">
+<start_time>16:12</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(25)]]></title>
+</event>
+<event id="1134918099">
+<start_time>17:05</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(26)]]></title>
+</event>
+<event id="1133617554">
+<start_time>18:00</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1133617557">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1133617560">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1133617563">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广西天气预报]]></title>
+</event>
+<event id="1133617566">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133617569">
+<start_time>19:34</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[美丽剧场:破晓(38)]]></title>
+</event>
+<event id="1133617572">
+<start_time>20:29</start_time>
+<end_time>21:17</end_time>
+<title><![CDATA[美丽剧场:破晓(39)]]></title>
+</event>
+<event id="1133617575">
+<start_time>21:17</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1133617578">
+<start_time>21:40</start_time>
+<end_time>22:20</end_time>
+<title><![CDATA[一声所爱·大地飞歌]]></title>
+</event>
+<event id="1133617581">
+<start_time>22:20</start_time>
+<end_time>22:42</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1133617584">
+<start_time>22:42</start_time>
+<end_time>23:37</end_time>
+<title><![CDATA[传奇剧场:林海雪原(36)]]></title>
+</event>
+<event id="1133975292">
+<start_time>23:37</start_time>
+<end_time>00:25</end_time>
+<title><![CDATA[传奇剧场:林海雪原(37)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUANXI1" epg_code="GUANXI1" date="2019-06-22">
+<event id="1133893413">
+<start_time>00:25</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[传奇剧场:林海雪原(38)]]></title>
+</event>
+<event id="1133893416">
+<start_time>01:18</start_time>
+<end_time>02:12</end_time>
+<title><![CDATA[传奇剧场:林海雪原(39)]]></title>
+</event>
+<event id="1133893419">
+<start_time>02:12</start_time>
+<end_time>02:25</end_time>
+<title><![CDATA[丝绸之路品牌万里行]]></title>
+</event>
+<event id="1133893422">
+<start_time>02:25</start_time>
+<end_time>02:42</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1133893425">
+<start_time>02:42</start_time>
+<end_time>03:27</end_time>
+<title><![CDATA[第一书记]]></title>
+</event>
+<event id="1133893428">
+<start_time>03:27</start_time>
+<end_time>04:15</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1133893431">
+<start_time>04:15</start_time>
+<end_time>04:49</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1133893434">
+<start_time>04:49</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[丝绸之路品牌万里行]]></title>
+</event>
+<event id="1133893437">
+<start_time>05:00</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[广西故事]]></title>
+</event>
+<event id="1133893440">
+<start_time>05:40</start_time>
+<end_time>06:20</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1133893443">
+<start_time>06:20</start_time>
+<end_time>06:43</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1133893446">
+<start_time>06:43</start_time>
+<end_time>06:44</end_time>
+<title><![CDATA[广西旅游天气预报]]></title>
+</event>
+<event id="1133893449">
+<start_time>06:44</start_time>
+<end_time>06:48</end_time>
+<title><![CDATA[广西海洋天气预报]]></title>
+</event>
+<event id="1133893452">
+<start_time>06:48</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[纪录片:大抗战]]></title>
+</event>
+<event id="1133893455">
+<start_time>07:35</start_time>
+<end_time>08:14</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135028286">
+<start_time>08:14</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[上午剧场:猎毒人(15)]]></title>
+</event>
+<event id="1135028289">
+<start_time>09:04</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:猎毒人(16)]]></title>
+</event>
+<event id="1135028292">
+<start_time>10:00</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[上午剧场:猎毒人(17)]]></title>
+</event>
+<event id="1135028295">
+<start_time>10:59</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[上午剧场:猎毒人(18)]]></title>
+</event>
+<event id="1134141528">
+<start_time>11:54</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[民族动画剧场:草本家族]]></title>
+</event>
+<event id="1134918102">
+<start_time>12:26</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(27)]]></title>
+</event>
+<event id="1134918105">
+<start_time>13:19</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(28)]]></title>
+</event>
+<event id="1134918108">
+<start_time>14:13</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(29)]]></title>
+</event>
+<event id="1134918111">
+<start_time>15:10</start_time>
+<end_time>16:12</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(30)]]></title>
+</event>
+<event id="1134918114">
+<start_time>16:12</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(31)]]></title>
+</event>
+<event id="1134918117">
+<start_time>17:05</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(32)]]></title>
+</event>
+<event id="1133893491">
+<start_time>18:00</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1133893494">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1133893497">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1133893500">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广西天气预报]]></title>
+</event>
+<event id="1133893503">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133893506">
+<start_time>19:35</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[美丽剧场:破晓(40)]]></title>
+</event>
+<event id="1133893509">
+<start_time>20:29</start_time>
+<end_time>21:18</end_time>
+<title><![CDATA[美丽剧场:破晓(41)]]></title>
+</event>
+<event id="1133893512">
+<start_time>21:18</start_time>
+<end_time>21:39</end_time>
+<title><![CDATA[广西故事]]></title>
+</event>
+<event id="1133893515">
+<start_time>21:39</start_time>
+<end_time>22:41</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1133893518">
+<start_time>22:41</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[传奇剧场:林海雪原(40)]]></title>
+</event>
+<event id="1134237573">
+<start_time>23:30</start_time>
+<end_time>00:32</end_time>
+<title><![CDATA[传奇剧场:林海雪原(41)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUANXI1" epg_code="GUANXI1" date="2019-06-23">
+<event id="1134165306">
+<start_time>00:32</start_time>
+<end_time>01:26</end_time>
+<title><![CDATA[传奇剧场:林海雪原(42)]]></title>
+</event>
+<event id="1134165309">
+<start_time>01:26</start_time>
+<end_time>02:19</end_time>
+<title><![CDATA[传奇剧场:林海雪原(43)]]></title>
+</event>
+<event id="1134165312">
+<start_time>02:19</start_time>
+<end_time>02:32</end_time>
+<title><![CDATA[丝绸之路品牌万里行]]></title>
+</event>
+<event id="1134165315">
+<start_time>02:32</start_time>
+<end_time>02:49</end_time>
+<title><![CDATA[广西故事]]></title>
+</event>
+<event id="1134165318">
+<start_time>02:49</start_time>
+<end_time>03:37</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1134165321">
+<start_time>03:37</start_time>
+<end_time>04:26</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1134165324">
+<start_time>04:26</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1134165327">
+<start_time>05:00</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[广西故事]]></title>
+</event>
+<event id="1134165330">
+<start_time>05:40</start_time>
+<end_time>05:41</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1134165333">
+<start_time>05:41</start_time>
+<end_time>06:43</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1134165336">
+<start_time>06:43</start_time>
+<end_time>06:44</end_time>
+<title><![CDATA[广西旅游天气预报]]></title>
+</event>
+<event id="1134165339">
+<start_time>06:44</start_time>
+<end_time>06:48</end_time>
+<title><![CDATA[广西海洋天气预报]]></title>
+</event>
+<event id="1134165342">
+<start_time>06:48</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134165345">
+<start_time>07:35</start_time>
+<end_time>08:14</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135028298">
+<start_time>08:14</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[上午剧场:猎毒人(19)]]></title>
+</event>
+<event id="1135028301">
+<start_time>09:04</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:猎毒人(20)]]></title>
+</event>
+<event id="1135028304">
+<start_time>10:00</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[上午剧场:猎毒人(21)]]></title>
+</event>
+<event id="1135028307">
+<start_time>10:59</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[上午剧场:猎毒人(22)]]></title>
+</event>
+<event id="1134165360">
+<start_time>11:54</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[民族动画剧场:草本家族]]></title>
+</event>
+<event id="1134918120">
+<start_time>12:26</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(33)]]></title>
+</event>
+<event id="1134918123">
+<start_time>13:19</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(34)]]></title>
+</event>
+<event id="1134918126">
+<start_time>14:13</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(35)]]></title>
+</event>
+<event id="1134918129">
+<start_time>15:10</start_time>
+<end_time>16:12</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(36)]]></title>
+</event>
+<event id="1134918132">
+<start_time>16:12</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(37)]]></title>
+</event>
+<event id="1134918135">
+<start_time>17:05</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(38)]]></title>
+</event>
+<event id="1134165381">
+<start_time>18:00</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[凡事说理]]></title>
+</event>
+<event id="1134165384">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134165387">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1134165390">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广西天气预报]]></title>
+</event>
+<event id="1134165393">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134165396">
+<start_time>19:35</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[美丽剧场:破晓(42)]]></title>
+</event>
+<event id="1134165399">
+<start_time>20:27</start_time>
+<end_time>21:17</end_time>
+<title><![CDATA[美丽剧场:破晓(43)]]></title>
+</event>
+<event id="1134165402">
+<start_time>21:17</start_time>
+<end_time>21:41</end_time>
+<title><![CDATA[八桂新风行]]></title>
+</event>
+<event id="1134165405">
+<start_time>21:41</start_time>
+<end_time>22:29</end_time>
+<title><![CDATA[广西民歌会]]></title>
+</event>
+<event id="1134165408">
+<start_time>22:29</start_time>
+<end_time>22:53</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1134165411">
+<start_time>22:53</start_time>
+<end_time>23:37</end_time>
+<title><![CDATA[传奇剧场:林海雪原(44)]]></title>
+</event>
+<event id="1134468444">
+<start_time>23:37</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[传奇剧场:林海雪原(45)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUANXI1" epg_code="GUANXI1" date="2019-06-24">
+<event id="1134461313">
+<start_time>00:28</start_time>
+<end_time>01:10</end_time>
+<title><![CDATA[传奇剧场:林海雪原(46)]]></title>
+</event>
+<event id="1134461316">
+<start_time>01:10</start_time>
+<end_time>02:15</end_time>
+<title><![CDATA[传奇剧场:林海雪原(47)]]></title>
+</event>
+<event id="1134461319">
+<start_time>02:15</start_time>
+<end_time>02:29</end_time>
+<title><![CDATA[丝绸之路品牌万里行]]></title>
+</event>
+<event id="1134461322">
+<start_time>02:29</start_time>
+<end_time>02:48</end_time>
+<title><![CDATA[八桂新风行]]></title>
+</event>
+<event id="1134461325">
+<start_time>02:48</start_time>
+<end_time>03:33</end_time>
+<title><![CDATA[广西民歌会-唱响新时代]]></title>
+</event>
+<event id="1134461328">
+<start_time>03:33</start_time>
+<end_time>04:23</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1134461331">
+<start_time>04:23</start_time>
+<end_time>04:40</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1134461334">
+<start_time>04:40</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[唱响新时代]]></title>
+</event>
+<event id="1134461337">
+<start_time>05:40</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[凡事说理]]></title>
+</event>
+<event id="1134461340">
+<start_time>06:05</start_time>
+<end_time>06:15</end_time>
+<title><![CDATA[壮语新闻]]></title>
+</event>
+<event id="1134461343">
+<start_time>06:15</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1134461346">
+<start_time>06:40</start_time>
+<end_time>06:41</end_time>
+<title><![CDATA[广西旅游天气预报]]></title>
+</event>
+<event id="1134461349">
+<start_time>06:41</start_time>
+<end_time>06:45</end_time>
+<title><![CDATA[广西海洋天气预报]]></title>
+</event>
+<event id="1134461352">
+<start_time>06:45</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134461355">
+<start_time>07:35</start_time>
+<end_time>08:14</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135028310">
+<start_time>08:14</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[上午剧场:猎毒人(23)]]></title>
+</event>
+<event id="1135028313">
+<start_time>09:04</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:猎毒人(24)]]></title>
+</event>
+<event id="1135028316">
+<start_time>10:00</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[上午剧场:猎毒人(25)]]></title>
+</event>
+<event id="1135028319">
+<start_time>10:59</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[上午剧场:猎毒人(26)]]></title>
+</event>
+<event id="1134461370">
+<start_time>11:54</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[民族动画剧场:草本家族]]></title>
+</event>
+<event id="1134918138">
+<start_time>12:26</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(39)]]></title>
+</event>
+<event id="1134918141">
+<start_time>13:19</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(40)]]></title>
+</event>
+<event id="1134918144">
+<start_time>14:13</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(41)]]></title>
+</event>
+<event id="1134918147">
+<start_time>15:10</start_time>
+<end_time>16:12</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(42)]]></title>
+</event>
+<event id="1134918150">
+<start_time>16:12</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(43)]]></title>
+</event>
+<event id="1134918153">
+<start_time>17:05</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(44)]]></title>
+</event>
+<event id="1134461391">
+<start_time>18:00</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1134461394">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134461397">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1134461400">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广西天气预报]]></title>
+</event>
+<event id="1134461403">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134461406">
+<start_time>19:35</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[美丽剧场:破晓(44)]]></title>
+</event>
+<event id="1134461409">
+<start_time>20:28</start_time>
+<end_time>21:18</end_time>
+<title><![CDATA[美丽剧场:破晓(45)]]></title>
+</event>
+<event id="1134461412">
+<start_time>21:18</start_time>
+<end_time>21:37</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1134461415">
+<start_time>21:37</start_time>
+<end_time>22:18</end_time>
+<title><![CDATA[遇见好书]]></title>
+</event>
+<event id="1134461418">
+<start_time>22:18</start_time>
+<end_time>22:35</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1134461421">
+<start_time>22:35</start_time>
+<end_time>23:20</end_time>
+<title><![CDATA[传奇剧场:林海雪原(48)]]></title>
+</event>
+<event id="1135104543">
+<start_time>23:20</start_time>
+<end_time>00:30</end_time>
+<title><![CDATA[传奇剧场:林海雪原(49)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUANXI1" epg_code="GUANXI1" date="2019-06-25">
+<event id="1135028322">
+<start_time>00:30</start_time>
+<end_time>01:24</end_time>
+<title><![CDATA[传奇剧场:林海雪原(50)]]></title>
+</event>
+<event id="1135028325">
+<start_time>01:24</start_time>
+<end_time>02:18</end_time>
+<title><![CDATA[传奇剧场:林海雪原(51)]]></title>
+</event>
+<event id="1135028328">
+<start_time>02:18</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[丝绸之路品牌万里行]]></title>
+</event>
+<event id="1135028331">
+<start_time>02:30</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1135028334">
+<start_time>02:45</start_time>
+<end_time>03:17</end_time>
+<title><![CDATA[超级点子王]]></title>
+</event>
+<event id="1135028337">
+<start_time>03:17</start_time>
+<end_time>03:34</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1135028340">
+<start_time>03:34</start_time>
+<end_time>04:24</end_time>
+<title><![CDATA[收藏马未都]]></title>
+</event>
+<event id="1135028343">
+<start_time>04:24</start_time>
+<end_time>04:47</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1135028346">
+<start_time>04:47</start_time>
+<end_time>05:40</end_time>
+<title><![CDATA[超级点子王]]></title>
+</event>
+<event id="1135028349">
+<start_time>05:40</start_time>
+<end_time>06:05</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1135028352">
+<start_time>06:05</start_time>
+<end_time>06:15</end_time>
+<title><![CDATA[壮语新闻]]></title>
+</event>
+<event id="1135028355">
+<start_time>06:15</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1135028358">
+<start_time>06:40</start_time>
+<end_time>06:42</end_time>
+<title><![CDATA[广西旅游天气预报]]></title>
+</event>
+<event id="1135028361">
+<start_time>06:42</start_time>
+<end_time>06:48</end_time>
+<title><![CDATA[广西海洋天气预报]]></title>
+</event>
+<event id="1135028364">
+<start_time>06:48</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135028367">
+<start_time>07:35</start_time>
+<end_time>08:14</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135028370">
+<start_time>08:14</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[上午剧场:猎毒人(27)]]></title>
+</event>
+<event id="1135028373">
+<start_time>09:04</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:猎毒人(28)]]></title>
+</event>
+<event id="1135028376">
+<start_time>10:00</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[上午剧场:猎毒人(29)]]></title>
+</event>
+<event id="1135028379">
+<start_time>10:59</start_time>
+<end_time>11:54</end_time>
+<title><![CDATA[上午剧场:猎毒人(30)]]></title>
+</event>
+<event id="1135028382">
+<start_time>11:54</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[民族动画剧场:草本家族]]></title>
+</event>
+<event id="1135028385">
+<start_time>12:26</start_time>
+<end_time>13:19</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(45)]]></title>
+</event>
+<event id="1135028388">
+<start_time>13:19</start_time>
+<end_time>14:13</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(46)]]></title>
+</event>
+<event id="1135028391">
+<start_time>14:13</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(47)]]></title>
+</event>
+<event id="1135028394">
+<start_time>15:10</start_time>
+<end_time>16:12</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(48)]]></title>
+</event>
+<event id="1135028397">
+<start_time>16:12</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(49)]]></title>
+</event>
+<event id="1135028400">
+<start_time>17:05</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[经典剧场:笑傲江湖(50)]]></title>
+</event>
+<event id="1135028403">
+<start_time>18:00</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[海丝路]]></title>
+</event>
+<event id="1135028406">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135028409">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广西新闻]]></title>
+</event>
+<event id="1135028412">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广西天气预报]]></title>
+</event>
+<event id="1135028415">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1135028418">
+<start_time>19:35</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[美丽剧场:破晓(46)]]></title>
+</event>
+<event id="1135028421">
+<start_time>20:28</start_time>
+<end_time>21:18</end_time>
+<title><![CDATA[美丽剧场:破晓(47)]]></title>
+</event>
+<event id="1135028424">
+<start_time>21:18</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[剧·精彩]]></title>
+</event>
+<event id="1135028427">
+<start_time>21:40</start_time>
+<end_time>22:16</end_time>
+<title><![CDATA[百寿探秘]]></title>
+</event>
+<event id="1135028430">
+<start_time>22:16</start_time>
+<end_time>22:42</end_time>
+<title><![CDATA[时尚中国]]></title>
+</event>
+<event id="1135028433">
+<start_time>22:42</start_time>
+<end_time>23:27</end_time>
+<title><![CDATA[传奇剧场:林海雪原(52)]]></title>
+</event>
+<event id="1135028436">
+<start_time>23:27</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[传奇剧场:林海雪原(53)]]></title>
+</event>
+</schedule>
+</document>

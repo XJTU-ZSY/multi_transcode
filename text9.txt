@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV9" epg_code="CCTV9" date="2019-06-18">
+<event id="1135214679">
+<start_time>00:24</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[寰宇视野:野性哥伦比亚3]]></title>
+</event>
+<event id="1135214682">
+<start_time>01:19</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[自然:鲨鱼1]]></title>
+</event>
+<event id="1135214685">
+<start_time>02:16</start_time>
+<end_time>03:11</end_time>
+<title><![CDATA[万象:原野谍影2]]></title>
+</event>
+<event id="1135214688">
+<start_time>03:11</start_time>
+<end_time>03:38</end_time>
+<title><![CDATA[时代:业内人士1]]></title>
+</event>
+<event id="1135214691">
+<start_time>03:38</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[真相:汉中栈道1]]></title>
+</event>
+<event id="1135214694">
+<start_time>04:06</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[人文地理:采集部落3]]></title>
+</event>
+<event id="1135214697">
+<start_time>04:35</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[发现:金沙迷雾1]]></title>
+</event>
+<event id="1135214700">
+<start_time>05:05</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[特别呈现:天下徽商1]]></title>
+</event>
+<event id="1133315097">
+<start_time>06:01</start_time>
+<end_time>06:04</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135214703">
+<start_time>06:04</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[时代:业内人士1]]></title>
+</event>
+<event id="1135214706">
+<start_time>06:33</start_time>
+<end_time>07:04</end_time>
+<title><![CDATA[真相:汉中栈道1]]></title>
+</event>
+<event id="1135214709">
+<start_time>07:04</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[自然:鲨鱼1]]></title>
+</event>
+<event id="1135214712">
+<start_time>07:59</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[万象:原野谍影2]]></title>
+</event>
+<event id="1135172418">
+<start_time>08:55</start_time>
+<end_time>09:22</end_time>
+<title><![CDATA[业内人士(1)]]></title>
+</event>
+<event id="1135172421">
+<start_time>09:22</start_time>
+<end_time>09:52</end_time>
+<title><![CDATA[汉中栈道(1)]]></title>
+</event>
+<event id="1134074382">
+<start_time>09:52</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[天下徽商(1)]]></title>
+</event>
+<event id="1135203519">
+<start_time>10:51</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[野性哥伦比亚(3)]]></title>
+</event>
+<event id="1135249725">
+<start_time>11:50</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[鲨鱼(1)]]></title>
+</event>
+<event id="1135250673">
+<start_time>12:54</start_time>
+<end_time>13:52</end_time>
+<title><![CDATA[原野谍影(2)]]></title>
+</event>
+<event id="1135261740">
+<start_time>13:52</start_time>
+<end_time>14:52</end_time>
+<title><![CDATA[天下徽商(1)]]></title>
+</event>
+<event id="1135261743">
+<start_time>14:52</start_time>
+<end_time>15:53</end_time>
+<title><![CDATA[野性哥伦比亚(3)]]></title>
+</event>
+<event id="1134074400">
+<start_time>15:53</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[天下徽商(1)]]></title>
+</event>
+<event id="1135172436">
+<start_time>16:53</start_time>
+<end_time>17:29</end_time>
+<title><![CDATA[金沙迷雾(1)]]></title>
+</event>
+<event id="1135239477">
+<start_time>17:29</start_time>
+<end_time>18:02</end_time>
+<title><![CDATA[人文地理:采集部落4]]></title>
+</event>
+<event id="1135239480">
+<start_time>18:02</start_time>
+<end_time>19:02</end_time>
+<title><![CDATA[自然:鲨鱼2]]></title>
+</event>
+<event id="1135239483">
+<start_time>19:02</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[万象:原野谍影3]]></title>
+</event>
+<event id="1135239486">
+<start_time>20:06</start_time>
+<end_time>21:04</end_time>
+<title><![CDATA[特别呈现:断刀2]]></title>
+</event>
+<event id="1135239489">
+<start_time>21:04</start_time>
+<end_time>22:06</end_time>
+<title><![CDATA[寰宇视野:狒狒女皇]]></title>
+</event>
+<event id="1135239492">
+<start_time>22:06</start_time>
+<end_time>22:39</end_time>
+<title><![CDATA[时代:业内人士2]]></title>
+</event>
+<event id="1135239495">
+<start_time>22:39</start_time>
+<end_time>23:16</end_time>
+<title><![CDATA[真相:汉中栈道2]]></title>
+</event>
+<event id="1135239498">
+<start_time>23:16</start_time>
+<end_time>23:50</end_time>
+<title><![CDATA[发现:金沙迷雾2]]></title>
+</event>
+<event id="1135239501">
+<start_time>23:50</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[人文地理:采集部落4]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV9" epg_code="CCTV9" date="2019-06-19">
+<event id="1134074433">
+<start_time>00:24</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[寰宇视野(169)]]></title>
+</event>
+<event id="1134074436">
+<start_time>01:19</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[自然(169)]]></title>
+</event>
+<event id="1134074439">
+<start_time>02:16</start_time>
+<end_time>03:11</end_time>
+<title><![CDATA[万象(169)]]></title>
+</event>
+<event id="1134074442">
+<start_time>03:11</start_time>
+<end_time>03:38</end_time>
+<title><![CDATA[时代(145)]]></title>
+</event>
+<event id="1134074445">
+<start_time>03:38</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[真相(145)]]></title>
+</event>
+<event id="1134074448">
+<start_time>04:06</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[人文地理(169)]]></title>
+</event>
+<event id="1134074451">
+<start_time>04:35</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[发现(145)]]></title>
+</event>
+<event id="1134074454">
+<start_time>05:05</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[天下徽商(2)]]></title>
+</event>
+<event id="1133570502">
+<start_time>06:01</start_time>
+<end_time>06:04</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1134074457">
+<start_time>06:04</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[时代(145)]]></title>
+</event>
+<event id="1134074460">
+<start_time>06:33</start_time>
+<end_time>07:04</end_time>
+<title><![CDATA[真相(145)]]></title>
+</event>
+<event id="1134074463">
+<start_time>07:04</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[自然(169)]]></title>
+</event>
+<event id="1134074466">
+<start_time>07:59</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[万象(169)]]></title>
+</event>
+<event id="1134074469">
+<start_time>08:55</start_time>
+<end_time>09:22</end_time>
+<title><![CDATA[时代(145)]]></title>
+</event>
+<event id="1134074472">
+<start_time>09:22</start_time>
+<end_time>09:52</end_time>
+<title><![CDATA[真相(145)]]></title>
+</event>
+<event id="1134074475">
+<start_time>09:52</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[天下徽商(2)]]></title>
+</event>
+<event id="1134074478">
+<start_time>10:51</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[寰宇视野(169)]]></title>
+</event>
+<event id="1134074481">
+<start_time>11:50</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[自然(169)]]></title>
+</event>
+<event id="1134074484">
+<start_time>12:54</start_time>
+<end_time>13:52</end_time>
+<title><![CDATA[万象(169)]]></title>
+</event>
+<event id="1134074487">
+<start_time>13:52</start_time>
+<end_time>14:52</end_time>
+<title><![CDATA[天下徽商(2)]]></title>
+</event>
+<event id="1134074490">
+<start_time>14:52</start_time>
+<end_time>15:53</end_time>
+<title><![CDATA[寰宇视野(169)]]></title>
+</event>
+<event id="1134074493">
+<start_time>15:53</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[天下徽商(2)]]></title>
+</event>
+<event id="1134074496">
+<start_time>16:53</start_time>
+<end_time>17:29</end_time>
+<title><![CDATA[发现(145)]]></title>
+</event>
+<event id="1134074499">
+<start_time>17:29</start_time>
+<end_time>18:02</end_time>
+<title><![CDATA[人文地理(170)]]></title>
+</event>
+<event id="1134074502">
+<start_time>18:02</start_time>
+<end_time>19:02</end_time>
+<title><![CDATA[自然(170)]]></title>
+</event>
+<event id="1134074505">
+<start_time>19:02</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[万象(170)]]></title>
+</event>
+<event id="1135172442">
+<start_time>20:06</start_time>
+<end_time>21:04</end_time>
+<title><![CDATA[特别呈现]]></title>
+</event>
+<event id="1134074511">
+<start_time>21:04</start_time>
+<end_time>22:06</end_time>
+<title><![CDATA[寰宇视野(170)]]></title>
+</event>
+<event id="1134074514">
+<start_time>22:06</start_time>
+<end_time>22:39</end_time>
+<title><![CDATA[时代(146)]]></title>
+</event>
+<event id="1134074517">
+<start_time>22:39</start_time>
+<end_time>23:16</end_time>
+<title><![CDATA[真相(146)]]></title>
+</event>
+<event id="1134074520">
+<start_time>23:16</start_time>
+<end_time>23:50</end_time>
+<title><![CDATA[发现(146)]]></title>
+</event>
+<event id="1134074523">
+<start_time>23:50</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[人文地理(170)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV9" epg_code="CCTV9" date="2019-06-20">
+<event id="1134074526">
+<start_time>00:24</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[寰宇视野(170)]]></title>
+</event>
+<event id="1134074529">
+<start_time>01:19</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[自然(170)]]></title>
+</event>
+<event id="1134074532">
+<start_time>02:16</start_time>
+<end_time>03:11</end_time>
+<title><![CDATA[万象(170)]]></title>
+</event>
+<event id="1134074535">
+<start_time>03:11</start_time>
+<end_time>03:38</end_time>
+<title><![CDATA[时代(146)]]></title>
+</event>
+<event id="1134074538">
+<start_time>03:38</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[真相(146)]]></title>
+</event>
+<event id="1134074541">
+<start_time>04:06</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[人文地理(170)]]></title>
+</event>
+<event id="1134074544">
+<start_time>04:35</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[发现(146)]]></title>
+</event>
+<event id="1134074547">
+<start_time>05:05</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[天下徽商(3)]]></title>
+</event>
+<event id="1133854137">
+<start_time>06:01</start_time>
+<end_time>06:04</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1134074550">
+<start_time>06:04</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[时代(146)]]></title>
+</event>
+<event id="1134074553">
+<start_time>06:33</start_time>
+<end_time>07:04</end_time>
+<title><![CDATA[真相(146)]]></title>
+</event>
+<event id="1134074556">
+<start_time>07:04</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[自然(170)]]></title>
+</event>
+<event id="1134074559">
+<start_time>07:59</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[万象(170)]]></title>
+</event>
+<event id="1134074562">
+<start_time>08:55</start_time>
+<end_time>09:22</end_time>
+<title><![CDATA[时代(146)]]></title>
+</event>
+<event id="1134074565">
+<start_time>09:22</start_time>
+<end_time>09:52</end_time>
+<title><![CDATA[真相(146)]]></title>
+</event>
+<event id="1134074568">
+<start_time>09:52</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[天下徽商(3)]]></title>
+</event>
+<event id="1134074571">
+<start_time>10:51</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[寰宇视野(170)]]></title>
+</event>
+<event id="1134074574">
+<start_time>11:50</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[自然(170)]]></title>
+</event>
+<event id="1134074577">
+<start_time>12:54</start_time>
+<end_time>13:52</end_time>
+<title><![CDATA[万象(170)]]></title>
+</event>
+<event id="1134074580">
+<start_time>13:52</start_time>
+<end_time>14:52</end_time>
+<title><![CDATA[天下徽商(3)]]></title>
+</event>
+<event id="1134074583">
+<start_time>14:52</start_time>
+<end_time>15:53</end_time>
+<title><![CDATA[寰宇视野(170)]]></title>
+</event>
+<event id="1134074586">
+<start_time>15:53</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[天下徽商(3)]]></title>
+</event>
+<event id="1134074589">
+<start_time>16:53</start_time>
+<end_time>17:29</end_time>
+<title><![CDATA[发现(146)]]></title>
+</event>
+<event id="1134074592">
+<start_time>17:29</start_time>
+<end_time>18:02</end_time>
+<title><![CDATA[人文地理(171)]]></title>
+</event>
+<event id="1134074595">
+<start_time>18:02</start_time>
+<end_time>19:02</end_time>
+<title><![CDATA[自然(171)]]></title>
+</event>
+<event id="1134074598">
+<start_time>19:02</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[万象(171)]]></title>
+</event>
+<event id="1135172445">
+<start_time>20:06</start_time>
+<end_time>21:04</end_time>
+<title><![CDATA[特别呈现]]></title>
+</event>
+<event id="1134074604">
+<start_time>21:04</start_time>
+<end_time>22:06</end_time>
+<title><![CDATA[寰宇视野(171)]]></title>
+</event>
+<event id="1134074607">
+<start_time>22:06</start_time>
+<end_time>22:39</end_time>
+<title><![CDATA[时代(147)]]></title>
+</event>
+<event id="1134074610">
+<start_time>22:39</start_time>
+<end_time>23:16</end_time>
+<title><![CDATA[真相(147)]]></title>
+</event>
+<event id="1134074613">
+<start_time>23:16</start_time>
+<end_time>23:50</end_time>
+<title><![CDATA[发现(147)]]></title>
+</event>
+<event id="1135172448">
+<start_time>23:50</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[人文地理(171)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV9" epg_code="CCTV9" date="2019-06-21">
+<event id="1135172451">
+<start_time>00:24</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[寰宇视野(171)]]></title>
+</event>
+<event id="1135172454">
+<start_time>01:19</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[自然(171)]]></title>
+</event>
+<event id="1135172457">
+<start_time>02:16</start_time>
+<end_time>03:11</end_time>
+<title><![CDATA[万象(171)]]></title>
+</event>
+<event id="1135172460">
+<start_time>03:11</start_time>
+<end_time>03:38</end_time>
+<title><![CDATA[时代(147)]]></title>
+</event>
+<event id="1135172463">
+<start_time>03:38</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[真相(147)]]></title>
+</event>
+<event id="1135172466">
+<start_time>04:06</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[人文地理(171)]]></title>
+</event>
+<event id="1135172469">
+<start_time>04:35</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[发现(147)]]></title>
+</event>
+<event id="1135172472">
+<start_time>05:05</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[天下徽商(4)]]></title>
+</event>
+<event id="1135172475">
+<start_time>06:01</start_time>
+<end_time>06:04</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135172478">
+<start_time>06:04</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[时代(147)]]></title>
+</event>
+<event id="1135172481">
+<start_time>06:33</start_time>
+<end_time>07:04</end_time>
+<title><![CDATA[真相(147)]]></title>
+</event>
+<event id="1135172484">
+<start_time>07:04</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[自然(171)]]></title>
+</event>
+<event id="1135172487">
+<start_time>07:59</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[万象(171)]]></title>
+</event>
+<event id="1135172490">
+<start_time>08:55</start_time>
+<end_time>09:22</end_time>
+<title><![CDATA[时代(147)]]></title>
+</event>
+<event id="1135172493">
+<start_time>09:22</start_time>
+<end_time>09:52</end_time>
+<title><![CDATA[真相(147)]]></title>
+</event>
+<event id="1135172496">
+<start_time>09:52</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[天下徽商(4)]]></title>
+</event>
+<event id="1135172499">
+<start_time>10:51</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[寰宇视野(171)]]></title>
+</event>
+<event id="1135172502">
+<start_time>11:50</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[自然(171)]]></title>
+</event>
+<event id="1135172505">
+<start_time>12:54</start_time>
+<end_time>13:52</end_time>
+<title><![CDATA[万象(171)]]></title>
+</event>
+<event id="1135172508">
+<start_time>13:52</start_time>
+<end_time>14:52</end_time>
+<title><![CDATA[天下徽商(4)]]></title>
+</event>
+<event id="1135172511">
+<start_time>14:52</start_time>
+<end_time>15:53</end_time>
+<title><![CDATA[寰宇视野(171)]]></title>
+</event>
+<event id="1135172514">
+<start_time>15:53</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[天下徽商(4)]]></title>
+</event>
+<event id="1135172517">
+<start_time>16:53</start_time>
+<end_time>17:29</end_time>
+<title><![CDATA[发现(147)]]></title>
+</event>
+<event id="1135172520">
+<start_time>17:29</start_time>
+<end_time>18:02</end_time>
+<title><![CDATA[人文地理(172)]]></title>
+</event>
+<event id="1135172523">
+<start_time>18:02</start_time>
+<end_time>19:02</end_time>
+<title><![CDATA[自然(172)]]></title>
+</event>
+<event id="1135172526">
+<start_time>19:02</start_time>
+<end_time>20:06</end_time>
+<title><![CDATA[万象(172)]]></title>
+</event>
+<event id="1134040527">
+<start_time>20:06</start_time>
+<end_time>21:04</end_time>
+<title><![CDATA[特别呈现]]></title>
+</event>
+<event id="1135172529">
+<start_time>21:04</start_time>
+<end_time>22:06</end_time>
+<title><![CDATA[寰宇视野(172)]]></title>
+</event>
+<event id="1135172532">
+<start_time>22:06</start_time>
+<end_time>22:39</end_time>
+<title><![CDATA[时代(148)]]></title>
+</event>
+<event id="1135172535">
+<start_time>22:39</start_time>
+<end_time>23:16</end_time>
+<title><![CDATA[真相(148)]]></title>
+</event>
+<event id="1135172538">
+<start_time>23:16</start_time>
+<end_time>23:50</end_time>
+<title><![CDATA[发现(148)]]></title>
+</event>
+<event id="1135172541">
+<start_time>23:50</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[人文地理(172)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV9" epg_code="CCTV9" date="2019-06-22">
+<event id="1135172544">
+<start_time>00:24</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[寰宇视野(172)]]></title>
+</event>
+<event id="1135172547">
+<start_time>01:19</start_time>
+<end_time>02:16</end_time>
+<title><![CDATA[自然(172)]]></title>
+</event>
+<event id="1135172550">
+<start_time>02:16</start_time>
+<end_time>03:11</end_time>
+<title><![CDATA[万象(172)]]></title>
+</event>
+<event id="1135172553">
+<start_time>03:11</start_time>
+<end_time>03:38</end_time>
+<title><![CDATA[时代(148)]]></title>
+</event>
+<event id="1135172556">
+<start_time>03:38</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[真相(148)]]></title>
+</event>
+<event id="1135172559">
+<start_time>04:06</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[人文地理(172)]]></title>
+</event>
+<event id="1135172562">
+<start_time>04:35</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[发现(148)]]></title>
+</event>
+<event id="1135172565">
+<start_time>05:05</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[天下徽商(5)]]></title>
+</event>
+<event id="1135172568">
+<start_time>06:01</start_time>
+<end_time>06:04</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135172571">
+<start_time>06:04</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[时代(148)]]></title>
+</event>
+<event id="1135172574">
+<start_time>06:33</start_time>
+<end_time>07:04</end_time>
+<title><![CDATA[真相(148)]]></title>
+</event>
+<event id="1135172577">
+<start_time>07:04</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[自然(172)]]></title>
+</event>
+<event id="1135172580">
+<start_time>07:59</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[万象(172)]]></title>
+</event>
+<event id="1135172583">
+<start_time>08:55</start_time>
+<end_time>10:25</end_time>
+<title><![CDATA[纪录电影(24)]]></title>
+</event>
+<event id="1135172586">
+<start_time>10:25</start_time>
+<end_time>11:23</end_time>
+<title><![CDATA[自然(126)]]></title>
+</event>
+<event id="1135172589">
+<start_time>11:23</start_time>
+<end_time>12:26</end_time>
+<title><![CDATA[自然(127)]]></title>
+</event>
+<event id="1135172592">
+<start_time>12:26</start_time>
+<end_time>13:26</end_time>
+<title><![CDATA[自然(128)]]></title>
+</event>
+<event id="1135172595">
+<start_time>13:26</start_time>
+<end_time>14:26</end_time>
+<title><![CDATA[自然(129)]]></title>
+</event>
+<event id="1135172598">
+<start_time>14:26</start_time>
+<end_time>15:27</end_time>
+<title><![CDATA[自然(130)]]></title>
+</event>
+<event id="1135172601">
+<start_time>15:27</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[自然(131)]]></title>
+</event>
+<event id="1135172604">
+<start_time>16:25</start_time>
+<end_time>17:29</end_time>
+<title><![CDATA[自然(132)]]></title>
+</event>
+<event id="1135172607">
+<start_time>17:29</start_time>
+<end_time>18:02</end_time>
+<title><![CDATA[人文地理(173)]]></title>
+</event>
+<event id="1135172610">
+<start_time>18:02</start_time>
+<end_time>19:02</end_time>
+<title><![CDATA[自然(173)]]></title>
+</event>
+<event id="1135172613">
+<start_time>19:02</start_time>
+<end_time>20:04</end_time>
+<title><![CDATA[万象(173)]]></title>
+</event>
+<event id="1135172616">
+<start_time>20:04</start_time>
+<end_time>21:06</end_time>
+<title><![CDATA[手术两百年(1)]]></title>
+</event>
+<event id="1135172619">
+<start_time>21:06</start_time>
+<end_time>22:08</end_time>
+<title><![CDATA[寰宇视野(173)]]></title>
+</event>
+<event id="1135172622">
+<start_time>22:08</start_time>
+<end_time>22:41</end_time>
+<title><![CDATA[时代(149)]]></title>
+</event>
+<event id="1135172625">
+<start_time>22:41</start_time>
+<end_time>23:18</end_time>
+<title><![CDATA[真相(149)]]></title>
+</event>
+<event id="1135172628">
+<start_time>23:18</start_time>
+<end_time>23:52</end_time>
+<title><![CDATA[发现(149)]]></title>
+</event>
+<event id="1135172631">
+<start_time>23:52</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[人文地理(173)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV9" epg_code="CCTV9" date="2019-06-23">
+<event id="1135172634">
+<start_time>00:26</start_time>
+<end_time>01:21</end_time>
+<title><![CDATA[寰宇视野(173)]]></title>
+</event>
+<event id="1135172637">
+<start_time>01:21</start_time>
+<end_time>02:18</end_time>
+<title><![CDATA[自然(173)]]></title>
+</event>
+<event id="1135172640">
+<start_time>02:18</start_time>
+<end_time>03:11</end_time>
+<title><![CDATA[万象(173)]]></title>
+</event>
+<event id="1135172643">
+<start_time>03:11</start_time>
+<end_time>03:38</end_time>
+<title><![CDATA[时代(149)]]></title>
+</event>
+<event id="1135172646">
+<start_time>03:38</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[真相(149)]]></title>
+</event>
+<event id="1135172649">
+<start_time>04:06</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[人文地理(173)]]></title>
+</event>
+<event id="1135172652">
+<start_time>04:35</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[发现(149)]]></title>
+</event>
+<event id="1135172655">
+<start_time>05:05</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[手术两百年(1)]]></title>
+</event>
+<event id="1135172658">
+<start_time>06:01</start_time>
+<end_time>06:04</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135172661">
+<start_time>06:04</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[时代(149)]]></title>
+</event>
+<event id="1135172664">
+<start_time>06:33</start_time>
+<end_time>07:04</end_time>
+<title><![CDATA[真相(149)]]></title>
+</event>
+<event id="1135172667">
+<start_time>07:04</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[自然(173)]]></title>
+</event>
+<event id="1135172670">
+<start_time>07:59</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[万象(173)]]></title>
+</event>
+<event id="1135172673">
+<start_time>08:55</start_time>
+<end_time>09:54</end_time>
+<title><![CDATA[手术两百年(1)]]></title>
+</event>
+<event id="1135172676">
+<start_time>09:54</start_time>
+<end_time>10:24</end_time>
+<title><![CDATA[发现(149)]]></title>
+</event>
+<event id="1135172679">
+<start_time>10:24</start_time>
+<end_time>11:22</end_time>
+<title><![CDATA[万象(105)]]></title>
+</event>
+<event id="1135172682">
+<start_time>11:22</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[万象(106)]]></title>
+</event>
+<event id="1135172685">
+<start_time>12:25</start_time>
+<end_time>13:25</end_time>
+<title><![CDATA[万象(107)]]></title>
+</event>
+<event id="1135172688">
+<start_time>13:25</start_time>
+<end_time>14:25</end_time>
+<title><![CDATA[万象(108)]]></title>
+</event>
+<event id="1135172691">
+<start_time>14:25</start_time>
+<end_time>15:26</end_time>
+<title><![CDATA[万象(109)]]></title>
+</event>
+<event id="1135172694">
+<start_time>15:26</start_time>
+<end_time>16:26</end_time>
+<title><![CDATA[万象(110)]]></title>
+</event>
+<event id="1135172697">
+<start_time>16:26</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[万象(111)]]></title>
+</event>
+<event id="1135172700">
+<start_time>17:30</start_time>
+<end_time>18:03</end_time>
+<title><![CDATA[人文地理(174)]]></title>
+</event>
+<event id="1135172703">
+<start_time>18:03</start_time>
+<end_time>19:03</end_time>
+<title><![CDATA[自然(174)]]></title>
+</event>
+<event id="1135172706">
+<start_time>19:03</start_time>
+<end_time>20:05</end_time>
+<title><![CDATA[万象(174)]]></title>
+</event>
+<event id="1135172709">
+<start_time>20:05</start_time>
+<end_time>21:07</end_time>
+<title><![CDATA[手术两百年(2)]]></title>
+</event>
+<event id="1135172712">
+<start_time>21:07</start_time>
+<end_time>22:09</end_time>
+<title><![CDATA[寰宇视野(174)]]></title>
+</event>
+<event id="1135172715">
+<start_time>22:09</start_time>
+<end_time>23:49</end_time>
+<title><![CDATA[纪录电影(25)]]></title>
+</event>
+<event id="1135172718">
+<start_time>23:49</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[人文地理(174)]]></title>
+</event>
+</schedule>
+</document>

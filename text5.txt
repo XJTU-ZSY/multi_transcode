@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV8" epg_code="CCTV8" date="2019-06-18">
+<event id="1133854323">
+<start_time>00:05</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[星推荐-2019年6月-17]]></title>
+</event>
+<event id="1133854326">
+<start_time>00:12</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[天堂百货12/16]]></title>
+</event>
+<event id="1134327561">
+<start_time>01:08</start_time>
+<end_time>01:54</end_time>
+<title><![CDATA[亲爱的她们第35集]]></title>
+</event>
+<event id="1134327564">
+<start_time>01:54</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[亲爱的她们第36集]]></title>
+</event>
+<event id="1134327567">
+<start_time>02:40</start_time>
+<end_time>03:26</end_time>
+<title><![CDATA[亲爱的她们第37集]]></title>
+</event>
+<event id="1134327570">
+<start_time>03:26</start_time>
+<end_time>04:12</end_time>
+<title><![CDATA[亲爱的她们第38集]]></title>
+</event>
+<event id="1133854341">
+<start_time>04:12</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[插花-2015-11]]></title>
+</event>
+<event id="1134946668">
+<start_time>04:20</start_time>
+<end_time>05:06</end_time>
+<title><![CDATA[三妹第8集]]></title>
+</event>
+<event id="1134946671">
+<start_time>05:06</start_time>
+<end_time>05:52</end_time>
+<title><![CDATA[三妹第9集]]></title>
+</event>
+<event id="1134946674">
+<start_time>05:52</start_time>
+<end_time>06:41</end_time>
+<title><![CDATA[三妹第10集]]></title>
+</event>
+<event id="1134946677">
+<start_time>06:41</start_time>
+<end_time>07:27</end_time>
+<title><![CDATA[三妹第11集]]></title>
+</event>
+<event id="1133854356">
+<start_time>07:27</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[星推荐-2019年6月-17]]></title>
+</event>
+<event id="1134946680">
+<start_time>07:36</start_time>
+<end_time>08:32</end_time>
+<title><![CDATA[菜刀班尖刀连第5集]]></title>
+</event>
+<event id="1134946683">
+<start_time>08:32</start_time>
+<end_time>09:29</end_time>
+<title><![CDATA[菜刀班尖刀连第6集]]></title>
+</event>
+<event id="1135237851">
+<start_time>09:29</start_time>
+<end_time>10:26</end_time>
+<title><![CDATA[菜刀班尖刀连第7集]]></title>
+</event>
+<event id="1135237854">
+<start_time>10:26</start_time>
+<end_time>11:23</end_time>
+<title><![CDATA[菜刀班尖刀连第8集]]></title>
+</event>
+<event id="1135247274">
+<start_time>11:23</start_time>
+<end_time>12:09</end_time>
+<title><![CDATA[菜刀班尖刀连第9集]]></title>
+</event>
+<event id="1135247277">
+<start_time>12:09</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[星推荐-2019年6月-17]]></title>
+</event>
+<event id="1134946695">
+<start_time>12:25</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[左手亲情右手爱第30集]]></title>
+</event>
+<event id="1135260624">
+<start_time>13:22</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[左手亲情右手爱第31集]]></title>
+</event>
+<event id="1135262523">
+<start_time>14:18</start_time>
+<end_time>15:15</end_time>
+<title><![CDATA[左手亲情右手爱第32集]]></title>
+</event>
+<event id="1135262526">
+<start_time>15:15</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[左手亲情右手爱第33集]]></title>
+</event>
+<event id="1133854389">
+<start_time>16:01</start_time>
+<end_time>16:26</end_time>
+<title><![CDATA[星推荐-2019年6月-17]]></title>
+</event>
+<event id="1134946707">
+<start_time>16:26</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[遥远的距离第17集]]></title>
+</event>
+<event id="1134946710">
+<start_time>17:28</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[遥远的距离第18集]]></title>
+</event>
+<event id="1133854398">
+<start_time>18:23</start_time>
+<end_time>18:33</end_time>
+<title><![CDATA[星推荐-2019年6月-18]]></title>
+</event>
+<event id="1134946713">
+<start_time>18:33</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[遥远的距离第19集]]></title>
+</event>
+<event id="1133854404">
+<start_time>19:24</start_time>
+<end_time>19:26</end_time>
+<title><![CDATA[插花-2015-6]]></title>
+</event>
+<event id="1134946716">
+<start_time>19:26</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[本集提要- 《老虎队》第11集]]></title>
+</event>
+<event id="1134946719">
+<start_time>19:30</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[老虎队第11集]]></title>
+</event>
+<event id="1134946722">
+<start_time>20:30</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[本集提要- 《老虎队》第12集]]></title>
+</event>
+<event id="1134946725">
+<start_time>20:35</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[老虎队第12集]]></title>
+</event>
+<event id="1134946728">
+<start_time>21:32</start_time>
+<end_time>21:37</end_time>
+<title><![CDATA[本集提要- 《老虎队》第13集]]></title>
+</event>
+<event id="1134946731">
+<start_time>21:37</start_time>
+<end_time>22:29</end_time>
+<title><![CDATA[老虎队第13集]]></title>
+</event>
+<event id="1134946734">
+<start_time>22:29</start_time>
+<end_time>23:19</end_time>
+<title><![CDATA[父母爱情第5集]]></title>
+</event>
+<event id="1134946737">
+<start_time>23:19</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[父母爱情第6集]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV8" epg_code="CCTV8" date="2019-06-19">
+<event id="1133854431">
+<start_time>00:05</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[星推荐-2019年6月-18]]></title>
+</event>
+<event id="1133854434">
+<start_time>00:12</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[天堂百货13/16]]></title>
+</event>
+<event id="1134946740">
+<start_time>01:08</start_time>
+<end_time>01:54</end_time>
+<title><![CDATA[亲爱的她们第39集]]></title>
+</event>
+<event id="1134946743">
+<start_time>01:54</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[亲爱的她们第40集]]></title>
+</event>
+<event id="1134946746">
+<start_time>02:40</start_time>
+<end_time>03:26</end_time>
+<title><![CDATA[家有公婆第1集]]></title>
+</event>
+<event id="1134946749">
+<start_time>03:26</start_time>
+<end_time>04:12</end_time>
+<title><![CDATA[家有公婆第2集]]></title>
+</event>
+<event id="1133854449">
+<start_time>04:12</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[插花-2015-11]]></title>
+</event>
+<event id="1135246386">
+<start_time>04:20</start_time>
+<end_time>05:06</end_time>
+<title><![CDATA[三妹第12集]]></title>
+</event>
+<event id="1135246389">
+<start_time>05:06</start_time>
+<end_time>05:52</end_time>
+<title><![CDATA[三妹第13集]]></title>
+</event>
+<event id="1135246392">
+<start_time>05:52</start_time>
+<end_time>06:41</end_time>
+<title><![CDATA[三妹第14集]]></title>
+</event>
+<event id="1135246395">
+<start_time>06:41</start_time>
+<end_time>07:27</end_time>
+<title><![CDATA[三妹第15集]]></title>
+</event>
+<event id="1133854464">
+<start_time>07:27</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[星推荐-2019年6月-18]]></title>
+</event>
+<event id="1135246398">
+<start_time>07:36</start_time>
+<end_time>08:32</end_time>
+<title><![CDATA[菜刀班尖刀连第10集]]></title>
+</event>
+<event id="1135246401">
+<start_time>08:32</start_time>
+<end_time>09:29</end_time>
+<title><![CDATA[菜刀班尖刀连第11集]]></title>
+</event>
+<event id="1135246404">
+<start_time>09:29</start_time>
+<end_time>10:26</end_time>
+<title><![CDATA[菜刀班尖刀连第12集]]></title>
+</event>
+<event id="1135246407">
+<start_time>10:26</start_time>
+<end_time>11:23</end_time>
+<title><![CDATA[菜刀班尖刀连第13集]]></title>
+</event>
+<event id="1135246410">
+<start_time>11:23</start_time>
+<end_time>12:09</end_time>
+<title><![CDATA[菜刀班尖刀连第14集]]></title>
+</event>
+<event id="1133854482">
+<start_time>12:09</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[星推荐-2019年6月-18]]></title>
+</event>
+<event id="1135246413">
+<start_time>12:25</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[左手亲情右手爱第34集]]></title>
+</event>
+<event id="1135246416">
+<start_time>13:22</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[左手亲情右手爱第35集]]></title>
+</event>
+<event id="1135246419">
+<start_time>14:18</start_time>
+<end_time>15:15</end_time>
+<title><![CDATA[我的继父是偶像第1集]]></title>
+</event>
+<event id="1135246422">
+<start_time>15:15</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[我的继父是偶像第2集]]></title>
+</event>
+<event id="1133854497">
+<start_time>16:01</start_time>
+<end_time>16:26</end_time>
+<title><![CDATA[星推荐-2019年6月-18]]></title>
+</event>
+<event id="1135246425">
+<start_time>16:26</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[遥远的距离第20集]]></title>
+</event>
+<event id="1135246428">
+<start_time>17:28</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[遥远的距离第21集]]></title>
+</event>
+<event id="1133854506">
+<start_time>18:23</start_time>
+<end_time>18:33</end_time>
+<title><![CDATA[星推荐-2019年6月-19]]></title>
+</event>
+<event id="1135246431">
+<start_time>18:33</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[遥远的距离第22集]]></title>
+</event>
+<event id="1133854512">
+<start_time>19:24</start_time>
+<end_time>19:26</end_time>
+<title><![CDATA[插花-2015-6]]></title>
+</event>
+<event id="1135246434">
+<start_time>19:26</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[本集提要- 《老虎队》第14集]]></title>
+</event>
+<event id="1135246437">
+<start_time>19:30</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[老虎队第14集]]></title>
+</event>
+<event id="1135246440">
+<start_time>20:30</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[本集提要- 《老虎队》第15集]]></title>
+</event>
+<event id="1135246443">
+<start_time>20:35</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[老虎队第15集]]></title>
+</event>
+<event id="1135246446">
+<start_time>21:32</start_time>
+<end_time>21:37</end_time>
+<title><![CDATA[本集提要- 《老虎队》第16集]]></title>
+</event>
+<event id="1135246449">
+<start_time>21:37</start_time>
+<end_time>22:29</end_time>
+<title><![CDATA[老虎队第16集]]></title>
+</event>
+<event id="1135246452">
+<start_time>22:29</start_time>
+<end_time>23:19</end_time>
+<title><![CDATA[父母爱情第7集]]></title>
+</event>
+<event id="1135246455">
+<start_time>23:19</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[父母爱情第8集]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV8" epg_code="CCTV8" date="2019-06-20">
+<event id="1133854539">
+<start_time>00:05</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[星推荐-2019年6月-19]]></title>
+</event>
+<event id="1133854542">
+<start_time>00:12</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[天堂百货14/16]]></title>
+</event>
+<event id="1135246458">
+<start_time>01:08</start_time>
+<end_time>01:54</end_time>
+<title><![CDATA[家有公婆第3集]]></title>
+</event>
+<event id="1135246461">
+<start_time>01:54</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[家有公婆第4集]]></title>
+</event>
+<event id="1135246464">
+<start_time>02:40</start_time>
+<end_time>03:26</end_time>
+<title><![CDATA[家有公婆第5集]]></title>
+</event>
+<event id="1135246467">
+<start_time>03:26</start_time>
+<end_time>04:12</end_time>
+<title><![CDATA[家有公婆第6集]]></title>
+</event>
+<event id="1133854557">
+<start_time>04:12</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[插花-2015-11]]></title>
+</event>
+<event id="1133854560">
+<start_time>04:20</start_time>
+<end_time>05:06</end_time>
+<title><![CDATA[三妹16/56]]></title>
+</event>
+<event id="1133854563">
+<start_time>05:06</start_time>
+<end_time>05:52</end_time>
+<title><![CDATA[三妹17/56]]></title>
+</event>
+<event id="1133854566">
+<start_time>05:52</start_time>
+<end_time>06:41</end_time>
+<title><![CDATA[三妹18/56]]></title>
+</event>
+<event id="1133854569">
+<start_time>06:41</start_time>
+<end_time>07:27</end_time>
+<title><![CDATA[三妹19/56]]></title>
+</event>
+<event id="1133854572">
+<start_time>07:27</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[星推荐-2019年6月-19]]></title>
+</event>
+<event id="1133854575">
+<start_time>07:36</start_time>
+<end_time>08:32</end_time>
+<title><![CDATA[菜刀班尖刀连15/30]]></title>
+</event>
+<event id="1133854578">
+<start_time>08:32</start_time>
+<end_time>09:29</end_time>
+<title><![CDATA[菜刀班尖刀连16/30]]></title>
+</event>
+<event id="1133854581">
+<start_time>09:29</start_time>
+<end_time>10:26</end_time>
+<title><![CDATA[菜刀班尖刀连17/30]]></title>
+</event>
+<event id="1133854584">
+<start_time>10:26</start_time>
+<end_time>11:23</end_time>
+<title><![CDATA[菜刀班尖刀连18/30]]></title>
+</event>
+<event id="1133854587">
+<start_time>11:23</start_time>
+<end_time>12:09</end_time>
+<title><![CDATA[菜刀班尖刀连19/30]]></title>
+</event>
+<event id="1133854590">
+<start_time>12:09</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[星推荐-2019年6月-19]]></title>
+</event>
+<event id="1133854593">
+<start_time>12:25</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[我的继父是偶像3/41]]></title>
+</event>
+<event id="1133854596">
+<start_time>13:22</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[我的继父是偶像4/41]]></title>
+</event>
+<event id="1133854599">
+<start_time>14:18</start_time>
+<end_time>15:15</end_time>
+<title><![CDATA[我的继父是偶像5/41]]></title>
+</event>
+<event id="1133854602">
+<start_time>15:15</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[我的继父是偶像6/41]]></title>
+</event>
+<event id="1133854605">
+<start_time>16:01</start_time>
+<end_time>16:26</end_time>
+<title><![CDATA[星推荐-2019年6月-19]]></title>
+</event>
+<event id="1133854608">
+<start_time>16:26</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[遥远的距离23/45]]></title>
+</event>
+<event id="1133854611">
+<start_time>17:28</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[遥远的距离24/45]]></title>
+</event>
+<event id="1133854614">
+<start_time>18:23</start_time>
+<end_time>18:33</end_time>
+<title><![CDATA[星推荐-2019年6月-20]]></title>
+</event>
+<event id="1133854617">
+<start_time>18:33</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[遥远的距离25/45]]></title>
+</event>
+<event id="1133854620">
+<start_time>19:24</start_time>
+<end_time>19:26</end_time>
+<title><![CDATA[插花-2015-6]]></title>
+</event>
+<event id="1133854623">
+<start_time>19:26</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[本集提要-《老虎队》17/45]]></title>
+</event>
+<event id="1133854626">
+<start_time>19:30</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[老虎队17/45]]></title>
+</event>
+<event id="1133854629">
+<start_time>20:30</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[本集提要-《老虎队》18/45]]></title>
+</event>
+<event id="1133854632">
+<start_time>20:35</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[老虎队18/45]]></title>
+</event>
+<event id="1133854635">
+<start_time>21:32</start_time>
+<end_time>21:37</end_time>
+<title><![CDATA[本集提要-《老虎队》19/45]]></title>
+</event>
+<event id="1133854638">
+<start_time>21:37</start_time>
+<end_time>22:29</end_time>
+<title><![CDATA[老虎队19/45]]></title>
+</event>
+<event id="1133854641">
+<start_time>22:29</start_time>
+<end_time>23:19</end_time>
+<title><![CDATA[父母爱情9/44]]></title>
+</event>
+<event id="1134040545">
+<start_time>23:19</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[父母爱情10/44]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV8" epg_code="CCTV8" date="2019-06-21">
+<event id="1134040548">
+<start_time>00:05</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[星推荐-2019年6月-20]]></title>
+</event>
+<event id="1134040551">
+<start_time>00:12</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[天堂百货15/16]]></title>
+</event>
+<event id="1134040554">
+<start_time>01:08</start_time>
+<end_time>01:54</end_time>
+<title><![CDATA[家有公婆7/38]]></title>
+</event>
+<event id="1134040557">
+<start_time>01:54</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[家有公婆8/38]]></title>
+</event>
+<event id="1134040560">
+<start_time>02:40</start_time>
+<end_time>03:26</end_time>
+<title><![CDATA[家有公婆9/38]]></title>
+</event>
+<event id="1134040563">
+<start_time>03:26</start_time>
+<end_time>04:12</end_time>
+<title><![CDATA[家有公婆10/38]]></title>
+</event>
+<event id="1134040566">
+<start_time>04:12</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[插花-2015-11]]></title>
+</event>
+<event id="1134040569">
+<start_time>04:20</start_time>
+<end_time>05:06</end_time>
+<title><![CDATA[三妹20/56]]></title>
+</event>
+<event id="1134040572">
+<start_time>05:06</start_time>
+<end_time>05:52</end_time>
+<title><![CDATA[三妹21/56]]></title>
+</event>
+<event id="1134040575">
+<start_time>05:52</start_time>
+<end_time>06:41</end_time>
+<title><![CDATA[三妹22/56]]></title>
+</event>
+<event id="1134040578">
+<start_time>06:41</start_time>
+<end_time>07:27</end_time>
+<title><![CDATA[三妹23/56]]></title>
+</event>
+<event id="1134040581">
+<start_time>07:27</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[星推荐-2019年6月-20]]></title>
+</event>
+<event id="1134040584">
+<start_time>07:36</start_time>
+<end_time>08:32</end_time>
+<title><![CDATA[菜刀班尖刀连20/30]]></title>
+</event>
+<event id="1134040587">
+<start_time>08:32</start_time>
+<end_time>09:29</end_time>
+<title><![CDATA[菜刀班尖刀连21/30]]></title>
+</event>
+<event id="1134040590">
+<start_time>09:29</start_time>
+<end_time>10:26</end_time>
+<title><![CDATA[菜刀班尖刀连22/30]]></title>
+</event>
+<event id="1134040593">
+<start_time>10:26</start_time>
+<end_time>11:23</end_time>
+<title><![CDATA[菜刀班尖刀连23/30]]></title>
+</event>
+<event id="1134040596">
+<start_time>11:23</start_time>
+<end_time>12:09</end_time>
+<title><![CDATA[菜刀班尖刀连24/30]]></title>
+</event>
+<event id="1134040599">
+<start_time>12:09</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[星推荐-2019年6月-20]]></title>
+</event>
+<event id="1134040602">
+<start_time>12:25</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[我的继父是偶像7/41]]></title>
+</event>
+<event id="1134040605">
+<start_time>13:22</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[我的继父是偶像8/41]]></title>
+</event>
+<event id="1134040608">
+<start_time>14:18</start_time>
+<end_time>15:15</end_time>
+<title><![CDATA[我的继父是偶像9/41]]></title>
+</event>
+<event id="1134040611">
+<start_time>15:15</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[我的继父是偶像10/41]]></title>
+</event>
+<event id="1134040614">
+<start_time>16:01</start_time>
+<end_time>16:26</end_time>
+<title><![CDATA[星推荐-2019年6月-20]]></title>
+</event>
+<event id="1134040617">
+<start_time>16:26</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[遥远的距离26/45]]></title>
+</event>
+<event id="1134040620">
+<start_time>17:28</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[遥远的距离27/45]]></title>
+</event>
+<event id="1134040623">
+<start_time>18:23</start_time>
+<end_time>18:33</end_time>
+<title><![CDATA[星推荐-2019年6月-21]]></title>
+</event>
+<event id="1134040626">
+<start_time>18:33</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[遥远的距离28/45]]></title>
+</event>
+<event id="1134040629">
+<start_time>19:24</start_time>
+<end_time>19:26</end_time>
+<title><![CDATA[插花-2015-6]]></title>
+</event>
+<event id="1134040632">
+<start_time>19:26</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[本集提要-《老虎队》20/45]]></title>
+</event>
+<event id="1134040635">
+<start_time>19:30</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[老虎队20/45]]></title>
+</event>
+<event id="1134040638">
+<start_time>20:30</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[本集提要-《老虎队》21/45]]></title>
+</event>
+<event id="1134040641">
+<start_time>20:35</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[老虎队21/45]]></title>
+</event>
+<event id="1134040644">
+<start_time>21:32</start_time>
+<end_time>21:37</end_time>
+<title><![CDATA[本集提要-《老虎队》22/45]]></title>
+</event>
+<event id="1134040647">
+<start_time>21:37</start_time>
+<end_time>22:29</end_time>
+<title><![CDATA[老虎队22/45]]></title>
+</event>
+<event id="1134040650">
+<start_time>22:29</start_time>
+<end_time>23:19</end_time>
+<title><![CDATA[父母爱情11/44]]></title>
+</event>
+<event id="1134289341">
+<start_time>23:19</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[父母爱情12/44]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV8" epg_code="CCTV8" date="2019-06-22">
+<event id="1134289344">
+<start_time>00:05</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[星推荐-2019年6月-21]]></title>
+</event>
+<event id="1134289347">
+<start_time>00:12</start_time>
+<end_time>01:08</end_time>
+<title><![CDATA[天堂百货16/16]]></title>
+</event>
+<event id="1134289350">
+<start_time>01:08</start_time>
+<end_time>01:54</end_time>
+<title><![CDATA[家有公婆11/38]]></title>
+</event>
+<event id="1134289353">
+<start_time>01:54</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[家有公婆12/38]]></title>
+</event>
+<event id="1134289356">
+<start_time>02:40</start_time>
+<end_time>03:26</end_time>
+<title><![CDATA[家有公婆13/38]]></title>
+</event>
+<event id="1134289359">
+<start_time>03:26</start_time>
+<end_time>04:12</end_time>
+<title><![CDATA[家有公婆14/38]]></title>
+</event>
+<event id="1134289362">
+<start_time>04:12</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[插花-2015-11]]></title>
+</event>
+<event id="1134289365">
+<start_time>04:20</start_time>
+<end_time>05:06</end_time>
+<title><![CDATA[三妹24/56]]></title>
+</event>
+<event id="1134289368">
+<start_time>05:06</start_time>
+<end_time>05:52</end_time>
+<title><![CDATA[三妹25/56]]></title>
+</event>
+<event id="1134289371">
+<start_time>05:52</start_time>
+<end_time>06:41</end_time>
+<title><![CDATA[三妹26/56]]></title>
+</event>
+<event id="1134289374">
+<start_time>06:41</start_time>
+<end_time>07:27</end_time>
+<title><![CDATA[三妹27/56]]></title>
+</event>
+<event id="1134289377">
+<start_time>07:27</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[星推荐-2019年6月-21]]></title>
+</event>
+<event id="1134289380">
+<start_time>07:36</start_time>
+<end_time>08:32</end_time>
+<title><![CDATA[菜刀班尖刀连25/30]]></title>
+</event>
+<event id="1134289383">
+<start_time>08:32</start_time>
+<end_time>09:29</end_time>
+<title><![CDATA[菜刀班尖刀连26/30]]></title>
+</event>
+<event id="1134289386">
+<start_time>09:29</start_time>
+<end_time>10:26</end_time>
+<title><![CDATA[菜刀班尖刀连27/30]]></title>
+</event>
+<event id="1134289389">
+<start_time>10:26</start_time>
+<end_time>11:23</end_time>
+<title><![CDATA[菜刀班尖刀连28/30]]></title>
+</event>
+<event id="1134289392">
+<start_time>11:23</start_time>
+<end_time>12:09</end_time>
+<title><![CDATA[菜刀班尖刀连29/30]]></title>
+</event>
+<event id="1134289395">
+<start_time>12:09</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[星推荐-2019年6月-21]]></title>
+</event>
+<event id="1134289398">
+<start_time>12:25</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[我的继父是偶像11/41]]></title>
+</event>
+<event id="1134289401">
+<start_time>13:22</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[我的继父是偶像12/41]]></title>
+</event>
+<event id="1134289404">
+<start_time>14:18</start_time>
+<end_time>15:15</end_time>
+<title><![CDATA[我的继父是偶像13/41]]></title>
+</event>
+<event id="1134289407">
+<start_time>15:15</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[我的继父是偶像14/41]]></title>
+</event>
+<event id="1134289410">
+<start_time>16:01</start_time>
+<end_time>16:26</end_time>
+<title><![CDATA[星推荐-2019年6月-21]]></title>
+</event>
+<event id="1134289413">
+<start_time>16:26</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[遥远的距离29/45]]></title>
+</event>
+<event id="1134289416">
+<start_time>17:28</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[遥远的距离30/45]]></title>
+</event>
+<event id="1134289419">
+<start_time>18:23</start_time>
+<end_time>18:33</end_time>
+<title><![CDATA[星推荐-2019年6月-22]]></title>
+</event>
+<event id="1134289422">
+<start_time>18:33</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[遥远的距离31/45]]></title>
+</event>
+<event id="1134289425">
+<start_time>19:24</start_time>
+<end_time>19:26</end_time>
+<title><![CDATA[插花-2015-6]]></title>
+</event>
+<event id="1134289428">
+<start_time>19:26</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[本集提要-《老虎队》23/45]]></title>
+</event>
+<event id="1134289431">
+<start_time>19:30</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[老虎队23/45]]></title>
+</event>
+<event id="1134289434">
+<start_time>20:30</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[本集提要-《老虎队》24/45]]></title>
+</event>
+<event id="1134289437">
+<start_time>20:35</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[老虎队24/45]]></title>
+</event>
+<event id="1134289440">
+<start_time>21:32</start_time>
+<end_time>21:37</end_time>
+<title><![CDATA[本集提要-《老虎队》25/45]]></title>
+</event>
+<event id="1134289443">
+<start_time>21:37</start_time>
+<end_time>22:29</end_time>
+<title><![CDATA[老虎队25/45]]></title>
+</event>
+<event id="1134289446">
+<start_time>22:29</start_time>
+<end_time>23:19</end_time>
+<title><![CDATA[父母爱情13/44]]></title>
+</event>
+<event id="1134418734">
+<start_time>23:19</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[父母爱情14/44]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV8" epg_code="CCTV8" date="2019-06-23">
+<event id="1134418737">
+<start_time>00:05</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[星推荐-2019年6月-22]]></title>
+</event>
+<event id="1134418740">
+<start_time>00:12</start_time>
+<end_time>01:04</end_time>
+<title><![CDATA[罗密欧与朱丽叶1/4]]></title>
+</event>
+<event id="1134418743">
+<start_time>01:04</start_time>
+<end_time>01:50</end_time>
+<title><![CDATA[家有公婆15/38]]></title>
+</event>
+<event id="1134418746">
+<start_time>01:50</start_time>
+<end_time>02:36</end_time>
+<title><![CDATA[家有公婆16/38]]></title>
+</event>
+<event id="1134418749">
+<start_time>02:36</start_time>
+<end_time>03:22</end_time>
+<title><![CDATA[家有公婆17/38]]></title>
+</event>
+<event id="1134418752">
+<start_time>03:22</start_time>
+<end_time>04:08</end_time>
+<title><![CDATA[家有公婆18/38]]></title>
+</event>
+<event id="1134418755">
+<start_time>04:08</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[插花-2015-11]]></title>
+</event>
+<event id="1134418758">
+<start_time>04:20</start_time>
+<end_time>05:06</end_time>
+<title><![CDATA[三妹28/56]]></title>
+</event>
+<event id="1134418761">
+<start_time>05:06</start_time>
+<end_time>05:52</end_time>
+<title><![CDATA[三妹29/56]]></title>
+</event>
+<event id="1134418764">
+<start_time>05:52</start_time>
+<end_time>06:41</end_time>
+<title><![CDATA[三妹30/56]]></title>
+</event>
+<event id="1134418767">
+<start_time>06:41</start_time>
+<end_time>07:27</end_time>
+<title><![CDATA[三妹31/56]]></title>
+</event>
+<event id="1134418770">
+<start_time>07:27</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[星推荐-2019年6月-22]]></title>
+</event>
+<event id="1134418773">
+<start_time>07:36</start_time>
+<end_time>08:32</end_time>
+<title><![CDATA[菜刀班尖刀连30/30]]></title>
+</event>
+<event id="1134418776">
+<start_time>08:32</start_time>
+<end_time>09:29</end_time>
+<title><![CDATA[老虎队1/45]]></title>
+</event>
+<event id="1134418779">
+<start_time>09:29</start_time>
+<end_time>10:26</end_time>
+<title><![CDATA[老虎队2/45]]></title>
+</event>
+<event id="1134418782">
+<start_time>10:26</start_time>
+<end_time>11:23</end_time>
+<title><![CDATA[老虎队3/45]]></title>
+</event>
+<event id="1134418785">
+<start_time>11:23</start_time>
+<end_time>12:09</end_time>
+<title><![CDATA[老虎队4/45]]></title>
+</event>
+<event id="1134418788">
+<start_time>12:09</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[星推荐-2019年6月-22]]></title>
+</event>
+<event id="1134418791">
+<start_time>12:25</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[我的继父是偶像15/41]]></title>
+</event>
+<event id="1134418794">
+<start_time>13:22</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[我的继父是偶像16/41]]></title>
+</event>
+<event id="1134418797">
+<start_time>14:18</start_time>
+<end_time>15:15</end_time>
+<title><![CDATA[我的继父是偶像17/41]]></title>
+</event>
+<event id="1134418800">
+<start_time>15:15</start_time>
+<end_time>16:01</end_time>
+<title><![CDATA[我的继父是偶像18/41]]></title>
+</event>
+<event id="1134418803">
+<start_time>16:01</start_time>
+<end_time>16:26</end_time>
+<title><![CDATA[星推荐-2019年6月-22]]></title>
+</event>
+<event id="1134418806">
+<start_time>16:26</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[遥远的距离32/45]]></title>
+</event>
+<event id="1134418809">
+<start_time>17:28</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[遥远的距离33/45]]></title>
+</event>
+<event id="1134418812">
+<start_time>18:23</start_time>
+<end_time>18:33</end_time>
+<title><![CDATA[星推荐-2019年6月-23]]></title>
+</event>
+<event id="1134418815">
+<start_time>18:33</start_time>
+<end_time>19:24</end_time>
+<title><![CDATA[遥远的距离34/45]]></title>
+</event>
+<event id="1134418818">
+<start_time>19:24</start_time>
+<end_time>19:26</end_time>
+<title><![CDATA[插花-2015-6]]></title>
+</event>
+<event id="1134418821">
+<start_time>19:26</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[本集提要-《老虎队》26/45]]></title>
+</event>
+<event id="1134418824">
+<start_time>19:30</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[老虎队26/45]]></title>
+</event>
+<event id="1134418827">
+<start_time>20:30</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[本集提要-《老虎队》27/45]]></title>
+</event>
+<event id="1134418830">
+<start_time>20:35</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[老虎队27/45]]></title>
+</event>
+<event id="1134418833">
+<start_time>21:32</start_time>
+<end_time>21:37</end_time>
+<title><![CDATA[插花-2015-6]]></title>
+</event>
+<event id="1134418836">
+<start_time>21:37</start_time>
+<end_time>22:28</end_time>
+<title><![CDATA[剧说很好看-2019-12]]></title>
+</event>
+<event id="1134418839">
+<start_time>22:28</start_time>
+<end_time>23:18</end_time>
+<title><![CDATA[父母爱情15/44]]></title>
+</event>
+<event id="1134530271">
+<start_time>23:18</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[父母爱情16/44]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV8" epg_code="CCTV8" date="2019-06-24">
+<event id="1134484968">
+<start_time>00:10</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134484971">
+<start_time>00:58</start_time>
+<end_time>01:44</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134484974">
+<start_time>01:44</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134484977">
+<start_time>02:30</start_time>
+<end_time>03:16</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134484980">
+<start_time>03:16</start_time>
+<end_time>04:02</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134484983">
+<start_time>04:02</start_time>
+<end_time>04:48</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134484986">
+<start_time>04:48</start_time>
+<end_time>04:55</end_time>
+<title><![CDATA[插花]]></title>
+</event>
+<event id="1134484989">
+<start_time>04:55</start_time>
+<end_time>05:41</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134484992">
+<start_time>05:41</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134484995">
+<start_time>06:27</start_time>
+<end_time>07:18</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134484998">
+<start_time>07:18</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134485001">
+<start_time>08:04</start_time>
+<end_time>08:11</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1134485004">
+<start_time>08:11</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1134485007">
+<start_time>09:06</start_time>
+<end_time>10:03</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1134485010">
+<start_time>10:03</start_time>
+<end_time>10:56</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1134485013">
+<start_time>10:56</start_time>
+<end_time>11:49</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1134485016">
+<start_time>11:49</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1134485019">
+<start_time>12:35</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1134485022">
+<start_time>12:50</start_time>
+<end_time>13:43</end_time>
+<title><![CDATA[佳人剧场]]></title>
+</event>
+<event id="1134485025">
+<start_time>13:43</start_time>
+<end_time>14:38</end_time>
+<title><![CDATA[佳人剧场]]></title>
+</event>
+<event id="1134485028">
+<start_time>14:38</start_time>
+<end_time>15:31</end_time>
+<title><![CDATA[佳人剧场]]></title>
+</event>
+<event id="1134485031">
+<start_time>15:31</start_time>
+<end_time>16:17</end_time>
+<title><![CDATA[佳人剧场]]></title>
+</event>
+<event id="1134485034">
+<start_time>16:17</start_time>
+<end_time>16:38</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1134485037">
+<start_time>16:38</start_time>
+<end_time>17:34</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134485040">
+<start_time>17:34</start_time>
+<end_time>18:28</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134485043">
+<start_time>18:28</start_time>
+<end_time>18:36</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1134485046">
+<start_time>18:36</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1134485049">
+<start_time>19:30</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1134485052">
+<start_time>20:30</start_time>
+<end_time>21:29</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1134485055">
+<start_time>21:29</start_time>
+<end_time>22:23</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1134485058">
+<start_time>22:23</start_time>
+<end_time>23:09</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1134485061">
+<start_time>23:09</start_time>
+<end_time>23:16</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1135112664">
+<start_time>23:16</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV8" epg_code="CCTV8" date="2019-06-25">
+<event id="1135047552">
+<start_time>00:10</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135047555">
+<start_time>00:58</start_time>
+<end_time>01:44</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135047558">
+<start_time>01:44</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135047561">
+<start_time>02:30</start_time>
+<end_time>03:16</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135047564">
+<start_time>03:16</start_time>
+<end_time>04:02</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135047567">
+<start_time>04:02</start_time>
+<end_time>04:48</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135047570">
+<start_time>04:48</start_time>
+<end_time>04:55</end_time>
+<title><![CDATA[插花]]></title>
+</event>
+<event id="1135047573">
+<start_time>04:55</start_time>
+<end_time>05:41</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135047576">
+<start_time>05:41</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135047579">
+<start_time>06:27</start_time>
+<end_time>07:18</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135047582">
+<start_time>07:18</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135047585">
+<start_time>08:04</start_time>
+<end_time>08:11</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1135047588">
+<start_time>08:11</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1135047591">
+<start_time>09:06</start_time>
+<end_time>10:03</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1135047594">
+<start_time>10:03</start_time>
+<end_time>10:56</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1135047597">
+<start_time>10:56</start_time>
+<end_time>11:49</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1135047600">
+<start_time>11:49</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[魅力剧场]]></title>
+</event>
+<event id="1135047603">
+<start_time>12:35</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1135047606">
+<start_time>12:50</start_time>
+<end_time>13:43</end_time>
+<title><![CDATA[佳人剧场]]></title>
+</event>
+<event id="1135047609">
+<start_time>13:43</start_time>
+<end_time>14:38</end_time>
+<title><![CDATA[佳人剧场]]></title>
+</event>
+<event id="1135047612">
+<start_time>14:38</start_time>
+<end_time>15:31</end_time>
+<title><![CDATA[佳人剧场]]></title>
+</event>
+<event id="1135047615">
+<start_time>15:31</start_time>
+<end_time>16:17</end_time>
+<title><![CDATA[佳人剧场]]></title>
+</event>
+<event id="1135047618">
+<start_time>16:17</start_time>
+<end_time>16:38</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1135047621">
+<start_time>16:38</start_time>
+<end_time>17:34</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1135047624">
+<start_time>17:34</start_time>
+<end_time>18:28</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1135047627">
+<start_time>18:28</start_time>
+<end_time>18:36</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1135047630">
+<start_time>18:36</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[热播剧场]]></title>
+</event>
+<event id="1135047633">
+<start_time>19:30</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1135047636">
+<start_time>20:30</start_time>
+<end_time>21:29</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1135047639">
+<start_time>21:29</start_time>
+<end_time>22:23</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1135047642">
+<start_time>22:23</start_time>
+<end_time>23:09</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1135047645">
+<start_time>23:09</start_time>
+<end_time>23:16</end_time>
+<title><![CDATA[星推荐]]></title>
+</event>
+<event id="1135047648">
+<start_time>23:16</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+</schedule>
+</document>

@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="AHTV1" epg_code="AHTV1" date="2019-06-18">
+<event id="1135239357">
+<start_time>00:07</start_time>
+<end_time>00:22</end_time>
+<title><![CDATA[新安夜空]]></title>
+</event>
+<event id="1135239360">
+<start_time>00:22</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[旅游景区天气预报]]></title>
+</event>
+<event id="1135239363">
+<start_time>00:24</start_time>
+<end_time>00:50</end_time>
+<title><![CDATA[主题微电影-爸爸妈妈的橡树]]></title>
+</event>
+<event id="1135239366">
+<start_time>00:50</start_time>
+<end_time>01:37</end_time>
+<title><![CDATA[雄风剧场:证据5]]></title>
+</event>
+<event id="1135239369">
+<start_time>01:37</start_time>
+<end_time>02:24</end_time>
+<title><![CDATA[雄风剧场:证据6]]></title>
+</event>
+<event id="1135239372">
+<start_time>02:24</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[雄风剧场:证据7]]></title>
+</event>
+<event id="1135239375">
+<start_time>03:10</start_time>
+<end_time>03:57</end_time>
+<title><![CDATA[雄风剧场:证据8]]></title>
+</event>
+<event id="1135239378">
+<start_time>03:57</start_time>
+<end_time>04:42</end_time>
+<title><![CDATA[雄风剧场:证据9]]></title>
+</event>
+<event id="1135239381">
+<start_time>04:42</start_time>
+<end_time>04:56</end_time>
+<title><![CDATA[中国梦纪录片展播-梦想合伙人]]></title>
+</event>
+<event id="1135239384">
+<start_time>04:56</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[纪录片:长板小柒]]></title>
+</event>
+<event id="1135239387">
+<start_time>05:05</start_time>
+<end_time>05:35</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1135239390">
+<start_time>05:35</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[超级新闻场]]></title>
+</event>
+<event id="1135239393">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[超级新闻场(上)]]></title>
+</event>
+<event id="1135239396">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135239399">
+<start_time>07:01</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[超级新闻场(下)]]></title>
+</event>
+<event id="1135239402">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[安徽新闻联播]]></title>
+</event>
+<event id="1135239405">
+<start_time>08:00</start_time>
+<end_time>08:23</end_time>
+<title><![CDATA[纪录片:中国文房四宝2(下)]]></title>
+</event>
+<event id="1135239408">
+<start_time>08:23</start_time>
+<end_time>08:43</end_time>
+<title><![CDATA[主题微电影]]></title>
+</event>
+<event id="1135239411">
+<start_time>08:43</start_time>
+<end_time>08:58</end_time>
+<title><![CDATA[动画剧场:大禹治水6]]></title>
+</event>
+<event id="1135239414">
+<start_time>08:58</start_time>
+<end_time>09:19</end_time>
+<title><![CDATA[动画剧场:大禹治水7]]></title>
+</event>
+<event id="1135219248">
+<start_time>09:19</start_time>
+<end_time>10:07</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(6)]]></title>
+</event>
+<event id="1135238337">
+<start_time>10:07</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(7)]]></title>
+</event>
+<event id="1135238340">
+<start_time>10:59</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(8)]]></title>
+</event>
+<event id="1135250613">
+<start_time>11:45</start_time>
+<end_time>13:41</end_time>
+<title><![CDATA[男生女生闯天涯精华版(21)]]></title>
+</event>
+<event id="1135261335">
+<start_time>13:41</start_time>
+<end_time>14:36</end_time>
+<title><![CDATA[真情剧场:情满四合院(11)]]></title>
+</event>
+<event id="1135261338">
+<start_time>14:36</start_time>
+<end_time>15:27</end_time>
+<title><![CDATA[真情剧场:情满四合院(12)]]></title>
+</event>
+<event id="1135203198">
+<start_time>15:27</start_time>
+<end_time>16:19</end_time>
+<title><![CDATA[真情剧场:情满四合院(13)]]></title>
+</event>
+<event id="1135203201">
+<start_time>16:19</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[真情剧场:情满四合院(14)]]></title>
+</event>
+<event id="1135203204">
+<start_time>17:11</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[真情剧场:情满四合院(15)]]></title>
+</event>
+<event id="1132856721">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1132856724">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[安徽新闻联播]]></title>
+</event>
+<event id="1132856727">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[安徽天气预报]]></title>
+</event>
+<event id="1132856730">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1132856733">
+<start_time>19:35</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(9)]]></title>
+</event>
+<event id="1132856736">
+<start_time>20:31</start_time>
+<end_time>21:24</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(10)]]></title>
+</event>
+<event id="1132856739">
+<start_time>21:24</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[健康大问诊]]></title>
+</event>
+<event id="1135207734">
+<start_time>22:00</start_time>
+<end_time>22:38</end_time>
+<title><![CDATA[晚间剧场:超级巨星二 7]]></title>
+</event>
+<event id="1135207737">
+<start_time>22:38</start_time>
+<end_time>23:25</end_time>
+<title><![CDATA[晚间剧场:超级巨星二 8]]></title>
+</event>
+<event id="1133197200">
+<start_time>23:25</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[美丽俏佳人]]></title>
+</event>
+</schedule>
+<schedule channel_id="AHTV1" epg_code="AHTV1" date="2019-06-19">
+<event id="1133117559">
+<start_time>00:10</start_time>
+<end_time>00:14</end_time>
+<title><![CDATA[旅游天气预报]]></title>
+</event>
+<event id="1133117562">
+<start_time>00:14</start_time>
+<end_time>00:39</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1134979782">
+<start_time>00:39</start_time>
+<end_time>01:25</end_time>
+<title><![CDATA[雄风剧场:证据(10)]]></title>
+</event>
+<event id="1134979785">
+<start_time>01:25</start_time>
+<end_time>02:12</end_time>
+<title><![CDATA[雄风剧场:证据(11)]]></title>
+</event>
+<event id="1134979788">
+<start_time>02:12</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[雄风剧场:证据(12)]]></title>
+</event>
+<event id="1134979791">
+<start_time>03:00</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[雄风剧场:证据(13)]]></title>
+</event>
+<event id="1134979794">
+<start_time>03:45</start_time>
+<end_time>04:32</end_time>
+<title><![CDATA[雄风剧场:证据(14)]]></title>
+</event>
+<event id="1133117580">
+<start_time>04:32</start_time>
+<end_time>05:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133117583">
+<start_time>05:01</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1133117586">
+<start_time>05:30</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[超级新闻场(重播)]]></title>
+</event>
+<event id="1133117589">
+<start_time>06:30</start_time>
+<end_time>07:37</end_time>
+<title><![CDATA[超级新闻场]]></title>
+</event>
+<event id="1133117592">
+<start_time>07:37</start_time>
+<end_time>08:10</end_time>
+<title><![CDATA[健康大问诊]]></title>
+</event>
+<event id="1134935634">
+<start_time>08:10</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[动画剧场:大禹治水(7)]]></title>
+</event>
+<event id="1134143904">
+<start_time>09:00</start_time>
+<end_time>09:54</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(9)]]></title>
+</event>
+<event id="1134143907">
+<start_time>09:54</start_time>
+<end_time>10:51</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(10)]]></title>
+</event>
+<event id="1134143910">
+<start_time>10:51</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(11)]]></title>
+</event>
+<event id="1133117607">
+<start_time>11:45</start_time>
+<end_time>13:38</end_time>
+<title><![CDATA[男生女生向前冲第十季]]></title>
+</event>
+<event id="1134143913">
+<start_time>13:38</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[真情剧场:情满四合院(16)]]></title>
+</event>
+<event id="1134143916">
+<start_time>14:30</start_time>
+<end_time>15:22</end_time>
+<title><![CDATA[真情剧场:情满四合院(17)]]></title>
+</event>
+<event id="1134143919">
+<start_time>15:22</start_time>
+<end_time>16:10</end_time>
+<title><![CDATA[真情剧场:情满四合院(18)]]></title>
+</event>
+<event id="1134143922">
+<start_time>16:10</start_time>
+<end_time>17:04</end_time>
+<title><![CDATA[真情剧场:情满四合院(19)]]></title>
+</event>
+<event id="1134143925">
+<start_time>17:04</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[真情剧场:情满四合院(20)]]></title>
+</event>
+<event id="1133117625">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1133117628">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[安徽新闻联播]]></title>
+</event>
+<event id="1133117631">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[安徽天气预报]]></title>
+</event>
+<event id="1133117634">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133117637">
+<start_time>19:35</start_time>
+<end_time>20:32</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(11)]]></title>
+</event>
+<event id="1133117640">
+<start_time>20:32</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(12)]]></title>
+</event>
+<event id="1133117643">
+<start_time>21:25</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[健康大问诊]]></title>
+</event>
+<event id="1133117646">
+<start_time>22:00</start_time>
+<end_time>22:32</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1133117649">
+<start_time>22:32</start_time>
+<end_time>23:20</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1133117652">
+<start_time>23:20</start_time>
+<end_time>23:54</end_time>
+<title><![CDATA[悦宝贝]]></title>
+</event>
+<event id="1133460966">
+<start_time>23:54</start_time>
+<end_time>00:11</end_time>
+<title><![CDATA[新安夜空]]></title>
+</event>
+</schedule>
+<schedule channel_id="AHTV1" epg_code="AHTV1" date="2019-06-20">
+<event id="1133352330">
+<start_time>00:11</start_time>
+<end_time>00:14</end_time>
+<title><![CDATA[旅游天气预报]]></title>
+</event>
+<event id="1133352333">
+<start_time>00:14</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1134979797">
+<start_time>00:38</start_time>
+<end_time>01:25</end_time>
+<title><![CDATA[雄风剧场:证据(15)]]></title>
+</event>
+<event id="1134979800">
+<start_time>01:25</start_time>
+<end_time>02:11</end_time>
+<title><![CDATA[雄风剧场:证据(16)]]></title>
+</event>
+<event id="1134979803">
+<start_time>02:11</start_time>
+<end_time>02:58</end_time>
+<title><![CDATA[雄风剧场:证据(17)]]></title>
+</event>
+<event id="1134979806">
+<start_time>02:58</start_time>
+<end_time>03:44</end_time>
+<title><![CDATA[雄风剧场:证据(18)]]></title>
+</event>
+<event id="1134979809">
+<start_time>03:44</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[雄风剧场:证据(19)]]></title>
+</event>
+<event id="1133352351">
+<start_time>04:30</start_time>
+<end_time>05:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133352354">
+<start_time>05:01</start_time>
+<end_time>05:31</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1133352357">
+<start_time>05:31</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[超级新闻场]]></title>
+</event>
+<event id="1133352360">
+<start_time>07:36</start_time>
+<end_time>08:10</end_time>
+<title><![CDATA[健康大问诊]]></title>
+</event>
+<event id="1134935652">
+<start_time>08:10</start_time>
+<end_time>09:10</end_time>
+<title><![CDATA[动画剧场:大禹治水(8)]]></title>
+</event>
+<event id="1134143931">
+<start_time>09:10</start_time>
+<end_time>10:05</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(12)]]></title>
+</event>
+<event id="1134143934">
+<start_time>10:05</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(13)]]></title>
+</event>
+<event id="1134143937">
+<start_time>11:00</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(14)]]></title>
+</event>
+<event id="1133352375">
+<start_time>11:45</start_time>
+<end_time>13:38</end_time>
+<title><![CDATA[男生女生向前冲第十季]]></title>
+</event>
+<event id="1134143940">
+<start_time>13:38</start_time>
+<end_time>14:32</end_time>
+<title><![CDATA[真情剧场:情满四合院(21)]]></title>
+</event>
+<event id="1134143943">
+<start_time>14:32</start_time>
+<end_time>15:26</end_time>
+<title><![CDATA[真情剧场:情满四合院(22)]]></title>
+</event>
+<event id="1134143946">
+<start_time>15:26</start_time>
+<end_time>16:18</end_time>
+<title><![CDATA[真情剧场:情满四合院(23)]]></title>
+</event>
+<event id="1134143949">
+<start_time>16:18</start_time>
+<end_time>17:14</end_time>
+<title><![CDATA[真情剧场:情满四合院(24)]]></title>
+</event>
+<event id="1134143952">
+<start_time>17:14</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[真情剧场:情满四合院(25)]]></title>
+</event>
+<event id="1133352393">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1133352396">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[安徽新闻联播]]></title>
+</event>
+<event id="1133352399">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[安徽天气预报]]></title>
+</event>
+<event id="1133352402">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133352405">
+<start_time>19:35</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(13)]]></title>
+</event>
+<event id="1133352408">
+<start_time>20:30</start_time>
+<end_time>21:28</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(14)]]></title>
+</event>
+<event id="1133352411">
+<start_time>21:28</start_time>
+<end_time>22:02</end_time>
+<title><![CDATA[品格]]></title>
+</event>
+<event id="1133352414">
+<start_time>22:02</start_time>
+<end_time>23:12</end_time>
+<title><![CDATA[未见钟情]]></title>
+</event>
+<event id="1133724468">
+<start_time>23:12</start_time>
+<end_time>00:01</end_time>
+<title><![CDATA[悦美食]]></title>
+</event>
+</schedule>
+<schedule channel_id="AHTV1" epg_code="AHTV1" date="2019-06-21">
+<event id="1133638323">
+<start_time>00:01</start_time>
+<end_time>00:02</end_time>
+<title><![CDATA[旅游天气预报]]></title>
+</event>
+<event id="1133638326">
+<start_time>00:02</start_time>
+<end_time>00:35</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1134979812">
+<start_time>00:35</start_time>
+<end_time>01:23</end_time>
+<title><![CDATA[雄风剧场:证据(20)]]></title>
+</event>
+<event id="1134979815">
+<start_time>01:23</start_time>
+<end_time>02:10</end_time>
+<title><![CDATA[雄风剧场:证据(21)]]></title>
+</event>
+<event id="1134979818">
+<start_time>02:10</start_time>
+<end_time>02:57</end_time>
+<title><![CDATA[雄风剧场:证据(22)]]></title>
+</event>
+<event id="1133638338">
+<start_time>02:57</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1133638341">
+<start_time>03:45</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1133638344">
+<start_time>04:30</start_time>
+<end_time>05:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133638347">
+<start_time>05:01</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1133638350">
+<start_time>05:30</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[超级新闻场(重播)]]></title>
+</event>
+<event id="1133638353">
+<start_time>06:30</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[超级新闻场]]></title>
+</event>
+<event id="1133638356">
+<start_time>07:36</start_time>
+<end_time>07:46</end_time>
+<title><![CDATA[安徽好人在身边]]></title>
+</event>
+<event id="1133638359">
+<start_time>07:46</start_time>
+<end_time>08:28</end_time>
+<title><![CDATA[相约花戏楼]]></title>
+</event>
+<event id="1133638362">
+<start_time>08:28</start_time>
+<end_time>08:53</end_time>
+<title><![CDATA[记住乡愁]]></title>
+</event>
+<event id="1134935661">
+<start_time>08:53</start_time>
+<end_time>09:15</end_time>
+<title><![CDATA[动画剧场:大禹治水(9)]]></title>
+</event>
+<event id="1134143958">
+<start_time>09:15</start_time>
+<end_time>10:03</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(15)]]></title>
+</event>
+<event id="1134143961">
+<start_time>10:03</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(16)]]></title>
+</event>
+<event id="1134143964">
+<start_time>11:00</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(17)]]></title>
+</event>
+<event id="1133638377">
+<start_time>11:45</start_time>
+<end_time>13:38</end_time>
+<title><![CDATA[男生女生向前冲第十季]]></title>
+</event>
+<event id="1134143967">
+<start_time>13:38</start_time>
+<end_time>14:31</end_time>
+<title><![CDATA[真情剧场:情满四合院(26)]]></title>
+</event>
+<event id="1134143970">
+<start_time>14:31</start_time>
+<end_time>15:27</end_time>
+<title><![CDATA[真情剧场:情满四合院(27)]]></title>
+</event>
+<event id="1134143973">
+<start_time>15:27</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[真情剧场:情满四合院(28)]]></title>
+</event>
+<event id="1134143976">
+<start_time>16:20</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[真情剧场:情满四合院(29)]]></title>
+</event>
+<event id="1134143979">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[真情剧场:情满四合院(30)]]></title>
+</event>
+<event id="1133638395">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1133638398">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[安徽新闻联播]]></title>
+</event>
+<event id="1133638401">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[安徽天气预报]]></title>
+</event>
+<event id="1133638404">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133638407">
+<start_time>19:34</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(15)]]></title>
+</event>
+<event id="1133638410">
+<start_time>20:31</start_time>
+<end_time>21:24</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(16)]]></title>
+</event>
+<event id="1133638413">
+<start_time>21:24</start_time>
+<end_time>22:15</end_time>
+<title><![CDATA[逛遍全世界]]></title>
+</event>
+<event id="1133638416">
+<start_time>22:15</start_time>
+<end_time>23:10</end_time>
+<title><![CDATA[逛遍全世界]]></title>
+</event>
+<event id="1134015834">
+<start_time>23:10</start_time>
+<end_time>00:07</end_time>
+<title><![CDATA[耳畔中国]]></title>
+</event>
+</schedule>
+<schedule channel_id="AHTV1" epg_code="AHTV1" date="2019-06-22">
+<event id="1133914737">
+<start_time>00:07</start_time>
+<end_time>00:23</end_time>
+<title><![CDATA[新安夜空]]></title>
+</event>
+<event id="1133914740">
+<start_time>00:23</start_time>
+<end_time>00:39</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133914743">
+<start_time>00:39</start_time>
+<end_time>01:25</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1133914746">
+<start_time>01:25</start_time>
+<end_time>02:11</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1133914749">
+<start_time>02:11</start_time>
+<end_time>02:57</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1133914752">
+<start_time>02:57</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1133914755">
+<start_time>03:45</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1133914758">
+<start_time>04:20</start_time>
+<end_time>05:01</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133914761">
+<start_time>05:01</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1133914764">
+<start_time>05:30</start_time>
+<end_time>06:31</end_time>
+<title><![CDATA[超级新闻场(重播)]]></title>
+</event>
+<event id="1133914767">
+<start_time>06:31</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[超级新闻场]]></title>
+</event>
+<event id="1133914770">
+<start_time>07:32</start_time>
+<end_time>08:09</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134935664">
+<start_time>08:09</start_time>
+<end_time>09:15</end_time>
+<title><![CDATA[动画剧场:大禹治水(10)]]></title>
+</event>
+<event id="1134143985">
+<start_time>09:15</start_time>
+<end_time>10:05</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(18)]]></title>
+</event>
+<event id="1134143988">
+<start_time>10:05</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(19)]]></title>
+</event>
+<event id="1134143991">
+<start_time>11:00</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(20)]]></title>
+</event>
+<event id="1133914785">
+<start_time>11:45</start_time>
+<end_time>13:38</end_time>
+<title><![CDATA[男生女生向前冲第十季]]></title>
+</event>
+<event id="1134143994">
+<start_time>13:38</start_time>
+<end_time>14:31</end_time>
+<title><![CDATA[真情剧场:情满四合院(31)]]></title>
+</event>
+<event id="1134143997">
+<start_time>14:31</start_time>
+<end_time>15:27</end_time>
+<title><![CDATA[真情剧场:情满四合院(32)]]></title>
+</event>
+<event id="1134144000">
+<start_time>15:27</start_time>
+<end_time>16:22</end_time>
+<title><![CDATA[真情剧场:情满四合院(33)]]></title>
+</event>
+<event id="1134144003">
+<start_time>16:22</start_time>
+<end_time>17:14</end_time>
+<title><![CDATA[真情剧场:情满四合院(34)]]></title>
+</event>
+<event id="1134144006">
+<start_time>17:14</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[真情剧场:情满四合院(35)]]></title>
+</event>
+<event id="1133914803">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1133914806">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[安徽新闻联播]]></title>
+</event>
+<event id="1133914809">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[安徽天气预报]]></title>
+</event>
+<event id="1133914812">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133914815">
+<start_time>19:35</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(17)]]></title>
+</event>
+<event id="1133914818">
+<start_time>20:30</start_time>
+<end_time>21:22</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(18)]]></title>
+</event>
+<event id="1133914821">
+<start_time>21:22</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[一起来跳舞]]></title>
+</event>
+<event id="1133914824">
+<start_time>22:30</start_time>
+<end_time>23:47</end_time>
+<title><![CDATA[一起来跳舞]]></title>
+</event>
+<event id="1134270084">
+<start_time>23:47</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[新安夜空]]></title>
+</event>
+</schedule>
+<schedule channel_id="AHTV1" epg_code="AHTV1" date="2019-06-23">
+<event id="1134185985">
+<start_time>00:12</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[新安夜空]]></title>
+</event>
+<event id="1134185988">
+<start_time>00:38</start_time>
+<end_time>01:24</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134185991">
+<start_time>01:24</start_time>
+<end_time>02:11</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134185994">
+<start_time>02:11</start_time>
+<end_time>02:55</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134185997">
+<start_time>02:55</start_time>
+<end_time>03:44</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134186000">
+<start_time>03:44</start_time>
+<end_time>05:01</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134186003">
+<start_time>05:01</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1134186006">
+<start_time>05:30</start_time>
+<end_time>06:31</end_time>
+<title><![CDATA[超级新闻场(重播)]]></title>
+</event>
+<event id="1134186009">
+<start_time>06:31</start_time>
+<end_time>07:31</end_time>
+<title><![CDATA[超级新闻场]]></title>
+</event>
+<event id="1134186012">
+<start_time>07:31</start_time>
+<end_time>08:06</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134935667">
+<start_time>08:06</start_time>
+<end_time>09:15</end_time>
+<title><![CDATA[动画剧场:大禹治水(11)]]></title>
+</event>
+<event id="1134186018">
+<start_time>09:15</start_time>
+<end_time>10:07</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(21)]]></title>
+</event>
+<event id="1134186021">
+<start_time>10:07</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(22)]]></title>
+</event>
+<event id="1134186024">
+<start_time>11:00</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(23)]]></title>
+</event>
+<event id="1134186027">
+<start_time>11:45</start_time>
+<end_time>13:38</end_time>
+<title><![CDATA[男生女生向前冲第十季]]></title>
+</event>
+<event id="1134186030">
+<start_time>13:38</start_time>
+<end_time>14:31</end_time>
+<title><![CDATA[真情剧场:情满四合院(36)]]></title>
+</event>
+<event id="1134186033">
+<start_time>14:31</start_time>
+<end_time>15:28</end_time>
+<title><![CDATA[真情剧场:情满四合院(37)]]></title>
+</event>
+<event id="1134186036">
+<start_time>15:28</start_time>
+<end_time>16:21</end_time>
+<title><![CDATA[真情剧场:情满四合院(38)]]></title>
+</event>
+<event id="1134186039">
+<start_time>16:21</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[真情剧场:情满四合院(39)]]></title>
+</event>
+<event id="1134186042">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[真情剧场:情满四合院(40)]]></title>
+</event>
+<event id="1134186045">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1134186048">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[安徽新闻联播]]></title>
+</event>
+<event id="1134186051">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[安徽天气预报]]></title>
+</event>
+<event id="1134186054">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134186057">
+<start_time>19:34</start_time>
+<end_time>20:36</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(19)]]></title>
+</event>
+<event id="1134186060">
+<start_time>20:36</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(20)]]></title>
+</event>
+<event id="1134186063">
+<start_time>21:30</start_time>
+<end_time>22:20</end_time>
+<title><![CDATA[大地艺术家]]></title>
+</event>
+<event id="1134186066">
+<start_time>22:20</start_time>
+<end_time>23:10</end_time>
+<title><![CDATA[大地艺术家]]></title>
+</event>
+<event id="1134550692">
+<start_time>23:10</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[家风中华]]></title>
+</event>
+</schedule>
+<schedule channel_id="AHTV1" epg_code="AHTV1" date="2019-06-24">
+<event id="1134486957">
+<start_time>00:10</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[旅游天气预报]]></title>
+</event>
+<event id="1134486960">
+<start_time>00:12</start_time>
+<end_time>00:41</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1134486963">
+<start_time>00:41</start_time>
+<end_time>01:27</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134486966">
+<start_time>01:27</start_time>
+<end_time>02:13</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134486969">
+<start_time>02:13</start_time>
+<end_time>02:59</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134486972">
+<start_time>02:59</start_time>
+<end_time>03:46</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134486975">
+<start_time>03:46</start_time>
+<end_time>04:30</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1134486978">
+<start_time>04:30</start_time>
+<end_time>05:01</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134486981">
+<start_time>05:01</start_time>
+<end_time>05:28</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1134486984">
+<start_time>05:28</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[超级新闻场]]></title>
+</event>
+<event id="1134486987">
+<start_time>06:30</start_time>
+<end_time>07:34</end_time>
+<title><![CDATA[超级新闻场]]></title>
+</event>
+<event id="1134486990">
+<start_time>07:34</start_time>
+<end_time>08:10</end_time>
+<title><![CDATA[纪录片:水果传]]></title>
+</event>
+<event id="1134935670">
+<start_time>08:10</start_time>
+<end_time>09:15</end_time>
+<title><![CDATA[动画剧场:大禹治水(12)]]></title>
+</event>
+<event id="1134486996">
+<start_time>09:15</start_time>
+<end_time>10:07</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(24)]]></title>
+</event>
+<event id="1134486999">
+<start_time>10:07</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(25)]]></title>
+</event>
+<event id="1134487002">
+<start_time>11:00</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(26)]]></title>
+</event>
+<event id="1134487005">
+<start_time>11:45</start_time>
+<end_time>13:38</end_time>
+<title><![CDATA[男生女生向前冲第十季]]></title>
+</event>
+<event id="1134487008">
+<start_time>13:38</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[真情剧场:情满四合院(41)]]></title>
+</event>
+<event id="1134487011">
+<start_time>14:30</start_time>
+<end_time>15:30</end_time>
+<title><![CDATA[真情剧场:情满四合院(42)]]></title>
+</event>
+<event id="1134487014">
+<start_time>15:30</start_time>
+<end_time>16:23</end_time>
+<title><![CDATA[真情剧场:情满四合院(43)]]></title>
+</event>
+<event id="1134487017">
+<start_time>16:23</start_time>
+<end_time>17:17</end_time>
+<title><![CDATA[真情剧场:情满四合院(44)]]></title>
+</event>
+<event id="1134487020">
+<start_time>17:17</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[真情剧场:情满四合院(45)]]></title>
+</event>
+<event id="1134487023">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1134487026">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[安徽新闻联播]]></title>
+</event>
+<event id="1134487029">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[安徽天气预报]]></title>
+</event>
+<event id="1134487032">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134487035">
+<start_time>19:34</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(21)]]></title>
+</event>
+<event id="1134487038">
+<start_time>20:27</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(22)]]></title>
+</event>
+<event id="1134487041">
+<start_time>21:25</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[悦美食]]></title>
+</event>
+<event id="1134487044">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1134487047">
+<start_time>22:30</start_time>
+<end_time>23:10</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1135137837">
+<start_time>23:10</start_time>
+<end_time>00:13</end_time>
+<title><![CDATA[不可思议时尚家]]></title>
+</event>
+</schedule>
+<schedule channel_id="AHTV1" epg_code="AHTV1" date="2019-06-25">
+<event id="1135049178">
+<start_time>00:13</start_time>
+<end_time>00:14</end_time>
+<title><![CDATA[旅游景区天气预报]]></title>
+</event>
+<event id="1135049181">
+<start_time>00:14</start_time>
+<end_time>00:39</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1135049184">
+<start_time>00:39</start_time>
+<end_time>01:26</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1135049187">
+<start_time>01:26</start_time>
+<end_time>02:12</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1135049190">
+<start_time>02:12</start_time>
+<end_time>02:59</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1135049193">
+<start_time>02:59</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1135049196">
+<start_time>03:45</start_time>
+<end_time>04:32</end_time>
+<title><![CDATA[雄风剧场]]></title>
+</event>
+<event id="1135049199">
+<start_time>04:32</start_time>
+<end_time>05:01</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1135049202">
+<start_time>05:01</start_time>
+<end_time>05:31</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1135049205">
+<start_time>05:31</start_time>
+<end_time>06:31</end_time>
+<title><![CDATA[超级新闻场(重播)]]></title>
+</event>
+<event id="1135049208">
+<start_time>06:31</start_time>
+<end_time>07:37</end_time>
+<title><![CDATA[超级新闻场]]></title>
+</event>
+<event id="1135049211">
+<start_time>07:37</start_time>
+<end_time>08:10</end_time>
+<title><![CDATA[健康大问诊]]></title>
+</event>
+<event id="1135049214">
+<start_time>08:10</start_time>
+<end_time>09:15</end_time>
+<title><![CDATA[动画剧场]]></title>
+</event>
+<event id="1135049217">
+<start_time>09:15</start_time>
+<end_time>10:07</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(27)]]></title>
+</event>
+<event id="1135049220">
+<start_time>10:07</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(28)]]></title>
+</event>
+<event id="1135049223">
+<start_time>11:00</start_time>
+<end_time>11:45</end_time>
+<title><![CDATA[海豚万家剧场:大宋提刑官(29)]]></title>
+</event>
+<event id="1135049226">
+<start_time>11:45</start_time>
+<end_time>13:38</end_time>
+<title><![CDATA[男生女生向前冲第十季]]></title>
+</event>
+<event id="1135049229">
+<start_time>13:38</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[真情剧场:情满四合院(46)]]></title>
+</event>
+<event id="1135049232">
+<start_time>14:30</start_time>
+<end_time>15:30</end_time>
+<title><![CDATA[真情剧场]]></title>
+</event>
+<event id="1135049235">
+<start_time>15:30</start_time>
+<end_time>16:22</end_time>
+<title><![CDATA[真情剧场]]></title>
+</event>
+<event id="1135049238">
+<start_time>16:22</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[真情剧场]]></title>
+</event>
+<event id="1135049241">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[真情剧场]]></title>
+</event>
+<event id="1135049244">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[每日新闻报]]></title>
+</event>
+<event id="1135049247">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[安徽新闻联播]]></title>
+</event>
+<event id="1135049250">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[安徽天气预报]]></title>
+</event>
+<event id="1135049253">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135049256">
+<start_time>19:35</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(23)]]></title>
+</event>
+<event id="1135049259">
+<start_time>20:31</start_time>
+<end_time>21:24</end_time>
+<title><![CDATA[海豚第一剧场:上线下线(24)]]></title>
+</event>
+<event id="1135049262">
+<start_time>21:24</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[健康大问诊]]></title>
+</event>
+<event id="1135049265">
+<start_time>22:00</start_time>
+<end_time>22:38</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1135049268">
+<start_time>22:38</start_time>
+<end_time>23:25</end_time>
+<title><![CDATA[晚间剧场]]></title>
+</event>
+<event id="1135049271">
+<start_time>23:25</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[美丽俏佳人]]></title>
+</event>
+</schedule>
+</document>

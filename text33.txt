@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="JILIN1" epg_code="JILIN1" date="2019-06-18">
+<event id="1135259922">
+<start_time>00:25</start_time>
+<end_time>00:56</end_time>
+<title><![CDATA[凌晨剧场:千里雷声万里闪33]]></title>
+</event>
+<event id="1135259925">
+<start_time>00:56</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135259928">
+<start_time>01:30</start_time>
+<end_time>02:05</end_time>
+<title><![CDATA[凌晨剧场:千里雷声万里闪34]]></title>
+</event>
+<event id="1135259931">
+<start_time>02:05</start_time>
+<end_time>02:35</end_time>
+<title><![CDATA[凌晨剧场:千里雷声万里闪35]]></title>
+</event>
+<event id="1135259934">
+<start_time>02:35</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[凌晨剧场:千里雷声万里闪36]]></title>
+</event>
+<event id="1135259937">
+<start_time>03:10</start_time>
+<end_time>03:47</end_time>
+<title><![CDATA[凌晨剧场:千里雷声万里闪37]]></title>
+</event>
+<event id="1135259940">
+<start_time>03:47</start_time>
+<end_time>04:22</end_time>
+<title><![CDATA[清晨剧场:虎刺红17]]></title>
+</event>
+<event id="1135259943">
+<start_time>04:22</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[清晨剧场:虎刺红18]]></title>
+</event>
+<event id="1135259946">
+<start_time>04:57</start_time>
+<end_time>05:27</end_time>
+<title><![CDATA[清晨剧场:虎刺红19]]></title>
+</event>
+<event id="1135259949">
+<start_time>05:27</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1132832943">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1135259952">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[新闻早报(上)]]></title>
+</event>
+<event id="1135259955">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135259958">
+<start_time>07:01</start_time>
+<end_time>07:21</end_time>
+<title><![CDATA[新闻早报(下)]]></title>
+</event>
+<event id="1134980067">
+<start_time>07:21</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[早间剧场:我们村里的人(46)]]></title>
+</event>
+<event id="1135202976">
+<start_time>08:13</start_time>
+<end_time>09:15</end_time>
+<title><![CDATA[早间剧场:我们村里的人(47)]]></title>
+</event>
+<event id="1135232253">
+<start_time>09:15</start_time>
+<end_time>10:08</end_time>
+<title><![CDATA[上午剧场:野山鹰(11)]]></title>
+</event>
+<event id="1135232256">
+<start_time>10:08</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[上午剧场:野山鹰(12)]]></title>
+</event>
+<event id="1135202985">
+<start_time>11:00</start_time>
+<end_time>11:53</end_time>
+<title><![CDATA[上午剧场:野山鹰(13)]]></title>
+</event>
+<event id="1135249629">
+<start_time>11:53</start_time>
+<end_time>12:48</end_time>
+<title><![CDATA[上午剧场:野山鹰(14)]]></title>
+</event>
+<event id="1135249632">
+<start_time>12:48</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1135250649">
+<start_time>12:54</start_time>
+<end_time>13:46</end_time>
+<title><![CDATA[下午剧场:独狼(3)]]></title>
+</event>
+<event id="1135261527">
+<start_time>13:46</start_time>
+<end_time>14:38</end_time>
+<title><![CDATA[下午剧场:独狼(4)]]></title>
+</event>
+<event id="1135261530">
+<start_time>14:38</start_time>
+<end_time>15:30</end_time>
+<title><![CDATA[下午剧场:独狼(5)]]></title>
+</event>
+<event id="1135203009">
+<start_time>15:30</start_time>
+<end_time>16:23</end_time>
+<title><![CDATA[下午剧场:独狼(6)]]></title>
+</event>
+<event id="1135203012">
+<start_time>16:23</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[花儿朵朵:超级伊仔]]></title>
+</event>
+<event id="1135203015">
+<start_time>16:33</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[嘿!我知道了]]></title>
+</event>
+<event id="1135203018">
+<start_time>16:53</start_time>
+<end_time>18:02</end_time>
+<title><![CDATA[欢乐送]]></title>
+</event>
+<event id="1135203021">
+<start_time>18:02</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[情动十分]]></title>
+</event>
+<event id="1132832994">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[吉林天气预报]]></title>
+</event>
+<event id="1132832997">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1132833000">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1132833003">
+<start_time>19:33</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(17)]]></title>
+</event>
+<event id="1135204920">
+<start_time>20:24</start_time>
+<end_time>21:13</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(18)]]></title>
+</event>
+<event id="1135204923">
+<start_time>21:13</start_time>
+<end_time>22:27</end_time>
+<title><![CDATA[家事]]></title>
+</event>
+<event id="1135204926">
+<start_time>22:27</start_time>
+<end_time>23:15</end_time>
+<title><![CDATA[欢乐送]]></title>
+</event>
+<event id="1135204929">
+<start_time>23:15</start_time>
+<end_time>23:45</end_time>
+<title><![CDATA[今晚]]></title>
+</event>
+<event id="1135204932">
+<start_time>23:45</start_time>
+<end_time>00:40</end_time>
+<title><![CDATA[欢乐送:开心十分]]></title>
+</event>
+</schedule>
+<schedule channel_id="JILIN1" epg_code="JILIN1" date="2019-06-19">
+<event id="1133093274">
+<start_time>00:40</start_time>
+<end_time>01:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133093277">
+<start_time>01:45</start_time>
+<end_time>02:20</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133093280">
+<start_time>02:20</start_time>
+<end_time>02:55</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133093283">
+<start_time>02:55</start_time>
+<end_time>03:25</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133093286">
+<start_time>03:25</start_time>
+<end_time>03:57</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133093289">
+<start_time>03:57</start_time>
+<end_time>04:27</end_time>
+<title><![CDATA[清晨剧场:虎刺红(20)]]></title>
+</event>
+<event id="1133093292">
+<start_time>04:27</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[清晨剧场:虎刺红(21)]]></title>
+</event>
+<event id="1133093295">
+<start_time>04:57</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场:虎刺红(22)]]></title>
+</event>
+<event id="1133093298">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1133093301">
+<start_time>06:30</start_time>
+<end_time>07:21</end_time>
+<title><![CDATA[新闻早报]]></title>
+</event>
+<event id="1134973719">
+<start_time>07:21</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134973722">
+<start_time>08:13</start_time>
+<end_time>09:08</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134162777">
+<start_time>09:08</start_time>
+<end_time>10:01</end_time>
+<title><![CDATA[上午剧场:野山鹰(15)]]></title>
+</event>
+<event id="1134162780">
+<start_time>10:01</start_time>
+<end_time>10:54</end_time>
+<title><![CDATA[上午剧场:野山鹰(16)]]></title>
+</event>
+<event id="1134162783">
+<start_time>10:54</start_time>
+<end_time>11:47</end_time>
+<title><![CDATA[上午剧场:野山鹰(17)]]></title>
+</event>
+<event id="1134162786">
+<start_time>11:47</start_time>
+<end_time>12:41</end_time>
+<title><![CDATA[上午剧场:野山鹰(18)]]></title>
+</event>
+<event id="1133093322">
+<start_time>12:41</start_time>
+<end_time>12:47</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134973725">
+<start_time>12:47</start_time>
+<end_time>13:40</end_time>
+<title><![CDATA[下午剧场:独狼(7)]]></title>
+</event>
+<event id="1134973728">
+<start_time>13:40</start_time>
+<end_time>14:34</end_time>
+<title><![CDATA[下午剧场:独狼(8)]]></title>
+</event>
+<event id="1134973731">
+<start_time>14:34</start_time>
+<end_time>15:26</end_time>
+<title><![CDATA[下午剧场:独狼(9)]]></title>
+</event>
+<event id="1134973734">
+<start_time>15:26</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[下午剧场:独狼(10)]]></title>
+</event>
+<event id="1133093337">
+<start_time>16:20</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[花儿朵朵]]></title>
+</event>
+<event id="1133093340">
+<start_time>16:30</start_time>
+<end_time>16:51</end_time>
+<title><![CDATA[嘿我知道了]]></title>
+</event>
+<event id="1133093343">
+<start_time>16:51</start_time>
+<end_time>18:04</end_time>
+<title><![CDATA[欢乐送]]></title>
+</event>
+<event id="1133093346">
+<start_time>18:04</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[情动十分]]></title>
+</event>
+<event id="1133093349">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[吉林天气预报]]></title>
+</event>
+<event id="1133093352">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1133093355">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133093358">
+<start_time>19:33</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(19)]]></title>
+</event>
+<event id="1133093361">
+<start_time>20:24</start_time>
+<end_time>21:16</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(20)]]></title>
+</event>
+<event id="1133093364">
+<start_time>21:16</start_time>
+<end_time>22:20</end_time>
+<title><![CDATA[好久不见]]></title>
+</event>
+<event id="1133093367">
+<start_time>22:20</start_time>
+<end_time>23:19</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+<event id="1133461080">
+<start_time>23:19</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[今晚]]></title>
+</event>
+</schedule>
+<schedule channel_id="JILIN1" epg_code="JILIN1" date="2019-06-20">
+<event id="1133328543">
+<start_time>00:05</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133328546">
+<start_time>01:05</start_time>
+<end_time>01:55</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133328549">
+<start_time>01:55</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133328552">
+<start_time>02:45</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133328555">
+<start_time>03:15</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133328558">
+<start_time>03:45</start_time>
+<end_time>04:19</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133328561">
+<start_time>04:19</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[清晨剧场:虎刺红(23)]]></title>
+</event>
+<event id="1133328564">
+<start_time>04:50</start_time>
+<end_time>05:19</end_time>
+<title><![CDATA[清晨剧场:虎刺红(24)]]></title>
+</event>
+<event id="1133328567">
+<start_time>05:19</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场:虎刺红(25)]]></title>
+</event>
+<event id="1133328570">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1133328573">
+<start_time>06:30</start_time>
+<end_time>07:21</end_time>
+<title><![CDATA[新闻早报]]></title>
+</event>
+<event id="1133328576">
+<start_time>07:21</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133328579">
+<start_time>08:13</start_time>
+<end_time>09:08</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134162789">
+<start_time>09:08</start_time>
+<end_time>10:01</end_time>
+<title><![CDATA[上午剧场:野山鹰(19)]]></title>
+</event>
+<event id="1134162792">
+<start_time>10:01</start_time>
+<end_time>10:54</end_time>
+<title><![CDATA[上午剧场:野山鹰(20)]]></title>
+</event>
+<event id="1134162795">
+<start_time>10:54</start_time>
+<end_time>11:47</end_time>
+<title><![CDATA[上午剧场:野山鹰(21)]]></title>
+</event>
+<event id="1134162798">
+<start_time>11:47</start_time>
+<end_time>12:42</end_time>
+<title><![CDATA[上午剧场:野山鹰(22)]]></title>
+</event>
+<event id="1133328594">
+<start_time>12:42</start_time>
+<end_time>12:47</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134973737">
+<start_time>12:47</start_time>
+<end_time>13:40</end_time>
+<title><![CDATA[下午剧场:独狼(11)]]></title>
+</event>
+<event id="1134973740">
+<start_time>13:40</start_time>
+<end_time>14:34</end_time>
+<title><![CDATA[下午剧场:独狼(12)]]></title>
+</event>
+<event id="1134973743">
+<start_time>14:34</start_time>
+<end_time>15:26</end_time>
+<title><![CDATA[下午剧场:独狼(13)]]></title>
+</event>
+<event id="1134973746">
+<start_time>15:26</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[下午剧场:独狼(14)]]></title>
+</event>
+<event id="1133328609">
+<start_time>16:20</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[花儿朵朵]]></title>
+</event>
+<event id="1133328612">
+<start_time>16:30</start_time>
+<end_time>16:51</end_time>
+<title><![CDATA[嘿我知道了]]></title>
+</event>
+<event id="1133328615">
+<start_time>16:51</start_time>
+<end_time>18:04</end_time>
+<title><![CDATA[欢乐送]]></title>
+</event>
+<event id="1133328618">
+<start_time>18:04</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[情动十分]]></title>
+</event>
+<event id="1133328621">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[吉林天气预报]]></title>
+</event>
+<event id="1133328624">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1133328627">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133328630">
+<start_time>19:33</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(21)]]></title>
+</event>
+<event id="1133328633">
+<start_time>20:24</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(22)]]></title>
+</event>
+<event id="1133328636">
+<start_time>21:15</start_time>
+<end_time>23:25</end_time>
+<title><![CDATA[家庭欢乐秀]]></title>
+</event>
+<event id="1133328639">
+<start_time>23:25</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[今晚]]></title>
+</event>
+<event id="1133724582">
+<start_time>23:55</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[欢乐送:开心十分]]></title>
+</event>
+</schedule>
+<schedule channel_id="JILIN1" epg_code="JILIN1" date="2019-06-21">
+<event id="1133614941">
+<start_time>00:05</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133614944">
+<start_time>01:05</start_time>
+<end_time>01:55</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133614947">
+<start_time>01:55</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133614950">
+<start_time>02:45</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133614953">
+<start_time>03:15</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133614956">
+<start_time>03:45</start_time>
+<end_time>04:19</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133614959">
+<start_time>04:19</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[清晨剧场:虎刺红(26)]]></title>
+</event>
+<event id="1133614962">
+<start_time>04:50</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[清晨剧场:虎刺红(27)]]></title>
+</event>
+<event id="1133614965">
+<start_time>05:20</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场:虎刺红(28)]]></title>
+</event>
+<event id="1133614968">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1133614971">
+<start_time>06:30</start_time>
+<end_time>07:21</end_time>
+<title><![CDATA[新闻早报]]></title>
+</event>
+<event id="1133614974">
+<start_time>07:21</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133614977">
+<start_time>08:13</start_time>
+<end_time>09:08</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134162801">
+<start_time>09:08</start_time>
+<end_time>10:01</end_time>
+<title><![CDATA[上午剧场:野山鹰(23)]]></title>
+</event>
+<event id="1134162804">
+<start_time>10:01</start_time>
+<end_time>10:54</end_time>
+<title><![CDATA[上午剧场:野山鹰(24)]]></title>
+</event>
+<event id="1134162807">
+<start_time>10:54</start_time>
+<end_time>11:47</end_time>
+<title><![CDATA[上午剧场:野山鹰(25)]]></title>
+</event>
+<event id="1134162810">
+<start_time>11:47</start_time>
+<end_time>12:42</end_time>
+<title><![CDATA[上午剧场:野山鹰(26)]]></title>
+</event>
+<event id="1133614992">
+<start_time>12:42</start_time>
+<end_time>12:48</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134973749">
+<start_time>12:48</start_time>
+<end_time>13:41</end_time>
+<title><![CDATA[下午剧场:独狼(15)]]></title>
+</event>
+<event id="1134973752">
+<start_time>13:41</start_time>
+<end_time>14:35</end_time>
+<title><![CDATA[下午剧场:独狼(16)]]></title>
+</event>
+<event id="1134973755">
+<start_time>14:35</start_time>
+<end_time>15:27</end_time>
+<title><![CDATA[下午剧场:独狼(17)]]></title>
+</event>
+<event id="1134973758">
+<start_time>15:27</start_time>
+<end_time>16:21</end_time>
+<title><![CDATA[下午剧场:独狼(18)]]></title>
+</event>
+<event id="1133615007">
+<start_time>16:21</start_time>
+<end_time>16:31</end_time>
+<title><![CDATA[花儿朵朵]]></title>
+</event>
+<event id="1133615010">
+<start_time>16:31</start_time>
+<end_time>16:51</end_time>
+<title><![CDATA[嘿我知道了]]></title>
+</event>
+<event id="1133615013">
+<start_time>16:51</start_time>
+<end_time>18:04</end_time>
+<title><![CDATA[欢乐送]]></title>
+</event>
+<event id="1133615016">
+<start_time>18:04</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[情动十分]]></title>
+</event>
+<event id="1133615019">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[吉林天气预报]]></title>
+</event>
+<event id="1133615022">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1133615025">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133615028">
+<start_time>19:33</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(23)]]></title>
+</event>
+<event id="1133615031">
+<start_time>20:24</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(24)]]></title>
+</event>
+<event id="1133615034">
+<start_time>21:15</start_time>
+<end_time>22:19</end_time>
+<title><![CDATA[真相123]]></title>
+</event>
+<event id="1133615037">
+<start_time>22:19</start_time>
+<end_time>23:23</end_time>
+<title><![CDATA[欢乐送]]></title>
+</event>
+<event id="1133615040">
+<start_time>23:23</start_time>
+<end_time>23:53</end_time>
+<title><![CDATA[今晚]]></title>
+</event>
+<event id="1134015948">
+<start_time>23:53</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[欢乐送:开心十分]]></title>
+</event>
+</schedule>
+<schedule channel_id="JILIN1" epg_code="JILIN1" date="2019-06-22">
+<event id="1133890863">
+<start_time>00:05</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133890866">
+<start_time>01:05</start_time>
+<end_time>01:55</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133890869">
+<start_time>01:55</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133890872">
+<start_time>02:45</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133890875">
+<start_time>03:15</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133890878">
+<start_time>03:45</start_time>
+<end_time>04:19</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1133890881">
+<start_time>04:19</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[清晨剧场:虎刺红(29)]]></title>
+</event>
+<event id="1133890884">
+<start_time>04:50</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[清晨剧场:虎刺红(30)]]></title>
+</event>
+<event id="1133890887">
+<start_time>05:20</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场:虎刺红(31)]]></title>
+</event>
+<event id="1133890890">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1133890893">
+<start_time>06:30</start_time>
+<end_time>07:21</end_time>
+<title><![CDATA[新闻早报]]></title>
+</event>
+<event id="1133890896">
+<start_time>07:21</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133890899">
+<start_time>08:13</start_time>
+<end_time>08:57</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134162813">
+<start_time>08:57</start_time>
+<end_time>09:43</end_time>
+<title><![CDATA[上午剧场:野山鹰(27)]]></title>
+</event>
+<event id="1134162816">
+<start_time>09:43</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[上午剧场:野山鹰(28)]]></title>
+</event>
+<event id="1134162819">
+<start_time>10:30</start_time>
+<end_time>11:09</end_time>
+<title><![CDATA[上午剧场:野山鹰(29)]]></title>
+</event>
+<event id="1134162822">
+<start_time>11:09</start_time>
+<end_time>11:57</end_time>
+<title><![CDATA[上午剧场:野山鹰(30)]]></title>
+</event>
+<event id="1134162825">
+<start_time>11:57</start_time>
+<end_time>12:39</end_time>
+<title><![CDATA[上午剧场:野山鹰(31)]]></title>
+</event>
+<event id="1133890917">
+<start_time>12:39</start_time>
+<end_time>12:44</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1133890920">
+<start_time>12:44</start_time>
+<end_time>13:17</end_time>
+<title><![CDATA[花儿朵朵]]></title>
+</event>
+<event id="1134973761">
+<start_time>13:17</start_time>
+<end_time>14:10</end_time>
+<title><![CDATA[下午剧场:独狼(19)]]></title>
+</event>
+<event id="1134973764">
+<start_time>14:10</start_time>
+<end_time>15:04</end_time>
+<title><![CDATA[下午剧场:独狼(20)]]></title>
+</event>
+<event id="1134973767">
+<start_time>15:04</start_time>
+<end_time>15:57</end_time>
+<title><![CDATA[下午剧场:独狼(21)]]></title>
+</event>
+<event id="1134973770">
+<start_time>15:57</start_time>
+<end_time>16:50</end_time>
+<title><![CDATA[下午剧场:独狼(22)]]></title>
+</event>
+<event id="1133890935">
+<start_time>16:50</start_time>
+<end_time>17:16</end_time>
+<title><![CDATA[嘿我知道了]]></title>
+</event>
+<event id="1133890938">
+<start_time>17:16</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[天地长白]]></title>
+</event>
+<event id="1133890941">
+<start_time>17:49</start_time>
+<end_time>18:24</end_time>
+<title><![CDATA[回家]]></title>
+</event>
+<event id="1133890944">
+<start_time>18:24</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[吉林天气预报]]></title>
+</event>
+<event id="1133890947">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1133890950">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133890953">
+<start_time>19:36</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(25)]]></title>
+</event>
+<event id="1133890956">
+<start_time>20:28</start_time>
+<end_time>21:17</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(26)]]></title>
+</event>
+<event id="1133890959">
+<start_time>21:17</start_time>
+<end_time>22:01</end_time>
+<title><![CDATA[好好学习]]></title>
+</event>
+<event id="1133890962">
+<start_time>22:01</start_time>
+<end_time>22:41</end_time>
+<title><![CDATA[开心十分]]></title>
+</event>
+<event id="1134270177">
+<start_time>22:41</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="JILIN1" epg_code="JILIN1" date="2019-06-23">
+<event id="1134162828">
+<start_time>00:05</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134162831">
+<start_time>01:05</start_time>
+<end_time>01:55</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134162834">
+<start_time>01:55</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134162837">
+<start_time>02:45</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134162840">
+<start_time>03:15</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134162843">
+<start_time>03:45</start_time>
+<end_time>04:19</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134162846">
+<start_time>04:19</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[清晨剧场:虎刺红(32)]]></title>
+</event>
+<event id="1134162849">
+<start_time>04:50</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[清晨剧场:虎刺红(33)]]></title>
+</event>
+<event id="1134162852">
+<start_time>05:20</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场:虎刺红(34)]]></title>
+</event>
+<event id="1134162855">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1134162858">
+<start_time>06:30</start_time>
+<end_time>07:21</end_time>
+<title><![CDATA[新闻早报]]></title>
+</event>
+<event id="1134162861">
+<start_time>07:21</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134162864">
+<start_time>08:13</start_time>
+<end_time>08:58</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134162867">
+<start_time>08:58</start_time>
+<end_time>09:40</end_time>
+<title><![CDATA[上午剧场:野山鹰(32)]]></title>
+</event>
+<event id="1134162870">
+<start_time>09:40</start_time>
+<end_time>10:31</end_time>
+<title><![CDATA[上午剧场:野山鹰(33)]]></title>
+</event>
+<event id="1134162873">
+<start_time>10:31</start_time>
+<end_time>11:08</end_time>
+<title><![CDATA[上午剧场:野山鹰(34)]]></title>
+</event>
+<event id="1134162876">
+<start_time>11:08</start_time>
+<end_time>11:55</end_time>
+<title><![CDATA[上午剧场:野山鹰(35)]]></title>
+</event>
+<event id="1134162879">
+<start_time>11:55</start_time>
+<end_time>12:39</end_time>
+<title><![CDATA[上午剧场:野山鹰(36)]]></title>
+</event>
+<event id="1134162882">
+<start_time>12:39</start_time>
+<end_time>12:46</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134973773">
+<start_time>12:46</start_time>
+<end_time>13:39</end_time>
+<title><![CDATA[下午剧场:独狼(23)]]></title>
+</event>
+<event id="1134973776">
+<start_time>13:39</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[下午剧场:独狼(24)]]></title>
+</event>
+<event id="1134973779">
+<start_time>14:33</start_time>
+<end_time>15:26</end_time>
+<title><![CDATA[下午剧场:独狼(25)]]></title>
+</event>
+<event id="1134973782">
+<start_time>15:26</start_time>
+<end_time>16:20</end_time>
+<title><![CDATA[下午剧场:独狼(26)]]></title>
+</event>
+<event id="1134162897">
+<start_time>16:20</start_time>
+<end_time>17:21</end_time>
+<title><![CDATA[放歌中国]]></title>
+</event>
+<event id="1134162900">
+<start_time>17:21</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[好久不见]]></title>
+</event>
+<event id="1134162903">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[吉林天气预报]]></title>
+</event>
+<event id="1134162906">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1134162909">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134162912">
+<start_time>19:36</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(27)]]></title>
+</event>
+<event id="1134162915">
+<start_time>20:30</start_time>
+<end_time>21:19</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(28)]]></title>
+</event>
+<event id="1134162918">
+<start_time>21:19</start_time>
+<end_time>22:14</end_time>
+<title><![CDATA[高手在民间]]></title>
+</event>
+<event id="1134162921">
+<start_time>22:14</start_time>
+<end_time>23:21</end_time>
+<title><![CDATA[放歌中国]]></title>
+</event>
+<event id="1134470994">
+<start_time>23:21</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[开心十分]]></title>
+</event>
+</schedule>
+<schedule channel_id="JILIN1" epg_code="JILIN1" date="2019-06-24">
+<event id="1134458502">
+<start_time>00:55</start_time>
+<end_time>01:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134458505">
+<start_time>01:45</start_time>
+<end_time>02:35</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134458508">
+<start_time>02:35</start_time>
+<end_time>03:16</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134458511">
+<start_time>03:16</start_time>
+<end_time>03:35</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134458514">
+<start_time>03:35</start_time>
+<end_time>04:05</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1134458517">
+<start_time>04:05</start_time>
+<end_time>04:19</end_time>
+<title><![CDATA[开心一刻]]></title>
+</event>
+<event id="1134458520">
+<start_time>04:19</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[清晨剧场:虎刺红(35)]]></title>
+</event>
+<event id="1134458523">
+<start_time>04:50</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[清晨剧场:虎刺红(36)]]></title>
+</event>
+<event id="1134458526">
+<start_time>05:20</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场:虎刺红(37)]]></title>
+</event>
+<event id="1134458529">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1134458532">
+<start_time>06:30</start_time>
+<end_time>07:21</end_time>
+<title><![CDATA[新闻早报]]></title>
+</event>
+<event id="1134458535">
+<start_time>07:21</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134458538">
+<start_time>08:13</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134458541">
+<start_time>09:06</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:野山鹰(37)]]></title>
+</event>
+<event id="1134458544">
+<start_time>10:00</start_time>
+<end_time>10:54</end_time>
+<title><![CDATA[上午剧场:野山鹰(38)]]></title>
+</event>
+<event id="1134458547">
+<start_time>10:54</start_time>
+<end_time>11:48</end_time>
+<title><![CDATA[上午剧场:野山鹰(39)]]></title>
+</event>
+<event id="1134458550">
+<start_time>11:48</start_time>
+<end_time>12:46</end_time>
+<title><![CDATA[上午剧场:野山鹰(40)]]></title>
+</event>
+<event id="1134458553">
+<start_time>12:46</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134458556">
+<start_time>12:51</start_time>
+<end_time>13:18</end_time>
+<title><![CDATA[党风廉政进行时]]></title>
+</event>
+<event id="1134973785">
+<start_time>13:18</start_time>
+<end_time>14:11</end_time>
+<title><![CDATA[下午剧场:独狼(27)]]></title>
+</event>
+<event id="1134973788">
+<start_time>14:11</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[下午剧场:独狼(28)]]></title>
+</event>
+<event id="1134973791">
+<start_time>15:05</start_time>
+<end_time>15:57</end_time>
+<title><![CDATA[下午剧场:独狼(29)]]></title>
+</event>
+<event id="1134973794">
+<start_time>15:57</start_time>
+<end_time>16:52</end_time>
+<title><![CDATA[下午剧场:独狼(30)]]></title>
+</event>
+<event id="1134458571">
+<start_time>16:52</start_time>
+<end_time>18:04</end_time>
+<title><![CDATA[欢乐送]]></title>
+</event>
+<event id="1134458574">
+<start_time>18:04</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[情动十分]]></title>
+</event>
+<event id="1134458577">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[吉林天气预报]]></title>
+</event>
+<event id="1134458580">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1134458583">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134458586">
+<start_time>19:33</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(29)]]></title>
+</event>
+<event id="1134458589">
+<start_time>20:24</start_time>
+<end_time>21:28</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(30)]]></title>
+</event>
+<event id="1134458592">
+<start_time>21:28</start_time>
+<end_time>22:42</end_time>
+<title><![CDATA[欢乐送]]></title>
+</event>
+<event id="1134458595">
+<start_time>22:42</start_time>
+<end_time>23:15</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+<event id="1134458598">
+<start_time>23:15</start_time>
+<end_time>23:45</end_time>
+<title><![CDATA[今晚]]></title>
+</event>
+<event id="1135137954">
+<start_time>23:45</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[开心十分]]></title>
+</event>
+</schedule>
+<schedule channel_id="JILIN1" epg_code="JILIN1" date="2019-06-25">
+<event id="1135025634">
+<start_time>00:05</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1135025637">
+<start_time>01:05</start_time>
+<end_time>01:55</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1135025640">
+<start_time>01:55</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1135025643">
+<start_time>02:45</start_time>
+<end_time>03:15</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1135025646">
+<start_time>03:15</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1135025649">
+<start_time>03:45</start_time>
+<end_time>04:19</end_time>
+<title><![CDATA[凌晨剧场]]></title>
+</event>
+<event id="1135025652">
+<start_time>04:19</start_time>
+<end_time>04:50</end_time>
+<title><![CDATA[清晨剧场:虎刺红(38)]]></title>
+</event>
+<event id="1135025655">
+<start_time>04:50</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[清晨剧场:虎刺红(39)]]></title>
+</event>
+<event id="1135025658">
+<start_time>05:20</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场:虎刺红(40)]]></title>
+</event>
+<event id="1135025661">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1135025664">
+<start_time>06:30</start_time>
+<end_time>07:21</end_time>
+<title><![CDATA[新闻早报]]></title>
+</event>
+<event id="1135025667">
+<start_time>07:21</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135025670">
+<start_time>08:13</start_time>
+<end_time>09:06</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135025673">
+<start_time>09:06</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:野山鹰(41)]]></title>
+</event>
+<event id="1135025676">
+<start_time>10:00</start_time>
+<end_time>10:54</end_time>
+<title><![CDATA[上午剧场:野山鹰(42)]]></title>
+</event>
+<event id="1135025679">
+<start_time>10:54</start_time>
+<end_time>11:48</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135025682">
+<start_time>11:48</start_time>
+<end_time>12:42</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135025685">
+<start_time>12:42</start_time>
+<end_time>12:48</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1135025688">
+<start_time>12:48</start_time>
+<end_time>13:41</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135025691">
+<start_time>13:41</start_time>
+<end_time>14:35</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135025694">
+<start_time>14:35</start_time>
+<end_time>15:27</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135025697">
+<start_time>15:27</start_time>
+<end_time>16:21</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135025700">
+<start_time>16:21</start_time>
+<end_time>16:31</end_time>
+<title><![CDATA[花儿朵朵]]></title>
+</event>
+<event id="1135025703">
+<start_time>16:31</start_time>
+<end_time>16:51</end_time>
+<title><![CDATA[嘿我知道了]]></title>
+</event>
+<event id="1135025706">
+<start_time>16:51</start_time>
+<end_time>18:03</end_time>
+<title><![CDATA[欢乐送]]></title>
+</event>
+<event id="1135025709">
+<start_time>18:03</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[情动十分]]></title>
+</event>
+<event id="1135025712">
+<start_time>18:23</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[吉林天气预报]]></title>
+</event>
+<event id="1135025715">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[吉林新闻联播]]></title>
+</event>
+<event id="1135025718">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135025721">
+<start_time>19:33</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(31)]]></title>
+</event>
+<event id="1135025724">
+<start_time>20:24</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[黄金剧场:岁岁年年柿柿红(32)]]></title>
+</event>
+<event id="1135025727">
+<start_time>21:12</start_time>
+<end_time>22:20</end_time>
+<title><![CDATA[家事]]></title>
+</event>
+<event id="1135025730">
+<start_time>22:20</start_time>
+<end_time>23:19</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+<event id="1135025733">
+<start_time>23:19</start_time>
+<end_time>23:50</end_time>
+<title><![CDATA[今晚]]></title>
+</event>
+<event id="1135025736">
+<start_time>23:50</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+</schedule>
+</document>

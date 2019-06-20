@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV3" epg_code="CCTV3" date="2019-06-18">
+<event id="1135239423">
+<start_time>01:15</start_time>
+<end_time>01:59</end_time>
+<title><![CDATA[熊爸熊孩子31]]></title>
+</event>
+<event id="1135239426">
+<start_time>01:59</start_time>
+<end_time>02:43</end_time>
+<title><![CDATA[熊爸熊孩子32]]></title>
+</event>
+<event id="1135239429">
+<start_time>02:43</start_time>
+<end_time>03:27</end_time>
+<title><![CDATA[熊爸熊孩子33]]></title>
+</event>
+<event id="1135239432">
+<start_time>03:27</start_time>
+<end_time>04:09</end_time>
+<title><![CDATA[熊爸熊孩子34]]></title>
+</event>
+<event id="1135239435">
+<start_time>04:09</start_time>
+<end_time>04:51</end_time>
+<title><![CDATA[熊爸熊孩子35]]></title>
+</event>
+<event id="1135239438">
+<start_time>04:51</start_time>
+<end_time>05:28</end_time>
+<title><![CDATA[综艺喜乐汇]]></title>
+</event>
+<event id="1135239441">
+<start_time>05:28</start_time>
+<end_time>07:02</end_time>
+<title><![CDATA[星光大道]]></title>
+</event>
+<event id="1135239444">
+<start_time>07:02</start_time>
+<end_time>08:42</end_time>
+<title><![CDATA[综艺喜乐汇]]></title>
+</event>
+<event id="1133812641">
+<start_time>08:42</start_time>
+<end_time>08:47</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-幸福新起点]]></title>
+</event>
+<event id="1133812644">
+<start_time>08:47</start_time>
+<end_time>08:52</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-领航新征程]]></title>
+</event>
+<event id="1133812647">
+<start_time>08:52</start_time>
+<end_time>09:05</end_time>
+<title><![CDATA[文化十分-2019-120]]></title>
+</event>
+<event id="1135237953">
+<start_time>09:05</start_time>
+<end_time>10:36</end_time>
+<title><![CDATA[幸福账单为你买单]]></title>
+</event>
+<event id="1135243143">
+<start_time>10:36</start_time>
+<end_time>12:01</end_time>
+<title><![CDATA[综艺喜乐汇-幸福账单-为你买单]]></title>
+</event>
+<event id="1135248978">
+<start_time>12:01</start_time>
+<end_time>12:13</end_time>
+<title><![CDATA[文化十分-2019-121]]></title>
+</event>
+<event id="1135248981">
+<start_time>12:13</start_time>
+<end_time>13:42</end_time>
+<title><![CDATA[开门大吉-2019-24]]></title>
+</event>
+<event id="1135262223">
+<start_time>13:42</start_time>
+<end_time>15:08</end_time>
+<title><![CDATA[非常6+1-2019-25]]></title>
+</event>
+<event id="1135262256">
+<start_time>15:08</start_time>
+<end_time>16:14</end_time>
+<title><![CDATA[旋转吧 假期]]></title>
+</event>
+<event id="1133812668">
+<start_time>16:14</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[综艺喜乐汇-2019-797(4K)]]></title>
+</event>
+<event id="1133812671">
+<start_time>17:55</start_time>
+<end_time>18:32</end_time>
+<title><![CDATA[天天把歌唱-2019-103]]></title>
+</event>
+<event id="1134946806">
+<start_time>18:32</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[群英汇-2019-20]]></title>
+</event>
+<event id="1133812677">
+<start_time>19:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[向幸福出发-2019-27]]></title>
+</event>
+<event id="1133812680">
+<start_time>21:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[幸福账单-为你买单2019-25]]></title>
+</event>
+<event id="1133812683">
+<start_time>22:30</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[回声嘹亮-2019-24]]></title>
+</event>
+<event id="1133812686">
+<start_time>23:55</start_time>
+<end_time>01:15</end_time>
+<title><![CDATA[综艺喜乐汇-2019-792(4K)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV3" epg_code="CCTV3" date="2019-06-19">
+<event id="1133812689">
+<start_time>01:15</start_time>
+<end_time>01:59</end_time>
+<title><![CDATA[综艺喜乐汇-2019-834]]></title>
+</event>
+<event id="1133812692">
+<start_time>01:59</start_time>
+<end_time>02:43</end_time>
+<title><![CDATA[综艺喜乐汇-2019-835]]></title>
+</event>
+<event id="1133812695">
+<start_time>02:43</start_time>
+<end_time>03:27</end_time>
+<title><![CDATA[综艺喜乐汇-2019-836]]></title>
+</event>
+<event id="1133812698">
+<start_time>03:27</start_time>
+<end_time>04:09</end_time>
+<title><![CDATA[综艺喜乐汇-2019-837]]></title>
+</event>
+<event id="1133812701">
+<start_time>04:09</start_time>
+<end_time>04:52</end_time>
+<title><![CDATA[综艺喜乐汇-2019-838]]></title>
+</event>
+<event id="1133812704">
+<start_time>04:52</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1515]]></title>
+</event>
+<event id="1133812707">
+<start_time>06:34</start_time>
+<end_time>08:14</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1516]]></title>
+</event>
+<event id="1133855802">
+<start_time>08:14</start_time>
+<end_time>08:18</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-美好向往]]></title>
+</event>
+<event id="1133855805">
+<start_time>08:18</start_time>
+<end_time>08:22</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-我们的新时代]]></title>
+</event>
+<event id="1133855808">
+<start_time>08:22</start_time>
+<end_time>08:34</end_time>
+<title><![CDATA[文化十分-2019-121]]></title>
+</event>
+<event id="1133855811">
+<start_time>08:34</start_time>
+<end_time>09:56</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1091(4K)]]></title>
+</event>
+<event id="1133855814">
+<start_time>09:56</start_time>
+<end_time>11:25</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1092(4K)]]></title>
+</event>
+<event id="1133855817">
+<start_time>11:25</start_time>
+<end_time>11:37</end_time>
+<title><![CDATA[文化十分-2019-122]]></title>
+</event>
+<event id="1133855820">
+<start_time>11:37</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[向幸福出发-2019-27]]></title>
+</event>
+<event id="1133855823">
+<start_time>13:04</start_time>
+<end_time>14:32</end_time>
+<title><![CDATA[幸福账单-为你买单2019-25]]></title>
+</event>
+<event id="1133855826">
+<start_time>14:32</start_time>
+<end_time>15:46</end_time>
+<title><![CDATA[综艺喜乐汇-2019-418]]></title>
+</event>
+<event id="1133812740">
+<start_time>15:46</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1095(4K)]]></title>
+</event>
+<event id="1133812743">
+<start_time>17:28</start_time>
+<end_time>18:04</end_time>
+<title><![CDATA[天天把歌唱-2019-104]]></title>
+</event>
+<event id="1133812746">
+<start_time>18:04</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1488]]></title>
+</event>
+<event id="1134946809">
+<start_time>19:30</start_time>
+<end_time>20:59</end_time>
+<title><![CDATA[越战越勇-2019-26]]></title>
+</event>
+<event id="1133812752">
+<start_time>20:59</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[我爱满堂彩-2019-23]]></title>
+</event>
+<event id="1133812755">
+<start_time>22:30</start_time>
+<end_time>23:54</end_time>
+<title><![CDATA[黄金100秒-2019-24]]></title>
+</event>
+<event id="1133812758">
+<start_time>23:54</start_time>
+<end_time>01:14</end_time>
+<title><![CDATA[综艺喜乐汇-2019-878]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV3" epg_code="CCTV3" date="2019-06-20">
+<event id="1133812761">
+<start_time>01:14</start_time>
+<end_time>01:58</end_time>
+<title><![CDATA[综艺喜乐汇-2019-839]]></title>
+</event>
+<event id="1133812764">
+<start_time>01:58</start_time>
+<end_time>02:42</end_time>
+<title><![CDATA[综艺喜乐汇-2019-840]]></title>
+</event>
+<event id="1133812767">
+<start_time>02:42</start_time>
+<end_time>03:26</end_time>
+<title><![CDATA[综艺喜乐汇-2019-841]]></title>
+</event>
+<event id="1133812770">
+<start_time>03:26</start_time>
+<end_time>04:08</end_time>
+<title><![CDATA[综艺喜乐汇-2019-842]]></title>
+</event>
+<event id="1133812773">
+<start_time>04:08</start_time>
+<end_time>04:51</end_time>
+<title><![CDATA[综艺喜乐汇-2019-843]]></title>
+</event>
+<event id="1133812776">
+<start_time>04:51</start_time>
+<end_time>06:33</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1516]]></title>
+</event>
+<event id="1133812779">
+<start_time>06:33</start_time>
+<end_time>08:13</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1517]]></title>
+</event>
+<event id="1133812782">
+<start_time>08:13</start_time>
+<end_time>08:17</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-山笑水笑人欢笑]]></title>
+</event>
+<event id="1133812785">
+<start_time>08:17</start_time>
+<end_time>08:21</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-幸福像阳光一样]]></title>
+</event>
+<event id="1133812788">
+<start_time>08:21</start_time>
+<end_time>08:25</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-再一次出发]]></title>
+</event>
+<event id="1133812791">
+<start_time>08:25</start_time>
+<end_time>08:38</end_time>
+<title><![CDATA[文化十分-2019-122]]></title>
+</event>
+<event id="1133812794">
+<start_time>08:38</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[综艺喜乐汇-2019-910(4K)]]></title>
+</event>
+<event id="1133812797">
+<start_time>10:00</start_time>
+<end_time>11:29</end_time>
+<title><![CDATA[综艺喜乐汇-2019-912(4K)]]></title>
+</event>
+<event id="1133812800">
+<start_time>11:29</start_time>
+<end_time>11:41</end_time>
+<title><![CDATA[文化十分-2019-123]]></title>
+</event>
+<event id="1134946812">
+<start_time>11:41</start_time>
+<end_time>13:08</end_time>
+<title><![CDATA[越战越勇-2019-26]]></title>
+</event>
+<event id="1133812806">
+<start_time>13:08</start_time>
+<end_time>14:36</end_time>
+<title><![CDATA[我爱满堂彩-2019-23]]></title>
+</event>
+<event id="1133812809">
+<start_time>14:36</start_time>
+<end_time>15:45</end_time>
+<title><![CDATA[综艺喜乐汇-2019-419]]></title>
+</event>
+<event id="1133812812">
+<start_time>15:45</start_time>
+<end_time>17:28</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1096(4K)]]></title>
+</event>
+<event id="1133812815">
+<start_time>17:28</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[天天把歌唱-2019-105]]></title>
+</event>
+<event id="1133812818">
+<start_time>18:05</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1489]]></title>
+</event>
+<event id="1133812821">
+<start_time>19:30</start_time>
+<end_time>20:59</end_time>
+<title><![CDATA[回声嘹亮-2019-25]]></title>
+</event>
+<event id="1133855829">
+<start_time>20:59</start_time>
+<end_time>22:28</end_time>
+<title><![CDATA[综艺盛典-2019-23]]></title>
+</event>
+<event id="1133812827">
+<start_time>22:28</start_time>
+<end_time>23:52</end_time>
+<title><![CDATA[非常6+1-2019-25]]></title>
+</event>
+<event id="1134041049">
+<start_time>23:52</start_time>
+<end_time>01:12</end_time>
+<title><![CDATA[综艺喜乐汇-2019-887]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV3" epg_code="CCTV3" date="2019-06-21">
+<event id="1134041052">
+<start_time>01:12</start_time>
+<end_time>01:56</end_time>
+<title><![CDATA[综艺喜乐汇-2019-844]]></title>
+</event>
+<event id="1134041055">
+<start_time>01:56</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[综艺喜乐汇-2019-845]]></title>
+</event>
+<event id="1134041058">
+<start_time>02:40</start_time>
+<end_time>03:23</end_time>
+<title><![CDATA[综艺喜乐汇-2019-846]]></title>
+</event>
+<event id="1134041061">
+<start_time>03:23</start_time>
+<end_time>04:05</end_time>
+<title><![CDATA[综艺喜乐汇-2019-847]]></title>
+</event>
+<event id="1134041064">
+<start_time>04:05</start_time>
+<end_time>04:49</end_time>
+<title><![CDATA[综艺喜乐汇-2019-848]]></title>
+</event>
+<event id="1134041067">
+<start_time>04:49</start_time>
+<end_time>06:31</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1517]]></title>
+</event>
+<event id="1134041070">
+<start_time>06:31</start_time>
+<end_time>08:11</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1518]]></title>
+</event>
+<event id="1134041073">
+<start_time>08:11</start_time>
+<end_time>08:14</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-最美的颜色]]></title>
+</event>
+<event id="1134041076">
+<start_time>08:14</start_time>
+<end_time>08:17</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-加油干]]></title>
+</event>
+<event id="1134041079">
+<start_time>08:17</start_time>
+<end_time>08:21</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-最美中国人]]></title>
+</event>
+<event id="1134041082">
+<start_time>08:21</start_time>
+<end_time>08:25</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-中华民族唱起来]]></title>
+</event>
+<event id="1134041085">
+<start_time>08:25</start_time>
+<end_time>08:37</end_time>
+<title><![CDATA[文化十分-2019-123]]></title>
+</event>
+<event id="1134041088">
+<start_time>08:37</start_time>
+<end_time>09:59</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1279]]></title>
+</event>
+<event id="1134041091">
+<start_time>09:59</start_time>
+<end_time>11:28</end_time>
+<title><![CDATA[综艺喜乐汇-2019-882]]></title>
+</event>
+<event id="1134041094">
+<start_time>11:28</start_time>
+<end_time>11:40</end_time>
+<title><![CDATA[文化十分-2019-124]]></title>
+</event>
+<event id="1134041097">
+<start_time>11:40</start_time>
+<end_time>13:07</end_time>
+<title><![CDATA[回声嘹亮-2019-25]]></title>
+</event>
+<event id="1134041100">
+<start_time>13:07</start_time>
+<end_time>14:35</end_time>
+<title><![CDATA[综艺盛典-2019-23]]></title>
+</event>
+<event id="1134041103">
+<start_time>14:35</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[综艺喜乐汇-2019-420]]></title>
+</event>
+<event id="1134041106">
+<start_time>15:44</start_time>
+<end_time>17:27</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1093(4K)]]></title>
+</event>
+<event id="1134041109">
+<start_time>17:27</start_time>
+<end_time>18:03</end_time>
+<title><![CDATA[天天把歌唱-2019-106]]></title>
+</event>
+<event id="1134041112">
+<start_time>18:03</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1490]]></title>
+</event>
+<event id="1134041115">
+<start_time>19:30</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[黄金100秒-2019-25]]></title>
+</event>
+<event id="1134041118">
+<start_time>21:00</start_time>
+<end_time>22:32</end_time>
+<title><![CDATA[开门大吉-2019-24]]></title>
+</event>
+<event id="1134041121">
+<start_time>22:32</start_time>
+<end_time>23:58</end_time>
+<title><![CDATA[幸福账单-为你买单2019-25]]></title>
+</event>
+<event id="1134289809">
+<start_time>23:58</start_time>
+<end_time>01:17</end_time>
+<title><![CDATA[综艺喜乐汇-2019-909(4K)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV3" epg_code="CCTV3" date="2019-06-22">
+<event id="1134289812">
+<start_time>01:17</start_time>
+<end_time>02:01</end_time>
+<title><![CDATA[综艺喜乐汇-2019-849]]></title>
+</event>
+<event id="1134289815">
+<start_time>02:01</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[综艺喜乐汇-2019-850]]></title>
+</event>
+<event id="1134289818">
+<start_time>02:45</start_time>
+<end_time>03:29</end_time>
+<title><![CDATA[综艺喜乐汇-2019-851]]></title>
+</event>
+<event id="1134289821">
+<start_time>03:29</start_time>
+<end_time>04:11</end_time>
+<title><![CDATA[综艺喜乐汇-2019-852]]></title>
+</event>
+<event id="1134289824">
+<start_time>04:11</start_time>
+<end_time>04:53</end_time>
+<title><![CDATA[综艺喜乐汇-2019-853]]></title>
+</event>
+<event id="1134289827">
+<start_time>04:53</start_time>
+<end_time>05:37</end_time>
+<title><![CDATA[综艺喜乐汇-2019-854]]></title>
+</event>
+<event id="1134289830">
+<start_time>05:37</start_time>
+<end_time>07:11</end_time>
+<title><![CDATA[星光大道-2019-28(4K)]]></title>
+</event>
+<event id="1134289833">
+<start_time>07:11</start_time>
+<end_time>08:52</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1519]]></title>
+</event>
+<event id="1134289836">
+<start_time>08:52</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-天南地北唱中华]]></title>
+</event>
+<event id="1134289839">
+<start_time>08:55</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-幸福新起点]]></title>
+</event>
+<event id="1134289842">
+<start_time>09:00</start_time>
+<end_time>09:13</end_time>
+<title><![CDATA[文化十分-2019-124]]></title>
+</event>
+<event id="1134289845">
+<start_time>09:13</start_time>
+<end_time>10:34</end_time>
+<title><![CDATA[综艺喜乐汇-2019-888]]></title>
+</event>
+<event id="1134289848">
+<start_time>10:34</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[综艺喜乐汇-2019-889]]></title>
+</event>
+<event id="1134289851">
+<start_time>12:05</start_time>
+<end_time>13:35</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1298]]></title>
+</event>
+<event id="1134289854">
+<start_time>13:35</start_time>
+<end_time>15:03</end_time>
+<title><![CDATA[黄金100秒-2019-25]]></title>
+</event>
+<event id="1134289857">
+<start_time>15:03</start_time>
+<end_time>16:36</end_time>
+<title><![CDATA[开门大吉-2019-24]]></title>
+</event>
+<event id="1134289860">
+<start_time>16:36</start_time>
+<end_time>18:04</end_time>
+<title><![CDATA[非常6+1-2019-25]]></title>
+</event>
+<event id="1134289863">
+<start_time>18:04</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1491]]></title>
+</event>
+<event id="1134289866">
+<start_time>19:30</start_time>
+<end_time>21:16</end_time>
+<title><![CDATA[星光大道-2019-29(4K)]]></title>
+</event>
+<event id="1134289869">
+<start_time>21:16</start_time>
+<end_time>22:46</end_time>
+<title><![CDATA[向幸福出发-2019-27]]></title>
+</event>
+<event id="1134419193">
+<start_time>22:46</start_time>
+<end_time>00:10</end_time>
+<title><![CDATA[我爱满堂彩-2019-23]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV3" epg_code="CCTV3" date="2019-06-23">
+<event id="1134419196">
+<start_time>00:10</start_time>
+<end_time>01:30</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1090(4K)]]></title>
+</event>
+<event id="1134419199">
+<start_time>01:30</start_time>
+<end_time>02:14</end_time>
+<title><![CDATA[综艺喜乐汇-2019-855]]></title>
+</event>
+<event id="1134419202">
+<start_time>02:14</start_time>
+<end_time>02:58</end_time>
+<title><![CDATA[综艺喜乐汇-2019-856]]></title>
+</event>
+<event id="1134419205">
+<start_time>02:58</start_time>
+<end_time>03:41</end_time>
+<title><![CDATA[综艺喜乐汇-2019-857]]></title>
+</event>
+<event id="1135246524">
+<start_time>03:41</start_time>
+<end_time>04:32</end_time>
+<title><![CDATA[综艺喜乐汇-2019-858]]></title>
+</event>
+<event id="1135246527">
+<start_time>04:32</start_time>
+<end_time>05:14</end_time>
+<title><![CDATA[综艺喜乐汇-2019-859]]></title>
+</event>
+<event id="1135246530">
+<start_time>05:14</start_time>
+<end_time>05:56</end_time>
+<title><![CDATA[综艺喜乐汇-2019-860]]></title>
+</event>
+<event id="1135246533">
+<start_time>05:56</start_time>
+<end_time>07:14</end_time>
+<title><![CDATA[黄金100秒-2019-25]]></title>
+</event>
+<event id="1135246536">
+<start_time>07:14</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1520]]></title>
+</event>
+<event id="1135246539">
+<start_time>08:55</start_time>
+<end_time>09:02</end_time>
+<title><![CDATA[第六批中国梦主题新创作歌曲MV展播-美好向往]]></title>
+</event>
+<event id="1134419232">
+<start_time>09:02</start_time>
+<end_time>10:24</end_time>
+<title><![CDATA[综艺喜乐汇-2019-793(4K)]]></title>
+</event>
+<event id="1134419235">
+<start_time>10:24</start_time>
+<end_time>11:55</end_time>
+<title><![CDATA[综艺喜乐汇-2019-911(4K)]]></title>
+</event>
+<event id="1134419238">
+<start_time>11:55</start_time>
+<end_time>13:22</end_time>
+<title><![CDATA[综艺喜乐汇-2019-894]]></title>
+</event>
+<event id="1134419241">
+<start_time>13:22</start_time>
+<end_time>15:11</end_time>
+<title><![CDATA[星光大道-2019-29(4K)]]></title>
+</event>
+<event id="1134419244">
+<start_time>15:11</start_time>
+<end_time>16:36</end_time>
+<title><![CDATA[向幸福出发-2019-27]]></title>
+</event>
+<event id="1134419247">
+<start_time>16:36</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[幸福账单-为你买单2019-25]]></title>
+</event>
+<event id="1134419250">
+<start_time>18:05</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[综艺喜乐汇-2019-1492]]></title>
+</event>
+<event id="1134419253">
+<start_time>19:31</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[向幸福出发-2019-28]]></title>
+</event>
+<event id="1134946815">
+<start_time>21:00</start_time>
+<end_time>22:31</end_time>
+<title><![CDATA[越战越勇-2019-26]]></title>
+</event>
+<event id="1134419259">
+<start_time>22:31</start_time>
+<end_time>23:56</end_time>
+<title><![CDATA[综艺盛典-2019-23]]></title>
+</event>
+<event id="1134419262">
+<start_time>23:56</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[综艺喜乐汇-2019-886]]></title>
+</event>
+</schedule>
+</document>

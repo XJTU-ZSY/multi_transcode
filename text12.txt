@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV13" epg_code="CCTV13" date="2019-06-18">
+<event id="1135239510">
+<start_time>00:00</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[午夜新闻]]></title>
+</event>
+<event id="1133317773">
+<start_time>01:00</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1135239513">
+<start_time>01:20</start_time>
+<end_time>01:37</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1135239516">
+<start_time>01:37</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1133858250">
+<start_time>02:00</start_time>
+<end_time>02:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858253">
+<start_time>02:33</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1133317788">
+<start_time>03:00</start_time>
+<end_time>03:44</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133317791">
+<start_time>03:44</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1133858256">
+<start_time>04:00</start_time>
+<end_time>04:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858259">
+<start_time>04:33</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1133317800">
+<start_time>05:00</start_time>
+<end_time>05:17</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1135239519">
+<start_time>05:17</start_time>
+<end_time>05:34</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1135239522">
+<start_time>05:34</start_time>
+<end_time>05:59</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1135239525">
+<start_time>05:59</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135239528">
+<start_time>06:00</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1135239531">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135239534">
+<start_time>07:01</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1133858274">
+<start_time>08:00</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1133858277">
+<start_time>08:55</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135219056">
+<start_time>09:00</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1135219059">
+<start_time>10:00</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1135238373">
+<start_time>10:58</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1135238376">
+<start_time>11:00</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133317830">
+<start_time>12:00</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1135249761">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1135250727">
+<start_time>13:00</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1135250730">
+<start_time>14:00</start_time>
+<end_time>14:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1135261863">
+<start_time>14:58</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1135261866">
+<start_time>15:00</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858292">
+<start_time>16:00</start_time>
+<end_time>16:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858295">
+<start_time>16:58</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1133317848">
+<start_time>17:00</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133317851">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[共同关注]]></title>
+</event>
+<event id="1133858298">
+<start_time>19:00</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133317860">
+<start_time>19:40</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1133317863">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[东方时空]]></title>
+</event>
+<event id="1133858301">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133858304">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1133317872">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[国际时讯]]></title>
+</event>
+<event id="1133317875">
+<start_time>22:30</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[环球视线]]></title>
+</event>
+<event id="1134341814">
+<start_time>23:00</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[24小时]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV13" epg_code="CCTV13" date="2019-06-19">
+<event id="1134420732">
+<start_time>00:00</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[午夜新闻]]></title>
+</event>
+<event id="1134420735">
+<start_time>00:58</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134341820">
+<start_time>01:00</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134341823">
+<start_time>01:20</start_time>
+<end_time>01:36</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134341826">
+<start_time>01:36</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1134420738">
+<start_time>02:00</start_time>
+<end_time>02:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420741">
+<start_time>02:33</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1134341835">
+<start_time>03:00</start_time>
+<end_time>03:44</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134341838">
+<start_time>03:44</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134420744">
+<start_time>04:00</start_time>
+<end_time>04:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420747">
+<start_time>04:33</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1134341847">
+<start_time>05:00</start_time>
+<end_time>05:17</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134341850">
+<start_time>05:17</start_time>
+<end_time>05:33</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134420750">
+<start_time>05:33</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1134420753">
+<start_time>06:00</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134420756">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1134420759">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134420762">
+<start_time>08:00</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134420765">
+<start_time>08:55</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134341868">
+<start_time>09:00</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420768">
+<start_time>10:00</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420771">
+<start_time>10:58</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134341874">
+<start_time>11:00</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134341877">
+<start_time>12:00</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134341880">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1134341883">
+<start_time>13:00</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420774">
+<start_time>14:00</start_time>
+<end_time>14:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420777">
+<start_time>14:58</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134341889">
+<start_time>15:00</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420780">
+<start_time>16:00</start_time>
+<end_time>16:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420783">
+<start_time>16:58</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134341895">
+<start_time>17:00</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134341898">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[共同关注]]></title>
+</event>
+<event id="1134420786">
+<start_time>19:00</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134341907">
+<start_time>19:40</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134341910">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[东方时空]]></title>
+</event>
+<event id="1134420789">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134420792">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1134341919">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[国际时讯]]></title>
+</event>
+<event id="1134341922">
+<start_time>22:30</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[环球视线]]></title>
+</event>
+<event id="1134341925">
+<start_time>23:00</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[24小时]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV13" epg_code="CCTV13" date="2019-06-20">
+<event id="1133858373">
+<start_time>00:00</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[午夜新闻]]></title>
+</event>
+<event id="1133858376">
+<start_time>00:58</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1133858379">
+<start_time>01:00</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858382">
+<start_time>01:20</start_time>
+<end_time>01:36</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1133858385">
+<start_time>01:36</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1133858388">
+<start_time>02:00</start_time>
+<end_time>02:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858391">
+<start_time>02:33</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1133858394">
+<start_time>03:00</start_time>
+<end_time>03:44</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858397">
+<start_time>03:44</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1133858400">
+<start_time>04:00</start_time>
+<end_time>04:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858403">
+<start_time>04:33</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1133858406">
+<start_time>05:00</start_time>
+<end_time>05:17</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858409">
+<start_time>05:17</start_time>
+<end_time>05:33</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1133858412">
+<start_time>05:33</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1133858415">
+<start_time>06:00</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1133745690">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1133745693">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1133745696">
+<start_time>08:00</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1133858418">
+<start_time>08:55</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1133858421">
+<start_time>09:00</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858424">
+<start_time>10:00</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858427">
+<start_time>10:58</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1133858430">
+<start_time>11:00</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858433">
+<start_time>12:00</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1133858436">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1133858439">
+<start_time>13:00</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858442">
+<start_time>14:00</start_time>
+<end_time>14:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858445">
+<start_time>14:58</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1133858448">
+<start_time>15:00</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858451">
+<start_time>16:00</start_time>
+<end_time>16:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858454">
+<start_time>16:58</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1133858457">
+<start_time>17:00</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1133858460">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[共同关注]]></title>
+</event>
+<event id="1133858463">
+<start_time>19:00</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133858466">
+<start_time>19:40</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1133858469">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[东方时空]]></title>
+</event>
+<event id="1133858472">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1133858475">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1133858478">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[国际时讯]]></title>
+</event>
+<event id="1133858481">
+<start_time>22:30</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[环球视线]]></title>
+</event>
+<event id="1134044064">
+<start_time>23:00</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[24小时]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV13" epg_code="CCTV13" date="2019-06-21">
+<event id="1134044067">
+<start_time>00:00</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[午夜新闻]]></title>
+</event>
+<event id="1134044070">
+<start_time>00:58</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134044073">
+<start_time>01:00</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044076">
+<start_time>01:20</start_time>
+<end_time>01:36</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134044079">
+<start_time>01:36</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1134044082">
+<start_time>02:00</start_time>
+<end_time>02:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044085">
+<start_time>02:33</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1134044088">
+<start_time>03:00</start_time>
+<end_time>03:44</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044091">
+<start_time>03:44</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134044094">
+<start_time>04:00</start_time>
+<end_time>04:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044097">
+<start_time>04:33</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1134044100">
+<start_time>05:00</start_time>
+<end_time>05:17</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044103">
+<start_time>05:17</start_time>
+<end_time>05:33</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134044106">
+<start_time>05:33</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1134044109">
+<start_time>06:00</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134044112">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1134044115">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134044118">
+<start_time>08:00</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134044121">
+<start_time>08:55</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134044124">
+<start_time>09:00</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044127">
+<start_time>10:00</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044130">
+<start_time>10:58</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134044133">
+<start_time>11:00</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044136">
+<start_time>12:00</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134044139">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1134044142">
+<start_time>13:00</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044145">
+<start_time>14:00</start_time>
+<end_time>14:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044148">
+<start_time>14:58</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134044151">
+<start_time>15:00</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044154">
+<start_time>16:00</start_time>
+<end_time>16:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044157">
+<start_time>16:58</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134044160">
+<start_time>17:00</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134044163">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[共同关注]]></title>
+</event>
+<event id="1134339840">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134339843">
+<start_time>19:32</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134044169">
+<start_time>19:40</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134044172">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[东方时空]]></title>
+</event>
+<event id="1134044175">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134044178">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1134044181">
+<start_time>22:00</start_time>
+<end_time>22:30</end_time>
+<title><![CDATA[国际时讯]]></title>
+</event>
+<event id="1134044184">
+<start_time>22:30</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[环球视线]]></title>
+</event>
+<event id="1134250995">
+<start_time>23:00</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[24小时]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV13" epg_code="CCTV13" date="2019-06-22">
+<event id="1134292326">
+<start_time>00:00</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[午夜新闻]]></title>
+</event>
+<event id="1134292329">
+<start_time>00:58</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134292332">
+<start_time>01:00</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292335">
+<start_time>01:20</start_time>
+<end_time>01:36</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134292338">
+<start_time>01:36</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1134292341">
+<start_time>02:00</start_time>
+<end_time>02:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292344">
+<start_time>02:33</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1134292347">
+<start_time>03:00</start_time>
+<end_time>03:44</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292350">
+<start_time>03:44</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134292353">
+<start_time>04:00</start_time>
+<end_time>04:33</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292356">
+<start_time>04:33</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[新闻1+1]]></title>
+</event>
+<event id="1134292359">
+<start_time>05:00</start_time>
+<end_time>05:17</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292362">
+<start_time>05:17</start_time>
+<end_time>05:33</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134292365">
+<start_time>05:33</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[法治在线]]></title>
+</event>
+<event id="1134292368">
+<start_time>06:00</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134292371">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1134292374">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134292377">
+<start_time>08:00</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134292380">
+<start_time>08:55</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134292383">
+<start_time>09:00</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292386">
+<start_time>10:00</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292389">
+<start_time>10:58</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134292392">
+<start_time>11:00</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292395">
+<start_time>12:00</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134292398">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[军情时间到]]></title>
+</event>
+<event id="1134292401">
+<start_time>13:00</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292404">
+<start_time>14:00</start_time>
+<end_time>14:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292407">
+<start_time>14:58</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134292410">
+<start_time>15:00</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292413">
+<start_time>16:00</start_time>
+<end_time>16:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292416">
+<start_time>16:58</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134292419">
+<start_time>17:00</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134292422">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[共同关注]]></title>
+</event>
+<event id="1134339846">
+<start_time>19:00</start_time>
+<end_time>19:32</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134339849">
+<start_time>19:32</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134292428">
+<start_time>19:40</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134292431">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[东方时空]]></title>
+</event>
+<event id="1134292434">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134292437">
+<start_time>21:30</start_time>
+<end_time>22:15</end_time>
+<title><![CDATA[新闻调查]]></title>
+</event>
+<event id="1134292440">
+<start_time>22:15</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[新闻周刊]]></title>
+</event>
+<event id="1134420795">
+<start_time>23:00</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[24小时]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV13" epg_code="CCTV13" date="2019-06-23">
+<event id="1134420798">
+<start_time>00:00</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[午夜新闻]]></title>
+</event>
+<event id="1134420801">
+<start_time>00:15</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[新闻调查]]></title>
+</event>
+<event id="1134420804">
+<start_time>00:58</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134420807">
+<start_time>01:00</start_time>
+<end_time>01:15</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420810">
+<start_time>01:15</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[新闻周刊]]></title>
+</event>
+<event id="1134420813">
+<start_time>02:00</start_time>
+<end_time>02:15</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420816">
+<start_time>02:15</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[新闻调查]]></title>
+</event>
+<event id="1134420819">
+<start_time>03:00</start_time>
+<end_time>03:20</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420822">
+<start_time>03:20</start_time>
+<end_time>03:36</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134420825">
+<start_time>03:36</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[军情时间到]]></title>
+</event>
+<event id="1134420828">
+<start_time>04:00</start_time>
+<end_time>04:15</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420831">
+<start_time>04:15</start_time>
+<end_time>05:00</end_time>
+<title><![CDATA[新闻周刊]]></title>
+</event>
+<event id="1134420834">
+<start_time>05:00</start_time>
+<end_time>05:12</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420837">
+<start_time>05:12</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[新闻调查]]></title>
+</event>
+<event id="1134420840">
+<start_time>06:00</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134420843">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1134420846">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134420849">
+<start_time>08:00</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1134420852">
+<start_time>08:55</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1134420855">
+<start_time>09:00</start_time>
+<end_time>09:12</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420858">
+<start_time>09:12</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[新闻周刊]]></title>
+</event>
+<event id="1134420861">
+<start_time>10:00</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420864">
+<start_time>10:58</start_time>
+<end_time>11:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134420867">
+<start_time>11:00</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420870">
+<start_time>12:00</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[新闻30分]]></title>
+</event>
+<event id="1134420873">
+<start_time>12:35</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[每周质量报告]]></title>
+</event>
+<event id="1134420876">
+<start_time>13:00</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420879">
+<start_time>14:00</start_time>
+<end_time>14:12</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420882">
+<start_time>14:12</start_time>
+<end_time>14:58</end_time>
+<title><![CDATA[新闻调查]]></title>
+</event>
+<event id="1134420885">
+<start_time>14:58</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134420888">
+<start_time>15:00</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420891">
+<start_time>16:00</start_time>
+<end_time>16:58</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420894">
+<start_time>16:58</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1134420897">
+<start_time>17:00</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1134420900">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[共同关注]]></title>
+</event>
+<event id="1134420903">
+<start_time>19:00</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134420906">
+<start_time>19:40</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1134420909">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[东方时空]]></title>
+</event>
+<event id="1134420912">
+<start_time>21:00</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[新闻联播]]></title>
+</event>
+<event id="1134420915">
+<start_time>21:30</start_time>
+<end_time>22:15</end_time>
+<title><![CDATA[面对面]]></title>
+</event>
+<event id="1134420918">
+<start_time>22:15</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[世界周刊]]></title>
+</event>
+<event id="1135159221">
+<start_time>23:00</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[24小时]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV13" epg_code="CCTV13" date="2019-06-24">
+<event id="1135159224">
+<start_time>00:00</start_time>
+<end_time>00:15</end_time>
+<title><![CDATA[午夜新闻]]></title>
+</event>
+<event id="1135159227">
+<start_time>00:15</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[面对面]]></title>
+</event>
+<event id="1135159230">
+<start_time>00:58</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1135159233">
+<start_time>01:00</start_time>
+<end_time>01:15</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1135159236">
+<start_time>01:15</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[世界周刊]]></title>
+</event>
+<event id="1135159239">
+<start_time>02:00</start_time>
+<end_time>02:15</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1135159242">
+<start_time>02:15</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[面对面]]></title>
+</event>
+<event id="1135159245">
+<start_time>03:00</start_time>
+<end_time>03:24</end_time>
+<title><![CDATA[新闻直播间]]></title>
+</event>
+<event id="1135159248">
+<start_time>03:24</start_time>
+<end_time>03:40</end_time>
+<title><![CDATA[焦点访谈]]></title>
+</event>
+<event id="1135159251">
+<start_time>03:40</start_time>
+<end_time>06:55</end_time>
+<title><![CDATA[每周质量报告]]></title>
+</event>
+<event id="1135159254">
+<start_time>06:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1135159257">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1135159260">
+<start_time>08:00</start_time>
+<end_time>08:55</end_time>
+<title><![CDATA[朝闻天下]]></title>
+</event>
+<event id="1135159263">
+<start_time>08:55</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135159266">
+<start_time>10:58</start_time>
+<end_time>14:58</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1135159269">
+<start_time>14:58</start_time>
+<end_time>16:58</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+<event id="1135159272">
+<start_time>16:58</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[全国主要城市天气预报]]></title>
+</event>
+</schedule>
+</document>

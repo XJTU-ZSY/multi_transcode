@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV10" epg_code="CCTV10" date="2019-06-18">
+<event id="1133284377">
+<start_time>00:28</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[读书-2019-123]]></title>
+</event>
+<event id="1133284380">
+<start_time>00:38</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[探索·发现-2019-152]]></title>
+</event>
+<event id="1133284383">
+<start_time>01:22</start_time>
+<end_time>01:47</end_time>
+<title><![CDATA[走近科学-2019-85]]></title>
+</event>
+<event id="1134327654">
+<start_time>01:47</start_time>
+<end_time>02:41</end_time>
+<title><![CDATA[2019真相特别节目-158]]></title>
+</event>
+<event id="1134327657">
+<start_time>02:41</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133284389">
+<start_time>06:00</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[地理·中国-2019-168]]></title>
+</event>
+<event id="1133284392">
+<start_time>06:27</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1133284395">
+<start_time>06:29</start_time>
+<end_time>07:24</end_time>
+<title><![CDATA[我爱发明-2019-113]]></title>
+</event>
+<event id="1133284398">
+<start_time>07:24</start_time>
+<end_time>08:24</end_time>
+<title><![CDATA[2019真相特别节目-158]]></title>
+</event>
+<event id="1133284401">
+<start_time>08:24</start_time>
+<end_time>09:11</end_time>
+<title><![CDATA[探索·发现-2019-152]]></title>
+</event>
+<event id="1133284404">
+<start_time>09:11</start_time>
+<end_time>09:59</end_time>
+<title><![CDATA[健康之路-2019-168]]></title>
+</event>
+<event id="1133284407">
+<start_time>09:59</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[自然传奇-2019-193]]></title>
+</event>
+<event id="1135218000">
+<start_time>10:58</start_time>
+<end_time>11:58</end_time>
+<title><![CDATA[2019真相特别节目-大真探]]></title>
+</event>
+<event id="1133284413">
+<start_time>11:58</start_time>
+<end_time>12:08</end_time>
+<title><![CDATA[读书-2019-124]]></title>
+</event>
+<event id="1133284416">
+<start_time>12:08</start_time>
+<end_time>12:56</end_time>
+<title><![CDATA[百家讲坛-2019-169]]></title>
+</event>
+<event id="1133284419">
+<start_time>12:56</start_time>
+<end_time>13:39</end_time>
+<title><![CDATA[探索·发现-2019-152]]></title>
+</event>
+<event id="1133284422">
+<start_time>13:39</start_time>
+<end_time>13:44</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1134995475">
+<start_time>13:44</start_time>
+<end_time>14:29</end_time>
+<title><![CDATA[时代楷模发布厅-2019-6]]></title>
+</event>
+<event id="1135261590">
+<start_time>14:29</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[最美铁路人-2019-2]]></title>
+</event>
+<event id="1135261593">
+<start_time>14:43</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[走近科学-2019-86]]></title>
+</event>
+<event id="1133284431">
+<start_time>15:10</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[地理·中国-2019-168]]></title>
+</event>
+<event id="1133284434">
+<start_time>15:42</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[读书-2019-124]]></title>
+</event>
+<event id="1133284437">
+<start_time>15:52</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[自然传奇-2019-193]]></title>
+</event>
+<event id="1135218003">
+<start_time>16:53</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[2019真相特别节目-大真探]]></title>
+</event>
+<event id="1133284443">
+<start_time>17:48</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1133284446">
+<start_time>17:49</start_time>
+<end_time>17:51</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1133284449">
+<start_time>17:51</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[地理·中国-2019-169]]></title>
+</event>
+<event id="1133284452">
+<start_time>18:23</start_time>
+<end_time>19:11</end_time>
+<title><![CDATA[健康之路-2019-169]]></title>
+</event>
+<event id="1133284455">
+<start_time>19:11</start_time>
+<end_time>20:10</end_time>
+<title><![CDATA[我爱发明-2019-114]]></title>
+</event>
+<event id="1133284458">
+<start_time>20:10</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[自然传奇-2019-194]]></title>
+</event>
+<event id="1133284461">
+<start_time>21:10</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[2019中国影像方志-47]]></title>
+</event>
+<event id="1133284464">
+<start_time>21:58</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[探索·发现-2019-153]]></title>
+</event>
+<event id="1133284467">
+<start_time>22:47</start_time>
+<end_time>23:40</end_time>
+<title><![CDATA[2019真相特别节目-163]]></title>
+</event>
+<event id="1133284470">
+<start_time>23:40</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1133487957">
+<start_time>23:42</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[百家讲坛-2019-169]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV10" epg_code="CCTV10" date="2019-06-19">
+<event id="1133487960">
+<start_time>00:28</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[读书-2019-124]]></title>
+</event>
+<event id="1133487963">
+<start_time>00:38</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[探索·发现-2019-153]]></title>
+</event>
+<event id="1133487966">
+<start_time>01:22</start_time>
+<end_time>01:47</end_time>
+<title><![CDATA[走近科学-2019-86]]></title>
+</event>
+<event id="1134946920">
+<start_time>01:47</start_time>
+<end_time>02:41</end_time>
+<title><![CDATA[2019真相特别节目-159]]></title>
+</event>
+<event id="1134946923">
+<start_time>02:41</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133487972">
+<start_time>06:00</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[地理·中国-2019-169]]></title>
+</event>
+<event id="1133487975">
+<start_time>06:27</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1133487978">
+<start_time>06:29</start_time>
+<end_time>07:24</end_time>
+<title><![CDATA[我爱发明-2019-114]]></title>
+</event>
+<event id="1133487981">
+<start_time>07:24</start_time>
+<end_time>08:24</end_time>
+<title><![CDATA[2019真相特别节目-159]]></title>
+</event>
+<event id="1133487984">
+<start_time>08:24</start_time>
+<end_time>09:11</end_time>
+<title><![CDATA[探索·发现-2019-153]]></title>
+</event>
+<event id="1133487987">
+<start_time>09:11</start_time>
+<end_time>09:59</end_time>
+<title><![CDATA[健康之路-2019-169]]></title>
+</event>
+<event id="1133487990">
+<start_time>09:59</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[自然传奇-2019-194]]></title>
+</event>
+<event id="1133487993">
+<start_time>10:58</start_time>
+<end_time>11:58</end_time>
+<title><![CDATA[2019真相特别节目-157]]></title>
+</event>
+<event id="1133487996">
+<start_time>11:58</start_time>
+<end_time>12:08</end_time>
+<title><![CDATA[读书-2019-125]]></title>
+</event>
+<event id="1133487999">
+<start_time>12:08</start_time>
+<end_time>12:56</end_time>
+<title><![CDATA[百家讲坛-2019-170]]></title>
+</event>
+<event id="1133488002">
+<start_time>12:56</start_time>
+<end_time>13:39</end_time>
+<title><![CDATA[探索·发现-2019-153]]></title>
+</event>
+<event id="1133488005">
+<start_time>13:39</start_time>
+<end_time>13:44</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1133488008">
+<start_time>13:44</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[我爱发明-2019-114]]></title>
+</event>
+<event id="1133488011">
+<start_time>14:43</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[走近科学-2019-87]]></title>
+</event>
+<event id="1133488014">
+<start_time>15:10</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[大家-2019-24]]></title>
+</event>
+<event id="1133488017">
+<start_time>15:42</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[读书-2019-125]]></title>
+</event>
+<event id="1133488020">
+<start_time>15:52</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[自然传奇-2019-194]]></title>
+</event>
+<event id="1133488023">
+<start_time>16:53</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[2019真相特别节目-157]]></title>
+</event>
+<event id="1133488026">
+<start_time>17:48</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1133488029">
+<start_time>17:49</start_time>
+<end_time>17:51</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1133488032">
+<start_time>17:51</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[地理·中国-2019-170]]></title>
+</event>
+<event id="1133488035">
+<start_time>18:23</start_time>
+<end_time>19:11</end_time>
+<title><![CDATA[健康之路-2019-170]]></title>
+</event>
+<event id="1133488038">
+<start_time>19:11</start_time>
+<end_time>20:10</end_time>
+<title><![CDATA[我爱发明-2019-115]]></title>
+</event>
+<event id="1133488041">
+<start_time>20:10</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[自然传奇-2019-195]]></title>
+</event>
+<event id="1133488044">
+<start_time>21:10</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[2018中国影像方志-93]]></title>
+</event>
+<event id="1133488047">
+<start_time>21:58</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[探索·发现-2019-154]]></title>
+</event>
+<event id="1133488050">
+<start_time>22:47</start_time>
+<end_time>23:40</end_time>
+<title><![CDATA[2019真相特别节目-164]]></title>
+</event>
+<event id="1133488053">
+<start_time>23:40</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1133745711">
+<start_time>23:42</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[百家讲坛-2019-170]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV10" epg_code="CCTV10" date="2019-06-20">
+<event id="1133745714">
+<start_time>00:28</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[读书-2019-125]]></title>
+</event>
+<event id="1133745717">
+<start_time>00:38</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[探索·发现-2019-154]]></title>
+</event>
+<event id="1133745720">
+<start_time>01:22</start_time>
+<end_time>01:47</end_time>
+<title><![CDATA[走近科学-2019-87]]></title>
+</event>
+<event id="1135246557">
+<start_time>01:47</start_time>
+<end_time>02:41</end_time>
+<title><![CDATA[2019真相特别节目-160]]></title>
+</event>
+<event id="1135246560">
+<start_time>02:41</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[再见]]></title>
+</event>
+<event id="1133745726">
+<start_time>06:00</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[地理·中国-2019-170]]></title>
+</event>
+<event id="1133745729">
+<start_time>06:27</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1133745732">
+<start_time>06:29</start_time>
+<end_time>07:24</end_time>
+<title><![CDATA[我爱发明-2019-115]]></title>
+</event>
+<event id="1133745735">
+<start_time>07:24</start_time>
+<end_time>08:24</end_time>
+<title><![CDATA[2019真相特别节目-160]]></title>
+</event>
+<event id="1133745738">
+<start_time>08:24</start_time>
+<end_time>09:11</end_time>
+<title><![CDATA[探索·发现-2019-154]]></title>
+</event>
+<event id="1133745741">
+<start_time>09:11</start_time>
+<end_time>09:59</end_time>
+<title><![CDATA[健康之路-2019-170]]></title>
+</event>
+<event id="1133745744">
+<start_time>09:59</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[自然传奇-2019-195]]></title>
+</event>
+<event id="1133745747">
+<start_time>10:58</start_time>
+<end_time>11:58</end_time>
+<title><![CDATA[2019四季味道-33]]></title>
+</event>
+<event id="1133745750">
+<start_time>11:58</start_time>
+<end_time>12:08</end_time>
+<title><![CDATA[读书-2019-126]]></title>
+</event>
+<event id="1133745753">
+<start_time>12:08</start_time>
+<end_time>12:56</end_time>
+<title><![CDATA[百家讲坛-2019-171]]></title>
+</event>
+<event id="1133745756">
+<start_time>12:56</start_time>
+<end_time>13:39</end_time>
+<title><![CDATA[探索·发现-2019-154]]></title>
+</event>
+<event id="1133745759">
+<start_time>13:39</start_time>
+<end_time>13:44</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1133745762">
+<start_time>13:44</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[我爱发明-2019-115]]></title>
+</event>
+<event id="1133745765">
+<start_time>14:43</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[走近科学-2019-88]]></title>
+</event>
+<event id="1133745768">
+<start_time>15:10</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[人物-2019-42]]></title>
+</event>
+<event id="1133745771">
+<start_time>15:42</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[读书-2019-126]]></title>
+</event>
+<event id="1133745774">
+<start_time>15:52</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[自然传奇-2019-195]]></title>
+</event>
+<event id="1133745777">
+<start_time>16:53</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[2019四季味道-33]]></title>
+</event>
+<event id="1133745780">
+<start_time>17:48</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1133745783">
+<start_time>17:49</start_time>
+<end_time>17:51</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1133745786">
+<start_time>17:51</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[地理·中国-2019-171]]></title>
+</event>
+<event id="1133745789">
+<start_time>18:23</start_time>
+<end_time>19:11</end_time>
+<title><![CDATA[健康之路-2019-171]]></title>
+</event>
+<event id="1133745792">
+<start_time>19:11</start_time>
+<end_time>20:10</end_time>
+<title><![CDATA[我爱发明-2019-116]]></title>
+</event>
+<event id="1133745795">
+<start_time>20:10</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[自然传奇-2019-196]]></title>
+</event>
+<event id="1133745798">
+<start_time>21:10</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[2018中国影像方志-95]]></title>
+</event>
+<event id="1133745801">
+<start_time>21:58</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[探索·发现-2019-155]]></title>
+</event>
+<event id="1133745804">
+<start_time>22:47</start_time>
+<end_time>23:40</end_time>
+<title><![CDATA[2019四季味道-34]]></title>
+</event>
+<event id="1133745807">
+<start_time>23:40</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134044265">
+<start_time>23:42</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[百家讲坛-2019-171]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV10" epg_code="CCTV10" date="2019-06-21">
+<event id="1134044268">
+<start_time>00:28</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[读书-2019-126]]></title>
+</event>
+<event id="1134044271">
+<start_time>00:38</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[探索·发现-2019-155]]></title>
+</event>
+<event id="1134044274">
+<start_time>01:22</start_time>
+<end_time>01:47</end_time>
+<title><![CDATA[走近科学-2019-88]]></title>
+</event>
+<event id="1134044277">
+<start_time>01:47</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[2019真相特别节目-161]]></title>
+</event>
+<event id="1134044280">
+<start_time>06:00</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[地理·中国-2019-171]]></title>
+</event>
+<event id="1134044283">
+<start_time>06:27</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134044286">
+<start_time>06:29</start_time>
+<end_time>07:24</end_time>
+<title><![CDATA[我爱发明-2019-116]]></title>
+</event>
+<event id="1134044289">
+<start_time>07:24</start_time>
+<end_time>08:24</end_time>
+<title><![CDATA[2019真相特别节目-162]]></title>
+</event>
+<event id="1134044292">
+<start_time>08:24</start_time>
+<end_time>09:11</end_time>
+<title><![CDATA[探索·发现-2019-155]]></title>
+</event>
+<event id="1134044295">
+<start_time>09:11</start_time>
+<end_time>09:59</end_time>
+<title><![CDATA[健康之路-2019-171]]></title>
+</event>
+<event id="1134044298">
+<start_time>09:59</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[自然传奇-2019-196]]></title>
+</event>
+<event id="1134044301">
+<start_time>10:58</start_time>
+<end_time>11:58</end_time>
+<title><![CDATA[2019四季味道-34]]></title>
+</event>
+<event id="1134044304">
+<start_time>11:58</start_time>
+<end_time>12:08</end_time>
+<title><![CDATA[读书-2019-127]]></title>
+</event>
+<event id="1134044307">
+<start_time>12:08</start_time>
+<end_time>12:56</end_time>
+<title><![CDATA[百家讲坛-2019-172]]></title>
+</event>
+<event id="1134044310">
+<start_time>12:56</start_time>
+<end_time>13:39</end_time>
+<title><![CDATA[探索·发现-2019-155]]></title>
+</event>
+<event id="1134044313">
+<start_time>13:39</start_time>
+<end_time>13:44</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1134044316">
+<start_time>13:44</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[我爱发明-2019-116]]></title>
+</event>
+<event id="1134044319">
+<start_time>14:43</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[人物-2019-42]]></title>
+</event>
+<event id="1134044322">
+<start_time>15:10</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[人物-2019-43]]></title>
+</event>
+<event id="1134044325">
+<start_time>15:42</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[读书-2019-127]]></title>
+</event>
+<event id="1134044328">
+<start_time>15:52</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[自然传奇-2019-196]]></title>
+</event>
+<event id="1134044331">
+<start_time>16:53</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[2019四季味道-34]]></title>
+</event>
+<event id="1134044334">
+<start_time>17:48</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134044337">
+<start_time>17:49</start_time>
+<end_time>17:51</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1134044340">
+<start_time>17:51</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[地理·中国-2019-172]]></title>
+</event>
+<event id="1134044343">
+<start_time>18:23</start_time>
+<end_time>19:11</end_time>
+<title><![CDATA[健康之路-2019-172]]></title>
+</event>
+<event id="1134044346">
+<start_time>19:11</start_time>
+<end_time>20:10</end_time>
+<title><![CDATA[我爱发明-2019-117]]></title>
+</event>
+<event id="1134044349">
+<start_time>20:10</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[自然传奇-2019-197]]></title>
+</event>
+<event id="1134044352">
+<start_time>21:10</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[2018中国影像方志-109]]></title>
+</event>
+<event id="1134044355">
+<start_time>21:58</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[探索·发现-2019-156]]></title>
+</event>
+<event id="1134044358">
+<start_time>22:47</start_time>
+<end_time>23:40</end_time>
+<title><![CDATA[2019四季味道-35]]></title>
+</event>
+<event id="1134044361">
+<start_time>23:40</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134292527">
+<start_time>23:42</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[百家讲坛-2019-172]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV10" epg_code="CCTV10" date="2019-06-22">
+<event id="1134292530">
+<start_time>00:28</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[读书-2019-127]]></title>
+</event>
+<event id="1134292533">
+<start_time>00:38</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[探索·发现-2019-156]]></title>
+</event>
+<event id="1134292536">
+<start_time>01:22</start_time>
+<end_time>01:47</end_time>
+<title><![CDATA[讲述-2019-40]]></title>
+</event>
+<event id="1134292539">
+<start_time>01:47</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[2019真相特别节目-162]]></title>
+</event>
+<event id="1134292542">
+<start_time>06:00</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[地理·中国-2019-172]]></title>
+</event>
+<event id="1134292545">
+<start_time>06:27</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134292548">
+<start_time>06:29</start_time>
+<end_time>07:24</end_time>
+<title><![CDATA[我爱发明-2019-117]]></title>
+</event>
+<event id="1134292551">
+<start_time>07:24</start_time>
+<end_time>08:24</end_time>
+<title><![CDATA[2019真相特别节目-163]]></title>
+</event>
+<event id="1134292554">
+<start_time>08:24</start_time>
+<end_time>09:11</end_time>
+<title><![CDATA[探索·发现-2019-156]]></title>
+</event>
+<event id="1134292557">
+<start_time>09:11</start_time>
+<end_time>09:59</end_time>
+<title><![CDATA[健康之路-2019-172]]></title>
+</event>
+<event id="1134292560">
+<start_time>09:59</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[自然传奇-2019-197]]></title>
+</event>
+<event id="1134292563">
+<start_time>10:58</start_time>
+<end_time>11:58</end_time>
+<title><![CDATA[2019四季味道-35]]></title>
+</event>
+<event id="1134292566">
+<start_time>11:58</start_time>
+<end_time>12:08</end_time>
+<title><![CDATA[读书-2019-128]]></title>
+</event>
+<event id="1134292569">
+<start_time>12:08</start_time>
+<end_time>12:56</end_time>
+<title><![CDATA[百家讲坛-2019-173]]></title>
+</event>
+<event id="1134292572">
+<start_time>12:56</start_time>
+<end_time>13:39</end_time>
+<title><![CDATA[探索·发现-2019-156]]></title>
+</event>
+<event id="1134292575">
+<start_time>13:39</start_time>
+<end_time>13:44</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1134292578">
+<start_time>13:44</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[我爱发明-2019-117]]></title>
+</event>
+<event id="1134292581">
+<start_time>14:43</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[人物-2019-43]]></title>
+</event>
+<event id="1134292584">
+<start_time>15:10</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[讲述-2019-42]]></title>
+</event>
+<event id="1134292587">
+<start_time>15:42</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[读书-2019-128]]></title>
+</event>
+<event id="1134292590">
+<start_time>15:52</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[自然传奇-2019-197]]></title>
+</event>
+<event id="1134292593">
+<start_time>16:53</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[2019四季味道-35]]></title>
+</event>
+<event id="1134292596">
+<start_time>17:48</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134292599">
+<start_time>17:49</start_time>
+<end_time>17:51</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1134292602">
+<start_time>17:51</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[地理·中国-2019-173]]></title>
+</event>
+<event id="1134292605">
+<start_time>18:23</start_time>
+<end_time>19:11</end_time>
+<title><![CDATA[健康之路-2019-173]]></title>
+</event>
+<event id="1134292608">
+<start_time>19:11</start_time>
+<end_time>20:10</end_time>
+<title><![CDATA[我爱发明-2019-118]]></title>
+</event>
+<event id="1134292611">
+<start_time>20:10</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[自然传奇-2019-198]]></title>
+</event>
+<event id="1134292614">
+<start_time>21:10</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[2019中国影像方志-33]]></title>
+</event>
+<event id="1134292617">
+<start_time>21:58</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[探索·发现-2019-157]]></title>
+</event>
+<event id="1134292620">
+<start_time>22:47</start_time>
+<end_time>23:40</end_time>
+<title><![CDATA[2019四季味道-36]]></title>
+</event>
+<event id="1134292623">
+<start_time>23:40</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134420996">
+<start_time>23:42</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[百家讲坛-2019-173]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV10" epg_code="CCTV10" date="2019-06-23">
+<event id="1134420999">
+<start_time>00:28</start_time>
+<end_time>00:38</end_time>
+<title><![CDATA[读书-2019-128]]></title>
+</event>
+<event id="1134421002">
+<start_time>00:38</start_time>
+<end_time>01:22</end_time>
+<title><![CDATA[探索·发现-2019-157]]></title>
+</event>
+<event id="1134421005">
+<start_time>01:22</start_time>
+<end_time>01:47</end_time>
+<title><![CDATA[讲述-2019-41]]></title>
+</event>
+<event id="1134421008">
+<start_time>01:47</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[2019真相特别节目-163]]></title>
+</event>
+<event id="1134421011">
+<start_time>06:00</start_time>
+<end_time>06:27</end_time>
+<title><![CDATA[地理·中国-2019-173]]></title>
+</event>
+<event id="1134421014">
+<start_time>06:27</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134421017">
+<start_time>06:29</start_time>
+<end_time>07:24</end_time>
+<title><![CDATA[自然传奇-2019-208]]></title>
+</event>
+<event id="1134421020">
+<start_time>07:24</start_time>
+<end_time>08:24</end_time>
+<title><![CDATA[2019真相特别节目-164]]></title>
+</event>
+<event id="1134421023">
+<start_time>08:24</start_time>
+<end_time>09:11</end_time>
+<title><![CDATA[探索·发现-2019-157]]></title>
+</event>
+<event id="1134421026">
+<start_time>09:11</start_time>
+<end_time>09:59</end_time>
+<title><![CDATA[健康之路-2019-173]]></title>
+</event>
+<event id="1134421029">
+<start_time>09:59</start_time>
+<end_time>10:58</end_time>
+<title><![CDATA[自然传奇-2019-198]]></title>
+</event>
+<event id="1134421032">
+<start_time>10:58</start_time>
+<end_time>11:58</end_time>
+<title><![CDATA[2019四季味道-36]]></title>
+</event>
+<event id="1134421035">
+<start_time>11:58</start_time>
+<end_time>12:08</end_time>
+<title><![CDATA[读书-2019-129]]></title>
+</event>
+<event id="1134421038">
+<start_time>12:08</start_time>
+<end_time>12:56</end_time>
+<title><![CDATA[百家讲坛-2019-174]]></title>
+</event>
+<event id="1134421041">
+<start_time>12:56</start_time>
+<end_time>13:39</end_time>
+<title><![CDATA[探索·发现-2019-157]]></title>
+</event>
+<event id="1134421044">
+<start_time>13:39</start_time>
+<end_time>13:44</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1134421047">
+<start_time>13:44</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[自然传奇-2019-208]]></title>
+</event>
+<event id="1134421050">
+<start_time>14:43</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[地理·中国-2019-173]]></title>
+</event>
+<event id="1134421053">
+<start_time>15:10</start_time>
+<end_time>15:42</end_time>
+<title><![CDATA[讲述-2019-43]]></title>
+</event>
+<event id="1134421056">
+<start_time>15:42</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[读书-2019-129]]></title>
+</event>
+<event id="1134421059">
+<start_time>15:52</start_time>
+<end_time>16:53</end_time>
+<title><![CDATA[自然传奇-2019-198]]></title>
+</event>
+<event id="1134421062">
+<start_time>16:53</start_time>
+<end_time>17:48</end_time>
+<title><![CDATA[2019四季味道-36]]></title>
+</event>
+<event id="1134421065">
+<start_time>17:48</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134421068">
+<start_time>17:49</start_time>
+<end_time>17:51</end_time>
+<title><![CDATA[欣赏-2019-2]]></title>
+</event>
+<event id="1134421071">
+<start_time>17:51</start_time>
+<end_time>18:23</end_time>
+<title><![CDATA[地理·中国-2019-174]]></title>
+</event>
+<event id="1134421074">
+<start_time>18:23</start_time>
+<end_time>19:11</end_time>
+<title><![CDATA[健康之路-2019-174]]></title>
+</event>
+<event id="1134421077">
+<start_time>19:11</start_time>
+<end_time>20:10</end_time>
+<title><![CDATA[自然传奇-2019-209]]></title>
+</event>
+<event id="1134421080">
+<start_time>20:10</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[自然传奇-2019-199]]></title>
+</event>
+<event id="1134421083">
+<start_time>21:10</start_time>
+<end_time>21:58</end_time>
+<title><![CDATA[2019中国影像方志-21]]></title>
+</event>
+<event id="1134421086">
+<start_time>21:58</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[探索·发现-2019-158]]></title>
+</event>
+<event id="1134421089">
+<start_time>22:47</start_time>
+<end_time>23:40</end_time>
+<title><![CDATA[2019四季味道-37]]></title>
+</event>
+<event id="1134421092">
+<start_time>23:40</start_time>
+<end_time>23:42</end_time>
+<title><![CDATA[欣赏-2019-3]]></title>
+</event>
+<event id="1134421095">
+<start_time>23:42</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[百家讲坛-2019-174]]></title>
+</event>
+</schedule>
+</document>

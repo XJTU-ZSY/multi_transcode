@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV5-PLUS" epg_code="CCTV5-PLUS" date="2019-06-18">
+<event id="1133865201">
+<start_time>02:30</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛A组(韩国队-挪威队)]]></title>
+</event>
+<event id="1133865204">
+<start_time>05:05</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[实况录像-2018/2019欧洲国家联赛 三,四名决赛]]></title>
+</event>
+<event id="1133865207">
+<start_time>06:30</start_time>
+<end_time>07:55</end_time>
+<title><![CDATA[2019年飞镖世界杯精选-1]]></title>
+</event>
+<event id="1133865210">
+<start_time>07:55</start_time>
+<end_time>08:25</end_time>
+<title><![CDATA[赛事集锦-2019年马术世界5]]></title>
+</event>
+<event id="1133865213">
+<start_time>08:25</start_time>
+<end_time>09:55</end_time>
+<title><![CDATA[实况录像-2019年国际田联钻石联赛 奥斯陆站精选]]></title>
+</event>
+<event id="1133865216">
+<start_time>09:55</start_time>
+<end_time>11:20</end_time>
+<title><![CDATA[2018/2019赛季北美冰球职业联赛-总决赛 第二场]]></title>
+</event>
+<event id="1134995673">
+<start_time>11:20</start_time>
+<end_time>12:45</end_time>
+<title><![CDATA[录像-2019年法国女足世界杯小组赛E组 加拿大队-新西兰队]]></title>
+</event>
+<event id="1133865222">
+<start_time>12:45</start_time>
+<end_time>14:10</end_time>
+<title><![CDATA[2019年世界男排联赛-葡萄牙站(巴西-中国)]]></title>
+</event>
+<event id="1134933891">
+<start_time>14:10</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[2019年射箭世锦赛精选-2]]></title>
+</event>
+<event id="1133865228">
+<start_time>15:10</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[实况录像-2019年国际乒联世界巡回赛日本公开赛 精选2]]></title>
+</event>
+<event id="1133865231">
+<start_time>16:35</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛A组 尼日利亚队-法国队]]></title>
+</event>
+<event id="1133865234">
+<start_time>18:05</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛B组 中国队-西班牙队]]></title>
+</event>
+<event id="1133865237">
+<start_time>19:30</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[2019年世界女排联赛-宁波站(中国队-德国队)]]></title>
+</event>
+<event id="1133865240">
+<start_time>21:32</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[赛事集锦-ATP周刊17]]></title>
+</event>
+<event id="1133865243">
+<start_time>22:00</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[2019年世界女排联赛-俄罗斯站(俄罗斯队-美国队)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5-PLUS" epg_code="CCTV5-PLUS" date="2019-06-19">
+<event id="1133865246">
+<start_time>00:05</start_time>
+<end_time>01:02</end_time>
+<title><![CDATA[实况录像-2019年世界跆拳道锦标赛 中国队精选]]></title>
+</event>
+<event id="1133865249">
+<start_time>01:02</start_time>
+<end_time>02:50</end_time>
+<title><![CDATA[2019年法国网球公开赛-男单决赛]]></title>
+</event>
+<event id="1133865252">
+<start_time>02:50</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛C组(牙买加队-澳大利亚队)]]></title>
+</event>
+<event id="1133865255">
+<start_time>05:05</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[实况录像-2018/2019欧洲国家联赛半决赛 葡萄牙队-瑞士队]]></title>
+</event>
+<event id="1133865258">
+<start_time>06:30</start_time>
+<end_time>07:55</end_time>
+<title><![CDATA[2019年飞镖世界杯-精选2(半决赛,决赛)]]></title>
+</event>
+<event id="1133865261">
+<start_time>07:55</start_time>
+<end_time>08:27</end_time>
+<title><![CDATA[2019年体坛风云会-里皮]]></title>
+</event>
+<event id="1133865264">
+<start_time>08:27</start_time>
+<end_time>09:55</end_time>
+<title><![CDATA[2019年中国之队广州国际足球赛-中国队-塔吉克斯坦队]]></title>
+</event>
+<event id="1133865267">
+<start_time>09:55</start_time>
+<end_time>11:25</end_time>
+<title><![CDATA[2018/2019赛季北美冰球职业联赛总决赛-第三场(波士顿棕熊-圣路易斯蓝调)]]></title>
+</event>
+<event id="1134933894">
+<start_time>11:25</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[2019年射箭世锦赛精选-1]]></title>
+</event>
+<event id="1133865273">
+<start_time>12:25</start_time>
+<end_time>13:55</end_time>
+<title><![CDATA[2019年世界男排联赛-葡萄牙站(中国队-塞尔维亚队)]]></title>
+</event>
+<event id="1133865276">
+<start_time>13:55</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[实况录像-2019年国际乒联世界巡回赛日本公开赛 精选1]]></title>
+</event>
+<event id="1133865279">
+<start_time>15:25</start_time>
+<end_time>16:50</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛C组 意大利队-巴西队]]></title>
+</event>
+<event id="1133865282">
+<start_time>16:50</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-德国队]]></title>
+</event>
+<event id="1133865285">
+<start_time>18:05</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[实况录像-2019年亚洲冠军联赛1/8决赛第一回合 中国广州恒大-中国山东鲁能泰山]]></title>
+</event>
+<event id="1133865288">
+<start_time>19:30</start_time>
+<end_time>21:46</end_time>
+<title><![CDATA[2019年世界女排联赛-宁波站(中国队-保加利亚队)]]></title>
+</event>
+<event id="1133865291">
+<start_time>21:46</start_time>
+<end_time>23:05</end_time>
+<title><![CDATA[实况录像-2019年中国男篮系列赛中澳男篮对抗赛第一场 中国队-澳大利亚NBL联队(录播)]]></title>
+</event>
+<event id="1133865294">
+<start_time>23:05</start_time>
+<end_time>23:35</end_time>
+<title><![CDATA[赛事集锦-2019年田径杂志7]]></title>
+</event>
+<event id="1133865297">
+<start_time>23:35</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[赛事集锦-骑行圈()]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5-PLUS" epg_code="CCTV5-PLUS" date="2019-06-20">
+<event id="1133865300">
+<start_time>00:00</start_time>
+<end_time>02:02</end_time>
+<title><![CDATA[2019年世界女排联赛-土耳其站(意大利队-土耳其队)]]></title>
+</event>
+<event id="1134995676">
+<start_time>02:02</start_time>
+<end_time>02:27</end_time>
+<title><![CDATA[马术世界5]]></title>
+</event>
+<event id="1134995679">
+<start_time>02:27</start_time>
+<end_time>02:50</end_time>
+<title><![CDATA[骑行圈(2019-13)]]></title>
+</event>
+<event id="1133865306">
+<start_time>02:50</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛D组(苏格兰队-阿根廷队)]]></title>
+</event>
+<event id="1133865309">
+<start_time>05:05</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[实况录像-2018/2019欧洲国家联赛半决赛 荷兰队-英格兰队]]></title>
+</event>
+<event id="1133865312">
+<start_time>06:30</start_time>
+<end_time>07:55</end_time>
+<title><![CDATA[实况录像-2019年世界男排联赛中国宁波站 中国队-保加利亚队]]></title>
+</event>
+<event id="1133865315">
+<start_time>07:55</start_time>
+<end_time>08:25</end_time>
+<title><![CDATA[赛事集锦-2019年田径杂志7]]></title>
+</event>
+<event id="1133865318">
+<start_time>08:25</start_time>
+<end_time>09:55</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛C组 意大利队-巴西队]]></title>
+</event>
+<event id="1133865321">
+<start_time>09:55</start_time>
+<end_time>11:25</end_time>
+<title><![CDATA[2018/2019赛季北美冰球职业联赛总决赛-第四场(波士顿棕熊-圣路易斯蓝调)]]></title>
+</event>
+<event id="1133865324">
+<start_time>11:25</start_time>
+<end_time>12:55</end_time>
+<title><![CDATA[实况录像-2019年国际田联钻石联赛 拉巴特站精选]]></title>
+</event>
+<event id="1134933897">
+<start_time>12:55</start_time>
+<end_time>13:55</end_time>
+<title><![CDATA[2019年射箭世锦赛精选-2]]></title>
+</event>
+<event id="1133865330">
+<start_time>13:55</start_time>
+<end_time>15:25</end_time>
+<title><![CDATA[实况录像-2019年国际乒联世界巡回赛日本公开赛 精选2]]></title>
+</event>
+<event id="1133865333">
+<start_time>15:25</start_time>
+<end_time>16:55</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛D组 日本队-英格兰队]]></title>
+</event>
+<event id="1133865336">
+<start_time>16:55</start_time>
+<end_time>18:15</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-保加利亚队]]></title>
+</event>
+<event id="1133865339">
+<start_time>18:15</start_time>
+<end_time>19:45</end_time>
+<title><![CDATA[实况录像-2019年亚洲冠军联赛1/8决赛第一回合 中国上海上港-韩国全北]]></title>
+</event>
+<event id="1133865342">
+<start_time>19:45</start_time>
+<end_time>20:45</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-精选1]]></title>
+</event>
+<event id="1133865345">
+<start_time>20:45</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[实况录像-2019年中国男篮系列赛中澳男篮对抗赛第一场 中国队-澳大利亚NBL联队]]></title>
+</event>
+<event id="1134055374">
+<start_time>22:00</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[2019年世界女排联赛-俄罗斯站(俄罗斯队-荷兰队)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5-PLUS" epg_code="CCTV5-PLUS" date="2019-06-21">
+<event id="1134055377">
+<start_time>00:00</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛E组(喀麦隆队-新西兰队)]]></title>
+</event>
+<event id="1134055380">
+<start_time>02:30</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[2019年法国女足世界杯-小组赛F组(泰国队-智利队)]]></title>
+</event>
+<event id="1134055383">
+<start_time>05:05</start_time>
+<end_time>06:35</end_time>
+<title><![CDATA[实况录像-2019年国际田联钻石联赛 罗马站精选]]></title>
+</event>
+<event id="1134055386">
+<start_time>06:35</start_time>
+<end_time>07:10</end_time>
+<title><![CDATA[赛事集锦-2018/2019赛季橄榄球英超集锦(23)]]></title>
+</event>
+<event id="1134055389">
+<start_time>07:10</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛D组 日本队-英格兰队]]></title>
+</event>
+<event id="1134055392">
+<start_time>08:35</start_time>
+<end_time>09:35</end_time>
+<title><![CDATA[体育新闻-北京2022]]></title>
+</event>
+<event id="1134055395">
+<start_time>09:35</start_time>
+<end_time>10:35</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-精选1]]></title>
+</event>
+<event id="1134055398">
+<start_time>10:35</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[2018/2019赛季北美冰球职业联赛总决赛-第五场(圣路易斯蓝调-波士顿棕熊)]]></title>
+</event>
+<event id="1134055401">
+<start_time>12:00</start_time>
+<end_time>12:25</end_time>
+<title><![CDATA[赛事集锦-骑行圈()]]></title>
+</event>
+<event id="1134055404">
+<start_time>12:25</start_time>
+<end_time>13:45</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛土耳其站 巴西队-意大利队]]></title>
+</event>
+<event id="1134055407">
+<start_time>13:45</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-保加利亚队]]></title>
+</event>
+<event id="1134055410">
+<start_time>15:05</start_time>
+<end_time>16:35</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛E组 荷兰队-加拿大队]]></title>
+</event>
+<event id="1134055413">
+<start_time>16:35</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛F组 瑞典队-美国队]]></title>
+</event>
+<event id="1134055416">
+<start_time>18:05</start_time>
+<end_time>18:35</end_time>
+<title><![CDATA[赛事集锦-约战果岭()]]></title>
+</event>
+<event id="1134055419">
+<start_time>18:35</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[实况录像-2019年国际乒联世界巡回赛日本公开赛 混双决赛]]></title>
+</event>
+<event id="1134055422">
+<start_time>19:30</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[2019年中国平安中超联赛-第14轮(江苏苏宁易购-上海绿地申花)]]></title>
+</event>
+<event id="1134055425">
+<start_time>21:40</start_time>
+<end_time>22:40</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-精选2]]></title>
+</event>
+<event id="1134055428">
+<start_time>22:40</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-保加利亚队]]></title>
+</event>
+<event id="1134302115">
+<start_time>23:55</start_time>
+<end_time>01:10</end_time>
+<title><![CDATA[实况录像-2019年中国男篮系列赛中澳男篮对抗赛第一场 中国队-澳大利亚NBL联队]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5-PLUS" epg_code="CCTV5-PLUS" date="2019-06-22">
+<event id="1134302118">
+<start_time>01:10</start_time>
+<end_time>02:05</end_time>
+<title><![CDATA[欧冠开场哨]]></title>
+</event>
+<event id="1134302121">
+<start_time>02:05</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[赛事集锦-2018/2019赛季高尔夫欧巡赛精选13-比利时对抗赛]]></title>
+</event>
+<event id="1134302124">
+<start_time>04:00</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[实况录像-2019年法国网球公开赛 女单决赛]]></title>
+</event>
+<event id="1134302127">
+<start_time>05:30</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[赛事集锦-冰球 冰球34]]></title>
+</event>
+<event id="1134302130">
+<start_time>06:00</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[实况录像-2018/2019欧洲国家联赛 决赛]]></title>
+</event>
+<event id="1134302133">
+<start_time>07:30</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[实况录像-2019年亚洲冠军联赛1/8决赛第一回合 中国广州恒大-中国山东鲁能泰山]]></title>
+</event>
+<event id="1134302136">
+<start_time>09:00</start_time>
+<end_time>10:20</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛土耳其站 土耳其队-巴西队]]></title>
+</event>
+<event id="1134302139">
+<start_time>10:20</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[2018/2019赛季北美冰球职业联赛总决赛-第六场(波士顿棕熊-圣路易斯蓝调)]]></title>
+</event>
+<event id="1134302142">
+<start_time>11:50</start_time>
+<end_time>12:20</end_time>
+<title><![CDATA[赛事集锦-2019年田径杂志7]]></title>
+</event>
+<event id="1134302145">
+<start_time>12:20</start_time>
+<end_time>13:50</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛B组 德国队-中国队]]></title>
+</event>
+<event id="1134302148">
+<start_time>13:50</start_time>
+<end_time>15:20</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯小组赛B组 中国队-西班牙队]]></title>
+</event>
+<event id="1134302151">
+<start_time>15:20</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[实况录像-2019年世界女排联赛中国宁波站 中国队-德国队]]></title>
+</event>
+<event id="1134302154">
+<start_time>16:40</start_time>
+<end_time>18:10</end_time>
+<title><![CDATA[2019年中国平安中超联赛- 第14轮(江苏苏宁易购-上海绿地申花)]]></title>
+</event>
+<event id="1134302157">
+<start_time>18:10</start_time>
+<end_time>19:10</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-精选3]]></title>
+</event>
+<event id="1134302160">
+<start_time>19:10</start_time>
+<end_time>19:40</end_time>
+<title><![CDATA[赛事集锦-ATP周刊18]]></title>
+</event>
+<event id="1134302163">
+<start_time>19:40</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[实况录像-2019年中国男篮系列赛中澳男篮对抗赛第二场 中国队-澳大利亚NBL联队]]></title>
+</event>
+<event id="1134302166">
+<start_time>21:00</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[2019年世界一级方程式锦标赛-法国站 排位赛]]></title>
+</event>
+<event id="1134302169">
+<start_time>22:00</start_time>
+<end_time>23:25</end_time>
+<title><![CDATA[实况录像-2019年世界男排联赛美国站 加拿大队-中国队(录播)]]></title>
+</event>
+<event id="1134430401">
+<start_time>23:25</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[2019年世界男排联赛-意大利站(波兰队-塞尔维亚队)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5-PLUS" epg_code="CCTV5-PLUS" date="2019-06-23">
+<event id="1134430404">
+<start_time>01:05</start_time>
+<end_time>02:05</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-精选2]]></title>
+</event>
+<event id="1134430407">
+<start_time>02:05</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[实况录像-2019年国际乒联世界巡回赛日本公开赛 混双决赛]]></title>
+</event>
+<event id="1134430410">
+<start_time>03:00</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[2019年女子美巡赛-美国女子PGA锦标赛 第三轮]]></title>
+</event>
+<event id="1134430413">
+<start_time>06:00</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-精选3]]></title>
+</event>
+<event id="1134430416">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[体育新闻-北京2022]]></title>
+</event>
+<event id="1134430419">
+<start_time>08:00</start_time>
+<end_time>08:30</end_time>
+<title><![CDATA[赛事集锦-约战果岭()]]></title>
+</event>
+<event id="1134430422">
+<start_time>08:30</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[实况录像-2019年亚洲冠军联赛1/8决赛第一回合 中国上海上港-韩国全北]]></title>
+</event>
+<event id="1134430425">
+<start_time>10:00</start_time>
+<end_time>11:30</end_time>
+<title><![CDATA[2018/2019赛季北美冰球职业联赛-总决赛 第七场(圣路易斯蓝调-波士顿棕熊)]]></title>
+</event>
+<event id="1134430428">
+<start_time>11:30</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-1/4决赛(录播)]]></title>
+</event>
+<event id="1134430431">
+<start_time>13:00</start_time>
+<end_time>14:42</end_time>
+<title><![CDATA[2019年CTCC中国房车锦标赛-上海佘山站]]></title>
+</event>
+<event id="1134430434">
+<start_time>14:42</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[赛事集锦-ATP周刊18]]></title>
+</event>
+<event id="1134430437">
+<start_time>15:10</start_time>
+<end_time>16:32</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯1/8决赛1]]></title>
+</event>
+<event id="1134430440">
+<start_time>16:32</start_time>
+<end_time>17:55</end_time>
+<title><![CDATA[实况录像-2019年法国女足世界杯1/8决赛2]]></title>
+</event>
+<event id="1134430443">
+<start_time>17:55</start_time>
+<end_time>18:45</end_time>
+<title><![CDATA[实况录像-2019年国际乒联世界巡回赛日本公开赛 男单决赛]]></title>
+</event>
+<event id="1134430446">
+<start_time>18:45</start_time>
+<end_time>20:10</end_time>
+<title><![CDATA[实况录像-2019年世界男排联赛美国站 中国队-日本队(录播)]]></title>
+</event>
+<event id="1134430449">
+<start_time>20:10</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-女子半决赛]]></title>
+</event>
+<event id="1134430452">
+<start_time>21:10</start_time>
+<end_time>23:10</end_time>
+<title><![CDATA[2019年世界一级方程式锦标赛-法国站 正赛]]></title>
+</event>
+<event id="1134430455">
+<start_time>23:10</start_time>
+<end_time>23:40</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-半决赛(录播)]]></title>
+</event>
+<event id="1134916383">
+<start_time>23:40</start_time>
+<end_time>00:31</end_time>
+<title><![CDATA[2019年三对三篮球世界杯-三四名决赛,决赛]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV5-PLUS" epg_code="CCTV5-PLUS" date="2019-06-24">
+<event id="1134916386">
+<start_time>00:31</start_time>
+<end_time>01:34</end_time>
+<title><![CDATA[体育赛事]]></title>
+</event>
+<event id="1134916389">
+<start_time>01:34</start_time>
+<end_time>03:05</end_time>
+<title><![CDATA[体育节目]]></title>
+</event>
+<event id="1134916392">
+<start_time>03:05</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[体育赛事]]></title>
+</event>
+<event id="1134916395">
+<start_time>04:00</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[体育节目]]></title>
+</event>
+<event id="1134916398">
+<start_time>05:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[体育赛事]]></title>
+</event>
+<event id="1134916401">
+<start_time>07:00</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[体育节目]]></title>
+</event>
+</schedule>
+</document>

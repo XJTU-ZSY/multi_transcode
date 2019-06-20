@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="CCTV15" epg_code="CCTV15" date="2019-06-18">
+<event id="1135239537">
+<start_time>00:29</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[湄公河大案23]]></title>
+</event>
+<event id="1135239540">
+<start_time>01:19</start_time>
+<end_time>02:08</end_time>
+<title><![CDATA[湄公河大案24]]></title>
+</event>
+<event id="1135239543">
+<start_time>02:08</start_time>
+<end_time>05:57</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1134977004">
+<start_time>05:57</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135203411">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[动画乐翻天:超级飞侠3]]></title>
+</event>
+<event id="1135203414">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[动画梦工场:百变马丁第四季]]></title>
+</event>
+<event id="1135203417">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[动画剧场:小P优优第二季]]></title>
+</event>
+<event id="1135203420">
+<start_time>08:00</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[银河剧场:百变马丁3(7-8)]]></title>
+</event>
+<event id="1135202736">
+<start_time>09:00</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[2019动画大放映(早间版)-超级飞侠4]]></title>
+</event>
+<event id="1135237887">
+<start_time>10:00</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[小小智慧树-2019-71]]></title>
+</event>
+<event id="1135238652">
+<start_time>10:30</start_time>
+<end_time>11:07</end_time>
+<title><![CDATA[2019动画大放映:无敌小鹿]]></title>
+</event>
+<event id="1135238655">
+<start_time>11:07</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135202748">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[动漫世界:动物兄弟第五季]]></title>
+</event>
+<event id="1135202751">
+<start_time>13:00</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[2019优秀儿童剧:星际精灵蓝多多(85-90)]]></title>
+</event>
+<event id="1135202757">
+<start_time>16:00</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[动画剧场-魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1134977043">
+<start_time>17:00</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[新闻袋袋裤]]></title>
+</event>
+<event id="1134977046">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[七巧板]]></title>
+</event>
+<event id="1135202760">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[动画乐翻天-魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1134977052">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[智慧树]]></title>
+</event>
+<event id="1135203426">
+<start_time>19:00</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[动画梦工场:成长这东西(43-44)]]></title>
+</event>
+<event id="1134977058">
+<start_time>19:30</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[大风车]]></title>
+</event>
+<event id="1135203423">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[银河剧场:天眼归来(157-158)]]></title>
+</event>
+<event id="1134977064">
+<start_time>21:00</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[智力快车]]></title>
+</event>
+<event id="1134977067">
+<start_time>22:00</start_time>
+<end_time>22:48</end_time>
+<title><![CDATA[彝海结盟(17)]]></title>
+</event>
+<event id="1134977070">
+<start_time>22:48</start_time>
+<end_time>23:38</end_time>
+<title><![CDATA[彝海结盟(18)]]></title>
+</event>
+<event id="1134977073">
+<start_time>23:38</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[湄公河大案(25)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV15" epg_code="CCTV15" date="2019-06-19">
+<event id="1134977076">
+<start_time>00:28</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[湄公河大案(26)]]></title>
+</event>
+<event id="1134977079">
+<start_time>01:18</start_time>
+<end_time>05:57</end_time>
+<title><![CDATA[湄公河大案(27)]]></title>
+</event>
+<event id="1134977082">
+<start_time>05:57</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1134977085">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[动画乐翻天]]></title>
+</event>
+<event id="1134977088">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[动画梦工场]]></title>
+</event>
+<event id="1134977091">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[动画剧场]]></title>
+</event>
+<event id="1134977094">
+<start_time>08:00</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[银河剧场]]></title>
+</event>
+<event id="1134977097">
+<start_time>09:00</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[动画大放映(72)]]></title>
+</event>
+<event id="1134977100">
+<start_time>10:00</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[小小智慧树]]></title>
+</event>
+<event id="1134977103">
+<start_time>10:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[动画大放映(99)]]></title>
+</event>
+<event id="1134977106">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[动漫世界]]></title>
+</event>
+<event id="1134977109">
+<start_time>13:00</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[优秀儿童剧(103)]]></title>
+</event>
+<event id="1134977112">
+<start_time>14:00</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[优秀儿童剧(103)]]></title>
+</event>
+<event id="1134977115">
+<start_time>15:00</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[优秀儿童剧(103)]]></title>
+</event>
+<event id="1134977118">
+<start_time>16:00</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[动画剧场]]></title>
+</event>
+<event id="1134977121">
+<start_time>17:00</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[新闻袋袋裤]]></title>
+</event>
+<event id="1134977124">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[绿野寻踪]]></title>
+</event>
+<event id="1134977127">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[动画乐翻天]]></title>
+</event>
+<event id="1134977130">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[智慧树]]></title>
+</event>
+<event id="1134977133">
+<start_time>19:00</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[动画梦工场]]></title>
+</event>
+<event id="1134977136">
+<start_time>19:30</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[大风车]]></title>
+</event>
+<event id="1134977139">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[银河剧场]]></title>
+</event>
+<event id="1134977142">
+<start_time>21:00</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[音乐快递]]></title>
+</event>
+<event id="1134977145">
+<start_time>22:00</start_time>
+<end_time>22:48</end_time>
+<title><![CDATA[彝海结盟(19)]]></title>
+</event>
+<event id="1134977148">
+<start_time>22:48</start_time>
+<end_time>23:38</end_time>
+<title><![CDATA[彝海结盟(20)]]></title>
+</event>
+<event id="1134977151">
+<start_time>23:38</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[湄公河大案(28)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV15" epg_code="CCTV15" date="2019-06-20">
+<event id="1133858568">
+<start_time>00:28</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[湄公河大案(29)]]></title>
+</event>
+<event id="1133858571">
+<start_time>01:18</start_time>
+<end_time>05:57</end_time>
+<title><![CDATA[湄公河大案(30)]]></title>
+</event>
+<event id="1133858574">
+<start_time>05:57</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1133858577">
+<start_time>06:00</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[动画乐翻天]]></title>
+</event>
+<event id="1133858580">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[动画梦工场]]></title>
+</event>
+<event id="1133858583">
+<start_time>07:00</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[动画剧场]]></title>
+</event>
+<event id="1133858586">
+<start_time>08:00</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[银河剧场]]></title>
+</event>
+<event id="1133858589">
+<start_time>09:00</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[动画大放映(73)]]></title>
+</event>
+<event id="1133858592">
+<start_time>10:00</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[小小智慧树]]></title>
+</event>
+<event id="1133858595">
+<start_time>10:30</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[动画大放映(100)]]></title>
+</event>
+<event id="1133858598">
+<start_time>12:00</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[动漫世界]]></title>
+</event>
+<event id="1133858601">
+<start_time>13:00</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[优秀儿童剧(104)]]></title>
+</event>
+<event id="1133858604">
+<start_time>14:00</start_time>
+<end_time>15:00</end_time>
+<title><![CDATA[优秀儿童剧(104)]]></title>
+</event>
+<event id="1133858607">
+<start_time>15:00</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[优秀儿童剧(104)]]></title>
+</event>
+<event id="1133858610">
+<start_time>16:00</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[动画剧场]]></title>
+</event>
+<event id="1133858613">
+<start_time>17:00</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[新闻袋袋裤]]></title>
+</event>
+<event id="1133858616">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[快乐体验]]></title>
+</event>
+<event id="1133858619">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[动画乐翻天]]></title>
+</event>
+<event id="1133858622">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[智慧树]]></title>
+</event>
+<event id="1133858625">
+<start_time>19:00</start_time>
+<end_time>19:30</end_time>
+<title><![CDATA[动画梦工场]]></title>
+</event>
+<event id="1133858628">
+<start_time>19:30</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[大风车]]></title>
+</event>
+<event id="1133858631">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[银河剧场]]></title>
+</event>
+<event id="1133858634">
+<start_time>21:00</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[动感特区]]></title>
+</event>
+<event id="1133858637">
+<start_time>22:00</start_time>
+<end_time>22:48</end_time>
+<title><![CDATA[彝海结盟(21)]]></title>
+</event>
+<event id="1133858640">
+<start_time>22:48</start_time>
+<end_time>23:38</end_time>
+<title><![CDATA[彝海结盟(22)]]></title>
+</event>
+<event id="1133858643">
+<start_time>23:38</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[湄公河大案(31)]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV15" epg_code="CCTV15" date="2019-06-21">
+<event id="1133631702">
+<start_time>00:28</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1133631705">
+<start_time>01:18</start_time>
+<end_time>02:07</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1133631708">
+<start_time>02:07</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1133631711">
+<start_time>06:01</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[快乐大巴]]></title>
+</event>
+<event id="1133631714">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[最野假期]]></title>
+</event>
+<event id="1133631717">
+<start_time>07:32</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[大风车]]></title>
+</event>
+<event id="1134975744">
+<start_time>08:00</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975747">
+<start_time>08:35</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975750">
+<start_time>09:00</start_time>
+<end_time>09:17</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975753">
+<start_time>09:17</start_time>
+<end_time>09:41</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975756">
+<start_time>09:41</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975759">
+<start_time>10:30</start_time>
+<end_time>11:32</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975762">
+<start_time>11:32</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975765">
+<start_time>12:33</start_time>
+<end_time>13:18</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975768">
+<start_time>13:18</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042422">
+<start_time>14:00</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(76)]]></title>
+</event>
+<event id="1135042425">
+<start_time>14:33</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(77)]]></title>
+</event>
+<event id="1135042428">
+<start_time>15:05</start_time>
+<end_time>15:32</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(78)]]></title>
+</event>
+<event id="1135042431">
+<start_time>15:32</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(79)]]></title>
+</event>
+<event id="1133830926">
+<start_time>16:00</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1133830929">
+<start_time>16:25</start_time>
+<end_time>16:48</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1133830932">
+<start_time>16:48</start_time>
+<end_time>17:15</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1133631768">
+<start_time>17:15</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[看我72变]]></title>
+</event>
+<event id="1133631771">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[动物好伙伴]]></title>
+</event>
+<event id="1134975783">
+<start_time>19:00</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975786">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975789">
+<start_time>21:00</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1133631783">
+<start_time>22:00</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1133631786">
+<start_time>22:47</start_time>
+<end_time>23:36</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1133990724">
+<start_time>23:36</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV15" epg_code="CCTV15" date="2019-06-22">
+<event id="1133907753">
+<start_time>00:28</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1133907756">
+<start_time>01:18</start_time>
+<end_time>02:07</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1133907759">
+<start_time>02:07</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1133907762">
+<start_time>06:01</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[芝麻开门]]></title>
+</event>
+<event id="1133907765">
+<start_time>07:00</start_time>
+<end_time>07:30</end_time>
+<title><![CDATA[动画梦工场]]></title>
+</event>
+<event id="1133907768">
+<start_time>07:30</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[大手牵小手]]></title>
+</event>
+<event id="1134975792">
+<start_time>08:00</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975795">
+<start_time>08:35</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975798">
+<start_time>09:00</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975801">
+<start_time>09:21</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975804">
+<start_time>09:45</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975807">
+<start_time>10:30</start_time>
+<end_time>11:32</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975810">
+<start_time>11:32</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975813">
+<start_time>12:33</start_time>
+<end_time>13:18</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975816">
+<start_time>13:18</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042434">
+<start_time>14:00</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(80)]]></title>
+</event>
+<event id="1135042437">
+<start_time>14:33</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(81)]]></title>
+</event>
+<event id="1135042440">
+<start_time>15:05</start_time>
+<end_time>15:32</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(82)]]></title>
+</event>
+<event id="1135042443">
+<start_time>15:32</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(83)]]></title>
+</event>
+<event id="1133907810">
+<start_time>16:00</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1133907813">
+<start_time>16:25</start_time>
+<end_time>16:48</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1133907816">
+<start_time>16:48</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1133907819">
+<start_time>17:11</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1133907822">
+<start_time>17:31</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1133907825">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[儿童剧场]]></title>
+</event>
+<event id="1133907828">
+<start_time>19:00</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[最野假期]]></title>
+</event>
+<event id="1134975831">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975834">
+<start_time>21:00</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1133907837">
+<start_time>22:00</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[大手牵小手]]></title>
+</event>
+<event id="1133907840">
+<start_time>23:00</start_time>
+<end_time>23:46</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1134251016">
+<start_time>23:46</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV15" epg_code="CCTV15" date="2019-06-23">
+<event id="1134179421">
+<start_time>00:28</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1134179424">
+<start_time>01:18</start_time>
+<end_time>02:07</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1134179427">
+<start_time>02:07</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1134179430">
+<start_time>06:01</start_time>
+<end_time>06:18</end_time>
+<title><![CDATA[动画片]]></title>
+</event>
+<event id="1134179433">
+<start_time>06:18</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[绿野寻踪]]></title>
+</event>
+<event id="1134179436">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[智慧树]]></title>
+</event>
+<event id="1134179439">
+<start_time>07:32</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[大风车]]></title>
+</event>
+<event id="1134975837">
+<start_time>08:00</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975840">
+<start_time>08:35</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975843">
+<start_time>09:00</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975846">
+<start_time>09:21</start_time>
+<end_time>09:45</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975849">
+<start_time>09:45</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975852">
+<start_time>10:30</start_time>
+<end_time>11:32</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975855">
+<start_time>11:32</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975858">
+<start_time>12:33</start_time>
+<end_time>13:18</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975861">
+<start_time>13:18</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042446">
+<start_time>14:00</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(84)]]></title>
+</event>
+<event id="1135042449">
+<start_time>14:33</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(85)]]></title>
+</event>
+<event id="1135042452">
+<start_time>15:05</start_time>
+<end_time>15:32</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(86)]]></title>
+</event>
+<event id="1135042455">
+<start_time>15:32</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(87)]]></title>
+</event>
+<event id="1134179481">
+<start_time>16:00</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1134179484">
+<start_time>16:25</start_time>
+<end_time>16:48</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1134179487">
+<start_time>16:48</start_time>
+<end_time>17:00</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1134179490">
+<start_time>17:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[SK极智少年强]]></title>
+</event>
+<event id="1134975876">
+<start_time>18:30</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975879">
+<start_time>19:00</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975882">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975885">
+<start_time>21:00</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134179505">
+<start_time>22:00</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[最野假期]]></title>
+</event>
+<event id="1134179508">
+<start_time>22:47</start_time>
+<end_time>23:36</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1134535140">
+<start_time>23:36</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV15" epg_code="CCTV15" date="2019-06-24">
+<event id="1134479904">
+<start_time>00:28</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1134479907">
+<start_time>01:18</start_time>
+<end_time>02:07</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1134479910">
+<start_time>02:07</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1134479913">
+<start_time>06:01</start_time>
+<end_time>06:18</end_time>
+<title><![CDATA[动画片]]></title>
+</event>
+<event id="1134479916">
+<start_time>06:18</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[绿野寻踪]]></title>
+</event>
+<event id="1134479919">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[智慧树]]></title>
+</event>
+<event id="1134479922">
+<start_time>07:32</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[大风车]]></title>
+</event>
+<event id="1134975888">
+<start_time>08:00</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975891">
+<start_time>08:35</start_time>
+<end_time>09:04</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975894">
+<start_time>09:04</start_time>
+<end_time>09:28</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975897">
+<start_time>09:28</start_time>
+<end_time>09:49</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975900">
+<start_time>09:49</start_time>
+<end_time>10:03</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975903">
+<start_time>10:03</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975906">
+<start_time>10:30</start_time>
+<end_time>11:19</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975909">
+<start_time>11:19</start_time>
+<end_time>12:13</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975912">
+<start_time>12:13</start_time>
+<end_time>13:08</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975915">
+<start_time>13:08</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042458">
+<start_time>14:00</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(88)]]></title>
+</event>
+<event id="1135042461">
+<start_time>14:33</start_time>
+<end_time>15:01</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(89)]]></title>
+</event>
+<event id="1135042464">
+<start_time>15:01</start_time>
+<end_time>15:32</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(90)]]></title>
+</event>
+<event id="1135042467">
+<start_time>15:32</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(91)]]></title>
+</event>
+<event id="1134479967">
+<start_time>16:00</start_time>
+<end_time>16:30</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1134479970">
+<start_time>16:30</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[SK极智少年强]]></title>
+</event>
+<event id="1134479973">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[动物好伙伴]]></title>
+</event>
+<event id="1134975930">
+<start_time>19:00</start_time>
+<end_time>19:28</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975933">
+<start_time>19:28</start_time>
+<end_time>19:55</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975936">
+<start_time>19:55</start_time>
+<end_time>20:20</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975939">
+<start_time>20:20</start_time>
+<end_time>20:45</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134975942">
+<start_time>20:45</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1134479991">
+<start_time>22:00</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1134479994">
+<start_time>22:47</start_time>
+<end_time>23:36</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1135118058">
+<start_time>23:36</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="CCTV15" epg_code="CCTV15" date="2019-06-25">
+<event id="1135042470">
+<start_time>00:28</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1135042473">
+<start_time>01:18</start_time>
+<end_time>02:07</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1135042476">
+<start_time>02:07</start_time>
+<end_time>06:01</end_time>
+<title><![CDATA[静屏]]></title>
+</event>
+<event id="1135042479">
+<start_time>06:01</start_time>
+<end_time>06:18</end_time>
+<title><![CDATA[动画片]]></title>
+</event>
+<event id="1135042482">
+<start_time>06:18</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[绿野寻踪]]></title>
+</event>
+<event id="1135042485">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[智慧树]]></title>
+</event>
+<event id="1135042488">
+<start_time>07:32</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[大风车]]></title>
+</event>
+<event id="1135042491">
+<start_time>08:00</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042494">
+<start_time>08:35</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042497">
+<start_time>09:00</start_time>
+<end_time>09:25</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042500">
+<start_time>09:25</start_time>
+<end_time>09:48</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042503">
+<start_time>09:48</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042506">
+<start_time>10:30</start_time>
+<end_time>11:19</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042509">
+<start_time>11:19</start_time>
+<end_time>12:13</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042512">
+<start_time>12:13</start_time>
+<end_time>13:02</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042515">
+<start_time>13:02</start_time>
+<end_time>14:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042518">
+<start_time>14:00</start_time>
+<end_time>14:33</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(92)]]></title>
+</event>
+<event id="1135042521">
+<start_time>14:33</start_time>
+<end_time>14:59</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(93)]]></title>
+</event>
+<event id="1135042524">
+<start_time>14:59</start_time>
+<end_time>15:30</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(94)]]></title>
+</event>
+<event id="1135042527">
+<start_time>15:30</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[2018优秀儿童剧:星际精灵蓝多多(95)]]></title>
+</event>
+<event id="1135042530">
+<start_time>16:00</start_time>
+<end_time>16:25</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1135042533">
+<start_time>16:25</start_time>
+<end_time>16:48</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1135042536">
+<start_time>16:48</start_time>
+<end_time>17:10</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1135042539">
+<start_time>17:10</start_time>
+<end_time>17:30</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1135042542">
+<start_time>17:30</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[2018动画大放映:魔幻陀螺之聚能引擎]]></title>
+</event>
+<event id="1135042545">
+<start_time>18:00</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[动物好伙伴]]></title>
+</event>
+<event id="1135042548">
+<start_time>19:00</start_time>
+<end_time>20:15</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042551">
+<start_time>20:15</start_time>
+<end_time>21:05</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042554">
+<start_time>21:05</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[动画大放映:踢踢和奇奇之魔力课堂2]]></title>
+</event>
+<event id="1135042557">
+<start_time>22:00</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1135042560">
+<start_time>22:47</start_time>
+<end_time>23:36</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+<event id="1135042563">
+<start_time>23:36</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[电视剧剧场]]></title>
+</event>
+</schedule>
+</document>

@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="GDTV1" epg_code="GDTV1" date="2019-06-18">
+<event id="1135259817">
+<start_time>00:21</start_time>
+<end_time>01:00</end_time>
+<title><![CDATA[午夜剧场:锻刀30]]></title>
+</event>
+<event id="1135259820">
+<start_time>01:00</start_time>
+<end_time>01:42</end_time>
+<title><![CDATA[午夜剧场:锻刀31]]></title>
+</event>
+<event id="1135259823">
+<start_time>01:42</start_time>
+<end_time>02:26</end_time>
+<title><![CDATA[财经郎眼]]></title>
+</event>
+<event id="1135259826">
+<start_time>02:26</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[流淌的歌声]]></title>
+</event>
+<event id="1135259829">
+<start_time>03:45</start_time>
+<end_time>04:09</end_time>
+<title><![CDATA[纪录片:黄河流过的村庄3]]></title>
+</event>
+<event id="1135259832">
+<start_time>04:09</start_time>
+<end_time>04:39</end_time>
+<title><![CDATA[纪录片:黄河流过的村庄4]]></title>
+</event>
+<event id="1135259835">
+<start_time>04:39</start_time>
+<end_time>05:25</end_time>
+<title><![CDATA[纪录片:老广的味道第一季5]]></title>
+</event>
+<event id="1135259838">
+<start_time>05:25</start_time>
+<end_time>06:14</end_time>
+<title><![CDATA[纪录片:老广的味道第二季1]]></title>
+</event>
+<event id="1135259841">
+<start_time>06:14</start_time>
+<end_time>06:57</end_time>
+<title><![CDATA[清晨剧场:长沙保卫战25]]></title>
+</event>
+<event id="1135259844">
+<start_time>06:57</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1135259847">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135259850">
+<start_time>07:01</start_time>
+<end_time>07:28</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1135259853">
+<start_time>07:28</start_time>
+<end_time>08:52</end_time>
+<title><![CDATA[美好生活欢乐送]]></title>
+</event>
+<event id="1135203495">
+<start_time>08:52</start_time>
+<end_time>09:34</end_time>
+<title><![CDATA[上午剧场:金婚(22)]]></title>
+</event>
+<event id="1135237749">
+<start_time>09:34</start_time>
+<end_time>10:16</end_time>
+<title><![CDATA[上午剧场:金婚(23)]]></title>
+</event>
+<event id="1135238349">
+<start_time>10:16</start_time>
+<end_time>10:59</end_time>
+<title><![CDATA[上午剧场:金婚(24)]]></title>
+</event>
+<event id="1135241298">
+<start_time>10:59</start_time>
+<end_time>11:39</end_time>
+<title><![CDATA[上午剧场:金婚(25)]]></title>
+</event>
+<event id="1135249086">
+<start_time>11:39</start_time>
+<end_time>12:24</end_time>
+<title><![CDATA[上午剧场:金婚(26)]]></title>
+</event>
+<event id="1135249812">
+<start_time>12:24</start_time>
+<end_time>13:06</end_time>
+<title><![CDATA[午间剧场:破冰行动(33)]]></title>
+</event>
+<event id="1135250691">
+<start_time>13:06</start_time>
+<end_time>13:54</end_time>
+<title><![CDATA[午间剧场:破冰行动(34)]]></title>
+</event>
+<event id="1135261533">
+<start_time>13:54</start_time>
+<end_time>14:39</end_time>
+<title><![CDATA[下午茶剧场:黑冰(13)]]></title>
+</event>
+<event id="1135261536">
+<start_time>14:39</start_time>
+<end_time>15:28</end_time>
+<title><![CDATA[下午茶剧场:黑冰(14)]]></title>
+</event>
+<event id="1134931656">
+<start_time>15:28</start_time>
+<end_time>16:15</end_time>
+<title><![CDATA[下午茶剧场:黑冰(15)]]></title>
+</event>
+<event id="1134931659">
+<start_time>16:15</start_time>
+<end_time>17:05</end_time>
+<title><![CDATA[下午茶剧场:黑冰(16)]]></title>
+</event>
+<event id="1134931662">
+<start_time>17:05</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[下午茶剧场:黑冰(17)]]></title>
+</event>
+<event id="1134931665">
+<start_time>18:05</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[南粤警视]]></title>
+</event>
+<event id="1134931668">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1134931671">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1132859565">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134931674">
+<start_time>19:31</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[黄金剧场:破冰行动(35)]]></title>
+</event>
+<event id="1134931677">
+<start_time>20:29</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[黄金剧场:破冰行动(36)]]></title>
+</event>
+<event id="1134931680">
+<start_time>21:10</start_time>
+<end_time>22:18</end_time>
+<title><![CDATA[全球零距离]]></title>
+</event>
+<event id="1134931683">
+<start_time>22:18</start_time>
+<end_time>23:47</end_time>
+<title><![CDATA[活力影院:女子特训队]]></title>
+</event>
+<event id="1134931686">
+<start_time>23:47</start_time>
+<end_time>01:25</end_time>
+<title><![CDATA[眼观六路]]></title>
+</event>
+</schedule>
+<schedule channel_id="GDTV1" epg_code="GDTV1" date="2019-06-19">
+<event id="1133120529">
+<start_time>01:25</start_time>
+<end_time>02:18</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133120532">
+<start_time>02:18</start_time>
+<end_time>03:06</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133120535">
+<start_time>03:06</start_time>
+<end_time>03:52</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133120538">
+<start_time>03:52</start_time>
+<end_time>04:46</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133120541">
+<start_time>04:46</start_time>
+<end_time>05:38</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133120544">
+<start_time>05:38</start_time>
+<end_time>06:32</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133120547">
+<start_time>06:32</start_time>
+<end_time>06:57</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133120550">
+<start_time>06:57</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[早间天气预报]]></title>
+</event>
+<event id="1133120553">
+<start_time>07:00</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[重播广东新闻联播]]></title>
+</event>
+<event id="1133120556">
+<start_time>07:25</start_time>
+<end_time>07:51</end_time>
+<title><![CDATA[纪录片:老广的味道]]></title>
+</event>
+<event id="1133120559">
+<start_time>07:51</start_time>
+<end_time>09:18</end_time>
+<title><![CDATA[美好生活欢乐送]]></title>
+</event>
+<event id="1133292162">
+<start_time>09:18</start_time>
+<end_time>10:00</end_time>
+<title><![CDATA[上午剧场:金婚(27)]]></title>
+</event>
+<event id="1133292165">
+<start_time>10:00</start_time>
+<end_time>10:40</end_time>
+<title><![CDATA[上午剧场:金婚(28)]]></title>
+</event>
+<event id="1133292168">
+<start_time>10:40</start_time>
+<end_time>11:24</end_time>
+<title><![CDATA[上午剧场:金婚(29)]]></title>
+</event>
+<event id="1133292171">
+<start_time>11:24</start_time>
+<end_time>12:07</end_time>
+<title><![CDATA[上午剧场:金婚(30)]]></title>
+</event>
+<event id="1133292174">
+<start_time>12:07</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[上午剧场:金婚(31)]]></title>
+</event>
+<event id="1133120577">
+<start_time>13:04</start_time>
+<end_time>14:29</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1134144417">
+<start_time>14:29</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[下午茶剧场:黑冰(18)]]></title>
+</event>
+<event id="1134144420">
+<start_time>15:10</start_time>
+<end_time>15:50</end_time>
+<title><![CDATA[下午茶剧场:黑冰(19)]]></title>
+</event>
+<event id="1134144423">
+<start_time>15:50</start_time>
+<end_time>16:28</end_time>
+<title><![CDATA[下午茶剧场:黑冰(20)]]></title>
+</event>
+<event id="1133120589">
+<start_time>16:28</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133120592">
+<start_time>17:11</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133120595">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[直播全球]]></title>
+</event>
+<event id="1133120598">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1133120601">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1133120604">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133120607">
+<start_time>19:33</start_time>
+<end_time>20:23</end_time>
+<title><![CDATA[黄金剧场:破冰行动(37)]]></title>
+</event>
+<event id="1133120610">
+<start_time>20:23</start_time>
+<end_time>21:05</end_time>
+<title><![CDATA[黄金剧场:破冰行动(38)]]></title>
+</event>
+<event id="1133120613">
+<start_time>21:05</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[社会纵横]]></title>
+</event>
+<event id="1133120616">
+<start_time>22:05</start_time>
+<end_time>23:55</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1133457615">
+<start_time>23:55</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[眼观六路]]></title>
+</event>
+</schedule>
+<schedule channel_id="GDTV1" epg_code="GDTV1" date="2019-06-20">
+<event id="1133355318">
+<start_time>01:40</start_time>
+<end_time>02:28</end_time>
+<title><![CDATA[社会纵横]]></title>
+</event>
+<event id="1133355321">
+<start_time>02:28</start_time>
+<end_time>03:12</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133355324">
+<start_time>03:12</start_time>
+<end_time>04:00</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133355327">
+<start_time>04:00</start_time>
+<end_time>04:49</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133355330">
+<start_time>04:49</start_time>
+<end_time>05:28</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133355333">
+<start_time>05:28</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133355336">
+<start_time>06:29</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133355339">
+<start_time>06:58</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1133355342">
+<start_time>07:00</start_time>
+<end_time>07:26</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1133355345">
+<start_time>07:26</start_time>
+<end_time>07:51</end_time>
+<title><![CDATA[纪录片:老广的味道]]></title>
+</event>
+<event id="1133355348">
+<start_time>07:51</start_time>
+<end_time>09:10</end_time>
+<title><![CDATA[美好生活欢乐送]]></title>
+</event>
+<event id="1133355351">
+<start_time>09:10</start_time>
+<end_time>09:47</end_time>
+<title><![CDATA[上午剧场:金婚(32)]]></title>
+</event>
+<event id="1133355354">
+<start_time>09:47</start_time>
+<end_time>10:30</end_time>
+<title><![CDATA[上午剧场:金婚(33)]]></title>
+</event>
+<event id="1133355357">
+<start_time>10:30</start_time>
+<end_time>11:28</end_time>
+<title><![CDATA[上午剧场:金婚(34)]]></title>
+</event>
+<event id="1133355360">
+<start_time>11:28</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[上午剧场:金婚(35)]]></title>
+</event>
+<event id="1133355363">
+<start_time>12:10</start_time>
+<end_time>12:56</end_time>
+<title><![CDATA[上午剧场:金婚(36)]]></title>
+</event>
+<event id="1133355366">
+<start_time>12:56</start_time>
+<end_time>14:31</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1133355369">
+<start_time>14:31</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133355372">
+<start_time>15:10</start_time>
+<end_time>15:50</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133355375">
+<start_time>15:50</start_time>
+<end_time>16:28</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133355378">
+<start_time>16:28</start_time>
+<end_time>17:07</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133355381">
+<start_time>17:07</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133355384">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[直播全球]]></title>
+</event>
+<event id="1133355387">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1133355390">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1133355393">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133355396">
+<start_time>19:34</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[黄金剧场:破冰行动(39)]]></title>
+</event>
+<event id="1133355399">
+<start_time>20:27</start_time>
+<end_time>21:06</end_time>
+<title><![CDATA[黄金剧场:破冰行动(40)]]></title>
+</event>
+<event id="1133355402">
+<start_time>21:06</start_time>
+<end_time>22:13</end_time>
+<title><![CDATA[你会怎么做]]></title>
+</event>
+<event id="1133355405">
+<start_time>22:13</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[新屋齐家装]]></title>
+</event>
+<event id="1133355408">
+<start_time>23:02</start_time>
+<end_time>23:32</end_time>
+<title><![CDATA[美好生活欢乐送]]></title>
+</event>
+<event id="1133721519">
+<start_time>23:32</start_time>
+<end_time>01:26</end_time>
+<title><![CDATA[眼观六路]]></title>
+</event>
+</schedule>
+<schedule channel_id="GDTV1" epg_code="GDTV1" date="2019-06-21">
+<event id="1133641230">
+<start_time>01:26</start_time>
+<end_time>02:10</end_time>
+<title><![CDATA[你会怎么做]]></title>
+</event>
+<event id="1133641233">
+<start_time>02:10</start_time>
+<end_time>03:03</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133641236">
+<start_time>03:03</start_time>
+<end_time>04:28</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133641239">
+<start_time>04:28</start_time>
+<end_time>04:46</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133641242">
+<start_time>04:46</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133641245">
+<start_time>05:30</start_time>
+<end_time>06:31</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133641248">
+<start_time>06:31</start_time>
+<end_time>06:57</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133641251">
+<start_time>06:57</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1133641254">
+<start_time>07:00</start_time>
+<end_time>07:27</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1133641257">
+<start_time>07:27</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[美好生活欢乐送]]></title>
+</event>
+<event id="1133641260">
+<start_time>09:00</start_time>
+<end_time>09:47</end_time>
+<title><![CDATA[新屋齐家装]]></title>
+</event>
+<event id="1133641263">
+<start_time>09:47</start_time>
+<end_time>10:27</end_time>
+<title><![CDATA[上午剧场:金婚(37)]]></title>
+</event>
+<event id="1133641266">
+<start_time>10:27</start_time>
+<end_time>11:09</end_time>
+<title><![CDATA[上午剧场:金婚(38)]]></title>
+</event>
+<event id="1133641269">
+<start_time>11:09</start_time>
+<end_time>11:55</end_time>
+<title><![CDATA[上午剧场:金婚(39)]]></title>
+</event>
+<event id="1133641272">
+<start_time>11:55</start_time>
+<end_time>12:52</end_time>
+<title><![CDATA[上午剧场:金婚(40)]]></title>
+</event>
+<event id="1133641275">
+<start_time>12:52</start_time>
+<end_time>14:31</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1133641278">
+<start_time>14:31</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133641281">
+<start_time>15:10</start_time>
+<end_time>15:50</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133641284">
+<start_time>15:50</start_time>
+<end_time>16:28</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133641287">
+<start_time>16:28</start_time>
+<end_time>17:08</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133641290">
+<start_time>17:08</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133641293">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[直播全球]]></title>
+</event>
+<event id="1133641296">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1133641299">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1133641302">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133641305">
+<start_time>19:33</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场:破冰行动(41)]]></title>
+</event>
+<event id="1133641308">
+<start_time>20:24</start_time>
+<end_time>21:11</end_time>
+<title><![CDATA[黄金剧场:破冰行动(42)]]></title>
+</event>
+<event id="1133641311">
+<start_time>21:11</start_time>
+<end_time>22:29</end_time>
+<title><![CDATA[考不好没关系]]></title>
+</event>
+<event id="1134012597">
+<start_time>22:29</start_time>
+<end_time>00:12</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+</schedule>
+<schedule channel_id="GDTV1" epg_code="GDTV1" date="2019-06-22">
+<event id="1133917638">
+<start_time>00:12</start_time>
+<end_time>01:39</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1133917641">
+<start_time>01:39</start_time>
+<end_time>02:12</end_time>
+<title><![CDATA[木偶总动员]]></title>
+</event>
+<event id="1133917644">
+<start_time>02:12</start_time>
+<end_time>03:05</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133917647">
+<start_time>03:05</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133917650">
+<start_time>04:35</start_time>
+<end_time>04:47</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133917653">
+<start_time>04:47</start_time>
+<end_time>05:26</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133917656">
+<start_time>05:26</start_time>
+<end_time>06:31</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133917659">
+<start_time>06:31</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133917662">
+<start_time>07:00</start_time>
+<end_time>07:26</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1133917665">
+<start_time>07:26</start_time>
+<end_time>08:06</end_time>
+<title><![CDATA[美好生活欢乐送]]></title>
+</event>
+<event id="1133917668">
+<start_time>08:06</start_time>
+<end_time>09:22</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1133917671">
+<start_time>09:22</start_time>
+<end_time>10:10</end_time>
+<title><![CDATA[上午剧场:金婚(41)]]></title>
+</event>
+<event id="1133917674">
+<start_time>10:10</start_time>
+<end_time>10:52</end_time>
+<title><![CDATA[上午剧场:金婚(42)]]></title>
+</event>
+<event id="1133917677">
+<start_time>10:52</start_time>
+<end_time>11:33</end_time>
+<title><![CDATA[上午剧场:金婚(43)]]></title>
+</event>
+<event id="1133917680">
+<start_time>11:33</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[上午剧场:金婚(44)]]></title>
+</event>
+<event id="1133917683">
+<start_time>12:50</start_time>
+<end_time>13:10</end_time>
+<title><![CDATA[古色古香中国味]]></title>
+</event>
+<event id="1133917686">
+<start_time>13:10</start_time>
+<end_time>14:29</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1133917689">
+<start_time>14:29</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133917692">
+<start_time>15:05</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133917695">
+<start_time>15:48</start_time>
+<end_time>16:29</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133917698">
+<start_time>16:29</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133917701">
+<start_time>17:11</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1133917704">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[生活大数据]]></title>
+</event>
+<event id="1133917707">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1133917710">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1133917713">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133917716">
+<start_time>19:33</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[黄金剧场:破冰行动(43)]]></title>
+</event>
+<event id="1133917719">
+<start_time>20:29</start_time>
+<end_time>21:10</end_time>
+<title><![CDATA[黄金剧场:破冰行动(44)]]></title>
+</event>
+<event id="1133917722">
+<start_time>21:10</start_time>
+<end_time>22:47</end_time>
+<title><![CDATA[流淌的歌声]]></title>
+</event>
+<event id="1134266997">
+<start_time>22:47</start_time>
+<end_time>00:24</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+</schedule>
+<schedule channel_id="GDTV1" epg_code="GDTV1" date="2019-06-23">
+<event id="1134188697">
+<start_time>00:24</start_time>
+<end_time>01:46</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1134188700">
+<start_time>01:46</start_time>
+<end_time>02:01</end_time>
+<title><![CDATA[流淌的歌声]]></title>
+</event>
+<event id="1134188703">
+<start_time>02:01</start_time>
+<end_time>02:53</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134188706">
+<start_time>02:53</start_time>
+<end_time>04:29</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1134188709">
+<start_time>04:29</start_time>
+<end_time>04:47</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134188712">
+<start_time>04:47</start_time>
+<end_time>05:25</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134188715">
+<start_time>05:25</start_time>
+<end_time>06:31</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134188718">
+<start_time>06:31</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134188721">
+<start_time>07:00</start_time>
+<end_time>07:27</end_time>
+<title><![CDATA[新闻早高峰]]></title>
+</event>
+<event id="1134188724">
+<start_time>07:27</start_time>
+<end_time>08:00</end_time>
+<title><![CDATA[美好生活欢乐送]]></title>
+</event>
+<event id="1134188727">
+<start_time>08:00</start_time>
+<end_time>08:37</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134188730">
+<start_time>08:37</start_time>
+<end_time>09:40</end_time>
+<title><![CDATA[动画片剧场]]></title>
+</event>
+<event id="1134188733">
+<start_time>09:40</start_time>
+<end_time>10:43</end_time>
+<title><![CDATA[上午剧场:金婚(45)]]></title>
+</event>
+<event id="1134188736">
+<start_time>10:43</start_time>
+<end_time>11:27</end_time>
+<title><![CDATA[上午剧场:金婚(46)]]></title>
+</event>
+<event id="1134188739">
+<start_time>11:27</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[上午剧场:金婚(47)]]></title>
+</event>
+<event id="1134188742">
+<start_time>12:10</start_time>
+<end_time>13:07</end_time>
+<title><![CDATA[上午剧场:金婚(48)]]></title>
+</event>
+<event id="1134188745">
+<start_time>13:07</start_time>
+<end_time>14:29</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1134188748">
+<start_time>14:29</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134188751">
+<start_time>15:05</start_time>
+<end_time>15:48</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134188754">
+<start_time>15:48</start_time>
+<end_time>16:29</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134188757">
+<start_time>16:29</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134188760">
+<start_time>17:11</start_time>
+<end_time>18:05</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134188763">
+<start_time>18:05</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[南粤警视]]></title>
+</event>
+<event id="1134188766">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1134188769">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1134188772">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134188775">
+<start_time>19:34</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[黄金剧场:破冰行动(45)]]></title>
+</event>
+<event id="1134188778">
+<start_time>20:27</start_time>
+<end_time>21:08</end_time>
+<title><![CDATA[黄金剧场:破冰行动(46)]]></title>
+</event>
+<event id="1134188781">
+<start_time>21:08</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[全球零距离]]></title>
+</event>
+<event id="1134188784">
+<start_time>22:05</start_time>
+<end_time>22:29</end_time>
+<title><![CDATA[青春就这样]]></title>
+</event>
+<event id="1134188787">
+<start_time>22:29</start_time>
+<end_time>23:45</end_time>
+<title><![CDATA[逐梦英雄]]></title>
+</event>
+<event id="1134548973">
+<start_time>23:45</start_time>
+<end_time>01:35</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+</schedule>
+<schedule channel_id="GDTV1" epg_code="GDTV1" date="2019-06-24">
+<event id="1134489867">
+<start_time>01:35</start_time>
+<end_time>02:17</end_time>
+<title><![CDATA[全球零距离]]></title>
+</event>
+<event id="1134489870">
+<start_time>02:17</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[南粤警视]]></title>
+</event>
+<event id="1134489873">
+<start_time>02:40</start_time>
+<end_time>03:06</end_time>
+<title><![CDATA[青春就这样]]></title>
+</event>
+<event id="1134489876">
+<start_time>03:06</start_time>
+<end_time>03:57</end_time>
+<title><![CDATA[纪录片:伟大的一餐]]></title>
+</event>
+<event id="1134489879">
+<start_time>03:57</start_time>
+<end_time>04:38</end_time>
+<title><![CDATA[中国梦纪录片]]></title>
+</event>
+<event id="1134489882">
+<start_time>04:38</start_time>
+<end_time>04:56</end_time>
+<title><![CDATA[纪录片:珠江纪事]]></title>
+</event>
+<event id="1134489885">
+<start_time>04:56</start_time>
+<end_time>05:14</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134489888">
+<start_time>05:14</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:茶界中国]]></title>
+</event>
+<event id="1134489891">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134489894">
+<start_time>07:00</start_time>
+<end_time>07:27</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1134489897">
+<start_time>07:27</start_time>
+<end_time>07:57</end_time>
+<title><![CDATA[纪录片:老广的味道]]></title>
+</event>
+<event id="1134489900">
+<start_time>07:57</start_time>
+<end_time>09:21</end_time>
+<title><![CDATA[美好生活欢乐送]]></title>
+</event>
+<event id="1134489903">
+<start_time>09:21</start_time>
+<end_time>10:03</end_time>
+<title><![CDATA[上午剧场:金婚(49)]]></title>
+</event>
+<event id="1134489906">
+<start_time>10:03</start_time>
+<end_time>10:45</end_time>
+<title><![CDATA[上午剧场:金婚(50)]]></title>
+</event>
+<event id="1134489909">
+<start_time>10:45</start_time>
+<end_time>11:28</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134489912">
+<start_time>11:28</start_time>
+<end_time>12:11</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134489915">
+<start_time>12:11</start_time>
+<end_time>13:02</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134489918">
+<start_time>13:02</start_time>
+<end_time>14:35</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1134489921">
+<start_time>14:35</start_time>
+<end_time>15:15</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134489924">
+<start_time>15:15</start_time>
+<end_time>15:55</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134489927">
+<start_time>15:55</start_time>
+<end_time>16:38</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134489930">
+<start_time>16:38</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134489933">
+<start_time>17:20</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1134489936">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[直播全球]]></title>
+</event>
+<event id="1134489939">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1134489942">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1134489945">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134489948">
+<start_time>19:33</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[黄金剧场:破冰行动(47)]]></title>
+</event>
+<event id="1134489951">
+<start_time>20:27</start_time>
+<end_time>21:13</end_time>
+<title><![CDATA[黄金剧场:破冰行动(48)]]></title>
+</event>
+<event id="1134489954">
+<start_time>21:13</start_time>
+<end_time>22:19</end_time>
+<title><![CDATA[财经郎眼]]></title>
+</event>
+<event id="1134489957">
+<start_time>22:19</start_time>
+<end_time>23:43</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1135134789">
+<start_time>23:43</start_time>
+<end_time>01:19</end_time>
+<title><![CDATA[眼观六路]]></title>
+</event>
+</schedule>
+<schedule channel_id="GDTV1" epg_code="GDTV1" date="2019-06-25">
+<event id="1135051983">
+<start_time>01:19</start_time>
+<end_time>02:12</end_time>
+<title><![CDATA[财经郎眼]]></title>
+</event>
+<event id="1135051986">
+<start_time>02:12</start_time>
+<end_time>03:14</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135051989">
+<start_time>03:14</start_time>
+<end_time>04:46</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135051992">
+<start_time>04:46</start_time>
+<end_time>05:39</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135051995">
+<start_time>05:39</start_time>
+<end_time>06:29</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1135051998">
+<start_time>06:29</start_time>
+<end_time>06:57</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1135052001">
+<start_time>06:57</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1135052004">
+<start_time>07:00</start_time>
+<end_time>07:26</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1135052007">
+<start_time>07:26</start_time>
+<end_time>07:53</end_time>
+<title><![CDATA[纪录片:老广的味道]]></title>
+</event>
+<event id="1135052010">
+<start_time>07:53</start_time>
+<end_time>09:17</end_time>
+<title><![CDATA[美好生活欢乐送]]></title>
+</event>
+<event id="1135052013">
+<start_time>09:17</start_time>
+<end_time>09:59</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135052016">
+<start_time>09:59</start_time>
+<end_time>10:41</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135052019">
+<start_time>10:41</start_time>
+<end_time>11:22</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135052022">
+<start_time>11:22</start_time>
+<end_time>12:05</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135052025">
+<start_time>12:05</start_time>
+<end_time>13:03</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135052028">
+<start_time>13:03</start_time>
+<end_time>14:31</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1135052031">
+<start_time>14:31</start_time>
+<end_time>15:10</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1135052034">
+<start_time>15:10</start_time>
+<end_time>15:50</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1135052037">
+<start_time>15:50</start_time>
+<end_time>16:28</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1135052040">
+<start_time>16:28</start_time>
+<end_time>17:11</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1135052043">
+<start_time>17:11</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[下午茶剧场]]></title>
+</event>
+<event id="1135052046">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[直播全球]]></title>
+</event>
+<event id="1135052049">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[广东新闻联播]]></title>
+</event>
+<event id="1135052052">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[广东天气预报]]></title>
+</event>
+<event id="1135052055">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135052058">
+<start_time>19:31</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1135052061">
+<start_time>20:24</start_time>
+<end_time>21:14</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1135052064">
+<start_time>21:14</start_time>
+<end_time>22:13</end_time>
+<title><![CDATA[全球零距离]]></title>
+</event>
+<event id="1135052067">
+<start_time>22:13</start_time>
+<end_time>23:43</end_time>
+<title><![CDATA[活力影院]]></title>
+</event>
+<event id="1135052070">
+<start_time>23:43</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[眼观六路]]></title>
+</event>
+</schedule>
+</document>

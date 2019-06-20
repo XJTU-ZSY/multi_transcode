@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="HUNANTV1" epg_code="HUNANTV1" date="2019-06-18">
+<event id="1135238943">
+<start_time>00:26</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1135238946">
+<start_time>00:55</start_time>
+<end_time>02:22</end_time>
+<title><![CDATA[向往的生活第三季]]></title>
+</event>
+<event id="1135238949">
+<start_time>02:22</start_time>
+<end_time>02:53</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1135238952">
+<start_time>02:53</start_time>
+<end_time>03:23</end_time>
+<title><![CDATA[神奇的汉字]]></title>
+</event>
+<event id="1135238955">
+<start_time>03:23</start_time>
+<end_time>03:56</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1135238958">
+<start_time>03:56</start_time>
+<end_time>04:26</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1135238961">
+<start_time>04:26</start_time>
+<end_time>04:56</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1135238964">
+<start_time>04:56</start_time>
+<end_time>05:26</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1135238967">
+<start_time>05:26</start_time>
+<end_time>05:55</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1135238970">
+<start_time>05:55</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[重播钻石剧场:宝贝妈妈宝贝女33]]></title>
+</event>
+<event id="1135238973">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135238976">
+<start_time>07:01</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1135238979">
+<start_time>07:32</start_time>
+<end_time>08:01</end_time>
+<title><![CDATA[重播钻石剧场:宝贝妈妈宝贝女34]]></title>
+</event>
+<event id="1135238982">
+<start_time>08:01</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[中华文明之美]]></title>
+</event>
+<event id="1135203525">
+<start_time>08:35</start_time>
+<end_time>09:26</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(1)]]></title>
+</event>
+<event id="1135237857">
+<start_time>09:26</start_time>
+<end_time>10:27</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(2)]]></title>
+</event>
+<event id="1135239636">
+<start_time>10:27</start_time>
+<end_time>11:18</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(3)]]></title>
+</event>
+<event id="1135239639">
+<start_time>11:18</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(4)]]></title>
+</event>
+<event id="1135249158">
+<start_time>12:10</start_time>
+<end_time>12:32</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1135249218">
+<start_time>12:32</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1135250667">
+<start_time>12:35</start_time>
+<end_time>13:49</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(5)]]></title>
+</event>
+<event id="1135261632">
+<start_time>13:49</start_time>
+<end_time>14:45</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(6)]]></title>
+</event>
+<event id="1135261635">
+<start_time>14:45</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(7)]]></title>
+</event>
+<event id="1135217964">
+<start_time>15:38</start_time>
+<end_time>16:18</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(8)]]></title>
+</event>
+<event id="1132857426">
+<start_time>16:18</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[向往的生活]]></title>
+</event>
+<event id="1132857429">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1132857432">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1132857435">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1132857438">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1132857441">
+<start_time>19:33</start_time>
+<end_time>19:57</end_time>
+<title><![CDATA[神奇的汉字]]></title>
+</event>
+<event id="1132857444">
+<start_time>19:57</start_time>
+<end_time>21:02</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(17)]]></title>
+</event>
+<event id="1132857447">
+<start_time>21:02</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(18)]]></title>
+</event>
+<event id="1132857450">
+<start_time>22:00</start_time>
+<end_time>23:11</end_time>
+<title><![CDATA[青春进行时剧场:大宋少年志(15)]]></title>
+</event>
+<event id="1132857453">
+<start_time>23:11</start_time>
+<end_time>23:45</end_time>
+<title><![CDATA[青春进行时剧场:大宋少年志(16)]]></title>
+</event>
+<event id="1133186430">
+<start_time>23:45</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[我爱你中国]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUNANTV1" epg_code="HUNANTV1" date="2019-06-19">
+<event id="1133118264">
+<start_time>00:05</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1133118267">
+<start_time>02:00</start_time>
+<end_time>02:41</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133118270">
+<start_time>02:41</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133118273">
+<start_time>03:10</start_time>
+<end_time>03:41</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133118276">
+<start_time>03:41</start_time>
+<end_time>04:09</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1133118279">
+<start_time>04:09</start_time>
+<end_time>05:06</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1133118282">
+<start_time>05:06</start_time>
+<end_time>05:35</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1133118285">
+<start_time>05:35</start_time>
+<end_time>05:57</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1134979854">
+<start_time>05:57</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[重播钻石剧场:宝贝妈妈宝贝女(35)]]></title>
+</event>
+<event id="1133118291">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1134979857">
+<start_time>07:32</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[重播钻石剧场:宝贝妈妈宝贝女(36)]]></title>
+</event>
+<event id="1133118297">
+<start_time>08:04</start_time>
+<end_time>08:50</end_time>
+<title><![CDATA[中华文明之美]]></title>
+</event>
+<event id="1134979860">
+<start_time>08:50</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(6)]]></title>
+</event>
+<event id="1134979863">
+<start_time>09:30</start_time>
+<end_time>10:25</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(7)]]></title>
+</event>
+<event id="1134979866">
+<start_time>10:25</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(8)]]></title>
+</event>
+<event id="1134979869">
+<start_time>11:15</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(9)]]></title>
+</event>
+<event id="1133118312">
+<start_time>12:10</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133118315">
+<start_time>12:30</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134979872">
+<start_time>12:35</start_time>
+<end_time>13:31</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(10)]]></title>
+</event>
+<event id="1134979875">
+<start_time>13:31</start_time>
+<end_time>14:41</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(11)]]></title>
+</event>
+<event id="1134979878">
+<start_time>14:41</start_time>
+<end_time>15:32</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(12)]]></title>
+</event>
+<event id="1134979881">
+<start_time>15:32</start_time>
+<end_time>16:17</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(13)]]></title>
+</event>
+<event id="1133118330">
+<start_time>16:17</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[向往的生活]]></title>
+</event>
+<event id="1133118333">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133118336">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1133118339">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1133118342">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133118345">
+<start_time>19:33</start_time>
+<end_time>19:57</end_time>
+<title><![CDATA[神奇的汉字]]></title>
+</event>
+<event id="1133118348">
+<start_time>19:57</start_time>
+<end_time>21:04</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(19)]]></title>
+</event>
+<event id="1133118351">
+<start_time>21:04</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(20)]]></title>
+</event>
+<event id="1133118354">
+<start_time>22:00</start_time>
+<end_time>23:15</end_time>
+<title><![CDATA[青春进行时剧场:大宋少年志(17)]]></title>
+</event>
+<event id="1133118357">
+<start_time>23:15</start_time>
+<end_time>23:44</end_time>
+<title><![CDATA[青春进行时剧场:大宋少年志(18)]]></title>
+</event>
+<event id="1133447217">
+<start_time>23:44</start_time>
+<end_time>00:41</end_time>
+<title><![CDATA[我是大美人]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUNANTV1" epg_code="HUNANTV1" date="2019-06-20">
+<event id="1133353038">
+<start_time>00:41</start_time>
+<end_time>02:03</end_time>
+<title><![CDATA[我家那闺女]]></title>
+</event>
+<event id="1133353041">
+<start_time>02:03</start_time>
+<end_time>02:35</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133353044">
+<start_time>02:35</start_time>
+<end_time>03:05</end_time>
+<title><![CDATA[少年说]]></title>
+</event>
+<event id="1133353047">
+<start_time>03:05</start_time>
+<end_time>03:35</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133353050">
+<start_time>03:35</start_time>
+<end_time>04:27</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1133353053">
+<start_time>04:27</start_time>
+<end_time>04:57</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1133353056">
+<start_time>04:57</start_time>
+<end_time>05:42</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1133353059">
+<start_time>05:42</start_time>
+<end_time>05:57</end_time>
+<title><![CDATA[童趣大冒险]]></title>
+</event>
+<event id="1133353062">
+<start_time>05:57</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[重播钻石剧场]]></title>
+</event>
+<event id="1133353065">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1133353068">
+<start_time>07:32</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[重播钻石剧场]]></title>
+</event>
+<event id="1133353071">
+<start_time>08:04</start_time>
+<end_time>08:38</end_time>
+<title><![CDATA[中华文明之美]]></title>
+</event>
+<event id="1134979884">
+<start_time>08:38</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(14)]]></title>
+</event>
+<event id="1134979887">
+<start_time>09:30</start_time>
+<end_time>10:23</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(15)]]></title>
+</event>
+<event id="1134979890">
+<start_time>10:23</start_time>
+<end_time>11:14</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(16)]]></title>
+</event>
+<event id="1134979893">
+<start_time>11:14</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(17)]]></title>
+</event>
+<event id="1133353086">
+<start_time>12:10</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133353089">
+<start_time>12:30</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134979896">
+<start_time>12:35</start_time>
+<end_time>13:45</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(18)]]></title>
+</event>
+<event id="1134979899">
+<start_time>13:45</start_time>
+<end_time>14:41</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(19)]]></title>
+</event>
+<event id="1134979902">
+<start_time>14:41</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(20)]]></title>
+</event>
+<event id="1134979905">
+<start_time>15:38</start_time>
+<end_time>16:17</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(21)]]></title>
+</event>
+<event id="1133353104">
+<start_time>16:17</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[我家那小子]]></title>
+</event>
+<event id="1133353107">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133353110">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1133353113">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1133353116">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133353119">
+<start_time>19:33</start_time>
+<end_time>20:00</end_time>
+<title><![CDATA[神奇的汉字]]></title>
+</event>
+<event id="1133353122">
+<start_time>20:00</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(21)]]></title>
+</event>
+<event id="1133353125">
+<start_time>21:00</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(22)]]></title>
+</event>
+<event id="1134979908">
+<start_time>22:00</start_time>
+<end_time>23:44</end_time>
+<title><![CDATA[我家那小子第二季:武艺再次体检暴击 孩子会有先天性耳聋？]]></title>
+</event>
+<event id="1133713278">
+<start_time>23:44</start_time>
+<end_time>00:55</end_time>
+<title><![CDATA[我是大美人]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUNANTV1" epg_code="HUNANTV1" date="2019-06-21">
+<event id="1133639007">
+<start_time>00:55</start_time>
+<end_time>02:01</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133639010">
+<start_time>02:01</start_time>
+<end_time>02:26</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133639013">
+<start_time>02:26</start_time>
+<end_time>03:46</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1133639016">
+<start_time>03:46</start_time>
+<end_time>04:24</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133639019">
+<start_time>04:24</start_time>
+<end_time>04:46</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133639022">
+<start_time>04:46</start_time>
+<end_time>05:14</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1133639025">
+<start_time>05:14</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133639028">
+<start_time>05:30</start_time>
+<end_time>05:57</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133639031">
+<start_time>05:57</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[重播钻石剧场]]></title>
+</event>
+<event id="1133639034">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1133639037">
+<start_time>07:32</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[重播钻石剧场]]></title>
+</event>
+<event id="1133639040">
+<start_time>08:04</start_time>
+<end_time>08:38</end_time>
+<title><![CDATA[中华文明之美]]></title>
+</event>
+<event id="1134979911">
+<start_time>08:38</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(22)]]></title>
+</event>
+<event id="1134979914">
+<start_time>09:30</start_time>
+<end_time>10:23</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(23)]]></title>
+</event>
+<event id="1134979917">
+<start_time>10:23</start_time>
+<end_time>11:14</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(24)]]></title>
+</event>
+<event id="1134979920">
+<start_time>11:14</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(25)]]></title>
+</event>
+<event id="1133639055">
+<start_time>12:10</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1133639058">
+<start_time>12:30</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134979923">
+<start_time>12:35</start_time>
+<end_time>13:27</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(26)]]></title>
+</event>
+<event id="1134979926">
+<start_time>13:27</start_time>
+<end_time>14:16</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(27)]]></title>
+</event>
+<event id="1134979929">
+<start_time>14:16</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(28)]]></title>
+</event>
+<event id="1134979932">
+<start_time>15:05</start_time>
+<end_time>15:44</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(29)]]></title>
+</event>
+<event id="1133639073">
+<start_time>15:44</start_time>
+<end_time>17:21</end_time>
+<title><![CDATA[向往的生活]]></title>
+</event>
+<event id="1133639076">
+<start_time>17:21</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[乡村合伙人]]></title>
+</event>
+<event id="1133639079">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133639082">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1133639085">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1133639088">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133639091">
+<start_time>19:31</start_time>
+<end_time>20:10</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(23)]]></title>
+</event>
+<event id="1134979935">
+<start_time>20:10</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[巅峰之夜:巅峰之夜体验官杨幂惊喜入席]]></title>
+</event>
+<event id="1134979938">
+<start_time>22:00</start_time>
+<end_time>23:05</end_time>
+<title><![CDATA[向往的生活第三季:任贤齐张柏芝惊喜拜访蘑菇屋 辈分乱成一团]]></title>
+</event>
+<event id="1133999709">
+<start_time>23:05</start_time>
+<end_time>01:36</end_time>
+<title><![CDATA[向往的生活第三季]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUNANTV1" epg_code="HUNANTV1" date="2019-06-22">
+<event id="1133915487">
+<start_time>01:36</start_time>
+<end_time>01:46</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133915490">
+<start_time>01:46</start_time>
+<end_time>02:41</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133915493">
+<start_time>02:41</start_time>
+<end_time>03:38</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1133915496">
+<start_time>03:38</start_time>
+<end_time>04:07</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133915499">
+<start_time>04:07</start_time>
+<end_time>04:37</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133915502">
+<start_time>04:37</start_time>
+<end_time>05:06</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1133915505">
+<start_time>05:06</start_time>
+<end_time>05:35</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133915508">
+<start_time>05:35</start_time>
+<end_time>06:02</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133915511">
+<start_time>06:02</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1133915514">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1133915517">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1134979941">
+<start_time>07:32</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(30)]]></title>
+</event>
+<event id="1133915523">
+<start_time>08:04</start_time>
+<end_time>08:50</end_time>
+<title><![CDATA[中华文明之美]]></title>
+</event>
+<event id="1134979944">
+<start_time>08:50</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(31)]]></title>
+</event>
+<event id="1134979947">
+<start_time>09:30</start_time>
+<end_time>10:25</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(32)]]></title>
+</event>
+<event id="1134979950">
+<start_time>10:25</start_time>
+<end_time>11:25</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(33)]]></title>
+</event>
+<event id="1133915535">
+<start_time>11:25</start_time>
+<end_time>12:32</end_time>
+<title><![CDATA[更上一层楼]]></title>
+</event>
+<event id="1133915538">
+<start_time>12:32</start_time>
+<end_time>14:15</end_time>
+<title><![CDATA[声临其境]]></title>
+</event>
+<event id="1133915541">
+<start_time>14:15</start_time>
+<end_time>16:09</end_time>
+<title><![CDATA[歌手]]></title>
+</event>
+<event id="1133915544">
+<start_time>16:09</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[哈哈农夫]]></title>
+</event>
+<event id="1133915547">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻当事人]]></title>
+</event>
+<event id="1133915550">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1133915553">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1133915556">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133915559">
+<start_time>19:36</start_time>
+<end_time>20:17</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(24)]]></title>
+</event>
+<event id="1134979953">
+<start_time>20:17</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[快乐大本营:马栏山又要颁奖了！汤唯朱亚文乔振宇争“普通奖”]]></title>
+</event>
+<event id="1133915565">
+<start_time>22:00</start_time>
+<end_time>23:37</end_time>
+<title><![CDATA[我们的师父]]></title>
+</event>
+<event id="1134258936">
+<start_time>23:37</start_time>
+<end_time>01:43</end_time>
+<title><![CDATA[我们的师父]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUNANTV1" epg_code="HUNANTV1" date="2019-06-23">
+<event id="1134186636">
+<start_time>01:43</start_time>
+<end_time>02:13</end_time>
+<title><![CDATA[新闻当事人]]></title>
+</event>
+<event id="1134186639">
+<start_time>02:13</start_time>
+<end_time>03:05</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1134186642">
+<start_time>03:05</start_time>
+<end_time>04:04</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1134186645">
+<start_time>04:04</start_time>
+<end_time>04:31</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1134186648">
+<start_time>04:31</start_time>
+<end_time>06:02</end_time>
+<title><![CDATA[新闻当事人]]></title>
+</event>
+<event id="1134186651">
+<start_time>06:02</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1134186654">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134186657">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1134979956">
+<start_time>07:32</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(34)]]></title>
+</event>
+<event id="1134186663">
+<start_time>08:04</start_time>
+<end_time>08:50</end_time>
+<title><![CDATA[中华文明之美]]></title>
+</event>
+<event id="1134979959">
+<start_time>08:50</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(35)]]></title>
+</event>
+<event id="1134979962">
+<start_time>09:30</start_time>
+<end_time>10:25</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(36)]]></title>
+</event>
+<event id="1134979965">
+<start_time>10:25</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(37)]]></title>
+</event>
+<event id="1134979968">
+<start_time>11:15</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(38)]]></title>
+</event>
+<event id="1134186678">
+<start_time>12:10</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1134186681">
+<start_time>12:30</start_time>
+<end_time>14:30</end_time>
+<title><![CDATA[快乐大本营]]></title>
+</event>
+<event id="1134186684">
+<start_time>14:30</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[我们的师父]]></title>
+</event>
+<event id="1134186687">
+<start_time>16:00</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[哈哈农夫]]></title>
+</event>
+<event id="1134186690">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻当事人]]></title>
+</event>
+<event id="1134186693">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1134186696">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134186699">
+<start_time>19:00</start_time>
+<end_time>19:31</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134186702">
+<start_time>19:31</start_time>
+<end_time>19:56</end_time>
+<title><![CDATA[放学后]]></title>
+</event>
+<event id="1134186705">
+<start_time>19:56</start_time>
+<end_time>21:04</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(25)]]></title>
+</event>
+<event id="1134186708">
+<start_time>21:04</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(26)]]></title>
+</event>
+<event id="1134979971">
+<start_time>22:00</start_time>
+<end_time>23:39</end_time>
+<title><![CDATA[天天向上:SNH48变怪力少女徒手劈西瓜？]]></title>
+</event>
+<event id="1134541641">
+<start_time>23:39</start_time>
+<end_time>00:21</end_time>
+<title><![CDATA[巅峰之夜]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUNANTV1" epg_code="HUNANTV1" date="2019-06-24">
+<event id="1134487671">
+<start_time>00:21</start_time>
+<end_time>01:47</end_time>
+<title><![CDATA[让世界听见]]></title>
+</event>
+<event id="1134487674">
+<start_time>01:47</start_time>
+<end_time>02:17</end_time>
+<title><![CDATA[新闻当事人]]></title>
+</event>
+<event id="1134487677">
+<start_time>02:17</start_time>
+<end_time>02:46</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1134487680">
+<start_time>02:46</start_time>
+<end_time>03:36</end_time>
+<title><![CDATA[我的纪录片]]></title>
+</event>
+<event id="1134487683">
+<start_time>03:36</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1134487686">
+<start_time>04:35</start_time>
+<end_time>05:04</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1134487689">
+<start_time>05:04</start_time>
+<end_time>05:57</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1134487692">
+<start_time>05:57</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[重播钻石剧场]]></title>
+</event>
+<event id="1134487695">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1134487698">
+<start_time>07:32</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[重播钻石剧场]]></title>
+</event>
+<event id="1134487701">
+<start_time>08:04</start_time>
+<end_time>08:50</end_time>
+<title><![CDATA[中华文明之美]]></title>
+</event>
+<event id="1134979974">
+<start_time>08:50</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(39)]]></title>
+</event>
+<event id="1134979977">
+<start_time>09:30</start_time>
+<end_time>10:25</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(40)]]></title>
+</event>
+<event id="1134979980">
+<start_time>10:25</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(41)]]></title>
+</event>
+<event id="1134979983">
+<start_time>11:15</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[偶像独播剧场:妈妈向前冲(42)]]></title>
+</event>
+<event id="1134487716">
+<start_time>12:10</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1134487719">
+<start_time>12:30</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134487722">
+<start_time>12:35</start_time>
+<end_time>13:40</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1134487725">
+<start_time>13:40</start_time>
+<end_time>14:44</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1134487728">
+<start_time>14:44</start_time>
+<end_time>15:32</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1134487731">
+<start_time>15:32</start_time>
+<end_time>16:13</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1134487734">
+<start_time>16:13</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[向往的生活]]></title>
+</event>
+<event id="1134487737">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1134487740">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1134487743">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1134487746">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134487749">
+<start_time>19:33</start_time>
+<end_time>19:57</end_time>
+<title><![CDATA[神奇的汉字]]></title>
+</event>
+<event id="1134487752">
+<start_time>19:57</start_time>
+<end_time>21:02</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(27)]]></title>
+</event>
+<event id="1134487755">
+<start_time>21:02</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(28)]]></title>
+</event>
+<event id="1134487758">
+<start_time>22:05</start_time>
+<end_time>23:15</end_time>
+<title><![CDATA[青春进行时剧场:大宋少年志(19)]]></title>
+</event>
+<event id="1134487761">
+<start_time>23:15</start_time>
+<end_time>23:51</end_time>
+<title><![CDATA[青春进行时剧场:大宋少年志(20)]]></title>
+</event>
+<event id="1135127424">
+<start_time>23:51</start_time>
+<end_time>00:41</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUNANTV1" epg_code="HUNANTV1" date="2019-06-25">
+<event id="1135049889">
+<start_time>00:41</start_time>
+<end_time>02:09</end_time>
+<title><![CDATA[让世界听见]]></title>
+</event>
+<event id="1135049892">
+<start_time>02:09</start_time>
+<end_time>02:35</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1135049895">
+<start_time>02:35</start_time>
+<end_time>03:05</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1135049898">
+<start_time>03:05</start_time>
+<end_time>03:35</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1135049901">
+<start_time>03:35</start_time>
+<end_time>05:33</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1135049904">
+<start_time>05:33</start_time>
+<end_time>05:57</end_time>
+<title><![CDATA[平民英雄]]></title>
+</event>
+<event id="1135049907">
+<start_time>05:57</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[重播钻石剧场]]></title>
+</event>
+<event id="1135049910">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1135049913">
+<start_time>07:32</start_time>
+<end_time>08:04</end_time>
+<title><![CDATA[重播钻石剧场]]></title>
+</event>
+<event id="1135049916">
+<start_time>08:04</start_time>
+<end_time>08:50</end_time>
+<title><![CDATA[中华文明之美]]></title>
+</event>
+<event id="1135049919">
+<start_time>08:50</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1135049922">
+<start_time>09:30</start_time>
+<end_time>10:25</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1135049925">
+<start_time>10:25</start_time>
+<end_time>11:15</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1135049928">
+<start_time>11:15</start_time>
+<end_time>12:10</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1135049931">
+<start_time>12:10</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[午间新闻]]></title>
+</event>
+<event id="1135049934">
+<start_time>12:30</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1135049937">
+<start_time>12:35</start_time>
+<end_time>13:32</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1135049940">
+<start_time>13:32</start_time>
+<end_time>14:41</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1135049943">
+<start_time>14:41</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1135049946">
+<start_time>15:38</start_time>
+<end_time>16:18</end_time>
+<title><![CDATA[偶像独播剧场]]></title>
+</event>
+<event id="1135049949">
+<start_time>16:18</start_time>
+<end_time>17:56</end_time>
+<title><![CDATA[向往的生活]]></title>
+</event>
+<event id="1135049952">
+<start_time>17:56</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻大求真]]></title>
+</event>
+<event id="1135049955">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[湖南新闻联播]]></title>
+</event>
+<event id="1135049958">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[卫视气象站]]></title>
+</event>
+<event id="1135049961">
+<start_time>19:00</start_time>
+<end_time>19:33</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1135049964">
+<start_time>19:33</start_time>
+<end_time>19:57</end_time>
+<title><![CDATA[神奇的汉字]]></title>
+</event>
+<event id="1135049967">
+<start_time>19:57</start_time>
+<end_time>21:02</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(29)]]></title>
+</event>
+<event id="1135049970">
+<start_time>21:02</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[金鹰独播剧场:少年派(30)]]></title>
+</event>
+<event id="1135049973">
+<start_time>22:00</start_time>
+<end_time>23:11</end_time>
+<title><![CDATA[青春进行时剧场:大宋少年志(21)]]></title>
+</event>
+<event id="1135049976">
+<start_time>23:11</start_time>
+<end_time>23:45</end_time>
+<title><![CDATA[青春进行时剧场:大宋少年志(22)]]></title>
+</event>
+<event id="1135049979">
+<start_time>23:45</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[我爱你中国]]></title>
+</event>
+</schedule>
+</document>

@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="HUBEI1" epg_code="HUBEI1" date="2019-06-18">
+<event id="1135260171">
+<start_time>00:09</start_time>
+<end_time>00:51</end_time>
+<title><![CDATA[深夜剧场:怒放3]]></title>
+</event>
+<event id="1135260174">
+<start_time>00:51</start_time>
+<end_time>01:06</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260177">
+<start_time>01:06</start_time>
+<end_time>01:48</end_time>
+<title><![CDATA[深夜剧场:怒放4]]></title>
+</event>
+<event id="1135260180">
+<start_time>01:48</start_time>
+<end_time>02:03</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260183">
+<start_time>02:03</start_time>
+<end_time>02:45</end_time>
+<title><![CDATA[深夜剧场:怒放5]]></title>
+</event>
+<event id="1135260186">
+<start_time>02:45</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260189">
+<start_time>03:00</start_time>
+<end_time>03:43</end_time>
+<title><![CDATA[深夜剧场:怒放6]]></title>
+</event>
+<event id="1135260192">
+<start_time>03:43</start_time>
+<end_time>04:13</end_time>
+<title><![CDATA[纪录片:记住乡愁第一季28]]></title>
+</event>
+<event id="1135260195">
+<start_time>04:13</start_time>
+<end_time>04:42</end_time>
+<title><![CDATA[纪录片:记住乡愁第一季29]]></title>
+</event>
+<event id="1135260198">
+<start_time>04:42</start_time>
+<end_time>05:24</end_time>
+<title><![CDATA[深夜剧场:怒放7]]></title>
+</event>
+<event id="1135260201">
+<start_time>05:24</start_time>
+<end_time>05:41</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260204">
+<start_time>05:41</start_time>
+<end_time>06:23</end_time>
+<title><![CDATA[深夜剧场:怒放8]]></title>
+</event>
+<event id="1135260207">
+<start_time>06:23</start_time>
+<end_time>06:35</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260210">
+<start_time>06:35</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[大揭秘]]></title>
+</event>
+<event id="1135260213">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135260216">
+<start_time>07:01</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1135260219">
+<start_time>07:23</start_time>
+<end_time>07:55</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1132872039">
+<start_time>07:55</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1134980181">
+<start_time>08:35</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[早间剧场:突围突围 43]]></title>
+</event>
+<event id="1134980184">
+<start_time>09:24</start_time>
+<end_time>10:14</end_time>
+<title><![CDATA[早间剧场:突围突围 44]]></title>
+</event>
+<event id="1135238406">
+<start_time>10:14</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[早间剧场:突围突围 45]]></title>
+</event>
+<event id="1135238409">
+<start_time>11:03</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[早间剧场:突围突围 46]]></title>
+</event>
+<event id="1135249200">
+<start_time>11:50</start_time>
+<end_time>12:32</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1135250496">
+<start_time>12:32</start_time>
+<end_time>13:25</end_time>
+<title><![CDATA[午后剧场:游击英雄(32)]]></title>
+</event>
+<event id="1135250499">
+<start_time>13:25</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[午后剧场:游击英雄(33)]]></title>
+</event>
+<event id="1135262043">
+<start_time>14:18</start_time>
+<end_time>15:07</end_time>
+<title><![CDATA[午后剧场:游击英雄(34)]]></title>
+</event>
+<event id="1135262046">
+<start_time>15:07</start_time>
+<end_time>15:49</end_time>
+<title><![CDATA[午后剧场:游击英雄(35)]]></title>
+</event>
+<event id="1133133363">
+<start_time>15:49</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[午后剧场:游击英雄(36)]]></title>
+</event>
+<event id="1132872072">
+<start_time>16:40</start_time>
+<end_time>17:50</end_time>
+<title><![CDATA[天生我财之吾股丰登]]></title>
+</event>
+<event id="1132872075">
+<start_time>17:50</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[饮食养生汇]]></title>
+</event>
+<event id="1132872078">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1132872081">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[湖北天气预报]]></title>
+</event>
+<event id="1132872084">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1132872087">
+<start_time>19:34</start_time>
+<end_time>20:32</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(25)]]></title>
+</event>
+<event id="1132872090">
+<start_time>20:32</start_time>
+<end_time>21:24</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(26)]]></title>
+</event>
+<event id="1132872093">
+<start_time>21:24</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[大王小王]]></title>
+</event>
+<event id="1132872096">
+<start_time>22:00</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[童声朗朗]]></title>
+</event>
+<event id="1132872099">
+<start_time>23:00</start_time>
+<end_time>23:33</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1133195085">
+<start_time>23:33</start_time>
+<end_time>00:05</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUBEI1" epg_code="HUBEI1" date="2019-06-19">
+<event id="1133133366">
+<start_time>00:05</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134980097">
+<start_time>01:18</start_time>
+<end_time>02:24</end_time>
+<title><![CDATA[深夜剧场:怒放(9)]]></title>
+</event>
+<event id="1134980100">
+<start_time>02:24</start_time>
+<end_time>02:51</end_time>
+<title><![CDATA[深夜剧场:怒放(10)]]></title>
+</event>
+<event id="1134980103">
+<start_time>02:51</start_time>
+<end_time>03:33</end_time>
+<title><![CDATA[深夜剧场:怒放(11)]]></title>
+</event>
+<event id="1133133378">
+<start_time>03:33</start_time>
+<end_time>03:58</end_time>
+<title><![CDATA[大揭秘]]></title>
+</event>
+<event id="1133133381">
+<start_time>03:58</start_time>
+<end_time>04:43</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133133384">
+<start_time>04:43</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134980106">
+<start_time>05:05</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[深夜剧场:怒放(12)]]></title>
+</event>
+<event id="1134980109">
+<start_time>06:00</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[深夜剧场:怒放(13)]]></title>
+</event>
+<event id="1133133393">
+<start_time>07:00</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1133133396">
+<start_time>07:23</start_time>
+<end_time>07:50</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1133133399">
+<start_time>07:50</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1133133402">
+<start_time>08:35</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133133405">
+<start_time>09:24</start_time>
+<end_time>10:15</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133133408">
+<start_time>10:15</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133133411">
+<start_time>11:03</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133133414">
+<start_time>11:50</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1133133417">
+<start_time>12:33</start_time>
+<end_time>13:24</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133133420">
+<start_time>13:24</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133133423">
+<start_time>14:18</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133133426">
+<start_time>15:05</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133133429">
+<start_time>15:52</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133133432">
+<start_time>16:40</start_time>
+<end_time>17:50</end_time>
+<title><![CDATA[天生我财之吾股丰登]]></title>
+</event>
+<event id="1133133435">
+<start_time>17:50</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[饮食养生汇]]></title>
+</event>
+<event id="1133133438">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1133133441">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[湖北天气预报]]></title>
+</event>
+<event id="1133133444">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1133133447">
+<start_time>19:36</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(27)]]></title>
+</event>
+<event id="1133133450">
+<start_time>20:31</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(28)]]></title>
+</event>
+<event id="1133133453">
+<start_time>21:25</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[大王小王]]></title>
+</event>
+<event id="1133133456">
+<start_time>23:00</start_time>
+<end_time>23:30</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1133458647">
+<start_time>23:30</start_time>
+<end_time>00:16</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUBEI1" epg_code="HUBEI1" date="2019-06-20">
+<event id="1134980112">
+<start_time>00:16</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[深夜剧场:怒放(14)]]></title>
+</event>
+<event id="1134980115">
+<start_time>01:18</start_time>
+<end_time>02:22</end_time>
+<title><![CDATA[深夜剧场:怒放(15)]]></title>
+</event>
+<event id="1134980118">
+<start_time>02:22</start_time>
+<end_time>03:06</end_time>
+<title><![CDATA[深夜剧场:怒放(16)]]></title>
+</event>
+<event id="1133367954">
+<start_time>03:06</start_time>
+<end_time>03:37</end_time>
+<title><![CDATA[大揭秘]]></title>
+</event>
+<event id="1133367957">
+<start_time>03:37</start_time>
+<end_time>04:23</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133367960">
+<start_time>04:23</start_time>
+<end_time>04:31</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134980121">
+<start_time>04:31</start_time>
+<end_time>05:35</end_time>
+<title><![CDATA[深夜剧场:怒放(17)]]></title>
+</event>
+<event id="1134980124">
+<start_time>05:35</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[深夜剧场:怒放(18)]]></title>
+</event>
+<event id="1133367969">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[大揭秘]]></title>
+</event>
+<event id="1133367972">
+<start_time>07:00</start_time>
+<end_time>07:24</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1133367975">
+<start_time>07:24</start_time>
+<end_time>07:56</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1133367978">
+<start_time>07:56</start_time>
+<end_time>08:30</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1133367981">
+<start_time>08:30</start_time>
+<end_time>09:20</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133367984">
+<start_time>09:20</start_time>
+<end_time>10:15</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133367987">
+<start_time>10:15</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133367990">
+<start_time>11:03</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133367993">
+<start_time>11:50</start_time>
+<end_time>12:32</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1133367996">
+<start_time>12:32</start_time>
+<end_time>13:24</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133367999">
+<start_time>13:24</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133368002">
+<start_time>14:18</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133368005">
+<start_time>15:05</start_time>
+<end_time>15:49</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133368008">
+<start_time>15:49</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133368011">
+<start_time>16:40</start_time>
+<end_time>17:50</end_time>
+<title><![CDATA[天生我财之吾股丰登]]></title>
+</event>
+<event id="1133368014">
+<start_time>17:50</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[饮食养生汇]]></title>
+</event>
+<event id="1133368017">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1133368020">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[湖北天气预报]]></title>
+</event>
+<event id="1133368023">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1133368026">
+<start_time>19:34</start_time>
+<end_time>20:35</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(29)]]></title>
+</event>
+<event id="1133368029">
+<start_time>20:35</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(30)]]></title>
+</event>
+<event id="1133368032">
+<start_time>21:32</start_time>
+<end_time>22:45</end_time>
+<title><![CDATA[非正式课堂]]></title>
+</event>
+<event id="1133368035">
+<start_time>22:45</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[风语日记]]></title>
+</event>
+<event id="1133368038">
+<start_time>23:00</start_time>
+<end_time>23:32</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1133722182">
+<start_time>23:32</start_time>
+<end_time>00:18</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUBEI1" epg_code="HUBEI1" date="2019-06-21">
+<event id="1134980127">
+<start_time>00:18</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[深夜剧场:怒放(19)]]></title>
+</event>
+<event id="1134980130">
+<start_time>01:18</start_time>
+<end_time>02:13</end_time>
+<title><![CDATA[深夜剧场:怒放(20)]]></title>
+</event>
+<event id="1134980133">
+<start_time>02:13</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[深夜剧场:怒放(21)]]></title>
+</event>
+<event id="1133653815">
+<start_time>03:00</start_time>
+<end_time>03:32</end_time>
+<title><![CDATA[大揭秘]]></title>
+</event>
+<event id="1133653818">
+<start_time>03:32</start_time>
+<end_time>04:05</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133653821">
+<start_time>04:05</start_time>
+<end_time>04:35</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134980136">
+<start_time>04:35</start_time>
+<end_time>05:30</end_time>
+<title><![CDATA[深夜剧场:怒放(22)]]></title>
+</event>
+<event id="1134980139">
+<start_time>05:30</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[深夜剧场:怒放(23)]]></title>
+</event>
+<event id="1133653830">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[大揭秘]]></title>
+</event>
+<event id="1133653833">
+<start_time>07:00</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1133653836">
+<start_time>07:23</start_time>
+<end_time>07:55</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1133653839">
+<start_time>07:55</start_time>
+<end_time>08:30</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1133653842">
+<start_time>08:30</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133653845">
+<start_time>09:24</start_time>
+<end_time>10:15</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133653848">
+<start_time>10:15</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133653851">
+<start_time>11:03</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133653854">
+<start_time>11:50</start_time>
+<end_time>12:29</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1133653857">
+<start_time>12:29</start_time>
+<end_time>13:24</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133653860">
+<start_time>13:24</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133653863">
+<start_time>14:18</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133653866">
+<start_time>15:05</start_time>
+<end_time>15:49</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133653869">
+<start_time>15:49</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133653872">
+<start_time>16:40</start_time>
+<end_time>17:50</end_time>
+<title><![CDATA[天生我财之吾股丰登]]></title>
+</event>
+<event id="1133653875">
+<start_time>17:50</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[饮食养生汇]]></title>
+</event>
+<event id="1133653878">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1133653881">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[湖北天气预报]]></title>
+</event>
+<event id="1133653884">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1133653887">
+<start_time>19:34</start_time>
+<end_time>20:31</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(31)]]></title>
+</event>
+<event id="1133653890">
+<start_time>20:31</start_time>
+<end_time>21:19</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(32)]]></title>
+</event>
+<event id="1133653893">
+<start_time>21:19</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[非正式会谈]]></title>
+</event>
+<event id="1133653896">
+<start_time>23:00</start_time>
+<end_time>23:33</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1134013269">
+<start_time>23:33</start_time>
+<end_time>00:18</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUBEI1" epg_code="HUBEI1" date="2019-06-22">
+<event id="1134980142">
+<start_time>00:18</start_time>
+<end_time>01:20</end_time>
+<title><![CDATA[深夜剧场:怒放(24)]]></title>
+</event>
+<event id="1134980145">
+<start_time>01:20</start_time>
+<end_time>02:10</end_time>
+<title><![CDATA[深夜剧场:怒放(25)]]></title>
+</event>
+<event id="1134980148">
+<start_time>02:10</start_time>
+<end_time>03:00</end_time>
+<title><![CDATA[深夜剧场:怒放(26)]]></title>
+</event>
+<event id="1134980151">
+<start_time>03:00</start_time>
+<end_time>03:59</end_time>
+<title><![CDATA[深夜剧场:怒放(27)]]></title>
+</event>
+<event id="1133930079">
+<start_time>03:59</start_time>
+<end_time>04:26</end_time>
+<title><![CDATA[大揭秘]]></title>
+</event>
+<event id="1133930082">
+<start_time>04:26</start_time>
+<end_time>04:42</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134980154">
+<start_time>04:42</start_time>
+<end_time>05:35</end_time>
+<title><![CDATA[深夜剧场:怒放(28)]]></title>
+</event>
+<event id="1134980157">
+<start_time>05:35</start_time>
+<end_time>06:39</end_time>
+<title><![CDATA[深夜剧场:怒放(29)]]></title>
+</event>
+<event id="1133930091">
+<start_time>06:39</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[情系国防]]></title>
+</event>
+<event id="1133930094">
+<start_time>07:00</start_time>
+<end_time>07:55</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1133930097">
+<start_time>07:55</start_time>
+<end_time>08:53</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133930100">
+<start_time>08:53</start_time>
+<end_time>09:51</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133930103">
+<start_time>09:51</start_time>
+<end_time>10:45</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133930106">
+<start_time>10:45</start_time>
+<end_time>11:33</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1133930109">
+<start_time>11:33</start_time>
+<end_time>12:00</end_time>
+<title><![CDATA[动画片剧场:哎呦,黑皮]]></title>
+</event>
+<event id="1133930112">
+<start_time>12:00</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[动画片剧场:哎呦,黑皮]]></title>
+</event>
+<event id="1133930115">
+<start_time>13:04</start_time>
+<end_time>13:51</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133930118">
+<start_time>13:51</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133930121">
+<start_time>14:43</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133930124">
+<start_time>15:34</start_time>
+<end_time>16:14</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133930127">
+<start_time>16:14</start_time>
+<end_time>17:03</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133930130">
+<start_time>17:03</start_time>
+<end_time>17:49</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1133930133">
+<start_time>17:49</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[饮食养生汇]]></title>
+</event>
+<event id="1133930136">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1133930139">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[湖北天气预报]]></title>
+</event>
+<event id="1133930142">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1133930145">
+<start_time>19:35</start_time>
+<end_time>20:36</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(33)]]></title>
+</event>
+<event id="1133930148">
+<start_time>20:36</start_time>
+<end_time>21:25</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(34)]]></title>
+</event>
+<event id="1133930151">
+<start_time>21:25</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1133930154">
+<start_time>22:00</start_time>
+<end_time>23:13</end_time>
+<title><![CDATA[勇往直前乐拍拍]]></title>
+</event>
+<event id="1133930157">
+<start_time>23:13</start_time>
+<end_time>23:35</end_time>
+<title><![CDATA[情系国防]]></title>
+</event>
+<event id="1133930160">
+<start_time>23:35</start_time>
+<end_time>23:53</end_time>
+<title><![CDATA[匠心守艺人]]></title>
+</event>
+<event id="1134980160">
+<start_time>23:53</start_time>
+<end_time>00:43</end_time>
+<title><![CDATA[深夜剧场:怒放(30)]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUBEI1" epg_code="HUBEI1" date="2019-06-23">
+<event id="1134980163">
+<start_time>00:43</start_time>
+<end_time>01:44</end_time>
+<title><![CDATA[深夜剧场:怒放(31)]]></title>
+</event>
+<event id="1134980166">
+<start_time>01:44</start_time>
+<end_time>02:51</end_time>
+<title><![CDATA[深夜剧场:怒放(32)]]></title>
+</event>
+<event id="1134980169">
+<start_time>02:51</start_time>
+<end_time>03:50</end_time>
+<title><![CDATA[深夜剧场:怒放(33)]]></title>
+</event>
+<event id="1134201222">
+<start_time>03:50</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134201225">
+<start_time>04:20</start_time>
+<end_time>04:54</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134980172">
+<start_time>04:54</start_time>
+<end_time>05:35</end_time>
+<title><![CDATA[深夜剧场:怒放(34)]]></title>
+</event>
+<event id="1134201231">
+<start_time>05:35</start_time>
+<end_time>06:39</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134201234">
+<start_time>06:39</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[情系国防]]></title>
+</event>
+<event id="1134201237">
+<start_time>07:00</start_time>
+<end_time>07:59</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1134201240">
+<start_time>07:59</start_time>
+<end_time>08:46</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134201243">
+<start_time>08:46</start_time>
+<end_time>09:52</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134201246">
+<start_time>09:52</start_time>
+<end_time>10:45</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134201249">
+<start_time>10:45</start_time>
+<end_time>11:55</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134201252">
+<start_time>11:55</start_time>
+<end_time>12:20</end_time>
+<title><![CDATA[动画片剧场:哎呦,黑皮]]></title>
+</event>
+<event id="1134201255">
+<start_time>12:20</start_time>
+<end_time>13:04</end_time>
+<title><![CDATA[动画片剧场:哎呦,黑皮]]></title>
+</event>
+<event id="1134201258">
+<start_time>13:04</start_time>
+<end_time>13:51</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134201261">
+<start_time>13:51</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134201264">
+<start_time>14:43</start_time>
+<end_time>15:34</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134201267">
+<start_time>15:34</start_time>
+<end_time>16:14</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134201270">
+<start_time>16:14</start_time>
+<end_time>17:03</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134201273">
+<start_time>17:03</start_time>
+<end_time>17:50</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134201276">
+<start_time>17:50</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[饮食养生汇]]></title>
+</event>
+<event id="1134201279">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1134201282">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[湖北天气预报]]></title>
+</event>
+<event id="1134201285">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[转播中央台新闻联播]]></title>
+</event>
+<event id="1134201288">
+<start_time>19:36</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(35)]]></title>
+</event>
+<event id="1134201291">
+<start_time>20:30</start_time>
+<end_time>21:29</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(36)]]></title>
+</event>
+<event id="1134201294">
+<start_time>21:29</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[戏码头]]></title>
+</event>
+<event id="1134201297">
+<start_time>23:00</start_time>
+<end_time>23:29</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1134623805">
+<start_time>23:29</start_time>
+<end_time>00:33</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUBEI1" epg_code="HUBEI1" date="2019-06-24">
+<event id="1134560118">
+<start_time>00:33</start_time>
+<end_time>01:36</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134560121">
+<start_time>01:36</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134560124">
+<start_time>02:40</start_time>
+<end_time>03:34</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134560127">
+<start_time>03:34</start_time>
+<end_time>04:01</end_time>
+<title><![CDATA[大揭秘]]></title>
+</event>
+<event id="1134560130">
+<start_time>04:01</start_time>
+<end_time>04:31</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134560133">
+<start_time>04:31</start_time>
+<end_time>05:02</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1134560136">
+<start_time>05:02</start_time>
+<end_time>06:06</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134560139">
+<start_time>06:06</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1134560142">
+<start_time>07:00</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1134560145">
+<start_time>07:25</start_time>
+<end_time>07:55</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1134560148">
+<start_time>07:55</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1134560151">
+<start_time>08:35</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134560154">
+<start_time>09:24</start_time>
+<end_time>10:15</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134560157">
+<start_time>10:15</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134560160">
+<start_time>11:03</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1134560163">
+<start_time>11:50</start_time>
+<end_time>12:29</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1134560166">
+<start_time>12:29</start_time>
+<end_time>13:33</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134560169">
+<start_time>13:33</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134560172">
+<start_time>14:18</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134560175">
+<start_time>15:05</start_time>
+<end_time>15:46</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134560178">
+<start_time>15:46</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1134560181">
+<start_time>16:40</start_time>
+<end_time>17:50</end_time>
+<title><![CDATA[天生我财之吾股丰登]]></title>
+</event>
+<event id="1134560184">
+<start_time>17:50</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[饮食养生汇]]></title>
+</event>
+<event id="1134560187">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1134560190">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[湖北天气预报]]></title>
+</event>
+<event id="1134560193">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1134560196">
+<start_time>19:34</start_time>
+<end_time>20:36</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(37)]]></title>
+</event>
+<event id="1134560199">
+<start_time>20:36</start_time>
+<end_time>21:35</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(38)]]></title>
+</event>
+<event id="1134560202">
+<start_time>21:35</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[了不起的匠人]]></title>
+</event>
+<event id="1134560205">
+<start_time>22:00</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[门当户对]]></title>
+</event>
+<event id="1134560208">
+<start_time>23:00</start_time>
+<end_time>23:33</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1135135386">
+<start_time>23:33</start_time>
+<end_time>00:17</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+</schedule>
+<schedule channel_id="HUBEI1" epg_code="HUBEI1" date="2019-06-25">
+<event id="1135064502">
+<start_time>00:17</start_time>
+<end_time>01:21</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135064505">
+<start_time>01:21</start_time>
+<end_time>02:24</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135064508">
+<start_time>02:24</start_time>
+<end_time>03:17</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135064511">
+<start_time>03:17</start_time>
+<end_time>03:57</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135064514">
+<start_time>03:57</start_time>
+<end_time>04:24</end_time>
+<title><![CDATA[大揭秘]]></title>
+</event>
+<event id="1135064517">
+<start_time>04:24</start_time>
+<end_time>04:55</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1135064520">
+<start_time>04:55</start_time>
+<end_time>05:59</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135064523">
+<start_time>05:59</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[深夜剧场]]></title>
+</event>
+<event id="1135064526">
+<start_time>07:00</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1135064529">
+<start_time>07:25</start_time>
+<end_time>07:55</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1135064532">
+<start_time>07:55</start_time>
+<end_time>08:35</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1135064535">
+<start_time>08:35</start_time>
+<end_time>09:24</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135064538">
+<start_time>09:24</start_time>
+<end_time>10:15</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135064541">
+<start_time>10:15</start_time>
+<end_time>11:03</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135064544">
+<start_time>11:03</start_time>
+<end_time>11:50</end_time>
+<title><![CDATA[早间剧场]]></title>
+</event>
+<event id="1135064547">
+<start_time>11:50</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[天生我财]]></title>
+</event>
+<event id="1135064550">
+<start_time>12:33</start_time>
+<end_time>13:24</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1135064553">
+<start_time>13:24</start_time>
+<end_time>14:18</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1135064556">
+<start_time>14:18</start_time>
+<end_time>15:05</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1135064559">
+<start_time>15:05</start_time>
+<end_time>15:49</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1135064562">
+<start_time>15:49</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[午后剧场]]></title>
+</event>
+<event id="1135064565">
+<start_time>16:40</start_time>
+<end_time>17:50</end_time>
+<title><![CDATA[天生我财之吾股丰登]]></title>
+</event>
+<event id="1135064568">
+<start_time>17:50</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[饮食养生汇]]></title>
+</event>
+<event id="1135064571">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[湖北新闻]]></title>
+</event>
+<event id="1135064574">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[湖北天气预报]]></title>
+</event>
+<event id="1135064577">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1135064580">
+<start_time>19:34</start_time>
+<end_time>20:32</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(39)]]></title>
+</event>
+<event id="1135064583">
+<start_time>20:32</start_time>
+<end_time>21:24</end_time>
+<title><![CDATA[长江剧场:亲爱的婚姻(40)]]></title>
+</event>
+<event id="1135064586">
+<start_time>21:24</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[大王小王]]></title>
+</event>
+<event id="1135064589">
+<start_time>22:00</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[童声朗朗]]></title>
+</event>
+<event id="1135064592">
+<start_time>23:00</start_time>
+<end_time>23:33</end_time>
+<title><![CDATA[长江新闻号]]></title>
+</event>
+<event id="1135064595">
+<start_time>23:33</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[美人帮]]></title>
+</event>
+</schedule>
+</document>

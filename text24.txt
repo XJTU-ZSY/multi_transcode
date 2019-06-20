@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="GUIZOUTV1" epg_code="GUIZOUTV1" date="2019-06-18">
+<event id="1132836750">
+<start_time>00:00</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1135260276">
+<start_time>00:26</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[多彩贵州旅游天气导航]]></title>
+</event>
+<event id="1135260279">
+<start_time>00:28</start_time>
+<end_time>00:33</end_time>
+<title><![CDATA[小品:剧组那些事之宫廷戏]]></title>
+</event>
+<event id="1135260282">
+<start_time>00:33</start_time>
+<end_time>01:18</end_time>
+<title><![CDATA[超级美味]]></title>
+</event>
+<event id="1135260285">
+<start_time>01:18</start_time>
+<end_time>01:51</end_time>
+<title><![CDATA[中国远征军39]]></title>
+</event>
+<event id="1135260288">
+<start_time>01:51</start_time>
+<end_time>02:25</end_time>
+<title><![CDATA[中国远征军40]]></title>
+</event>
+<event id="1135260291">
+<start_time>02:25</start_time>
+<end_time>02:58</end_time>
+<title><![CDATA[中国远征军41]]></title>
+</event>
+<event id="1135260294">
+<start_time>02:58</start_time>
+<end_time>03:31</end_time>
+<title><![CDATA[我的抗战之铁血轻奇兵5]]></title>
+</event>
+<event id="1135260297">
+<start_time>03:31</start_time>
+<end_time>03:59</end_time>
+<title><![CDATA[短视频故事会]]></title>
+</event>
+<event id="1135260300">
+<start_time>03:59</start_time>
+<end_time>04:08</end_time>
+<title><![CDATA[小品:如此笨贼]]></title>
+</event>
+<event id="1135260303">
+<start_time>04:08</start_time>
+<end_time>04:39</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1135260306">
+<start_time>04:39</start_time>
+<end_time>05:23</end_time>
+<title><![CDATA[我的抗战之铁血轻奇兵6]]></title>
+</event>
+<event id="1135260309">
+<start_time>05:23</start_time>
+<end_time>06:08</end_time>
+<title><![CDATA[我的抗战之铁血轻奇兵7]]></title>
+</event>
+<event id="1135260312">
+<start_time>06:08</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季21]]></title>
+</event>
+<event id="1132836780">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1135260315">
+<start_time>07:00</start_time>
+<end_time>07:10</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135260318">
+<start_time>07:10</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[小品:播音达人]]></title>
+</event>
+<event id="1135260321">
+<start_time>07:36</start_time>
+<end_time>08:48</end_time>
+<title><![CDATA[北平无战事27]]></title>
+</event>
+<event id="1135204326">
+<start_time>08:48</start_time>
+<end_time>09:31</end_time>
+<title><![CDATA[上午剧场:北平无战事(28)]]></title>
+</event>
+<event id="1135237761">
+<start_time>09:31</start_time>
+<end_time>10:16</end_time>
+<title><![CDATA[上午剧场:北平无战事(29)]]></title>
+</event>
+<event id="1135238307">
+<start_time>10:16</start_time>
+<end_time>10:57</end_time>
+<title><![CDATA[上午剧场:北平无战事(30)]]></title>
+</event>
+<event id="1135243053">
+<start_time>10:57</start_time>
+<end_time>11:47</end_time>
+<title><![CDATA[上午剧场:北平无战事(31)]]></title>
+</event>
+<event id="1135249026">
+<start_time>11:47</start_time>
+<end_time>12:20</end_time>
+<title><![CDATA[美丽人生]]></title>
+</event>
+<event id="1135249368">
+<start_time>12:20</start_time>
+<end_time>12:35</end_time>
+<title><![CDATA[致富有道]]></title>
+</event>
+<event id="1135249371">
+<start_time>12:35</start_time>
+<end_time>12:40</end_time>
+<title><![CDATA[气象快讯]]></title>
+</event>
+<event id="1135249737">
+<start_time>12:40</start_time>
+<end_time>12:56</end_time>
+<title><![CDATA[动画片剧场:大头儿子和小头爸爸]]></title>
+</event>
+<event id="1135250745">
+<start_time>12:56</start_time>
+<end_time>14:02</end_time>
+<title><![CDATA[下午剧场:枪侠(26)]]></title>
+</event>
+<event id="1135262031">
+<start_time>14:02</start_time>
+<end_time>15:06</end_time>
+<title><![CDATA[下午剧场:枪侠(27)]]></title>
+</event>
+<event id="1135262034">
+<start_time>15:06</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[下午剧场:枪侠(28)]]></title>
+</event>
+<event id="1133332230">
+<start_time>15:52</start_time>
+<end_time>16:36</end_time>
+<title><![CDATA[下午剧场:枪侠(29)]]></title>
+</event>
+<event id="1133332233">
+<start_time>16:36</start_time>
+<end_time>17:22</end_time>
+<title><![CDATA[下午剧场:枪侠(30)]]></title>
+</event>
+<event id="1132836828">
+<start_time>17:22</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[医生开讲]]></title>
+</event>
+<event id="1132836831">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻延长线]]></title>
+</event>
+<event id="1132836834">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1132836837">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[贵州天气预报]]></title>
+</event>
+<event id="1132836840">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1134330705">
+<start_time>19:34</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[黄金剧场:枪口(5)]]></title>
+</event>
+<event id="1134330708">
+<start_time>20:29</start_time>
+<end_time>21:22</end_time>
+<title><![CDATA[黄金剧场:枪口(6)]]></title>
+</event>
+<event id="1132836849">
+<start_time>21:22</start_time>
+<end_time>22:28</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1134974733">
+<start_time>22:28</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[晚间剧场:天龙八部(2)]]></title>
+</event>
+<event id="1134974736">
+<start_time>23:02</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[晚间剧场:天龙八部(3)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUIZOUTV1" epg_code="GUIZOUTV1" date="2019-06-19">
+<event id="1133097213">
+<start_time>00:00</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133097216">
+<start_time>00:26</start_time>
+<end_time>01:03</end_time>
+<title><![CDATA[多彩贵州天气导航]]></title>
+</event>
+<event id="1135261197">
+<start_time>01:03</start_time>
+<end_time>01:54</end_time>
+<title><![CDATA[午夜剧场:中国远征军(39)]]></title>
+</event>
+<event id="1135261200">
+<start_time>01:54</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[午夜剧场:中国远征军(40)]]></title>
+</event>
+<event id="1135261203">
+<start_time>02:30</start_time>
+<end_time>03:03</end_time>
+<title><![CDATA[午夜剧场:中国远征军(41)]]></title>
+</event>
+<event id="1133097228">
+<start_time>03:03</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[关键时刻]]></title>
+</event>
+<event id="1133097231">
+<start_time>03:45</start_time>
+<end_time>04:15</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1135261206">
+<start_time>04:15</start_time>
+<end_time>04:45</end_time>
+<title><![CDATA[午夜剧场:中国远征军(42)]]></title>
+</event>
+<event id="1135261209">
+<start_time>04:45</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[午夜剧场:中国远征军(43)]]></title>
+</event>
+<event id="1135261212">
+<start_time>05:20</start_time>
+<end_time>06:07</end_time>
+<title><![CDATA[午夜剧场:中国远征军(44)]]></title>
+</event>
+<event id="1133097243">
+<start_time>06:07</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133097246">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133097249">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1134330711">
+<start_time>07:32</start_time>
+<end_time>08:44</end_time>
+<title><![CDATA[上午剧场:北平无战事(32)]]></title>
+</event>
+<event id="1134330714">
+<start_time>08:44</start_time>
+<end_time>09:28</end_time>
+<title><![CDATA[上午剧场:北平无战事(33)]]></title>
+</event>
+<event id="1134330717">
+<start_time>09:28</start_time>
+<end_time>10:12</end_time>
+<title><![CDATA[上午剧场:北平无战事(34)]]></title>
+</event>
+<event id="1134330720">
+<start_time>10:12</start_time>
+<end_time>10:53</end_time>
+<title><![CDATA[上午剧场:北平无战事(35)]]></title>
+</event>
+<event id="1134330723">
+<start_time>10:53</start_time>
+<end_time>11:41</end_time>
+<title><![CDATA[上午剧场:北平无战事(36)]]></title>
+</event>
+<event id="1133097267">
+<start_time>11:41</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[美丽人生]]></title>
+</event>
+<event id="1133097270">
+<start_time>12:14</start_time>
+<end_time>12:29</end_time>
+<title><![CDATA[致富有道]]></title>
+</event>
+<event id="1133097273">
+<start_time>12:29</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[气象快讯]]></title>
+</event>
+<event id="1133097276">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[动画片剧场:大头儿子和小头爸爸]]></title>
+</event>
+<event id="1133332236">
+<start_time>13:00</start_time>
+<end_time>14:05</end_time>
+<title><![CDATA[下午剧场:枪侠(31)]]></title>
+</event>
+<event id="1133332239">
+<start_time>14:05</start_time>
+<end_time>15:08</end_time>
+<title><![CDATA[下午剧场:枪侠(32)]]></title>
+</event>
+<event id="1133332242">
+<start_time>15:08</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[下午剧场:枪侠(33)]]></title>
+</event>
+<event id="1133332245">
+<start_time>15:52</start_time>
+<end_time>16:36</end_time>
+<title><![CDATA[下午剧场:枪侠(34)]]></title>
+</event>
+<event id="1133332248">
+<start_time>16:36</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[下午剧场:枪侠(35)]]></title>
+</event>
+<event id="1133097294">
+<start_time>17:20</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[医生开讲]]></title>
+</event>
+<event id="1133097297">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻延长线]]></title>
+</event>
+<event id="1133097300">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133097303">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[贵州天气预报]]></title>
+</event>
+<event id="1133097306">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1134330726">
+<start_time>19:34</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[黄金剧场:枪口(7)]]></title>
+</event>
+<event id="1134330729">
+<start_time>20:30</start_time>
+<end_time>21:29</end_time>
+<title><![CDATA[黄金剧场:枪口(8)]]></title>
+</event>
+<event id="1133097315">
+<start_time>21:29</start_time>
+<end_time>22:28</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1134974742">
+<start_time>22:28</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[晚间剧场:天龙八部(4)]]></title>
+</event>
+<event id="1134974745">
+<start_time>23:02</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[晚间剧场:天龙八部(5)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUIZOUTV1" epg_code="GUIZOUTV1" date="2019-06-20">
+<event id="1133332251">
+<start_time>00:00</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133332254">
+<start_time>00:26</start_time>
+<end_time>00:30</end_time>
+<title><![CDATA[多彩贵州天气导航]]></title>
+</event>
+<event id="1135261215">
+<start_time>00:30</start_time>
+<end_time>01:17</end_time>
+<title><![CDATA[午夜剧场:中国远征军(45)]]></title>
+</event>
+<event id="1133332260">
+<start_time>01:17</start_time>
+<end_time>02:05</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133332263">
+<start_time>02:05</start_time>
+<end_time>02:51</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133332266">
+<start_time>02:51</start_time>
+<end_time>03:05</end_time>
+<title><![CDATA[小品集]]></title>
+</event>
+<event id="1133332269">
+<start_time>03:05</start_time>
+<end_time>04:14</end_time>
+<title><![CDATA[非常完美]]></title>
+</event>
+<event id="1133332272">
+<start_time>04:14</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[非常完美]]></title>
+</event>
+<event id="1133332275">
+<start_time>05:18</start_time>
+<end_time>06:07</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133332278">
+<start_time>06:07</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133332281">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133332284">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1134330732">
+<start_time>07:32</start_time>
+<end_time>08:44</end_time>
+<title><![CDATA[上午剧场:北平无战事(37)]]></title>
+</event>
+<event id="1134330735">
+<start_time>08:44</start_time>
+<end_time>09:28</end_time>
+<title><![CDATA[上午剧场:北平无战事(38)]]></title>
+</event>
+<event id="1134330738">
+<start_time>09:28</start_time>
+<end_time>10:12</end_time>
+<title><![CDATA[上午剧场:北平无战事(39)]]></title>
+</event>
+<event id="1134330741">
+<start_time>10:12</start_time>
+<end_time>10:53</end_time>
+<title><![CDATA[上午剧场:北平无战事(40)]]></title>
+</event>
+<event id="1134330744">
+<start_time>10:53</start_time>
+<end_time>11:41</end_time>
+<title><![CDATA[上午剧场:北平无战事(41)]]></title>
+</event>
+<event id="1133332302">
+<start_time>11:41</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[美丽人生]]></title>
+</event>
+<event id="1133332305">
+<start_time>12:14</start_time>
+<end_time>12:29</end_time>
+<title><![CDATA[致富有道]]></title>
+</event>
+<event id="1133332308">
+<start_time>12:29</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[气象快讯]]></title>
+</event>
+<event id="1133332311">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[动画片剧场:大头儿子和小头爸爸]]></title>
+</event>
+<event id="1133332314">
+<start_time>13:00</start_time>
+<end_time>14:05</end_time>
+<title><![CDATA[下午剧场:枪侠(36)]]></title>
+</event>
+<event id="1133332317">
+<start_time>14:05</start_time>
+<end_time>15:08</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133332320">
+<start_time>15:08</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133332323">
+<start_time>15:52</start_time>
+<end_time>16:36</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133332326">
+<start_time>16:36</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133332329">
+<start_time>17:20</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[医生开讲]]></title>
+</event>
+<event id="1133332332">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻延长线]]></title>
+</event>
+<event id="1133332335">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133332338">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[贵州天气预报]]></title>
+</event>
+<event id="1133332341">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1134330747">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[黄金剧场:枪口(9)]]></title>
+</event>
+<event id="1134330750">
+<start_time>20:28</start_time>
+<end_time>21:28</end_time>
+<title><![CDATA[黄金剧场:枪口(10)]]></title>
+</event>
+<event id="1133332350">
+<start_time>21:28</start_time>
+<end_time>22:10</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1133332353">
+<start_time>22:10</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[论道]]></title>
+</event>
+<event id="1133332356">
+<start_time>23:00</start_time>
+<end_time>23:47</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1133721195">
+<start_time>23:47</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[小品集]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUIZOUTV1" epg_code="GUIZOUTV1" date="2019-06-21">
+<event id="1133618532">
+<start_time>00:00</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133618535">
+<start_time>00:26</start_time>
+<end_time>00:28</end_time>
+<title><![CDATA[多彩贵州旅游天气导航]]></title>
+</event>
+<event id="1133618538">
+<start_time>00:28</start_time>
+<end_time>01:11</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133618541">
+<start_time>01:11</start_time>
+<end_time>01:44</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133618544">
+<start_time>01:44</start_time>
+<end_time>02:18</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133618547">
+<start_time>02:18</start_time>
+<end_time>02:52</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133618550">
+<start_time>02:52</start_time>
+<end_time>03:18</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133618553">
+<start_time>03:18</start_time>
+<end_time>03:49</end_time>
+<title><![CDATA[汽车评中评]]></title>
+</event>
+<event id="1133618556">
+<start_time>03:49</start_time>
+<end_time>04:24</end_time>
+<title><![CDATA[育儿大师]]></title>
+</event>
+<event id="1133618559">
+<start_time>04:24</start_time>
+<end_time>04:51</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133618562">
+<start_time>04:51</start_time>
+<end_time>05:22</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133618565">
+<start_time>05:22</start_time>
+<end_time>06:07</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133618568">
+<start_time>06:07</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1133618571">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133618574">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1134330753">
+<start_time>07:32</start_time>
+<end_time>08:44</end_time>
+<title><![CDATA[上午剧场:北平无战事(42)]]></title>
+</event>
+<event id="1134330756">
+<start_time>08:44</start_time>
+<end_time>09:28</end_time>
+<title><![CDATA[上午剧场:北平无战事(43)]]></title>
+</event>
+<event id="1134330759">
+<start_time>09:28</start_time>
+<end_time>10:12</end_time>
+<title><![CDATA[上午剧场:北平无战事(44)]]></title>
+</event>
+<event id="1134330762">
+<start_time>10:12</start_time>
+<end_time>10:53</end_time>
+<title><![CDATA[上午剧场:北平无战事(45)]]></title>
+</event>
+<event id="1134330765">
+<start_time>10:53</start_time>
+<end_time>11:41</end_time>
+<title><![CDATA[上午剧场:北平无战事(46)]]></title>
+</event>
+<event id="1133618592">
+<start_time>11:41</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[美丽人生]]></title>
+</event>
+<event id="1133618595">
+<start_time>12:14</start_time>
+<end_time>12:29</end_time>
+<title><![CDATA[致富有道]]></title>
+</event>
+<event id="1133618598">
+<start_time>12:29</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[气象快讯]]></title>
+</event>
+<event id="1133618601">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[动画片剧场:大头儿子和小头爸爸]]></title>
+</event>
+<event id="1133618604">
+<start_time>13:00</start_time>
+<end_time>14:05</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133618607">
+<start_time>14:05</start_time>
+<end_time>15:08</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133618610">
+<start_time>15:08</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133618613">
+<start_time>15:52</start_time>
+<end_time>16:36</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133618616">
+<start_time>16:36</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133618619">
+<start_time>17:20</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[医生开讲]]></title>
+</event>
+<event id="1133618622">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻延长线]]></title>
+</event>
+<event id="1133618625">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133618628">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[贵州天气预报]]></title>
+</event>
+<event id="1133618631">
+<start_time>19:00</start_time>
+<end_time>19:35</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1134330768">
+<start_time>19:35</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[黄金剧场:枪口(11)]]></title>
+</event>
+<event id="1134330771">
+<start_time>20:29</start_time>
+<end_time>21:30</end_time>
+<title><![CDATA[黄金剧场:枪口(12)]]></title>
+</event>
+<event id="1133618640">
+<start_time>21:30</start_time>
+<end_time>22:00</end_time>
+<title><![CDATA[非常完美]]></title>
+</event>
+<event id="1133618643">
+<start_time>22:00</start_time>
+<end_time>23:03</end_time>
+<title><![CDATA[非常完美]]></title>
+</event>
+<event id="1134012123">
+<start_time>23:03</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[美食美客]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUIZOUTV1" epg_code="GUIZOUTV1" date="2019-06-22">
+<event id="1133894463">
+<start_time>00:00</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133894466">
+<start_time>00:26</start_time>
+<end_time>01:04</end_time>
+<title><![CDATA[多彩贵州天气导航]]></title>
+</event>
+<event id="1133894469">
+<start_time>01:04</start_time>
+<end_time>02:02</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133894472">
+<start_time>02:02</start_time>
+<end_time>02:40</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133894475">
+<start_time>02:40</start_time>
+<end_time>03:16</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133894478">
+<start_time>03:16</start_time>
+<end_time>04:05</end_time>
+<title><![CDATA[故事中国]]></title>
+</event>
+<event id="1133894481">
+<start_time>04:05</start_time>
+<end_time>05:02</end_time>
+<title><![CDATA[育儿大师]]></title>
+</event>
+<event id="1133894484">
+<start_time>05:02</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1133894487">
+<start_time>06:00</start_time>
+<end_time>06:25</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133894490">
+<start_time>06:25</start_time>
+<end_time>07:09</end_time>
+<title><![CDATA[中国梦纪录片展播]]></title>
+</event>
+<event id="1133894493">
+<start_time>07:09</start_time>
+<end_time>08:22</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1134330774">
+<start_time>08:22</start_time>
+<end_time>09:00</end_time>
+<title><![CDATA[上午剧场:北平无战事(47)]]></title>
+</event>
+<event id="1134330777">
+<start_time>09:00</start_time>
+<end_time>09:50</end_time>
+<title><![CDATA[上午剧场:北平无战事(48)]]></title>
+</event>
+<event id="1134330780">
+<start_time>09:50</start_time>
+<end_time>10:35</end_time>
+<title><![CDATA[上午剧场:北平无战事(49)]]></title>
+</event>
+<event id="1134330783">
+<start_time>10:35</start_time>
+<end_time>11:22</end_time>
+<title><![CDATA[上午剧场:北平无战事(50)]]></title>
+</event>
+<event id="1134330786">
+<start_time>11:22</start_time>
+<end_time>12:12</end_time>
+<title><![CDATA[上午剧场:北平无战事(51)]]></title>
+</event>
+<event id="1133894511">
+<start_time>12:12</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[医生开讲]]></title>
+</event>
+<event id="1133894514">
+<start_time>12:51</start_time>
+<end_time>13:03</end_time>
+<title><![CDATA[气象快讯]]></title>
+</event>
+<event id="1133894517">
+<start_time>13:03</start_time>
+<end_time>13:32</end_time>
+<title><![CDATA[动画片剧场:大头儿子和小头爸爸]]></title>
+</event>
+<event id="1133894520">
+<start_time>13:32</start_time>
+<end_time>14:27</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133894523">
+<start_time>14:27</start_time>
+<end_time>15:06</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133894526">
+<start_time>15:06</start_time>
+<end_time>16:00</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133894529">
+<start_time>16:00</start_time>
+<end_time>16:40</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133894532">
+<start_time>16:40</start_time>
+<end_time>17:24</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1133894535">
+<start_time>17:24</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[动画片剧场:大头儿子和小头爸爸]]></title>
+</event>
+<event id="1133894538">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[道德星空]]></title>
+</event>
+<event id="1133894541">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1133894544">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[贵州天气预报]]></title>
+</event>
+<event id="1133894547">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1134330789">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[黄金剧场:枪口(13)]]></title>
+</event>
+<event id="1134330792">
+<start_time>20:28</start_time>
+<end_time>21:22</end_time>
+<title><![CDATA[黄金剧场:枪口(14)]]></title>
+</event>
+<event id="1133894556">
+<start_time>21:22</start_time>
+<end_time>22:51</end_time>
+<title><![CDATA[短视频故事会]]></title>
+</event>
+<event id="1133894559">
+<start_time>22:51</start_time>
+<end_time>23:27</end_time>
+<title><![CDATA[汽车评中评]]></title>
+</event>
+<event id="1134266655">
+<start_time>23:27</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUIZOUTV1" epg_code="GUIZOUTV1" date="2019-06-23">
+<event id="1134166365">
+<start_time>00:00</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1134166368">
+<start_time>00:26</start_time>
+<end_time>00:30</end_time>
+<title><![CDATA[多彩贵州天气导航]]></title>
+</event>
+<event id="1134166371">
+<start_time>00:30</start_time>
+<end_time>01:17</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134166374">
+<start_time>01:17</start_time>
+<end_time>02:05</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134166377">
+<start_time>02:05</start_time>
+<end_time>02:50</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134166380">
+<start_time>02:50</start_time>
+<end_time>03:22</end_time>
+<title><![CDATA[故事中国]]></title>
+</event>
+<event id="1134166383">
+<start_time>03:22</start_time>
+<end_time>04:32</end_time>
+<title><![CDATA[非常完美]]></title>
+</event>
+<event id="1134166386">
+<start_time>04:32</start_time>
+<end_time>05:05</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1134166389">
+<start_time>05:05</start_time>
+<end_time>05:22</end_time>
+<title><![CDATA[小品集]]></title>
+</event>
+<event id="1134166392">
+<start_time>05:22</start_time>
+<end_time>06:13</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134166395">
+<start_time>06:13</start_time>
+<end_time>06:40</end_time>
+<title><![CDATA[纪录片]]></title>
+</event>
+<event id="1134166398">
+<start_time>06:40</start_time>
+<end_time>07:45</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1134166401">
+<start_time>07:45</start_time>
+<end_time>08:16</end_time>
+<title><![CDATA[小品集]]></title>
+</event>
+<event id="1134166404">
+<start_time>08:16</start_time>
+<end_time>08:24</end_time>
+<title><![CDATA[星期天报道]]></title>
+</event>
+<event id="1134166407">
+<start_time>08:24</start_time>
+<end_time>08:45</end_time>
+<title><![CDATA[贵州人口健康]]></title>
+</event>
+<event id="1134330795">
+<start_time>08:45</start_time>
+<end_time>09:18</end_time>
+<title><![CDATA[上午剧场:北平无战事(52)]]></title>
+</event>
+<event id="1134330798">
+<start_time>09:18</start_time>
+<end_time>10:05</end_time>
+<title><![CDATA[上午剧场:北平无战事(53)]]></title>
+</event>
+<event id="1134166416">
+<start_time>10:05</start_time>
+<end_time>10:52</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134166419">
+<start_time>10:52</start_time>
+<end_time>11:36</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134166422">
+<start_time>11:36</start_time>
+<end_time>12:20</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134166425">
+<start_time>12:20</start_time>
+<end_time>12:57</end_time>
+<title><![CDATA[医生开讲]]></title>
+</event>
+<event id="1134166428">
+<start_time>12:57</start_time>
+<end_time>13:01</end_time>
+<title><![CDATA[气象快讯]]></title>
+</event>
+<event id="1134166431">
+<start_time>13:01</start_time>
+<end_time>13:32</end_time>
+<title><![CDATA[动画片剧场:大头儿子和小头爸爸]]></title>
+</event>
+<event id="1134166434">
+<start_time>13:32</start_time>
+<end_time>14:25</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134166437">
+<start_time>14:25</start_time>
+<end_time>15:11</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134166440">
+<start_time>15:11</start_time>
+<end_time>15:56</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134166443">
+<start_time>15:56</start_time>
+<end_time>16:39</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134166446">
+<start_time>16:39</start_time>
+<end_time>17:20</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134166449">
+<start_time>17:20</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[汽车评中评]]></title>
+</event>
+<event id="1134166452">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[品牌]]></title>
+</event>
+<event id="1134166455">
+<start_time>18:30</start_time>
+<end_time>18:56</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1134166458">
+<start_time>18:56</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[贵州天气预报]]></title>
+</event>
+<event id="1134166461">
+<start_time>19:00</start_time>
+<end_time>19:36</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1134166464">
+<start_time>19:36</start_time>
+<end_time>20:22</end_time>
+<title><![CDATA[汽车评中评]]></title>
+</event>
+<event id="1134330801">
+<start_time>20:22</start_time>
+<end_time>21:09</end_time>
+<title><![CDATA[黄金剧场:枪口(15)]]></title>
+</event>
+<event id="1134330804">
+<start_time>21:09</start_time>
+<end_time>22:05</end_time>
+<title><![CDATA[黄金剧场:枪口(16)]]></title>
+</event>
+<event id="1134166473">
+<start_time>22:05</start_time>
+<end_time>22:57</end_time>
+<title><![CDATA[育儿大师]]></title>
+</event>
+<event id="1134470844">
+<start_time>22:57</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[美食美客]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUIZOUTV1" epg_code="GUIZOUTV1" date="2019-06-24">
+<event id="1134462585">
+<start_time>00:00</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1134462588">
+<start_time>00:26</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[多彩贵州天气导航]]></title>
+</event>
+<event id="1134462591">
+<start_time>01:05</start_time>
+<end_time>01:58</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134462594">
+<start_time>01:58</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134462597">
+<start_time>02:30</start_time>
+<end_time>03:03</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134462600">
+<start_time>03:03</start_time>
+<end_time>04:20</end_time>
+<title><![CDATA[育儿大师]]></title>
+</event>
+<event id="1134462603">
+<start_time>04:20</start_time>
+<end_time>04:45</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134462606">
+<start_time>04:45</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134462609">
+<start_time>05:20</start_time>
+<end_time>06:07</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1134462612">
+<start_time>06:07</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季4]]></title>
+</event>
+<event id="1134462615">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1134462618">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1134462621">
+<start_time>07:32</start_time>
+<end_time>08:44</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134462624">
+<start_time>08:44</start_time>
+<end_time>09:28</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134462627">
+<start_time>09:28</start_time>
+<end_time>10:12</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134462630">
+<start_time>10:12</start_time>
+<end_time>10:53</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134462633">
+<start_time>10:53</start_time>
+<end_time>11:41</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1134462636">
+<start_time>11:41</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[美丽人生]]></title>
+</event>
+<event id="1134462639">
+<start_time>12:14</start_time>
+<end_time>12:29</end_time>
+<title><![CDATA[致富有道]]></title>
+</event>
+<event id="1134462642">
+<start_time>12:29</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[气象快讯]]></title>
+</event>
+<event id="1134462645">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[动画片剧场:大头儿子和小头爸爸]]></title>
+</event>
+<event id="1134462648">
+<start_time>13:00</start_time>
+<end_time>14:05</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134462651">
+<start_time>14:05</start_time>
+<end_time>15:08</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134462654">
+<start_time>15:08</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134462657">
+<start_time>15:52</start_time>
+<end_time>16:36</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134462660">
+<start_time>16:36</start_time>
+<end_time>17:22</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1134462663">
+<start_time>17:22</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[医生开讲]]></title>
+</event>
+<event id="1134462666">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻延长线]]></title>
+</event>
+<event id="1134462669">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1134462672">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[贵州天气预报]]></title>
+</event>
+<event id="1134462675">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1134462678">
+<start_time>19:34</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[黄金剧场:枪口(17)]]></title>
+</event>
+<event id="1134462681">
+<start_time>20:29</start_time>
+<end_time>21:27</end_time>
+<title><![CDATA[黄金剧场:枪口(18)]]></title>
+</event>
+<event id="1134462684">
+<start_time>21:27</start_time>
+<end_time>22:28</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1134974748">
+<start_time>22:28</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[晚间剧场:天龙八部(6)]]></title>
+</event>
+<event id="1135134402">
+<start_time>23:02</start_time>
+<end_time>00:00</end_time>
+<title><![CDATA[晚间剧场:天龙八部(7)]]></title>
+</event>
+</schedule>
+<schedule channel_id="GUIZOUTV1" epg_code="GUIZOUTV1" date="2019-06-25">
+<event id="1135029354">
+<start_time>00:00</start_time>
+<end_time>00:26</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1135029357">
+<start_time>00:26</start_time>
+<end_time>01:05</end_time>
+<title><![CDATA[多彩贵州天气导航]]></title>
+</event>
+<event id="1135029360">
+<start_time>01:05</start_time>
+<end_time>01:58</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135029363">
+<start_time>01:58</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135029366">
+<start_time>02:30</start_time>
+<end_time>03:03</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135029369">
+<start_time>03:03</start_time>
+<end_time>04:15</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1135029372">
+<start_time>04:15</start_time>
+<end_time>04:45</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135029375">
+<start_time>04:45</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135029378">
+<start_time>05:20</start_time>
+<end_time>06:07</end_time>
+<title><![CDATA[午夜剧场]]></title>
+</event>
+<event id="1135029381">
+<start_time>06:07</start_time>
+<end_time>06:34</end_time>
+<title><![CDATA[纪录片:记住乡愁]]></title>
+</event>
+<event id="1135029384">
+<start_time>06:34</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1135029387">
+<start_time>07:00</start_time>
+<end_time>07:32</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135029390">
+<start_time>07:32</start_time>
+<end_time>08:44</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135029393">
+<start_time>08:44</start_time>
+<end_time>09:28</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135029396">
+<start_time>09:28</start_time>
+<end_time>10:12</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135029399">
+<start_time>10:12</start_time>
+<end_time>10:53</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135029402">
+<start_time>10:53</start_time>
+<end_time>11:41</end_time>
+<title><![CDATA[上午剧场]]></title>
+</event>
+<event id="1135029405">
+<start_time>11:41</start_time>
+<end_time>12:14</end_time>
+<title><![CDATA[美丽人生]]></title>
+</event>
+<event id="1135029408">
+<start_time>12:14</start_time>
+<end_time>12:29</end_time>
+<title><![CDATA[致富有道]]></title>
+</event>
+<event id="1135029411">
+<start_time>12:29</start_time>
+<end_time>12:33</end_time>
+<title><![CDATA[气象快讯]]></title>
+</event>
+<event id="1135029414">
+<start_time>12:33</start_time>
+<end_time>13:00</end_time>
+<title><![CDATA[动画片剧场:大头儿子和小头爸爸]]></title>
+</event>
+<event id="1135029417">
+<start_time>13:00</start_time>
+<end_time>14:05</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135029420">
+<start_time>14:05</start_time>
+<end_time>15:08</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135029423">
+<start_time>15:08</start_time>
+<end_time>15:52</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135029426">
+<start_time>15:52</start_time>
+<end_time>16:36</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135029429">
+<start_time>16:36</start_time>
+<end_time>17:22</end_time>
+<title><![CDATA[下午剧场]]></title>
+</event>
+<event id="1135029432">
+<start_time>17:22</start_time>
+<end_time>18:00</end_time>
+<title><![CDATA[医生开讲]]></title>
+</event>
+<event id="1135029435">
+<start_time>18:00</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[新闻延长线]]></title>
+</event>
+<event id="1135029438">
+<start_time>18:30</start_time>
+<end_time>18:57</end_time>
+<title><![CDATA[贵州新闻联播]]></title>
+</event>
+<event id="1135029441">
+<start_time>18:57</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[贵州天气预报]]></title>
+</event>
+<event id="1135029444">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[中央新闻联播]]></title>
+</event>
+<event id="1135029447">
+<start_time>19:34</start_time>
+<end_time>20:29</end_time>
+<title><![CDATA[黄金剧场:枪口(19)]]></title>
+</event>
+<event id="1135029450">
+<start_time>20:29</start_time>
+<end_time>21:22</end_time>
+<title><![CDATA[黄金剧场:枪口(20)]]></title>
+</event>
+<event id="1135029453">
+<start_time>21:22</start_time>
+<end_time>22:28</end_time>
+<title><![CDATA[詹姆士的厨房]]></title>
+</event>
+<event id="1135029456">
+<start_time>22:28</start_time>
+<end_time>23:02</end_time>
+<title><![CDATA[晚间剧场:天龙八部(8)]]></title>
+</event>
+<event id="1135029459">
+<start_time>23:02</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[晚间剧场:天龙八部(9)]]></title>
+</event>
+</schedule>
+</document>

@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?><document><schedule channel_id="SXTV1" epg_code="SXTV1" date="2019-06-18">
+<event id="1135259961">
+<start_time>00:08</start_time>
+<end_time>00:52</end_time>
+<title><![CDATA[异想天开]]></title>
+</event>
+<event id="1135259964">
+<start_time>00:52</start_time>
+<end_time>01:34</end_time>
+<title><![CDATA[黎明剧场:硬骨头18]]></title>
+</event>
+<event id="1135259967">
+<start_time>01:34</start_time>
+<end_time>02:15</end_time>
+<title><![CDATA[黎明剧场:硬骨头19]]></title>
+</event>
+<event id="1135259970">
+<start_time>02:15</start_time>
+<end_time>02:57</end_time>
+<title><![CDATA[黎明剧场:硬骨头20]]></title>
+</event>
+<event id="1135259973">
+<start_time>02:57</start_time>
+<end_time>03:39</end_time>
+<title><![CDATA[黎明剧场:硬骨头21]]></title>
+</event>
+<event id="1135259976">
+<start_time>03:39</start_time>
+<end_time>04:21</end_time>
+<title><![CDATA[黎明剧场:硬骨头22]]></title>
+</event>
+<event id="1135259979">
+<start_time>04:21</start_time>
+<end_time>04:45</end_time>
+<title><![CDATA[喜乐汇]]></title>
+</event>
+<event id="1135259982">
+<start_time>04:45</start_time>
+<end_time>05:22</end_time>
+<title><![CDATA[清晨剧场:游击英雄22]]></title>
+</event>
+<event id="1135259985">
+<start_time>05:22</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场:游击英雄23]]></title>
+</event>
+<event id="1135259988">
+<start_time>06:00</start_time>
+<end_time>06:12</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135259991">
+<start_time>06:12</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[主题微电影-盲人足球梦之队]]></title>
+</event>
+<event id="1135259994">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季32]]></title>
+</event>
+<event id="1135259997">
+<start_time>07:00</start_time>
+<end_time>07:01</end_time>
+<title><![CDATA[中华人民共和国国歌]]></title>
+</event>
+<event id="1135260000">
+<start_time>07:01</start_time>
+<end_time>07:24</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1135260003">
+<start_time>07:24</start_time>
+<end_time>07:25</end_time>
+<title><![CDATA[天气预报]]></title>
+</event>
+<event id="1135260006">
+<start_time>07:25</start_time>
+<end_time>07:35</end_time>
+<title><![CDATA[生活服务]]></title>
+</event>
+<event id="1135260009">
+<start_time>07:35</start_time>
+<end_time>07:44</end_time>
+<title><![CDATA[国乐大典]]></title>
+</event>
+<event id="1135260012">
+<start_time>07:44</start_time>
+<end_time>08:40</end_time>
+<title><![CDATA[经典剧场:水浒传41]]></title>
+</event>
+<event id="1135260015">
+<start_time>08:40</start_time>
+<end_time>09:37</end_time>
+<title><![CDATA[经典剧场:水浒传42]]></title>
+</event>
+<event id="1135237935">
+<start_time>09:37</start_time>
+<end_time>10:33</end_time>
+<title><![CDATA[经典剧场:水浒传(43)]]></title>
+</event>
+<event id="1135239684">
+<start_time>10:33</start_time>
+<end_time>11:24</end_time>
+<title><![CDATA[经典剧场:西游记 1]]></title>
+</event>
+<event id="1135239687">
+<start_time>11:24</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[经典剧场:西游记 2]]></title>
+</event>
+<event id="1135249653">
+<start_time>12:30</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[新闻午报]]></title>
+</event>
+<event id="1135249695">
+<start_time>12:50</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135249701">
+<start_time>12:54</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1135261647">
+<start_time>14:47</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911851">
+<start_time>15:38</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911854">
+<start_time>16:33</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911857">
+<start_time>17:31</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1132853967">
+<start_time>18:30</start_time>
+<end_time>18:54</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1132853970">
+<start_time>18:54</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1132853973">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央新闻联播]]></title>
+</event>
+<event id="1132853976">
+<start_time>19:34</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场:水浒传(75)]]></title>
+</event>
+<event id="1132853979">
+<start_time>20:24</start_time>
+<end_time>21:14</end_time>
+<title><![CDATA[黄金剧场:水浒传(76)]]></title>
+</event>
+<event id="1132853982">
+<start_time>21:14</start_time>
+<end_time>21:38</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1135261239">
+<start_time>21:38</start_time>
+<end_time>22:21</end_time>
+<title><![CDATA[传奇老字号]]></title>
+</event>
+<event id="1135261242">
+<start_time>22:21</start_time>
+<end_time>23:03</end_time>
+<title><![CDATA[热血剧场:东风破 4]]></title>
+</event>
+<event id="1135261245">
+<start_time>23:03</start_time>
+<end_time>00:19</end_time>
+<title><![CDATA[热血剧场:东风破 5]]></title>
+</event>
+</schedule>
+<schedule channel_id="SXTV1" epg_code="SXTV1" date="2019-06-19">
+<event id="1133114772">
+<start_time>00:19</start_time>
+<end_time>01:04</end_time>
+<title><![CDATA[歌从黄河来-中国民歌夜]]></title>
+</event>
+<event id="1134979173">
+<start_time>01:04</start_time>
+<end_time>01:46</end_time>
+<title><![CDATA[黎明剧场:硬骨头(23)]]></title>
+</event>
+<event id="1134979176">
+<start_time>01:46</start_time>
+<end_time>02:28</end_time>
+<title><![CDATA[黎明剧场:硬骨头(24)]]></title>
+</event>
+<event id="1134979179">
+<start_time>02:28</start_time>
+<end_time>03:10</end_time>
+<title><![CDATA[黎明剧场:硬骨头(25)]]></title>
+</event>
+<event id="1134979182">
+<start_time>03:10</start_time>
+<end_time>03:52</end_time>
+<title><![CDATA[黎明剧场:硬骨头(26)]]></title>
+</event>
+<event id="1134979185">
+<start_time>03:52</start_time>
+<end_time>04:37</end_time>
+<title><![CDATA[黎明剧场:硬骨头(27)]]></title>
+</event>
+<event id="1133114790">
+<start_time>04:37</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[清晨剧场:游击英雄(24)]]></title>
+</event>
+<event id="1133114793">
+<start_time>05:18</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场:游击英雄(25)]]></title>
+</event>
+<event id="1133114796">
+<start_time>06:00</start_time>
+<end_time>06:23</end_time>
+<title><![CDATA[主题微电影]]></title>
+</event>
+<event id="1133114799">
+<start_time>06:23</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1133114802">
+<start_time>07:00</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1133114805">
+<start_time>07:23</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135262271">
+<start_time>07:36</start_time>
+<end_time>08:31</end_time>
+<title><![CDATA[经典剧场:西游记(3)]]></title>
+</event>
+<event id="1135262274">
+<start_time>08:31</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[经典剧场:西游记(4)]]></title>
+</event>
+<event id="1135262277">
+<start_time>09:30</start_time>
+<end_time>10:28</end_time>
+<title><![CDATA[经典剧场:西游记(5)]]></title>
+</event>
+<event id="1135262280">
+<start_time>10:28</start_time>
+<end_time>11:25</end_time>
+<title><![CDATA[经典剧场:西游记(6)]]></title>
+</event>
+<event id="1135262283">
+<start_time>11:25</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[经典剧场:西游记(7)]]></title>
+</event>
+<event id="1133114823">
+<start_time>12:30</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[新闻午报]]></title>
+</event>
+<event id="1133114826">
+<start_time>12:50</start_time>
+<end_time>12:55</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1133911860">
+<start_time>12:55</start_time>
+<end_time>13:50</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911863">
+<start_time>13:50</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911866">
+<start_time>14:43</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911869">
+<start_time>15:38</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911872">
+<start_time>16:33</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911875">
+<start_time>17:31</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133114847">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1133114850">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1133114853">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央新闻联播]]></title>
+</event>
+<event id="1133114856">
+<start_time>19:34</start_time>
+<end_time>20:27</end_time>
+<title><![CDATA[黄金剧场:水浒传(77)]]></title>
+</event>
+<event id="1133114859">
+<start_time>20:27</start_time>
+<end_time>21:14</end_time>
+<title><![CDATA[黄金剧场:水浒传(78)]]></title>
+</event>
+<event id="1133114862">
+<start_time>21:14</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1133114865">
+<start_time>21:32</start_time>
+<end_time>22:36</end_time>
+<title><![CDATA[世界面食大会]]></title>
+</event>
+<event id="1135262286">
+<start_time>22:36</start_time>
+<end_time>23:26</end_time>
+<title><![CDATA[热血剧场:东风破(6)]]></title>
+</event>
+<event id="1135262289">
+<start_time>23:26</start_time>
+<end_time>00:17</end_time>
+<title><![CDATA[热血剧场:东风破(7)]]></title>
+</event>
+</schedule>
+<schedule channel_id="SXTV1" epg_code="SXTV1" date="2019-06-20">
+<event id="1133349411">
+<start_time>00:17</start_time>
+<end_time>00:58</end_time>
+<title><![CDATA[世界面食大会]]></title>
+</event>
+<event id="1134979194">
+<start_time>00:58</start_time>
+<end_time>01:40</end_time>
+<title><![CDATA[黎明剧场:硬骨头(28)]]></title>
+</event>
+<event id="1134979197">
+<start_time>01:40</start_time>
+<end_time>02:22</end_time>
+<title><![CDATA[黎明剧场:硬骨头(29)]]></title>
+</event>
+<event id="1134979200">
+<start_time>02:22</start_time>
+<end_time>03:04</end_time>
+<title><![CDATA[黎明剧场:硬骨头(30)]]></title>
+</event>
+<event id="1134979203">
+<start_time>03:04</start_time>
+<end_time>03:45</end_time>
+<title><![CDATA[黎明剧场:硬骨头(31)]]></title>
+</event>
+<event id="1134979206">
+<start_time>03:45</start_time>
+<end_time>04:37</end_time>
+<title><![CDATA[黎明剧场:硬骨头(32)]]></title>
+</event>
+<event id="1133349429">
+<start_time>04:37</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[清晨剧场:游击英雄(26)]]></title>
+</event>
+<event id="1133349432">
+<start_time>05:18</start_time>
+<end_time>06:02</end_time>
+<title><![CDATA[清晨剧场:游击英雄(27)]]></title>
+</event>
+<event id="1133349435">
+<start_time>06:02</start_time>
+<end_time>06:32</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1133349438">
+<start_time>06:32</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[记住乡愁第二季]]></title>
+</event>
+<event id="1133349441">
+<start_time>07:00</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1133349444">
+<start_time>07:23</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135262292">
+<start_time>07:36</start_time>
+<end_time>08:31</end_time>
+<title><![CDATA[经典剧场:西游记(8)]]></title>
+</event>
+<event id="1135262295">
+<start_time>08:31</start_time>
+<end_time>09:30</end_time>
+<title><![CDATA[经典剧场:西游记(9)]]></title>
+</event>
+<event id="1135262298">
+<start_time>09:30</start_time>
+<end_time>10:28</end_time>
+<title><![CDATA[经典剧场:西游记(10)]]></title>
+</event>
+<event id="1135262301">
+<start_time>10:28</start_time>
+<end_time>11:24</end_time>
+<title><![CDATA[经典剧场:西游记(11)]]></title>
+</event>
+<event id="1135262304">
+<start_time>11:24</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[经典剧场:西游记(12)]]></title>
+</event>
+<event id="1133349462">
+<start_time>12:30</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[新闻午报]]></title>
+</event>
+<event id="1133349465">
+<start_time>12:50</start_time>
+<end_time>12:54</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1133911878">
+<start_time>12:54</start_time>
+<end_time>13:50</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911881">
+<start_time>13:50</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911884">
+<start_time>14:43</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911887">
+<start_time>15:38</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911890">
+<start_time>16:33</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911893">
+<start_time>17:31</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133349486">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1133349489">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1133349492">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央新闻联播]]></title>
+</event>
+<event id="1133349495">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[黄金剧场:水浒传(79)]]></title>
+</event>
+<event id="1133349498">
+<start_time>20:28</start_time>
+<end_time>21:14</end_time>
+<title><![CDATA[黄金剧场:水浒传(80)]]></title>
+</event>
+<event id="1133349501">
+<start_time>21:14</start_time>
+<end_time>21:32</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1133349504">
+<start_time>21:32</start_time>
+<end_time>22:36</end_time>
+<title><![CDATA[伶人王中王]]></title>
+</event>
+<event id="1135262307">
+<start_time>22:36</start_time>
+<end_time>23:26</end_time>
+<title><![CDATA[热血剧场:东风破(8)]]></title>
+</event>
+<event id="1135262310">
+<start_time>23:26</start_time>
+<end_time>00:21</end_time>
+<title><![CDATA[热血剧场:东风破(9)]]></title>
+</event>
+</schedule>
+<schedule channel_id="SXTV1" epg_code="SXTV1" date="2019-06-21">
+<event id="1133635548">
+<start_time>00:21</start_time>
+<end_time>01:06</end_time>
+<title><![CDATA[世界面食大会]]></title>
+</event>
+<event id="1134979215">
+<start_time>01:06</start_time>
+<end_time>01:48</end_time>
+<title><![CDATA[黎明剧场:硬骨头(33)]]></title>
+</event>
+<event id="1134979218">
+<start_time>01:48</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[黎明剧场:硬骨头(34)]]></title>
+</event>
+<event id="1134979221">
+<start_time>02:30</start_time>
+<end_time>03:12</end_time>
+<title><![CDATA[黎明剧场:硬骨头(35)]]></title>
+</event>
+<event id="1134979224">
+<start_time>03:12</start_time>
+<end_time>03:54</end_time>
+<title><![CDATA[黎明剧场:硬骨头(36)]]></title>
+</event>
+<event id="1134979227">
+<start_time>03:54</start_time>
+<end_time>04:37</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1133635566">
+<start_time>04:37</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[清晨剧场:游击英雄(28)]]></title>
+</event>
+<event id="1133635569">
+<start_time>05:18</start_time>
+<end_time>06:02</end_time>
+<title><![CDATA[清晨剧场:游击英雄(29)]]></title>
+</event>
+<event id="1133635572">
+<start_time>06:02</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1133635575">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1133635578">
+<start_time>07:00</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1133635581">
+<start_time>07:23</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135262313">
+<start_time>07:36</start_time>
+<end_time>08:31</end_time>
+<title><![CDATA[经典剧场:西游记(13)]]></title>
+</event>
+<event id="1135262316">
+<start_time>08:31</start_time>
+<end_time>09:31</end_time>
+<title><![CDATA[经典剧场:西游记(14)]]></title>
+</event>
+<event id="1135262319">
+<start_time>09:31</start_time>
+<end_time>10:27</end_time>
+<title><![CDATA[经典剧场:西游记(15)]]></title>
+</event>
+<event id="1135262322">
+<start_time>10:27</start_time>
+<end_time>11:24</end_time>
+<title><![CDATA[经典剧场:西游记(16)]]></title>
+</event>
+<event id="1135262325">
+<start_time>11:24</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[经典剧场:西游记(17)]]></title>
+</event>
+<event id="1133635599">
+<start_time>12:30</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[新闻午报]]></title>
+</event>
+<event id="1133635602">
+<start_time>12:50</start_time>
+<end_time>12:55</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1133911896">
+<start_time>12:55</start_time>
+<end_time>13:50</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911899">
+<start_time>13:50</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911902">
+<start_time>14:43</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911905">
+<start_time>15:38</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911908">
+<start_time>16:33</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911911">
+<start_time>17:31</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133635623">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1133635626">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1133635629">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央新闻联播]]></title>
+</event>
+<event id="1133635632">
+<start_time>19:34</start_time>
+<end_time>20:30</end_time>
+<title><![CDATA[黄金剧场:水浒传(81)]]></title>
+</event>
+<event id="1133635635">
+<start_time>20:30</start_time>
+<end_time>21:22</end_time>
+<title><![CDATA[黄金剧场:水浒传(82)]]></title>
+</event>
+<event id="1133635638">
+<start_time>21:22</start_time>
+<end_time>21:41</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1133635641">
+<start_time>21:41</start_time>
+<end_time>22:50</end_time>
+<title><![CDATA[国乐大典]]></title>
+</event>
+<event id="1135262328">
+<start_time>22:50</start_time>
+<end_time>23:40</end_time>
+<title><![CDATA[热血剧场:东风破(10)]]></title>
+</event>
+<event id="1135262331">
+<start_time>23:40</start_time>
+<end_time>00:21</end_time>
+<title><![CDATA[热血剧场:东风破(11)]]></title>
+</event>
+</schedule>
+<schedule channel_id="SXTV1" epg_code="SXTV1" date="2019-06-22">
+<event id="1133911914">
+<start_time>00:21</start_time>
+<end_time>01:06</end_time>
+<title><![CDATA[国乐大典]]></title>
+</event>
+<event id="1134333348">
+<start_time>01:06</start_time>
+<end_time>01:48</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1133911920">
+<start_time>01:48</start_time>
+<end_time>02:30</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1133911923">
+<start_time>02:30</start_time>
+<end_time>03:11</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1133911926">
+<start_time>03:11</start_time>
+<end_time>03:53</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1133911929">
+<start_time>03:53</start_time>
+<end_time>04:37</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1133911932">
+<start_time>04:37</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[清晨剧场:游击英雄(30)]]></title>
+</event>
+<event id="1133911935">
+<start_time>05:18</start_time>
+<end_time>06:02</end_time>
+<title><![CDATA[清晨剧场:游击英雄(31)]]></title>
+</event>
+<event id="1133911938">
+<start_time>06:02</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1133911941">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1133911944">
+<start_time>07:00</start_time>
+<end_time>07:22</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1133911947">
+<start_time>07:22</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135262334">
+<start_time>07:36</start_time>
+<end_time>08:31</end_time>
+<title><![CDATA[经典剧场:西游记(18)]]></title>
+</event>
+<event id="1135262337">
+<start_time>08:31</start_time>
+<end_time>09:31</end_time>
+<title><![CDATA[经典剧场:西游记(19)]]></title>
+</event>
+<event id="1135262340">
+<start_time>09:31</start_time>
+<end_time>10:28</end_time>
+<title><![CDATA[经典剧场:西游记(20)]]></title>
+</event>
+<event id="1135262343">
+<start_time>10:28</start_time>
+<end_time>11:24</end_time>
+<title><![CDATA[经典剧场:西游记(21)]]></title>
+</event>
+<event id="1135262346">
+<start_time>11:24</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[经典剧场:西游记(22)]]></title>
+</event>
+<event id="1133911965">
+<start_time>12:30</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[新闻午报]]></title>
+</event>
+<event id="1133911968">
+<start_time>12:50</start_time>
+<end_time>12:55</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1133911971">
+<start_time>12:55</start_time>
+<end_time>13:50</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911974">
+<start_time>13:50</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911977">
+<start_time>14:43</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911980">
+<start_time>15:38</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911983">
+<start_time>16:33</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911986">
+<start_time>17:31</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1133911989">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1133911992">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1133911995">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央新闻联播]]></title>
+</event>
+<event id="1133911998">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[黄金剧场:水浒传(83)]]></title>
+</event>
+<event id="1133912001">
+<start_time>20:28</start_time>
+<end_time>21:02</end_time>
+<title><![CDATA[黄金剧场:水浒传(84)]]></title>
+</event>
+<event id="1133912004">
+<start_time>21:02</start_time>
+<end_time>21:15</end_time>
+<title><![CDATA[记者调查]]></title>
+</event>
+<event id="1133912007">
+<start_time>21:15</start_time>
+<end_time>22:43</end_time>
+<title><![CDATA[歌从黄河来]]></title>
+</event>
+<event id="1135262349">
+<start_time>22:43</start_time>
+<end_time>23:32</end_time>
+<title><![CDATA[热血剧场:东风破(12)]]></title>
+</event>
+<event id="1135262352">
+<start_time>23:32</start_time>
+<end_time>00:44</end_time>
+<title><![CDATA[热血剧场:东风破(13)]]></title>
+</event>
+</schedule>
+<schedule channel_id="SXTV1" epg_code="SXTV1" date="2019-06-23">
+<event id="1134183225">
+<start_time>00:44</start_time>
+<end_time>02:04</end_time>
+<title><![CDATA[歌从黄河来]]></title>
+</event>
+<event id="1134183228">
+<start_time>02:04</start_time>
+<end_time>02:46</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1134183231">
+<start_time>02:46</start_time>
+<end_time>03:27</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1134183234">
+<start_time>03:27</start_time>
+<end_time>04:09</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1134183237">
+<start_time>04:09</start_time>
+<end_time>04:37</end_time>
+<title><![CDATA[2018喜乐汇]]></title>
+</event>
+<event id="1134183240">
+<start_time>04:37</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[清晨剧场:游击英雄(32)]]></title>
+</event>
+<event id="1134183243">
+<start_time>05:18</start_time>
+<end_time>06:02</end_time>
+<title><![CDATA[清晨剧场:游击英雄(33)]]></title>
+</event>
+<event id="1134183246">
+<start_time>06:02</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1134183249">
+<start_time>06:30</start_time>
+<end_time>07:00</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1134183252">
+<start_time>07:00</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1134183255">
+<start_time>07:23</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135262355">
+<start_time>07:36</start_time>
+<end_time>08:31</end_time>
+<title><![CDATA[经典剧场:西游记(23)]]></title>
+</event>
+<event id="1135262358">
+<start_time>08:31</start_time>
+<end_time>09:31</end_time>
+<title><![CDATA[经典剧场:西游记(24)]]></title>
+</event>
+<event id="1135262361">
+<start_time>09:31</start_time>
+<end_time>10:27</end_time>
+<title><![CDATA[经典剧场:西游记(25)]]></title>
+</event>
+<event id="1135262364">
+<start_time>10:27</start_time>
+<end_time>11:24</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135262367">
+<start_time>11:24</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1134183273">
+<start_time>12:30</start_time>
+<end_time>12:51</end_time>
+<title><![CDATA[新闻午报]]></title>
+</event>
+<event id="1134183276">
+<start_time>12:51</start_time>
+<end_time>12:55</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1134183279">
+<start_time>12:55</start_time>
+<end_time>13:50</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134183282">
+<start_time>13:50</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134183285">
+<start_time>14:43</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134183288">
+<start_time>15:38</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134183291">
+<start_time>16:33</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134183294">
+<start_time>17:31</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134183297">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1134183300">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1134183303">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央新闻联播]]></title>
+</event>
+<event id="1134183306">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[黄金剧场:水浒传(85)]]></title>
+</event>
+<event id="1134183309">
+<start_time>20:28</start_time>
+<end_time>21:00</end_time>
+<title><![CDATA[黄金剧场:水浒传(86)]]></title>
+</event>
+<event id="1134183312">
+<start_time>21:00</start_time>
+<end_time>21:12</end_time>
+<title><![CDATA[第一访谈]]></title>
+</event>
+<event id="1134183315">
+<start_time>21:12</start_time>
+<end_time>23:00</end_time>
+<title><![CDATA[走进大戏台]]></title>
+</event>
+<event id="1135262370">
+<start_time>23:00</start_time>
+<end_time>23:58</end_time>
+<title><![CDATA[热血剧场:东风破(14)]]></title>
+</event>
+<event id="1135262373">
+<start_time>23:58</start_time>
+<end_time>00:40</end_time>
+<title><![CDATA[热血剧场:东风破(15)]]></title>
+</event>
+</schedule>
+<schedule channel_id="SXTV1" epg_code="SXTV1" date="2019-06-24">
+<event id="1134483849">
+<start_time>00:40</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[走进大戏台]]></title>
+</event>
+<event id="1134483852">
+<start_time>02:00</start_time>
+<end_time>02:42</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1134483855">
+<start_time>02:42</start_time>
+<end_time>03:24</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1134483858">
+<start_time>03:24</start_time>
+<end_time>04:06</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1134483861">
+<start_time>04:06</start_time>
+<end_time>04:37</end_time>
+<title><![CDATA[2018喜乐汇]]></title>
+</event>
+<event id="1134483864">
+<start_time>04:37</start_time>
+<end_time>05:18</end_time>
+<title><![CDATA[清晨剧场:游击英雄(34)]]></title>
+</event>
+<event id="1134483867">
+<start_time>05:18</start_time>
+<end_time>06:02</end_time>
+<title><![CDATA[清晨剧场:游击英雄(35)]]></title>
+</event>
+<event id="1134483870">
+<start_time>06:02</start_time>
+<end_time>06:30</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1134483873">
+<start_time>06:30</start_time>
+<end_time>06:58</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1134483876">
+<start_time>06:58</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1134483879">
+<start_time>07:23</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135262376">
+<start_time>07:36</start_time>
+<end_time>08:31</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135262379">
+<start_time>08:31</start_time>
+<end_time>09:31</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135262382">
+<start_time>09:31</start_time>
+<end_time>10:28</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135262385">
+<start_time>10:28</start_time>
+<end_time>11:24</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135262388">
+<start_time>11:24</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1134483897">
+<start_time>12:30</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[新闻午报]]></title>
+</event>
+<event id="1134483900">
+<start_time>12:50</start_time>
+<end_time>12:53</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1134483903">
+<start_time>12:53</start_time>
+<end_time>13:48</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134483906">
+<start_time>13:48</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134483909">
+<start_time>14:43</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134483912">
+<start_time>15:38</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134483915">
+<start_time>16:33</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134483918">
+<start_time>17:31</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1134483921">
+<start_time>18:30</start_time>
+<end_time>18:55</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1134483924">
+<start_time>18:55</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1134483927">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央新闻联播]]></title>
+</event>
+<event id="1134483930">
+<start_time>19:34</start_time>
+<end_time>20:28</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1134483933">
+<start_time>20:28</start_time>
+<end_time>21:14</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1134483936">
+<start_time>21:14</start_time>
+<end_time>21:40</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1134483939">
+<start_time>21:40</start_time>
+<end_time>22:33</end_time>
+<title><![CDATA[异想天开]]></title>
+</event>
+<event id="1135262391">
+<start_time>22:33</start_time>
+<end_time>23:27</end_time>
+<title><![CDATA[热血剧场:东风破(16)]]></title>
+</event>
+<event id="1135262394">
+<start_time>23:27</start_time>
+<end_time>00:16</end_time>
+<title><![CDATA[热血剧场:东风破(17)]]></title>
+</event>
+</schedule>
+<schedule channel_id="SXTV1" epg_code="SXTV1" date="2019-06-25">
+<event id="1135046415">
+<start_time>00:16</start_time>
+<end_time>01:02</end_time>
+<title><![CDATA[异想天开]]></title>
+</event>
+<event id="1135046418">
+<start_time>01:02</start_time>
+<end_time>01:45</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1135046421">
+<start_time>01:45</start_time>
+<end_time>02:29</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1135046424">
+<start_time>02:29</start_time>
+<end_time>03:12</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1135046427">
+<start_time>03:12</start_time>
+<end_time>03:55</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1135046430">
+<start_time>03:55</start_time>
+<end_time>04:39</end_time>
+<title><![CDATA[黎明剧场]]></title>
+</event>
+<event id="1135046433">
+<start_time>04:39</start_time>
+<end_time>05:20</end_time>
+<title><![CDATA[清晨剧场:游击英雄(36)]]></title>
+</event>
+<event id="1135046436">
+<start_time>05:20</start_time>
+<end_time>06:00</end_time>
+<title><![CDATA[清晨剧场]]></title>
+</event>
+<event id="1135046439">
+<start_time>06:00</start_time>
+<end_time>06:24</end_time>
+<title><![CDATA[主题微电影]]></title>
+</event>
+<event id="1135046442">
+<start_time>06:24</start_time>
+<end_time>06:59</end_time>
+<title><![CDATA[纪录片:记住乡愁第二季]]></title>
+</event>
+<event id="1135046445">
+<start_time>06:59</start_time>
+<end_time>07:23</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1135046448">
+<start_time>07:23</start_time>
+<end_time>07:36</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135262397">
+<start_time>07:36</start_time>
+<end_time>08:31</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135262400">
+<start_time>08:31</start_time>
+<end_time>09:31</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135262403">
+<start_time>09:31</start_time>
+<end_time>10:28</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135262406">
+<start_time>10:28</start_time>
+<end_time>11:24</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135262409">
+<start_time>11:24</start_time>
+<end_time>12:30</end_time>
+<title><![CDATA[经典剧场]]></title>
+</event>
+<event id="1135046466">
+<start_time>12:30</start_time>
+<end_time>12:50</end_time>
+<title><![CDATA[新闻午报]]></title>
+</event>
+<event id="1135046469">
+<start_time>12:50</start_time>
+<end_time>12:53</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135046472">
+<start_time>12:53</start_time>
+<end_time>13:50</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1135046475">
+<start_time>13:50</start_time>
+<end_time>14:43</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1135046478">
+<start_time>14:43</start_time>
+<end_time>15:38</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1135046481">
+<start_time>15:38</start_time>
+<end_time>16:33</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1135046484">
+<start_time>16:33</start_time>
+<end_time>17:31</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1135046487">
+<start_time>17:31</start_time>
+<end_time>18:30</end_time>
+<title><![CDATA[下午剧场:济公游记]]></title>
+</event>
+<event id="1135046490">
+<start_time>18:30</start_time>
+<end_time>18:54</end_time>
+<title><![CDATA[山西新闻联播]]></title>
+</event>
+<event id="1135046493">
+<start_time>18:54</start_time>
+<end_time>19:00</end_time>
+<title><![CDATA[山西天气预报]]></title>
+</event>
+<event id="1135046496">
+<start_time>19:00</start_time>
+<end_time>19:34</end_time>
+<title><![CDATA[转播中央新闻联播]]></title>
+</event>
+<event id="1135046499">
+<start_time>19:34</start_time>
+<end_time>20:24</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1135046502">
+<start_time>20:24</start_time>
+<end_time>21:14</end_time>
+<title><![CDATA[黄金剧场]]></title>
+</event>
+<event id="1135046505">
+<start_time>21:14</start_time>
+<end_time>21:38</end_time>
+<title><![CDATA[晚间新闻]]></title>
+</event>
+<event id="1135046508">
+<start_time>21:38</start_time>
+<end_time>22:36</end_time>
+<title><![CDATA[传奇老字号]]></title>
+</event>
+<event id="1135262412">
+<start_time>22:36</start_time>
+<end_time>23:26</end_time>
+<title><![CDATA[热血剧场:东风破(18)]]></title>
+</event>
+<event id="1135262415">
+<start_time>23:26</start_time>
+<end_time>02:00</end_time>
+<title><![CDATA[热血剧场:东风破(19)]]></title>
+</event>
+</schedule>
+</document>
